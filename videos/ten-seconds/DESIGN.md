@@ -1,8 +1,8 @@
-# Reference and cadence decisions
-The original English Ten Seconds story is retained. The main character follows the uploaded reference: white face, black spiky hair, navy hoodie with drawstrings/pocket, dark trousers and outlined white/grey sneakers. The supplied reference video is kept privately outside the project.
+# New voice edition
+The same 12-scene Ten Seconds screenplay and white-faced, spiky-haired navy-hoodie reference character are retained.
 
-The current edition synthesizes26 paragraphs at native1.0 speed, using the same private eight-second reference and local ZipVoice Distill/Vocos engine. Repeated short-phrase synthesis, forced chapter fitting and variable tempo filters have been removed. Ellipses are smoothed into normal punctuation without deleting script words. Excessive quiet stretches are shortened, while paragraph/chapter boundaries retain brief breathing space.
+The previous ZipVoice voice has been replaced completely with PocketTTS FP32. The user heard and selected the newly generated opening sample. That exact sample is chapter1; all other narration is freshly generated with the same reference and engine settings. The private reference is an extract from the user-provided video and is not distributed.
 
-Timing is derived from the new waveform. Captions use the script words aligned to recognized speech. Story events are recalculated from those captions. Current picture and speech last486.7667 seconds. Continuous master audio is encoded once, rather than joining independently encoded speech clips in the final video.
+All speech is native1.0 speed, with no playback-rate or tempo adjustment. Speech inside a block is never silence-trimmed. Only short planned breaks between long paragraphs/chapters are added. A continuous full-length master is encoded once. Chapters, captions and story action cues are rebuilt from the new recording. The full story now lasts374.4333 seconds.
 
-No exact speaker-identity or human-listening approval is claimed. The generated voice, original illustrations, technical measurements and scoped independent review are supplied for assessment.
+Captions retain script words with ASR-derived approximate word timing. Recorded checks certify content recovery and timing bounds, not phoneme-level alignment or a human listening judgment. The user's approval applies to the opening voice sample.

@@ -1,0 +1,12 @@
+{
+  "engine": "PocketTTS-FP32",
+  "runtime": "sherpa-onnx1.13.8",
+  "nativeSpeed": 1.0,
+  "flowSteps": 5,
+  "paragraphs": 18,
+  "allProductionSpeechRegenerated": true,
+  "oldZipVoiceAudioReused": false,
+  "internalSilenceRemoval": false,
+  "tempoProcessing": false,
+  "userSelectedOpening": true
+}

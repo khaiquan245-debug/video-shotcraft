@@ -1,24 +1,26 @@
 {
+  "engine": "PocketTTS-FP32",
+  "userApprovedOpening": true,
   "speed": 1.0,
   "speechTimeStretchApplied": false,
   "fixedChapterDuration": false,
   "ten-seconds-smooth.mp4": {
-    "seconds": "486.766667",
-    "frames": "14603",
+    "seconds": "374.433333",
+    "frames": "11233",
     "fps": "30/1",
     "fullDecode": "passed",
     "peakDBFS": -1.9,
-    "videoHash": "SHA256=f63d2b1754a4b7af6677144b904c9e3532527737d938463a0bfb3766936272dd",
-    "bytes": 38280425
+    "videoHash": "SHA256=15f1cb05993a979b277c95e41a63a7e850de84af479bdfe0dbfea13003700df7",
+    "bytes": 32650851
   },
   "ten-seconds-smooth-no-music.mp4": {
-    "seconds": "486.766667",
-    "frames": "14603",
+    "seconds": "374.433333",
+    "frames": "11233",
     "fps": "30/1",
     "fullDecode": "passed",
-    "peakDBFS": -2.0,
-    "videoHash": "SHA256=f63d2b1754a4b7af6677144b904c9e3532527737d938463a0bfb3766936272dd",
-    "bytes": 37944160
+    "peakDBFS": -1.9,
+    "videoHash": "SHA256=15f1cb05993a979b277c95e41a63a7e850de84af479bdfe0dbfea13003700df7",
+    "bytes": 32457576
   },
   "samePicture": true
 }
