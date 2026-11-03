@@ -1,0 +1,19 @@
+{
+  "speed": 1.1,
+  "baseDurationSeconds": 480,
+  "pitchPreserved": true,
+  "ten-seconds-1.1x.mp4": {
+    "duration": "436.366667",
+    "frames": "13091",
+    "fps": "30/1",
+    "peakDBFS": -5.9,
+    "fullDecode": "passed"
+  },
+  "ten-seconds-1.1x-no-music.mp4": {
+    "duration": "436.366667",
+    "frames": "13091",
+    "fps": "30/1",
+    "peakDBFS": -2.9,
+    "fullDecode": "passed"
+  }
+}

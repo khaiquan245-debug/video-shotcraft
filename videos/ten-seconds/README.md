@@ -1,6 +1,6 @@
 # Ten Seconds — reference character and voice edition
 
-1920×1080, 30 fps illustrated English film. The default export plays at 1.5× speed (50% faster), lasts 5min20s, and preserves voice pitch. The original eight-minute composition remains available with `npm run render:base`. The character is redrawn from the user-supplied reference: white face, spiky black hair, navy hoodie, outlined limbs and sneakers. Speech is synthesized with local ZipVoice conditioned on an extract from the supplied video. Exact speaker identity or indistinguishability is not claimed.
+1920×1080, 30 fps illustrated English film. The default export plays at 1.1× speed (10% faster), lasts 7min16s, and preserves voice pitch. The original eight-minute composition remains available with `npm run render:base`. The character is redrawn from the user-supplied reference: white face, spiky black hair, navy hoodie, outlined limbs and sneakers. Speech is synthesized with local ZipVoice conditioned on an extract from the supplied video. Exact speaker identity or indistinguishability is not claimed.
 
 ## Render and edit
 
@@ -14,7 +14,7 @@ Linux Chromium is configured at `/usr/bin/chromium`. Change the browser path for
 
 `src/Art.tsx` defines the character. `src/Scenes.tsx` defines animated scenes. `src/timeline.json` is the shared source of captions, timing, and action cues. `src/workbench.ts` enables Motion Workbench editing. The complete 12-scene Ten Seconds screenplay is retained; the reference video's reflexes storyline is not substituted.
 
-Outputs: `out/ten-seconds-1.5x.mp4`, its music-free companion, English SRT and editable source archive. See `REFERENCE-ADAPTATION.md` for visual and voice decisions.
+Outputs: `out/ten-seconds-1.1x.mp4`, its music-free companion, English SRT and editable source archive. See `REFERENCE-ADAPTATION.md` for visual and voice decisions.
 
 ## Optional speech regeneration
 
@@ -30,4 +30,4 @@ Screenplay supplied by the user. Character design adapted from their uploaded re
 
 [Finished MP4](deliverables/ten-seconds.mp4) · [English subtitles](deliverables/ten-seconds.en.srt) · [Chapter markers](deliverables/chapters.txt)
 
-Motion Workbench keeps the original eight-minute editing timeline. The default CLI export uses TenSecondsFast to retime that timeline at 1.5× with a pitch-preserved audio track.
+Motion Workbench keeps the original eight-minute editing timeline. The default CLI export uses TenSecondsFast to retime that timeline at 1.1× with a pitch-preserved audio track.

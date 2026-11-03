@@ -1,7 +1,7 @@
 import React from 'react';
 import {AbsoluteFill,Audio,Freeze,staticFile,useCurrentFrame} from 'remotion';
 import {Film,TOTAL} from './Film';
-export const SPEED=1.5;
+export const SPEED=1.1;
 export const FAST_TOTAL=Math.round(TOTAL/SPEED);
 export const FastFilm:React.FC<{bgm?:boolean}>=({bgm=true})=>{
  const frame=useCurrentFrame();
