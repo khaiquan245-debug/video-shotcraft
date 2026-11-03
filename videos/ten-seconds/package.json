@@ -3,8 +3,9 @@
   "private": true,
   "scripts": {
     "studio": "remotion studio src/index.ts",
-    "render": "remotion render src/index.ts TenSeconds out/ten-seconds-reference.mp4 --browser-executable=/usr/bin/chromium --concurrency=4",
-    "render:no-music": "remotion render src/index.ts TenSeconds out/ten-seconds-reference-no-music.mp4 --browser-executable=/usr/bin/chromium --concurrency=4 --props=props-no-music.json"
+    "render": "remotion render src/index.ts TenSecondsFast out/ten-seconds-1.5x.mp4 --browser-executable=/usr/bin/chromium --concurrency=4",
+    "render:no-music": "remotion render src/index.ts TenSecondsFast out/ten-seconds-1.5x-no-music.mp4 --browser-executable=/usr/bin/chromium --concurrency=4 --props=props-no-music.json",
+    "render:base": "remotion render src/index.ts TenSeconds out/ten-seconds-reference.mp4 --browser-executable=/usr/bin/chromium --concurrency=4"
   },
   "dependencies": {
     "@remotion/cli": "4.0.484",
