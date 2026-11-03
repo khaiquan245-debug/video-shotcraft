@@ -4,6 +4,6 @@ out/
 __pycache__/
 reference/
 tools/*.onnx
-tools/*.tar.bz2
+tools/*.tar.*
 tools/sherpa-onnx-*/
 public/audio/*.wav

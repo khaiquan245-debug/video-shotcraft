@@ -1,0 +1,21 @@
+# Independent cadence revision review
+
+Scope: normal 1.0 speed, smoother narration assembly, caption bounds, and supplied visual samples. Reviewed source and generated WAV/JSON artifacts independently. No source edits. No audio listening/perception was available; ASR and waveform checks are evidence of content/timing, not a listening-quality verdict.
+
+1. A1 PASS — `create-smooth-voice.py` synthesizes paragraph chunks with `speed=1.0`. Punctuation changes preserve the original word sequence. `align-and-assemble.py` assembles complete paragraph samples at their native duration, with explicit inter-paragraph gaps and chapter tails. `mix-smooth.py` changes loudness and adds score/clock only. The active `Film.tsx` audio has no playbackRate; no active atempo or setpts filter was found. Historical rates in `tools/original-timeline.json` are not used to alter speech.
+2. A2 PASS — All 12 active timeline entries have speechRate 1.0. Scene starts are contiguous, ending at frame 14603 (486.766667 seconds at 30fps). Raw narration, leveled narration, and master WAV durations each match this exactly.
+3. A3 PASS WITH LIMIT — Script-level word preservation and full paragraph assembly show no deliberate phrase truncation. The reported paragraph ASR similarities range from 0.846 to 1.0. One apparent final-word mismatch in chapter 7 paragraph 2 ('out' versus 'outcome') was independently checked by recognizing the last seven seconds of both raw and cleaned WAVs; both return the complete sentence 'Every decision creates a different outcome.' This was a 15-second ASR window boundary artifact. Subjective articulation and listening comfort remain unverified.
+4. B1 PASS — All 102 captions have positive duration, stay inside their chapter, and do not overlap the next caption. All original chapter words are preserved in active timeline text.
+5. Q1 PASS — Inspected all twelve supplied 62%-position scene stills (global frames 559, 1469, 2414, 3488, 4416, 5389, 6419, 7322, 8656, 10954, 12452, 13895). Headlines and visible subtitles are sharp, high contrast, and inside the 1920×1080 frame. No sampled subtitle clipping or collision with a headline was found. Scene 7 has no subtitle at its sampled instant; this is not a bounds error.
+6. Q2 PASS — `rescue.png` clearly shows the younger person holding the older person back, both above/behind the road as the truck passes below. `Scenes.tsx` schedules truck passage at least 48 frames after the grab and moves both characters backward during the rescue. The still supports clear staging; full motion is pending encoded review.
+7. E1 PENDING — `out/ten-seconds-smooth.mp4` was not yet present during this review. Final decode, encoded duration/stream checks, audio mux integrity, and encoded sampled frames cannot yet be independently approved.
+
+Concrete blockers found in reviewed artifacts: none. Delivery approval remains pending encoded-file verification. This scoped revision review does not revalidate the original brief, Gallery fidelity, or subjective voice performance.
+
+## Final encoded-file follow-up
+
+8. E1 PASS (supersedes pending item 7) — Independently probed final MP4: 1920×1080, 30/1 fps, exactly 14603 video frames, video duration 486.766667 seconds and audio duration 486.766000 seconds. These match the native 1.0 timeline within audio encoder rounding. Reviewed completed `smooth-encoding-report.json`: both music/no-music files passed full decode; measured peaks are -1.9/-2.0 dBFS and picture-stream hashes match.
+9. Q3 PASS — Visually inspected final encoded scene 2, 6, 9, 10 and 12 JPEGs. Headings and captions remain readable and inside bounds after encoding. Encoded scene 10 at frame 10376 (truck cue +30) shows both people safely above the road while the truck passes below; its rescue subtitle is completely visible.
+10. Q4 PASS — Independently extracted additional encoded confession frame 8616 (chapter 9 confession cue +26) and rescue frame 10323 (chapter 10 grab cue +78), saved as `encoded-confession-review.jpg` and `encoded-rescue-review.jpg`. No heading or subtitle clipping or new staging blocker found. Source event frames remain consistent with the new chapter timing.
+
+Final scoped result: no concrete delivery blockers. Encoded verification is complete. Audio listening quality remains unassessed; no listening claim is made.

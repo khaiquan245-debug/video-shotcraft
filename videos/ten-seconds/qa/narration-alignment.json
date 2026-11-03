@@ -1,0 +1,164 @@
+{
+  "speed": 1.0,
+  "noFixedDuration": true,
+  "totalFrames": 14603,
+  "seconds": 486.76666666666665,
+  "paragraphs": [
+    {
+      "chapter": 1,
+      "paragraph": 1,
+      "wordSimilarity": 0.8490566037735849,
+      "duration": 21.596416666666666
+    },
+    {
+      "chapter": 1,
+      "paragraph": 2,
+      "wordSimilarity": 1.0,
+      "duration": 7.309041666666666
+    },
+    {
+      "chapter": 2,
+      "paragraph": 1,
+      "wordSimilarity": 0.8461538461538461,
+      "duration": 20.547875
+    },
+    {
+      "chapter": 2,
+      "paragraph": 2,
+      "wordSimilarity": 1.0,
+      "duration": 9.006083333333333
+    },
+    {
+      "chapter": 3,
+      "paragraph": 1,
+      "wordSimilarity": 0.945054945054945,
+      "duration": 17.829083333333333
+    },
+    {
+      "chapter": 3,
+      "paragraph": 2,
+      "wordSimilarity": 1.0,
+      "duration": 13.422541666666667
+    },
+    {
+      "chapter": 4,
+      "paragraph": 1,
+      "wordSimilarity": 0.9504950495049505,
+      "duration": 20.08695833333333
+    },
+    {
+      "chapter": 4,
+      "paragraph": 2,
+      "wordSimilarity": 0.9866666666666667,
+      "duration": 17.017916666666668
+    },
+    {
+      "chapter": 5,
+      "paragraph": 1,
+      "wordSimilarity": 1.0,
+      "duration": 16.999583333333334
+    },
+    {
+      "chapter": 5,
+      "paragraph": 2,
+      "wordSimilarity": 0.9333333333333333,
+      "duration": 8.637333333333334
+    },
+    {
+      "chapter": 6,
+      "paragraph": 1,
+      "wordSimilarity": 0.9782608695652174,
+      "duration": 18.455875
+    },
+    {
+      "chapter": 6,
+      "paragraph": 2,
+      "wordSimilarity": 0.9512195121951219,
+      "duration": 16.607291666666665
+    },
+    {
+      "chapter": 7,
+      "paragraph": 1,
+      "wordSimilarity": 1.0,
+      "duration": 17.058666666666667
+    },
+    {
+      "chapter": 7,
+      "paragraph": 2,
+      "wordSimilarity": 0.9761904761904762,
+      "duration": 15.332166666666666
+    },
+    {
+      "chapter": 8,
+      "paragraph": 1,
+      "wordSimilarity": 0.9841269841269841,
+      "duration": 27.358875
+    },
+    {
+      "chapter": 9,
+      "paragraph": 1,
+      "wordSimilarity": 0.946236559139785,
+      "duration": 18.238583333333334
+    },
+    {
+      "chapter": 9,
+      "paragraph": 2,
+      "wordSimilarity": 1.0,
+      "duration": 27.203
+    },
+    {
+      "chapter": 9,
+      "paragraph": 3,
+      "wordSimilarity": 1.0,
+      "duration": 7.797291666666666
+    },
+    {
+      "chapter": 10,
+      "paragraph": 1,
+      "wordSimilarity": 1.0,
+      "duration": 18.092458333333333
+    },
+    {
+      "chapter": 10,
+      "paragraph": 2,
+      "wordSimilarity": 0.967032967032967,
+      "duration": 19.238583333333334
+    },
+    {
+      "chapter": 10,
+      "paragraph": 3,
+      "wordSimilarity": 0.9523809523809523,
+      "duration": 21.806083333333333
+    },
+    {
+      "chapter": 10,
+      "paragraph": 4,
+      "wordSimilarity": 0.9682539682539683,
+      "duration": 29.439916666666665
+    },
+    {
+      "chapter": 11,
+      "paragraph": 1,
+      "wordSimilarity": 0.943089430894309,
+      "duration": 24.481958333333335
+    },
+    {
+      "chapter": 12,
+      "paragraph": 1,
+      "wordSimilarity": 0.9803921568627451,
+      "duration": 21.365875
+    },
+    {
+      "chapter": 12,
+      "paragraph": 2,
+      "wordSimilarity": 0.9782608695652174,
+      "duration": 19.549458333333334
+    },
+    {
+      "chapter": 12,
+      "paragraph": 3,
+      "wordSimilarity": 1.0,
+      "duration": 18.254125
+    }
+  ]
+}

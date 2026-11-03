@@ -1,8 +1,8 @@
-# Reference adaptation
-User reference: uploaded reflexes-10x-preview-480p (1).mp4, 854×480, duration 507.13 seconds. Reference media remains local and is not part of the public source.
+# Reference and cadence decisions
+The original English Ten Seconds story is retained. The main character follows the uploaded reference: white face, black spiky hair, navy hoodie with drawstrings/pocket, dark trousers and outlined white/grey sneakers. The supplied reference video is kept privately outside the project.
 
-Visual target: white oval face, spiky black hair, vertical oval eyes, navy drawstring hoodie with front pocket, dark trousers, outlined white/grey sneakers, strong dark outline. Secondary roles use the same visual language with distinct clothing/hair. Cream/vignetted presentation stage, navy captions, sans-serif chapter headings. Existing 12-scene Ten Seconds screenplay remains the narrative; the reflexes screenplay is not substituted.
+The current edition synthesizes26 paragraphs at native1.0 speed, using the same private eight-second reference and local ZipVoice Distill/Vocos engine. Repeated short-phrase synthesis, forced chapter fitting and variable tempo filters have been removed. Ellipses are smoothed into normal punctuation without deleting script words. Excessive quiet stretches are shortened, while paragraph/chapter boundaries retain brief breathing space.
 
-Voice: reference-conditioned synthesis through local ZipVoice Distill INT8 with Vocos 24kHz (sherpa-onnx 1.12.26), conditioned on an eight-second extract from the supplied video. The reference transcript was obtained with local Whisper tiny.en. No reference audio was sent to an external speech provider. The generated voice aims to match speaker timbre and rhythm; perfect identity or indistinguishability is not claimed. Frozen generated audio is supplied for editing/rendering without the private reference sample.
+Timing is derived from the new waveform. Captions use the script words aligned to recognized speech. Story events are recalculated from those captions. Current picture and speech last486.7667 seconds. Continuous master audio is encoded once, rather than joining independently encoded speech clips in the final video.
 
-Timing: eight-minute total preserved, with chapter durations redistributed to allow a natural emotional ending. Captions and story events are regenerated from the new narration. The original waveform, source comparison and event schedule are retained locally for QA. No unrelated voice preset is substituted.
+No exact speaker-identity or human-listening approval is claimed. The generated voice, original illustrations, technical measurements and scoped independent review are supplied for assessment.
