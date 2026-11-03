@@ -1,0 +1,8 @@
+{
+  "sourceWords": 1169,
+  "recognizedWords": 1109,
+  "wordSequenceSimilarity": 0.9525899912203687,
+  "threshold": 0.8,
+  "passed": true,
+  "note": "Automatic ASR coverage check; not a listening review or proof of speaker identity."
+}

@@ -1,0 +1,5 @@
+{
+  "referenceVsConditionedVoiceCosine": 0.21230176725555672,
+  "referenceVsPreviousVoiceCosine": -0.003516057710911305,
+  "note": "Embedding similarity is a supporting metric, not proof of identical voice or a listening assessment."
+}

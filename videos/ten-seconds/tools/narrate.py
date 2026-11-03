@@ -1,16 +1,17 @@
-import re,json,wave,subprocess
+import re,json,wave,subprocess,os
 from pathlib import Path
 import numpy as np,sherpa_onnx
 root=Path(__file__).resolve().parents[1]
-(root/'out').mkdir(parents=True, exist_ok=True)
-model=root/'tools/vits-piper-en_US-lessac-medium'
-vits=sherpa_onnx.OfflineTtsVitsModelConfig(model=str(model/'en_US-lessac-medium.onnx'),lexicon='',tokens=str(model/'tokens.txt'),data_dir=str(model/'espeak-ng-data'))
-tts=sherpa_onnx.OfflineTts(sherpa_onnx.OfflineTtsConfig(model=sherpa_onnx.OfflineTtsModelConfig(vits=vits,num_threads=2,debug=False,provider='cpu')))
+model=Path(os.environ.get('ZIPVOICE_MODEL_DIR',str(root/'tools/sherpa-onnx-zipvoice-distill-int8-zh-en-emilia')))
+c=sherpa_onnx.OfflineTtsZipvoiceModelConfig(tokens=str(model/'tokens.txt'),encoder=str(model/'encoder.int8.onnx'),decoder=str(model/'decoder.int8.onnx'),vocoder=os.environ.get('ZIPVOICE_VOCODER',str(root/'tools/vocos.onnx')),data_dir=str(model/'espeak-ng-data'),lexicon=str(model/'lexicon.txt'))
+tts=sherpa_onnx.OfflineTts(sherpa_onnx.OfflineTtsConfig(model=sherpa_onnx.OfflineTtsModelConfig(zipvoice=c,num_threads=3,provider='cpu')))
+with wave.open(os.environ['VOICE_REFERENCE_WAV']) as w: prompt=np.frombuffer(w.readframes(w.getnframes()),np.int16).astype(np.float32)/32768;prompt_sr=w.getframerate()
+prompt_text=Path(os.environ['VOICE_REFERENCE_TEXT_FILE']).read_text().strip()
 s=root.joinpath('script-original.md').read_text()
 scenes=[]; start=0
 names=['What could ten seconds change?','A glimpse. A choice.','Dignity: not included','Emergency meeting mode','The cat has other plans','Ten seconds on the road','The future fights back','The perfect answer?','The courage to hear no','The call you almost missed','You still cannot see everything','The ten seconds you have now']
 short=['THE QUESTION','THE RULES','THE COFFEE','THE MEETING','THE CAT','THE CROSSING','THE GAME','THE INTERVIEW','THE CONFESSION','THE PHONE CALL','THE TWIST','RIGHT NOW']
-targets=[30,30,35,35,30,45,40,35,50,80,30,40]
+targets=[25,25,30,35,25,40,35,30,55,90,30,60]
 for i,p in enumerate(re.split(r'## SCENE ',s)[1:]):
  v=re.split(r'\*\*\[Voice-over[^\]]*\]\*\*',p)[1]
  v=re.split(r'\*\*\[(?:Sound|Visual)',v)[0].split('---')[0].strip().replace('**','')
@@ -28,7 +29,7 @@ for i,p in enumerate(re.split(r'## SCENE ',s)[1:]):
   if out.exists():
    with wave.open(str(out)) as w: a=np.frombuffer(w.readframes(w.getnframes()),dtype=np.int16).astype(np.float32)/32768;sr=w.getframerate()
   else:
-   z=tts.generate(c,sid=0,speed=1.03 if i<8 else .98);sr=z.sample_rate;a=z.samples
+   z=tts.generate(c,prompt_text=prompt_text,prompt_samples=prompt,sample_rate=prompt_sr,speed=1.03 if i<8 else 1.0,num_steps=4);sr=z.sample_rate;a=z.samples
    with wave.open(str(out),'wb') as w:w.setparams((1,2,sr,0,'NONE','not compressed'));w.writeframes((np.clip(a,-1,1)*32767).astype(np.int16).tobytes())
   local.append({'text':c,'start':pos/sr,'end':(pos+len(a))/sr})
   gap=np.zeros(int(sr*(.15 if i<8 else .24)),dtype=np.float32)

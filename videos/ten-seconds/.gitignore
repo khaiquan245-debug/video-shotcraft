@@ -2,7 +2,8 @@ node_modules
 out/
 .venv/
 __pycache__/
-tools/vits-piper-*/
+reference/
+tools/*.onnx
 tools/*.tar.bz2
-tools/temp.wav
+tools/sherpa-onnx-*/
 public/audio/*.wav
