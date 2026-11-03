@@ -4,23 +4,25 @@
   "speed": 1.0,
   "speechTimeStretchApplied": false,
   "fixedChapterDuration": false,
+  "pictureRevision": "acoustic word-timed illustrations",
+  "samePicture": true,
+  "encodedAudioUnchanged": true,
   "ten-seconds-smooth.mp4": {
-    "seconds": "374.433333",
+    "seconds": "374.43333333333334",
     "frames": "11233",
     "fps": "30/1",
     "fullDecode": "passed",
     "peakDBFS": -1.9,
-    "videoHash": "SHA256=15f1cb05993a979b277c95e41a63a7e850de84af479bdfe0dbfea13003700df7",
-    "bytes": 32650851
+    "videoHash": "SHA256=0f243ec603cdf8d594a87ce12fe990a784d706dd84b1b85e5633454209d21a57",
+    "bytes": 32291886
   },
   "ten-seconds-smooth-no-music.mp4": {
-    "seconds": "374.433333",
+    "seconds": "374.43333333333334",
     "frames": "11233",
     "fps": "30/1",
     "fullDecode": "passed",
     "peakDBFS": -1.9,
-    "videoHash": "SHA256=15f1cb05993a979b277c95e41a63a7e850de84af479bdfe0dbfea13003700df7",
-    "bytes": 32457576
-  },
-  "samePicture": true
+    "videoHash": "SHA256=0f243ec603cdf8d594a87ce12fe990a784d706dd84b1b85e5633454209d21a57",
+    "bytes": 32098611
+  }
 }

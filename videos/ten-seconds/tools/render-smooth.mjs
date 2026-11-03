@@ -1,7 +1,7 @@
 import {bundle} from '@remotion/bundler';
 import {openBrowser,selectComposition,renderStill,renderMedia} from '@remotion/renderer';
 import fs from 'node:fs';import {resolve,dirname} from 'node:path';import {fileURLToPath} from 'node:url';import {createHash} from 'node:crypto';import {spawn} from 'node:child_process';
-const root=resolve(dirname(fileURLToPath(import.meta.url)),'..');const out=resolve(root,'out');fs.mkdirSync(resolve(out,'parts'),{recursive:true});
+const root=resolve(dirname(fileURLToPath(import.meta.url)),'..');const out=resolve(root,'out');fs.mkdirSync(resolve(out,'parts'),{recursive:true});fs.mkdirSync(resolve(out,'qa'),{recursive:true});
 const scenes=JSON.parse(fs.readFileSync(resolve(root,'src/timeline.json'),'utf8'));const total=scenes.reduce((n,s)=>n+s.duration,0);
 const hash=createHash('sha256');for(const name of fs.readdirSync(resolve(root,'src')).sort())hash.update(fs.readFileSync(resolve(root,'src',name)));const build=hash.digest('hex').slice(0,12);
 const serveUrl=await bundle({entryPoint:resolve(root,'src/index.ts'),publicDir:resolve(root,'public')});

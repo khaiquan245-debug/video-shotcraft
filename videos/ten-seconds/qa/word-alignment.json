@@ -1,0 +1,168 @@
+{
+  "method": "PocketSphinx 5.0.4 acoustic forced word alignment, 16 kHz, 10 ms acoustic frames",
+  "audioChanged": false,
+  "paragraphs": [
+    {
+      "chapter": 1,
+      "paragraph": 1,
+      "words": 72,
+      "audioSHA256": "3b8f062dc05841ae074edac27318378d7f63a528e876b0abc5bfaad7624adfbc",
+      "firstWord": 0.09,
+      "lastWordEnd": 19.84,
+      "audioSeconds": 19.842666666666666
+    },
+    {
+      "chapter": 2,
+      "paragraph": 1,
+      "words": 74,
+      "audioSHA256": "e92b89d7509b13ff877a1e722bf4ae1afbd2e06085e9f1eec3bc4b160306870c",
+      "firstWord": 0.11,
+      "lastWordEnd": 22.75,
+      "audioSeconds": 22.753166666666665
+    },
+    {
+      "chapter": 3,
+      "paragraph": 1,
+      "words": 74,
+      "audioSHA256": "cbc4ea98c1226d917dc5cb047a725a7d77a881c95c0709fe20fdbb24b99f2aab",
+      "firstWord": 0.11,
+      "lastWordEnd": 25.15,
+      "audioSeconds": 25.153166666666667
+    },
+    {
+      "chapter": 4,
+      "paragraph": 1,
+      "words": 88,
+      "audioSHA256": "7917060d0557c8bac14bfdc638e523314fdfe8de39348ed9fbdddff0132c27db",
+      "firstWord": 0.0,
+      "lastWordEnd": 30.81,
+      "audioSeconds": 30.80625
+    },
+    {
+      "chapter": 5,
+      "paragraph": 1,
+      "words": 67,
+      "audioSHA256": "02a06980975609a3dd90c8f4d0f6ece14ff6af75f706fbb8e732efae77032aca",
+      "firstWord": 0.0,
+      "lastWordEnd": 20.75,
+      "audioSeconds": 20.753375
+    },
+    {
+      "chapter": 6,
+      "paragraph": 1,
+      "words": 87,
+      "audioSHA256": "799c3942909105fe98a3ab30fe4ec45291773ff7b2021aedab9c4b465ccc9b78",
+      "firstWord": 0.0,
+      "lastWordEnd": 26.51,
+      "audioSeconds": 26.505708333333335
+    },
+    {
+      "chapter": 7,
+      "paragraph": 1,
+      "words": 90,
+      "audioSHA256": "c4df201f4793942a9cc57f955768c8f6ac52500b66f0dfbb1c5c16149d80c193",
+      "firstWord": 0.06,
+      "lastWordEnd": 24.67,
+      "audioSeconds": 24.673916666666667
+    },
+    {
+      "chapter": 8,
+      "paragraph": 1,
+      "words": 63,
+      "audioSHA256": "e3f936e0f89c20581a779e900a9c3cce9cf6971ca019a1643b13fb8e9be7d621",
+      "firstWord": 0.0,
+      "lastWordEnd": 19.33,
+      "audioSeconds": 19.335333333333335
+    },
+    {
+      "chapter": 9,
+      "paragraph": 1,
+      "words": 56,
+      "audioSHA256": "c12ef9faf0eb124ed974ed12dc46fb7e19553211a6e2c2e11bf4e08f2672f1f4",
+      "firstWord": 0.0,
+      "lastWordEnd": 15.68,
+      "audioSeconds": 15.68
+    },
+    {
+      "chapter": 9,
+      "paragraph": 2,
+      "words": 75,
+      "audioSHA256": "c25c6a97e6f640386ac13b9dcac64a7e379ae24d1fcd5274e8efa55ccb303b18",
+      "firstWord": 0.0,
+      "lastWordEnd": 27.29,
+      "audioSeconds": 27.29225
+    },
+    {
+      "chapter": 10,
+      "paragraph": 1,
+      "words": 63,
+      "audioSHA256": "3f6c4ac1cfea4ef645beec92caac375e066f06e16ece791ade1f3be2ac00a711",
+      "firstWord": 0.0,
+      "lastWordEnd": 19.59,
+      "audioSeconds": 19.590166666666665
+    },
+    {
+      "chapter": 10,
+      "paragraph": 2,
+      "words": 57,
+      "audioSHA256": "ebe6bf4ff46f02ad5f35aa2d7f9bc9cd92f43b340ff1625a820b1443fad7f124",
+      "firstWord": 0.07,
+      "lastWordEnd": 17.4,
+      "audioSeconds": 17.398583333333335
+    },
+    {
+      "chapter": 10,
+      "paragraph": 3,
+      "words": 59,
+      "audioSHA256": "641fd81a7824257d074c4c82e27d0a076ff8782251cff83b9cc2c65518f85739",
+      "firstWord": 0.25,
+      "lastWordEnd": 21.26,
+      "audioSeconds": 21.263291666666667
+    },
+    {
+      "chapter": 10,
+      "paragraph": 4,
+      "words": 29,
+      "audioSHA256": "7b3f8921d80ec4e9143c789f22c512d5f58b76e54339c1cfb3fd4533d4b77b08",
+      "firstWord": 0.14,
+      "lastWordEnd": 10.1,
+      "audioSeconds": 10.100083333333334
+    },
+    {
+      "chapter": 11,
+      "paragraph": 1,
+      "words": 61,
+      "audioSHA256": "82c76e6188b413ccfceac11cb387c89760d02fd2cba812615d0df8595a764060",
+      "firstWord": 0.14,
+      "lastWordEnd": 19.94,
+      "audioSeconds": 19.938083333333335
+    },
+    {
+      "chapter": 12,
+      "paragraph": 1,
+      "words": 59,
+      "audioSHA256": "49b486cad675bbb51e8e14a603731efaea41b66f491b2a02faa94ff60202e21f",
+      "firstWord": 0.06,
+      "lastWordEnd": 16.64,
+      "audioSeconds": 16.64
+    },
+    {
+      "chapter": 12,
+      "paragraph": 2,
+      "words": 65,
+      "audioSHA256": "946aa4d174b802e4a5f1b9a56b06ee1d3e6634cbc7422ce8e7d6df96fa8222d1",
+      "firstWord": 0.09,
+      "lastWordEnd": 17.61,
+      "audioSeconds": 17.612916666666667
+    },
+    {
+      "chapter": 12,
+      "paragraph": 3,
+      "words": 23,
+      "audioSHA256": "3ba78a3968a570fe1ed2ba112c052b4d7c378f3ae2f5870793af4703ed7841c3",
+      "firstWord": 0.17,
+      "lastWordEnd": 6.53,
+      "audioSeconds": 6.534166666666667
+    }
+  ]
+}

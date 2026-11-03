@@ -1,0 +1,419 @@
+{
+  "method": "actions pinned to forced-aligned spoken words",
+  "fps": 30,
+  "events": [
+    {
+      "chapter": 1,
+      "event": "examples",
+      "phrase": "Avoid an embarrassing fall",
+      "localFrame": 175,
+      "globalSeconds": 5.833
+    },
+    {
+      "chapter": 1,
+      "event": "accident",
+      "phrase": "Prevent an accident",
+      "localFrame": 219,
+      "globalSeconds": 7.3
+    },
+    {
+      "chapter": 1,
+      "event": "crush",
+      "phrase": "Find out what your crush",
+      "localFrame": 257,
+      "globalSeconds": 8.567
+    },
+    {
+      "chapter": 1,
+      "event": "meaning",
+      "phrase": "Ten seconds can sometimes change everything",
+      "localFrame": 535,
+      "globalSeconds": 17.833
+    },
+    {
+      "chapter": 2,
+      "event": "blink",
+      "phrase": "blink",
+      "localFrame": 77,
+      "globalSeconds": 23.4
+    },
+    {
+      "chapter": 2,
+      "event": "future",
+      "phrase": "you can see exactly",
+      "localFrame": 89,
+      "globalSeconds": 23.8
+    },
+    {
+      "chapter": 2,
+      "event": "present",
+      "phrase": "you return to the present",
+      "localFrame": 321,
+      "globalSeconds": 31.533
+    },
+    {
+      "chapter": 2,
+      "event": "choice",
+      "phrase": "or try to change it",
+      "localFrame": 460,
+      "globalSeconds": 36.167
+    },
+    {
+      "chapter": 3,
+      "event": "spill",
+      "phrase": "entire cup of coffee",
+      "localFrame": 77,
+      "globalSeconds": 46.9
+    },
+    {
+      "chapter": 3,
+      "event": "present",
+      "phrase": "You return to the present",
+      "localFrame": 352,
+      "globalSeconds": 56.067
+    },
+    {
+      "chapter": 3,
+      "event": "step",
+      "phrase": "Step slightly to the left",
+      "localFrame": 388,
+      "globalSeconds": 57.267
+    },
+    {
+      "chapter": 3,
+      "event": "pole",
+      "phrase": "a pole",
+      "localFrame": 624,
+      "globalSeconds": 65.133
+    },
+    {
+      "chapter": 3,
+      "event": "bonk",
+      "phrase": "BONK",
+      "localFrame": 643,
+      "globalSeconds": 65.767
+    },
+    {
+      "chapter": 4,
+      "event": "boss",
+      "phrase": "boss calling your name",
+      "localFrame": 71,
+      "globalSeconds": 72.6
+    },
+    {
+      "chapter": 4,
+      "event": "scan",
+      "phrase": "You open the document",
+      "localFrame": 238,
+      "globalSeconds": 78.167
+    },
+    {
+      "chapter": 4,
+      "event": "question",
+      "phrase": "What do you think",
+      "localFrame": 357,
+      "globalSeconds": 82.133
+    },
+    {
+      "chapter": 4,
+      "event": "answer",
+      "phrase": "give a surprisingly intelligent answer",
+      "localFrame": 451,
+      "globalSeconds": 85.267
+    },
+    {
+      "chapter": 4,
+      "event": "impressed",
+      "phrase": "Your boss looks impressed",
+      "localFrame": 547,
+      "globalSeconds": 88.467
+    },
+    {
+      "chapter": 5,
+      "event": "fall",
+      "phrase": "phone about to fall",
+      "localFrame": 107,
+      "globalSeconds": 105.367
+    },
+    {
+      "chapter": 5,
+      "event": "impact",
+      "phrase": "The screen hits the floor",
+      "localFrame": 154,
+      "globalSeconds": 106.933
+    },
+    {
+      "chapter": 5,
+      "event": "present",
+      "phrase": "You return to the present",
+      "localFrame": 227,
+      "globalSeconds": 109.367
+    },
+    {
+      "chapter": 5,
+      "event": "push",
+      "phrase": "The cat pushes the phone",
+      "localFrame": 308,
+      "globalSeconds": 112.067
+    },
+    {
+      "chapter": 5,
+      "event": "catch",
+      "phrase": "you catch it",
+      "localFrame": 389,
+      "globalSeconds": 114.767
+    },
+    {
+      "chapter": 6,
+      "event": "blink",
+      "phrase": "Then you blink",
+      "localFrame": 153,
+      "globalSeconds": 128.4
+    },
+    {
+      "chapter": 6,
+      "event": "present",
+      "phrase": "You return to the present",
+      "localFrame": 331,
+      "globalSeconds": 134.333
+    },
+    {
+      "chapter": 6,
+      "event": "pass",
+      "phrase": "vehicle actually flies past",
+      "localFrame": 448,
+      "globalSeconds": 138.233
+    },
+    {
+      "chapter": 6,
+      "event": "realize",
+      "phrase": "you realize something",
+      "localFrame": 588,
+      "globalSeconds": 142.9
+    },
+    {
+      "chapter": 7,
+      "event": "right",
+      "phrase": "opponent move to the right",
+      "localFrame": 118,
+      "globalSeconds": 154.5
+    },
+    {
+      "chapter": 7,
+      "event": "present",
+      "phrase": "You return to the present",
+      "localFrame": 179,
+      "globalSeconds": 156.533
+    },
+    {
+      "chapter": 7,
+      "event": "move",
+      "phrase": "and move right",
+      "localFrame": 215,
+      "globalSeconds": 157.733
+    },
+    {
+      "chapter": 7,
+      "event": "left",
+      "phrase": "Left",
+      "localFrame": 393,
+      "globalSeconds": 163.667
+    },
+    {
+      "chapter": 7,
+      "event": "fixed",
+      "phrase": "The future is not fixed",
+      "localFrame": 558,
+      "globalSeconds": 169.167
+    },
+    {
+      "chapter": 8,
+      "event": "question",
+      "phrase": "What is your biggest weakness",
+      "localFrame": 85,
+      "globalSeconds": 178.833
+    },
+    {
+      "chapter": 8,
+      "event": "answer",
+      "phrase": "You deliver the perfect answer",
+      "localFrame": 274,
+      "globalSeconds": 185.133
+    },
+    {
+      "chapter": 8,
+      "event": "future",
+      "phrase": "you look ten seconds ahead",
+      "localFrame": 365,
+      "globalSeconds": 188.167
+    },
+    {
+      "chapter": 8,
+      "event": "followup",
+      "phrase": "Did you prepare that answer",
+      "localFrame": 441,
+      "globalSeconds": 190.7
+    },
+    {
+      "chapter": 9,
+      "event": "visionSorry",
+      "phrase": "I'm sorry",
+      "localFrame": 275,
+      "globalSeconds": 205.233
+    },
+    {
+      "chapter": 9,
+      "event": "breath",
+      "phrase": "You take a breath",
+      "localFrame": 646,
+      "globalSeconds": 217.6
+    },
+    {
+      "chapter": 9,
+      "event": "confess",
+      "phrase": "I like you",
+      "localFrame": 718,
+      "globalSeconds": 220.0
+    },
+    {
+      "chapter": 9,
+      "event": "response",
+      "phrase": "I'm just not ready for a relationship",
+      "localFrame": 821,
+      "globalSeconds": 223.433
+    },
+    {
+      "chapter": 10,
+      "event": "ring",
+      "phrase": "Your phone starts ringing",
+      "localFrame": 91,
+      "globalSeconds": 243.133
+    },
+    {
+      "chapter": 10,
+      "event": "elder",
+      "phrase": "an elderly man steps into the road",
+      "localFrame": 530,
+      "globalSeconds": 257.767
+    },
+    {
+      "chapter": 10,
+      "event": "future",
+      "phrase": "you look ten seconds into the future",
+      "localFrame": 354,
+      "globalSeconds": 251.9
+    },
+    {
+      "chapter": 10,
+      "event": "present",
+      "phrase": "You return to the present",
+      "localFrame": 660,
+      "globalSeconds": 262.1
+    },
+    {
+      "chapter": 10,
+      "event": "run",
+      "phrase": "You run",
+      "localFrame": 729,
+      "globalSeconds": 264.4
+    },
+    {
+      "chapter": 10,
+      "event": "grab",
+      "phrase": "Grab the man",
+      "localFrame": 749,
+      "globalSeconds": 265.067
+    },
+    {
+      "chapter": 10,
+      "event": "pull",
+      "phrase": "Pull him backward",
+      "localFrame": 768,
+      "globalSeconds": 265.7
+    },
+    {
+      "chapter": 10,
+      "event": "truck",
+      "phrase": "The truck flies past",
+      "localFrame": 795,
+      "globalSeconds": 266.6
+    },
+    {
+      "chapter": 10,
+      "event": "answer",
+      "phrase": "You answer",
+      "localFrame": 1179,
+      "globalSeconds": 279.4
+    },
+    {
+      "chapter": 10,
+      "event": "momQuestion",
+      "phrase": "Did you eat yet",
+      "localFrame": 1376,
+      "globalSeconds": 285.967
+    },
+    {
+      "chapter": 10,
+      "event": "momReply",
+      "phrase": "Yeah Mom",
+      "localFrame": 1675,
+      "globalSeconds": 295.933
+    },
+    {
+      "chapter": 11,
+      "event": "minutes",
+      "phrase": "in ten minutes",
+      "localFrame": 325,
+      "globalSeconds": 320.8
+    },
+    {
+      "chapter": 11,
+      "event": "tomorrow",
+      "phrase": "Tomorrow",
+      "localFrame": 356,
+      "globalSeconds": 321.833
+    },
+    {
+      "chapter": 11,
+      "event": "year",
+      "phrase": "Next year",
+      "localFrame": 379,
+      "globalSeconds": 322.6
+    },
+    {
+      "chapter": 12,
+      "event": "street",
+      "phrase": "look before crossing the street",
+      "localFrame": 461,
+      "globalSeconds": 346.067
+    },
+    {
+      "chapter": 12,
+      "event": "feelings",
+      "phrase": "say what you really feel",
+      "localFrame": 531,
+      "globalSeconds": 348.4
+    },
+    {
+      "chapter": 12,
+      "event": "parents",
+      "phrase": "You can call your parents",
+      "localFrame": 568,
+      "globalSeconds": 349.633
+    },
+    {
+      "chapter": 12,
+      "event": "closing",
+      "phrase": "The future can wait",
+      "localFrame": 1053,
+      "globalSeconds": 365.8
+    },
+    {
+      "chapter": 12,
+      "event": "question",
+      "phrase": "If you really could see",
+      "localFrame": 1138,
+      "globalSeconds": 368.633
+    }
+  ]
+}

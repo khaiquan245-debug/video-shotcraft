@@ -1,0 +1,28 @@
+{
+  "method": "acoustic word-timed picture revision",
+  "frames": 11233,
+  "seconds": 374.43333333333334,
+  "scriptWords": 1162,
+  "scenes": 12,
+  "captionBounds": "passed",
+  "scriptPreserved": true,
+  "losslessAudioUnchanged": true,
+  "exports": {
+    "ten-seconds-smooth.mp4": {
+      "fullDecode": "passed",
+      "videoHash": "SHA256=0f243ec603cdf8d594a87ce12fe990a784d706dd84b1b85e5633454209d21a57",
+      "audioHash": "SHA256=856bf00a565d26ce4fd14ef9b59ab45a9f8c3cf2966428d249caadde787a86a0",
+      "peakDBFS": -1.9,
+      "sha256": "39c35dee4406f5db12baf322b0c5803cc759bd430cbd88117787f9ab7e094811"
+    },
+    "ten-seconds-smooth-no-music.mp4": {
+      "fullDecode": "passed",
+      "videoHash": "SHA256=0f243ec603cdf8d594a87ce12fe990a784d706dd84b1b85e5633454209d21a57",
+      "audioHash": "SHA256=b607562dfa32fdfcb239f49741cf81c0480c32ad6014de408443a927c7ae90f2",
+      "peakDBFS": -1.9,
+      "sha256": "dc3f51238914fdec4913ff252a8aba6337264a399c1f6ee610979eed0369d292"
+    }
+  },
+  "encodedMusicAudioIdenticalToApprovedExport": true,
+  "musicAndNoMusicSamePicture": true
+}
