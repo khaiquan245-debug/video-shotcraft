@@ -1,0 +1,871 @@
+[
+  {
+    "id": 0,
+    "title": "What could ten seconds change?",
+    "label": "THE QUESTION",
+    "from": 0,
+    "duration": 900,
+    "captions": [
+      {
+        "text": "What if, right now\u2026 you could see exactly what",
+        "from": 18,
+        "duration": 75
+      },
+      {
+        "text": "was going to happen in the next 10 seconds?",
+        "from": 93,
+        "duration": 75
+      },
+      {
+        "text": "What would you do? Avoid an embarrassing fall?",
+        "from": 195,
+        "duration": 88
+      },
+      {
+        "text": "Prevent an accident? Find out what your crush is about to say?",
+        "from": 310,
+        "duration": 116
+      },
+      {
+        "text": "Or\u2026 use those 10 seconds to change something",
+        "from": 453,
+        "duration": 66
+      },
+      {
+        "text": "you might regret for the rest of your life?",
+        "from": 519,
+        "duration": 75
+      },
+      {
+        "text": "It sounds like a pretty small superpower.",
+        "from": 622,
+        "duration": 72
+      },
+      {
+        "text": "But think about it. Ten seconds can sometimes change everything.",
+        "from": 721,
+        "duration": 122
+      }
+    ],
+    "audio": "audio/scene-01.wav",
+    "text": "What if, right now\u2026 you could see exactly what was going to happen in the next 10 seconds? What would you do? Avoid an embarrassing fall? Prevent an accident? Find out what your crush is about to say? Or\u2026 use those 10 seconds to change something you might regret for the rest of your life? It sounds like a pretty small superpower. But think about it. Ten seconds can sometimes change everything.",
+    "speechRate": 0.97
+  },
+  {
+    "id": 1,
+    "title": "A glimpse. A choice.",
+    "label": "THE RULES",
+    "from": 900,
+    "duration": 900,
+    "captions": [
+      {
+        "text": "The rule is simple. Whenever you focus and blink\u2026",
+        "from": 18,
+        "duration": 95
+      },
+      {
+        "text": "you can see exactly 10 seconds into the future.",
+        "from": 125,
+        "duration": 94
+      },
+      {
+        "text": "Not a feeling. Not a prediction.",
+        "from": 231,
+        "duration": 64
+      },
+      {
+        "text": "You actually see what is about to happen.",
+        "from": 307,
+        "duration": 75
+      },
+      {
+        "text": "Then\u2026 you return to the present.",
+        "from": 393,
+        "duration": 52
+      },
+      {
+        "text": "And you have 10 seconds to decide: let that future happen\u2026",
+        "from": 458,
+        "duration": 102
+      },
+      {
+        "text": "or try to change it.",
+        "from": 572,
+        "duration": 37
+      },
+      {
+        "text": "At first? You would obviously use this incredible",
+        "from": 621,
+        "duration": 82
+      },
+      {
+        "text": "power for the most important things in life.",
+        "from": 703,
+        "duration": 83
+      },
+      {
+        "text": "Like\u2026 not embarrassing yourself.",
+        "from": 798,
+        "duration": 59
+      }
+    ],
+    "audio": "audio/scene-02.wav",
+    "text": "The rule is simple. Whenever you focus and blink\u2026 you can see exactly 10 seconds into the future. Not a feeling. Not a prediction. You actually see what is about to happen. Then\u2026 you return to the present. And you have 10 seconds to decide: let that future happen\u2026 or try to change it. At first? You would obviously use this incredible power for the most important things in life. Like\u2026 not embarrassing yourself.",
+    "speechRate": 0.97
+  },
+  {
+    "id": 2,
+    "title": "Dignity: not included",
+    "label": "THE COFFEE",
+    "from": 1800,
+    "duration": 1050,
+    "captions": [
+      {
+        "text": "You see yourself trip. And somehow\u2026",
+        "from": 18,
+        "duration": 68
+      },
+      {
+        "text": "the entire cup of coffee ends up all over your clothes.",
+        "from": 104,
+        "duration": 96
+      },
+      {
+        "text": "Even worse\u2026 someone nearby is already holding a phone.",
+        "from": 218,
+        "duration": 105
+      },
+      {
+        "text": "No. The internet does not need another meme today.",
+        "from": 341,
+        "duration": 96
+      },
+      {
+        "text": "You return to the present.",
+        "from": 455,
+        "duration": 51
+      },
+      {
+        "text": "Step slightly to the left.",
+        "from": 523,
+        "duration": 54
+      },
+      {
+        "text": "Avoid the crack. Perfect. You smile confidently.",
+        "from": 595,
+        "duration": 100
+      },
+      {
+        "text": "Having a superpower feels amazing.",
+        "from": 713,
+        "duration": 71
+      },
+      {
+        "text": "Then\u2026 you walk straight into a pole.",
+        "from": 802,
+        "duration": 62
+      },
+      {
+        "text": "BONK! Apparently\u2026 seeing the future still cannot save your dignity.",
+        "from": 882,
+        "duration": 119
+      }
+    ],
+    "audio": "audio/scene-03.wav",
+    "text": "You see yourself trip. And somehow\u2026 the entire cup of coffee ends up all over your clothes. Even worse\u2026 someone nearby is already holding a phone. No. The internet does not need another meme today. You return to the present. Step slightly to the left. Avoid the crack. Perfect. You smile confidently. Having a superpower feels amazing. Then\u2026 you walk straight into a pole. BONK! Apparently\u2026 seeing the future still cannot save your dignity.",
+    "speechRate": 0.97
+  },
+  {
+    "id": 3,
+    "title": "Emergency meeting mode",
+    "label": "THE MEETING",
+    "from": 2850,
+    "duration": 1050,
+    "captions": [
+      {
+        "text": "During a meeting\u2026 you suddenly see your boss calling your name.",
+        "from": 18,
+        "duration": 102
+      },
+      {
+        "text": "You have exactly 10 seconds.",
+        "from": 123,
+        "duration": 62
+      },
+      {
+        "text": "Your brain instantly enters emergency mode.",
+        "from": 187,
+        "duration": 85
+      },
+      {
+        "text": "You open the document. Scan the most important line.",
+        "from": 276,
+        "duration": 97
+      },
+      {
+        "text": "Ten seconds later\u2026 \u201cWhat do you think?\u201d You sit up straight.",
+        "from": 376,
+        "duration": 97
+      },
+      {
+        "text": "Stay calm. And give a surprisingly intelligent answer.",
+        "from": 476,
+        "duration": 97
+      },
+      {
+        "text": "Everyone nods. Your boss looks impressed.",
+        "from": 576,
+        "duration": 86
+      },
+      {
+        "text": "Congratulations. You just used a supernatural ability to look like someone\u2026",
+        "from": 665,
+        "duration": 149
+      },
+      {
+        "text": "who was actually paying attention during the meeting.",
+        "from": 818,
+        "duration": 84
+      },
+      {
+        "text": "And honestly\u2026 that might be one of the best uses of this power.",
+        "from": 905,
+        "duration": 112
+      }
+    ],
+    "audio": "audio/scene-04.wav",
+    "text": "During a meeting\u2026 you suddenly see your boss calling your name. You have exactly 10 seconds. Your brain instantly enters emergency mode. You open the document. Scan the most important line. Ten seconds later\u2026 \u201cWhat do you think?\u201d You sit up straight. Stay calm. And give a surprisingly intelligent answer. Everyone nods. Your boss looks impressed. Congratulations. You just used a supernatural ability to look like someone\u2026 who was actually paying attention during the meeting. And honestly\u2026 that might be one of the best uses of this power.",
+    "speechRate": 0.97
+  },
+  {
+    "id": 4,
+    "title": "The cat has other plans",
+    "label": "THE CAT",
+    "from": 3900,
+    "duration": 900,
+    "captions": [
+      {
+        "text": "Sometimes the power would help with much smaller things.",
+        "from": 18,
+        "duration": 100
+      },
+      {
+        "text": "You see your phone about to fall off the table.",
+        "from": 132,
+        "duration": 82
+      },
+      {
+        "text": "The screen hits the floor.",
+        "from": 228,
+        "duration": 51
+      },
+      {
+        "text": "Shatters. You return to the present.",
+        "from": 294,
+        "duration": 66
+      },
+      {
+        "text": "Calmly reach out your hand.",
+        "from": 374,
+        "duration": 53
+      },
+      {
+        "text": "The cat pushes the phone.",
+        "from": 441,
+        "duration": 57
+      },
+      {
+        "text": "And\u2026 you catch it. Perfect.",
+        "from": 512,
+        "duration": 56
+      },
+      {
+        "text": "Your superpower just saved you a few hundred dollars in repairs.",
+        "from": 582,
+        "duration": 125
+      },
+      {
+        "text": "But from this point on\u2026",
+        "from": 721,
+        "duration": 48
+      },
+      {
+        "text": "things start getting much more serious.",
+        "from": 783,
+        "duration": 71
+      }
+    ],
+    "audio": "audio/scene-05.wav",
+    "text": "Sometimes the power would help with much smaller things. You see your phone about to fall off the table. The screen hits the floor. Shatters. You return to the present. Calmly reach out your hand. The cat pushes the phone. And\u2026 you catch it. Perfect. Your superpower just saved you a few hundred dollars in repairs. But from this point on\u2026 things start getting much more serious.",
+    "speechRate": 0.97
+  },
+  {
+    "id": 5,
+    "title": "Ten seconds on the road",
+    "label": "THE CROSSING",
+    "from": 4800,
+    "duration": 1350,
+    "captions": [
+      {
+        "text": "You are about to cross the street.",
+        "from": 18,
+        "duration": 61
+      },
+      {
+        "text": "The light is green. Everything looks completely normal.",
+        "from": 107,
+        "duration": 101
+      },
+      {
+        "text": "Then you blink. And see\u2026",
+        "from": 236,
+        "duration": 55
+      },
+      {
+        "text": "a vehicle speeding out from a blind corner.",
+        "from": 319,
+        "duration": 76
+      },
+      {
+        "text": "If you keep moving\u2026 you are going to collide.",
+        "from": 423,
+        "duration": 73
+      },
+      {
+        "text": "You return to the present.",
+        "from": 524,
+        "duration": 46
+      },
+      {
+        "text": "And stop. One second. Two seconds.",
+        "from": 599,
+        "duration": 79
+      },
+      {
+        "text": "Three. The vehicle actually flies past you.",
+        "from": 705,
+        "duration": 89
+      },
+      {
+        "text": "Only a few feet away.",
+        "from": 822,
+        "duration": 55
+      },
+      {
+        "text": "And for the first time\u2026",
+        "from": 905,
+        "duration": 49
+      },
+      {
+        "text": "you realize something. This power is",
+        "from": 981,
+        "duration": 67
+      },
+      {
+        "text": "not just useful for avoiding embarrassing moments.",
+        "from": 1048,
+        "duration": 78
+      },
+      {
+        "text": "It could save your life.",
+        "from": 1154,
+        "duration": 48
+      },
+      {
+        "text": "Maybe even someone else\u2019s.",
+        "from": 1230,
+        "duration": 59
+      }
+    ],
+    "audio": "audio/scene-06.wav",
+    "text": "You are about to cross the street. The light is green. Everything looks completely normal. Then you blink. And see\u2026 a vehicle speeding out from a blind corner. If you keep moving\u2026 you are going to collide. You return to the present. And stop. One second. Two seconds. Three. The vehicle actually flies past you. Only a few feet away. And for the first time\u2026 you realize something. This power is not just useful for avoiding embarrassing moments. It could save your life. Maybe even someone else\u2019s.",
+    "speechRate": 0.97
+  },
+  {
+    "id": 6,
+    "title": "The future fights back",
+    "label": "THE GAME",
+    "from": 6150,
+    "duration": 1200,
+    "captions": [
+      {
+        "text": "And of course\u2026 you would immediately think about sports.",
+        "from": 18,
+        "duration": 90
+      },
+      {
+        "text": "During a game\u2026 you see your opponent move to the right.",
+        "from": 132,
+        "duration": 88
+      },
+      {
+        "text": "Easy. You return to the present\u2026",
+        "from": 244,
+        "duration": 68
+      },
+      {
+        "text": "and move right before he even makes his move.",
+        "from": 336,
+        "duration": 84
+      },
+      {
+        "text": "But there is a problem.",
+        "from": 444,
+        "duration": 44
+      },
+      {
+        "text": "He sees you move. So he changes direction.",
+        "from": 512,
+        "duration": 88
+      },
+      {
+        "text": "Left. Wait. That is not what you saw.",
+        "from": 625,
+        "duration": 76
+      },
+      {
+        "text": "And that is when you discover the biggest problem with your power.",
+        "from": 725,
+        "duration": 104
+      },
+      {
+        "text": "The future is not fixed.",
+        "from": 853,
+        "duration": 53
+      },
+      {
+        "text": "The moment you change what you do\u2026",
+        "from": 930,
+        "duration": 68
+      },
+      {
+        "text": "the future changes too. Every decision creates a different outcome.",
+        "from": 1022,
+        "duration": 123
+      }
+    ],
+    "audio": "audio/scene-07.wav",
+    "text": "And of course\u2026 you would immediately think about sports. During a game\u2026 you see your opponent move to the right. Easy. You return to the present\u2026 and move right before he even makes his move. But there is a problem. He sees you move. So he changes direction. Left. Wait. That is not what you saw. And that is when you discover the biggest problem with your power. The future is not fixed. The moment you change what you do\u2026 the future changes too. Every decision creates a different outcome.",
+    "speechRate": 0.97
+  },
+  {
+    "id": 7,
+    "title": "The perfect answer?",
+    "label": "THE INTERVIEW",
+    "from": 7350,
+    "duration": 1050,
+    "captions": [
+      {
+        "text": "During a job interview\u2026 you see the next question.",
+        "from": 18,
+        "duration": 93
+      },
+      {
+        "text": "\u201cWhat is your biggest weakness?\u201d You have 10 seconds to prepare.",
+        "from": 156,
+        "duration": 111
+      },
+      {
+        "text": "This time\u2026 no awkward silence.",
+        "from": 313,
+        "duration": 64
+      },
+      {
+        "text": "No panic. You deliver the perfect answer.",
+        "from": 421,
+        "duration": 81
+      },
+      {
+        "text": "The interviewer smiles. But then you look 10 seconds ahead again.",
+        "from": 548,
+        "duration": 118
+      },
+      {
+        "text": "And hear him ask: \u201cDid you prepare that answer beforehand?\u201d \u2026",
+        "from": 710,
+        "duration": 103
+      },
+      {
+        "text": "Okay. Maybe this power cannot save you from every interview.",
+        "from": 859,
+        "duration": 117
+      }
+    ],
+    "audio": "audio/scene-08.wav",
+    "text": "During a job interview\u2026 you see the next question. \u201cWhat is your biggest weakness?\u201d You have 10 seconds to prepare. This time\u2026 no awkward silence. No panic. You deliver the perfect answer. The interviewer smiles. But then you look 10 seconds ahead again. And hear him ask: \u201cDid you prepare that answer beforehand?\u201d \u2026 Okay. Maybe this power cannot save you from every interview.",
+    "speechRate": 0.97
+  },
+  {
+    "id": 8,
+    "title": "The courage to hear no",
+    "label": "THE CONFESSION",
+    "from": 8400,
+    "duration": 1500,
+    "captions": [
+      {
+        "text": "But some things are much harder.",
+        "from": 18,
+        "duration": 61
+      },
+      {
+        "text": "You are standing in front of someone you have liked for months.",
+        "from": 86,
+        "duration": 99
+      },
+      {
+        "text": "The words have been stuck in your head forever.",
+        "from": 194,
+        "duration": 83
+      },
+      {
+        "text": "You blink. And see her reaction.",
+        "from": 284,
+        "duration": 67
+      },
+      {
+        "text": "\u201cI\u2019m sorry\u2026\u201d Your heart drops.",
+        "from": 359,
+        "duration": 56
+      },
+      {
+        "text": "Now you have a choice.",
+        "from": 423,
+        "duration": 46
+      },
+      {
+        "text": "You could stay silent. Say nothing.",
+        "from": 477,
+        "duration": 69
+      },
+      {
+        "text": "Never get rejected. Never feel the pain.",
+        "from": 554,
+        "duration": 87
+      },
+      {
+        "text": "But then you start thinking\u2026",
+        "from": 649,
+        "duration": 53
+      },
+      {
+        "text": "if you avoid every future you do not like\u2026",
+        "from": 710,
+        "duration": 83
+      },
+      {
+        "text": "are you really living? You take a breath.",
+        "from": 800,
+        "duration": 75
+      },
+      {
+        "text": "And say it anyway. \u201cI like you.\u201d She pauses.",
+        "from": 883,
+        "duration": 102
+      },
+      {
+        "text": "Then\u2026 \u201cI\u2019m sorry. I\u2019m just not ready",
+        "from": 993,
+        "duration": 73
+      },
+      {
+        "text": "for a relationship.\u201d Exactly what you saw.",
+        "from": 1066,
+        "duration": 73
+      },
+      {
+        "text": "But this time\u2026 you smile.",
+        "from": 1147,
+        "duration": 51
+      },
+      {
+        "text": "Because at least now\u2026 you have an answer.",
+        "from": 1205,
+        "duration": 69
+      },
+      {
+        "text": "Some futures do not need to be changed.",
+        "from": 1283,
+        "duration": 75
+      },
+      {
+        "text": "Sometimes\u2026 you just need enough courage to face them.",
+        "from": 1365,
+        "duration": 94
+      }
+    ],
+    "audio": "audio/scene-09.wav",
+    "text": "But some things are much harder. You are standing in front of someone you have liked for months. The words have been stuck in your head forever. You blink. And see her reaction. \u201cI\u2019m sorry\u2026\u201d Your heart drops. Now you have a choice. You could stay silent. Say nothing. Never get rejected. Never feel the pain. But then you start thinking\u2026 if you avoid every future you do not like\u2026 are you really living? You take a breath. And say it anyway. \u201cI like you.\u201d She pauses. Then\u2026 \u201cI\u2019m sorry. I\u2019m just not ready for a relationship.\u201d Exactly what you saw. But this time\u2026 you smile. Because at least now\u2026 you have an answer. Some futures do not need to be changed. Sometimes\u2026 you just need enough courage to face them.",
+    "speechRate": 0.97
+  },
+  {
+    "id": 9,
+    "title": "The call you almost missed",
+    "label": "THE PHONE CALL",
+    "from": 9900,
+    "duration": 2400,
+    "captions": [
+      {
+        "text": "Then one day\u2026 those 10 seconds really change you.",
+        "from": 18,
+        "duration": 95
+      },
+      {
+        "text": "Your phone starts ringing. It is your mom.",
+        "from": 117,
+        "duration": 78
+      },
+      {
+        "text": "You are busy. You think: \u201cI\u2019ll call her",
+        "from": 200,
+        "duration": 78
+      },
+      {
+        "text": "back later.\u201d Your finger moves toward the decline button.",
+        "from": 278,
+        "duration": 87
+      },
+      {
+        "text": "But out of habit\u2026 you look 10 seconds into the future.",
+        "from": 369,
+        "duration": 95
+      },
+      {
+        "text": "You see yourself rejecting the call.",
+        "from": 469,
+        "duration": 67
+      },
+      {
+        "text": "Walking forward. And behind you\u2026",
+        "from": 540,
+        "duration": 75
+      },
+      {
+        "text": "an elderly man steps into the road.",
+        "from": 620,
+        "duration": 74
+      },
+      {
+        "text": "A truck is coming straight toward him.",
+        "from": 698,
+        "duration": 65
+      },
+      {
+        "text": "You return to the present.",
+        "from": 768,
+        "duration": 49
+      },
+      {
+        "text": "You do not think. You run.",
+        "from": 821,
+        "duration": 66
+      },
+      {
+        "text": "Grab the man. Pull him backward.",
+        "from": 891,
+        "duration": 69
+      },
+      {
+        "text": "The truck flies past. Missing both of you by inches.",
+        "from": 965,
+        "duration": 105
+      },
+      {
+        "text": "You are breathing hard. The man does not even understand what just happened.",
+        "from": 1074,
+        "duration": 130
+      },
+      {
+        "text": "You just saved someone\u2019s life.",
+        "from": 1209,
+        "duration": 63
+      },
+      {
+        "text": "Then\u2026 your phone vibrates again.",
+        "from": 1276,
+        "duration": 57
+      },
+      {
+        "text": "Your mom is still calling.",
+        "from": 1338,
+        "duration": 52
+      },
+      {
+        "text": "You answer. \u201cMom?\u201d There is a brief silence.",
+        "from": 1393,
+        "duration": 88
+      },
+      {
+        "text": "Then she simply asks: \u201cDid you eat yet?\u201d That is it.",
+        "from": 1485,
+        "duration": 102
+      },
+      {
+        "text": "No emergency. No terrible news.",
+        "from": 1591,
+        "duration": 77
+      },
+      {
+        "text": "No dramatic final words. Just an ordinary question.",
+        "from": 1673,
+        "duration": 108
+      },
+      {
+        "text": "The kind of question you might ignore every day.",
+        "from": 1785,
+        "duration": 79
+      },
+      {
+        "text": "You laugh. \u201cYeah, Mom. I already ate.\u201d You talk for a few minutes.",
+        "from": 1868,
+        "duration": 134
+      },
+      {
+        "text": "Nothing dramatic happens. But suddenly\u2026",
+        "from": 2006,
+        "duration": 83
+      },
+      {
+        "text": "you realize something. You spent the entire",
+        "from": 2094,
+        "duration": 72
+      },
+      {
+        "text": "day staring 10 seconds into the future\u2026",
+        "from": 2166,
+        "duration": 71
+      },
+      {
+        "text": "and nearly ignored someone who was with you\u2026",
+        "from": 2241,
+        "duration": 83
+      },
+      {
+        "text": "right now.",
+        "from": 2329,
+        "duration": 29
+      }
+    ],
+    "audio": "audio/scene-10.wav",
+    "text": "Then one day\u2026 those 10 seconds really change you. Your phone starts ringing. It is your mom. You are busy. You think: \u201cI\u2019ll call her back later.\u201d Your finger moves toward the decline button. But out of habit\u2026 you look 10 seconds into the future. You see yourself rejecting the call. Walking forward. And behind you\u2026 an elderly man steps into the road. A truck is coming straight toward him. You return to the present. You do not think. You run. Grab the man. Pull him backward. The truck flies past. Missing both of you by inches. You are breathing hard. The man does not even understand what just happened. You just saved someone\u2019s life. Then\u2026 your phone vibrates again. Your mom is still calling. You answer. \u201cMom?\u201d There is a brief silence. Then she simply asks: \u201cDid you eat yet?\u201d That is it. No emergency. No terrible news. No dramatic final words. Just an ordinary question. The kind of question you might ignore every day. You laugh. \u201cYeah, Mom. I already ate.\u201d You talk for a few minutes. Nothing dramatic happens. But suddenly\u2026 you realize something. You spent the entire day staring 10 seconds into the future\u2026 and nearly ignored someone who was with you\u2026 right now.",
+    "speechRate": 0.97
+  },
+  {
+    "id": 10,
+    "title": "You still cannot see everything",
+    "label": "THE TWIST",
+    "from": 12300,
+    "duration": 900,
+    "captions": [
+      {
+        "text": "You thought the greatest part of your power\u2026",
+        "from": 18,
+        "duration": 69
+      },
+      {
+        "text": "was knowing what would happen next.",
+        "from": 120,
+        "duration": 64
+      },
+      {
+        "text": "But it was not. Because even if you can see 10 seconds ahead\u2026",
+        "from": 216,
+        "duration": 118
+      },
+      {
+        "text": "you still do not know what happens in 10 minutes.",
+        "from": 367,
+        "duration": 91
+      },
+      {
+        "text": "Tomorrow. Next year. Or when the last time you see someone\u2026",
+        "from": 491,
+        "duration": 118
+      },
+      {
+        "text": "will actually be. And maybe\u2026",
+        "from": 642,
+        "duration": 72
+      },
+      {
+        "text": "that is exactly what gives life its meaning.",
+        "from": 747,
+        "duration": 91
+      }
+    ],
+    "audio": "audio/scene-11.wav",
+    "text": "You thought the greatest part of your power\u2026 was knowing what would happen next. But it was not. Because even if you can see 10 seconds ahead\u2026 you still do not know what happens in 10 minutes. Tomorrow. Next year. Or when the last time you see someone\u2026 will actually be. And maybe\u2026 that is exactly what gives life its meaning.",
+    "speechRate": 0.97
+  },
+  {
+    "id": 11,
+    "title": "The ten seconds you have now",
+    "label": "RIGHT NOW",
+    "from": 13200,
+    "duration": 1200,
+    "captions": [
+      {
+        "text": "Of course\u2026 seeing 10 seconds into the future is only",
+        "from": 18,
+        "duration": 76
+      },
+      {
+        "text": "a thought experiment. It is not something we can actually do.",
+        "from": 94,
+        "duration": 84
+      },
+      {
+        "text": "In real life\u2026 there is no rewind button. No warning screen. No countdown",
+        "from": 179,
+        "duration": 103
+      },
+      {
+        "text": "telling us that an important moment is about to happen. But maybe\u2026 we",
+        "from": 282,
+        "duration": 102
+      },
+      {
+        "text": "do not need one. You can still look before crossing the street. You",
+        "from": 384,
+        "duration": 103
+      },
+      {
+        "text": "can still say what you really feel. You can call your parents.",
+        "from": 487,
+        "duration": 95
+      },
+      {
+        "text": "Apologize to someone. Thank someone. Hold someone you love for a little longer.",
+        "from": 582,
+        "duration": 103
+      },
+      {
+        "text": "And sometimes\u2026 small decisions like those are enough to change the future. You",
+        "from": 685,
+        "duration": 102
+      },
+      {
+        "text": "do not need to see 10 seconds ahead to live a better life.",
+        "from": 787,
+        "duration": 103
+      },
+      {
+        "text": "You just need to stop wasting\u2026 the 10 seconds you have right",
+        "from": 891,
+        "duration": 95
+      },
+      {
+        "text": "now. \u201cThe future can wait. This moment can\u2019t.\u201d If you really could",
+        "from": 986,
+        "duration": 94
+      },
+      {
+        "text": "see 10 seconds into the future\u2026 what would you use it for?",
+        "from": 1080,
+        "duration": 95
+      }
+    ],
+    "audio": "audio/scene-12.wav",
+    "text": "Of course\u2026 seeing 10 seconds into the future is only a thought experiment. It is not something we can actually do. In real life\u2026 there is no rewind button. No warning screen. No countdown telling us that an important moment is about to happen. But maybe\u2026 we do not need one. You can still look before crossing the street. You can still say what you really feel. You can call your parents. Apologize to someone. Thank someone. Hold someone you love for a little longer. And sometimes\u2026 small decisions like those are enough to change the future. You do not need to see 10 seconds ahead to live a better life. You just need to stop wasting\u2026 the 10 seconds you have right now. \u201cThe future can wait. This moment can\u2019t.\u201d If you really could see 10 seconds into the future\u2026 what would you use it for?",
+    "speechRate": 1.126835372149595
+  }
+]

@@ -1,0 +1,8 @@
+node_modules
+out/
+.venv/
+__pycache__/
+tools/vits-piper-*/
+tools/*.tar.bz2
+tools/temp.wav
+public/audio/*.wav
