@@ -21,3 +21,7 @@ python tools/check-encoded-beats.py
 Piper exposes native phoneme durations from the same audio synthesis pass. Vietnamese word groups are checked against all narration text; scene/caption timings are quantized to 30fps. See `DESIGN.md` and the QA JSON files for the precise methods and limits. `src/workbench.ts` makes the shots, subtitles, narration, effects and music available to the repository's visual workbench.
 
 Keep uploaded reference videos, failed voice auditions, model weights, caches, virtual environments, and tokens outside committed deliverables. No token is needed in this project's files.
+
+## Thumbnail
+
+[Download JPG](deliverables/thumbnail-learn-100x-vi.jpg) · [Original PNG](deliverables/thumbnail-learn-100x-vi.png). Both are below 2 MiB. The generated artwork uses Stan from the film and Vietnamese headline typography.
