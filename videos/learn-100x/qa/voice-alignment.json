@@ -1,0 +1,222 @@
+{
+  "engine": "PocketTTS-FP32, same user-selected voice conditioning",
+  "rawNativeSeconds": 539.6120833333333,
+  "uniformTempo": 0.9496278899240855,
+  "pitchPreserved": true,
+  "totalFrames": 17730,
+  "seconds": 591.0,
+  "words": 1610,
+  "totalWordsPerMinute": 163.4517766497462,
+  "paragraphs": [
+    {
+      "chapter": 1,
+      "paragraph": 1,
+      "wordSimilarity": 0.9421487603305785,
+      "seconds": 19.112041666666666,
+      "sourceSHA256": "fa4dc334a73d0bd753b3fd9f9348ca03f952836a155a6afd5f075013c94dd765"
+    },
+    {
+      "chapter": 1,
+      "paragraph": 2,
+      "wordSimilarity": 0.975,
+      "seconds": 15.837291666666667,
+      "sourceSHA256": "96dfd355f1bba20885b6baa37e0606b6673459ac5504202598aa3901a8b9f930"
+    },
+    {
+      "chapter": 2,
+      "paragraph": 1,
+      "wordSimilarity": 0.8787878787878788,
+      "seconds": 22.608166666666666,
+      "sourceSHA256": "deb50c6b2bca82658d80d44a9bce57939c2866a473ea4c152758de9e3cb006f5"
+    },
+    {
+      "chapter": 3,
+      "paragraph": 1,
+      "wordSimilarity": 1.0,
+      "seconds": 19.515375,
+      "sourceSHA256": "2de273d0d61cf98917f5dc7cc33927f2ef5fa14a0052725eb834f70e6f5175f1"
+    },
+    {
+      "chapter": 3,
+      "paragraph": 2,
+      "wordSimilarity": 0.9787234042553191,
+      "seconds": 23.166958333333334,
+      "sourceSHA256": "d9bb164569ba6e24fc518cc24b6add78c734bf2e86a92f9a3b889cbd73a5bdf3"
+    },
+    {
+      "chapter": 3,
+      "paragraph": 3,
+      "wordSimilarity": 0.9428571428571428,
+      "seconds": 9.952083333333333,
+      "sourceSHA256": "96b16e44b5bb11f87dca9a6c61a81fdd2f8da533d89ce21b17c60346a8862f53"
+    },
+    {
+      "chapter": 4,
+      "paragraph": 1,
+      "wordSimilarity": 0.9911504424778761,
+      "seconds": 20.208,
+      "sourceSHA256": "824469d8752c76f2d64387941765eadf020483c052cb8cc951914b9e05062a89"
+    },
+    {
+      "chapter": 4,
+      "paragraph": 2,
+      "wordSimilarity": 0.9818181818181818,
+      "seconds": 21.22425,
+      "sourceSHA256": "1bdf4020a41d9c4717070c5c8998dd559f890e05089144ec09601693fa77cd9f"
+    },
+    {
+      "chapter": 4,
+      "paragraph": 3,
+      "wordSimilarity": 0.9914529914529915,
+      "seconds": 20.386916666666668,
+      "sourceSHA256": "aeec566d78760ce866bffb744116b6e470e173a33978883078495c72042fe8c1"
+    },
+    {
+      "chapter": 4,
+      "paragraph": 4,
+      "wordSimilarity": 0.976,
+      "seconds": 23.991833333333332,
+      "sourceSHA256": "f57b4fcf24741c52fba518c0e8d230f7df8728b2673e0a4a4c04327f46069080"
+    },
+    {
+      "chapter": 4,
+      "paragraph": 5,
+      "wordSimilarity": 1.0,
+      "seconds": 8.171625,
+      "sourceSHA256": "7186a8179ff0f2c40eaf16690a311b9d75aea09a41cc6839d50c0437a5552026"
+    },
+    {
+      "chapter": 5,
+      "paragraph": 1,
+      "wordSimilarity": 0.990990990990991,
+      "seconds": 22.891583333333333,
+      "sourceSHA256": "be3b4ff224e1fa18a2ceaac16fabf42ed29d88a6f333be65e2882e6b2c25c567"
+    },
+    {
+      "chapter": 5,
+      "paragraph": 2,
+      "wordSimilarity": 0.9655172413793104,
+      "seconds": 19.46025,
+      "sourceSHA256": "60ba1139af128c265cd727512d95abd3217db47c84b14a8b84e13adcb56bc776"
+    },
+    {
+      "chapter": 5,
+      "paragraph": 3,
+      "wordSimilarity": 0.9484536082474226,
+      "seconds": 16.593708333333332,
+      "sourceSHA256": "d1bfaffc1fd69eb14191408f9de1c6bb3d4a121f26d4483add0167feb112546e"
+    },
+    {
+      "chapter": 6,
+      "paragraph": 1,
+      "wordSimilarity": 0.975609756097561,
+      "seconds": 22.324541666666665,
+      "sourceSHA256": "f6a4035899a8c7fb91abf498eba858aad67c243c2527090941b64962ef279cdc"
+    },
+    {
+      "chapter": 6,
+      "paragraph": 2,
+      "wordSimilarity": 0.9672131147540983,
+      "seconds": 24.810416666666665,
+      "sourceSHA256": "7d1fbd8a1393a1617dc535dc574648f85f62c423f6b34f189ffe634335960265"
+    },
+    {
+      "chapter": 6,
+      "paragraph": 3,
+      "wordSimilarity": 0.9722222222222222,
+      "seconds": 12.383791666666667,
+      "sourceSHA256": "7298f8c90231843ba012831a31587ccda4e310db61aab75a4892e0a2248b550b"
+    },
+    {
+      "chapter": 7,
+      "paragraph": 1,
+      "wordSimilarity": 0.9401709401709402,
+      "seconds": 19.46025,
+      "sourceSHA256": "fd032da2b0b626eb99b6cd340c77005e3920d9343ff5e752fc32f2c09030d9a8"
+    },
+    {
+      "chapter": 7,
+      "paragraph": 2,
+      "wordSimilarity": 1.0,
+      "seconds": 24.346375,
+      "sourceSHA256": "ec942ece5581a0245fe5e20c9425503a061b770548d4a2e0cc560e9b8f45ebe0"
+    },
+    {
+      "chapter": 7,
+      "paragraph": 3,
+      "wordSimilarity": 0.954954954954955,
+      "seconds": 19.60875,
+      "sourceSHA256": "4dfc8f1385cb086236e8cedf4f2255599b09b5257c0c22989c9fa2f6d82f7c08"
+    },
+    {
+      "chapter": 7,
+      "paragraph": 4,
+      "wordSimilarity": 0.9787234042553191,
+      "seconds": 17.440875,
+      "sourceSHA256": "e8cdec0671d76df88927841f797f99b6f69cc148a3a0a98930c18ae0e7a4499c"
+    },
+    {
+      "chapter": 8,
+      "paragraph": 1,
+      "wordSimilarity": 1.0,
+      "seconds": 20.061541666666667,
+      "sourceSHA256": "5e859e0d06b423d0b793ab6bf09230e3d2fd638b3e2fbbbdef19b078c0f9e2dc"
+    },
+    {
+      "chapter": 8,
+      "paragraph": 2,
+      "wordSimilarity": 0.954954954954955,
+      "seconds": 22.83491666666667,
+      "sourceSHA256": "489a9f008a6f2c3f780ebca7b8f90f4ab6c9b780d23f99a52f04dda975fcba29"
+    },
+    {
+      "chapter": 8,
+      "paragraph": 3,
+      "wordSimilarity": 1.0,
+      "seconds": 13.462125,
+      "sourceSHA256": "a2268b68f08be6529edcf2e233e8c522e297d4e5148f47228b18a1b28daeddbf"
+    },
+    {
+      "chapter": 9,
+      "paragraph": 1,
+      "wordSimilarity": 0.9734513274336283,
+      "seconds": 16.948625,
+      "sourceSHA256": "0c6ef6f5789895b4a79458366ca91c0c31ed3e7e42d2907b6972a22210516f93"
+    },
+    {
+      "chapter": 9,
+      "paragraph": 2,
+      "wordSimilarity": 0.9838709677419355,
+      "seconds": 21.486416666666667,
+      "sourceSHA256": "0416e9ddc970f5d12f763178820ddf47f7b97caf8279a5438b7bb0578cfd097a"
+    },
+    {
+      "chapter": 9,
+      "paragraph": 3,
+      "wordSimilarity": 0.9682539682539683,
+      "seconds": 21.332791666666665,
+      "sourceSHA256": "bfa3fe4b14620c2691866b8cda6ec43e1b09643b305d61d289cda8fd1fc80c34"
+    },
+    {
+      "chapter": 10,
+      "paragraph": 1,
+      "wordSimilarity": 0.918918918918919,
+      "seconds": 21.867166666666666,
+      "sourceSHA256": "2d6acba8603bc28e04b556fb52823075a275b4e009f4d188a6f095f6123dcf9f"
+    },
+    {
+      "chapter": 10,
+      "paragraph": 2,
+      "wordSimilarity": 1.0,
+      "seconds": 17.997,
+      "sourceSHA256": "53f5aaa7880a30bf69ed0321cf4b406efb7066d867eacb1f90dc3d1f40579524"
+    },
+    {
+      "chapter": 10,
+      "paragraph": 3,
+      "wordSimilarity": 0.8823529411764706,
+      "seconds": 8.508583333333334,
+      "sourceSHA256": "0d38b4f2af67c983b1ccaee834452ccc075385f80c95743447841f60dbef4355"
+    }
+  ]
+}

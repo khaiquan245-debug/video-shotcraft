@@ -1,0 +1,43 @@
+{
+  "title": "What If You Could Learn 100 Times Faster?",
+  "frames": 17730,
+  "fps": 30,
+  "seconds": 591.0,
+  "chapters": 10,
+  "shots": 163,
+  "shortCaptions": 381,
+  "sourceWords": 1610,
+  "fullScriptPreserved": true,
+  "captionBounds": "passed",
+  "storyboardContiguous": true,
+  "finalQuestionFullOpacityFrames": 155,
+  "voiceWordsPerMinute": 163.4517766497462,
+  "exports": {
+    "learn-100x.mp4": {
+      "fullDecode": "passed",
+      "peakDBFS": -2.5,
+      "videoHash": "SHA256=92e4925fbb7d3a2fce1b2324d31aa1837d0910958019b38988b32adf678930a4",
+      "audioHash": "SHA256=ff228a3a7be2c3e65b258c918de7ddd5b9a91597cbd90aa769d5d8bcb5961035",
+      "sha256": "7c25ab77b3cf4ae41ce18cd69595e3ec5feebfe64be2868e465d425110da6c2b",
+      "bytes": 94578056,
+      "blackIntervals": []
+    },
+    "learn-100x-no-music.mp4": {
+      "fullDecode": "passed",
+      "peakDBFS": -2.9,
+      "videoHash": "SHA256=92e4925fbb7d3a2fce1b2324d31aa1837d0910958019b38988b32adf678930a4",
+      "audioHash": "SHA256=3dd44119a7f59c358cc168f443e4496aa29ffb4ec14dcb907f691131eae92730",
+      "sha256": "fe3be824768c12878dc854caaf555f9c5e1e536c7343146ad40fca6f2221702e",
+      "bytes": 94127003,
+      "blackIntervals": []
+    }
+  },
+  "finalMixExactlyEncoded": true,
+  "samePictureVariants": true,
+  "openingTickDecodedOffset": {
+    "samplesAt48k": 0,
+    "seconds": 0.0,
+    "framesAt30fps": 0.0,
+    "normalizedCorrelation": 0.8059927225112915
+  }
+}

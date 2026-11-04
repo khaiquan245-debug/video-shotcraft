@@ -1,0 +1,9037 @@
+[
+  {
+    "id": 0,
+    "title": "THE HOOK: A BRAIN THAT LEARNS 100 TIMES FASTER",
+    "label": "THE AWAKENING",
+    "text": "Imagine waking up tomorrow and discovering that your brain has developed an extraordinary ability. You can learn anything one hundred times faster than the average person. Something that takes someone else one hundred hours to understand... You can learn in just one hour. A subject that normally takes months to master? You could absorb the knowledge in a matter of days. Mathematics. Programming. Economics. Foreign languages. Suddenly, learning becomes unbelievably easy. But forget about getting perfect grades. The real question is... How much money could you make with a brain like this? And what happens when the entire world finds out?",
+    "originalText": "Imagine waking up tomorrow and discovering that your brain has developed an extraordinary ability.\n\nYou can learn anything one hundred times faster than the average person.\n\nSomething that takes someone else one hundred hours to understand...\n\nYou can learn in just one hour.\n\nA subject that normally takes months to master?\n\nYou could absorb the knowledge in a matter of days.\n\nMathematics. Programming. Economics. Foreign languages.\n\nSuddenly, learning becomes unbelievably easy.\n\nBut forget about getting perfect grades.\n\nThe real question is...\n\nHow much money could you make with a brain like this?\n\nAnd what happens when the entire world finds out?",
+    "from": 0,
+    "duration": 1093,
+    "words": [
+      {
+        "word": "imagine",
+        "from": 13,
+        "to": 27
+      },
+      {
+        "word": "waking",
+        "from": 27,
+        "to": 37
+      },
+      {
+        "word": "up",
+        "from": 37,
+        "to": 40
+      },
+      {
+        "word": "tomorrow",
+        "from": 40,
+        "to": 55
+      },
+      {
+        "word": "and",
+        "from": 55,
+        "to": 58
+      },
+      {
+        "word": "discovering",
+        "from": 58,
+        "to": 72
+      },
+      {
+        "word": "that",
+        "from": 72,
+        "to": 76
+      },
+      {
+        "word": "your",
+        "from": 76,
+        "to": 79
+      },
+      {
+        "word": "brain",
+        "from": 79,
+        "to": 89
+      },
+      {
+        "word": "has",
+        "from": 89,
+        "to": 96
+      },
+      {
+        "word": "developed",
+        "from": 96,
+        "to": 113
+      },
+      {
+        "word": "an",
+        "from": 113,
+        "to": 116
+      },
+      {
+        "word": "extraordinary",
+        "from": 116,
+        "to": 143
+      },
+      {
+        "word": "ability",
+        "from": 143,
+        "to": 159
+      },
+      {
+        "word": "you",
+        "from": 165,
+        "to": 168
+      },
+      {
+        "word": "can",
+        "from": 168,
+        "to": 172
+      },
+      {
+        "word": "learn",
+        "from": 172,
+        "to": 179
+      },
+      {
+        "word": "anything",
+        "from": 179,
+        "to": 194
+      },
+      {
+        "word": "one",
+        "from": 194,
+        "to": 200
+      },
+      {
+        "word": "hundred",
+        "from": 200,
+        "to": 209
+      },
+      {
+        "word": "times",
+        "from": 209,
+        "to": 221
+      },
+      {
+        "word": "faster",
+        "from": 221,
+        "to": 234
+      },
+      {
+        "word": "than",
+        "from": 234,
+        "to": 238
+      },
+      {
+        "word": "the",
+        "from": 238,
+        "to": 241
+      },
+      {
+        "word": "average",
+        "from": 241,
+        "to": 250
+      },
+      {
+        "word": "person",
+        "from": 250,
+        "to": 263
+      },
+      {
+        "word": "something",
+        "from": 263,
+        "to": 279
+      },
+      {
+        "word": "that",
+        "from": 279,
+        "to": 283
+      },
+      {
+        "word": "takes",
+        "from": 283,
+        "to": 291
+      },
+      {
+        "word": "someone",
+        "from": 291,
+        "to": 301
+      },
+      {
+        "word": "else",
+        "from": 301,
+        "to": 308
+      },
+      {
+        "word": "one",
+        "from": 308,
+        "to": 316
+      },
+      {
+        "word": "hundred",
+        "from": 316,
+        "to": 328
+      },
+      {
+        "word": "hours",
+        "from": 328,
+        "to": 339
+      },
+      {
+        "word": "to",
+        "from": 339,
+        "to": 341
+      },
+      {
+        "word": "understand",
+        "from": 341,
+        "to": 368
+      },
+      {
+        "word": "you",
+        "from": 386,
+        "to": 389
+      },
+      {
+        "word": "can",
+        "from": 389,
+        "to": 394
+      },
+      {
+        "word": "learn",
+        "from": 394,
+        "to": 400
+      },
+      {
+        "word": "in",
+        "from": 400,
+        "to": 403
+      },
+      {
+        "word": "just",
+        "from": 403,
+        "to": 410
+      },
+      {
+        "word": "one",
+        "from": 410,
+        "to": 417
+      },
+      {
+        "word": "hour",
+        "from": 417,
+        "to": 434
+      },
+      {
+        "word": "a",
+        "from": 434,
+        "to": 436
+      },
+      {
+        "word": "subject",
+        "from": 436,
+        "to": 453
+      },
+      {
+        "word": "that",
+        "from": 453,
+        "to": 458
+      },
+      {
+        "word": "normally",
+        "from": 458,
+        "to": 470
+      },
+      {
+        "word": "takes",
+        "from": 470,
+        "to": 480
+      },
+      {
+        "word": "months",
+        "from": 480,
+        "to": 489
+      },
+      {
+        "word": "to",
+        "from": 489,
+        "to": 491
+      },
+      {
+        "word": "master",
+        "from": 491,
+        "to": 507
+      },
+      {
+        "word": "you",
+        "from": 514,
+        "to": 517
+      },
+      {
+        "word": "could",
+        "from": 517,
+        "to": 521
+      },
+      {
+        "word": "absorb",
+        "from": 521,
+        "to": 532
+      },
+      {
+        "word": "the",
+        "from": 532,
+        "to": 535
+      },
+      {
+        "word": "knowledge",
+        "from": 535,
+        "to": 549
+      },
+      {
+        "word": "in",
+        "from": 549,
+        "to": 552
+      },
+      {
+        "word": "a",
+        "from": 552,
+        "to": 553
+      },
+      {
+        "word": "matter",
+        "from": 553,
+        "to": 562
+      },
+      {
+        "word": "of",
+        "from": 562,
+        "to": 565
+      },
+      {
+        "word": "days",
+        "from": 565,
+        "to": 584
+      },
+      {
+        "word": "mathematics",
+        "from": 592,
+        "to": 620
+      },
+      {
+        "word": "programming",
+        "from": 620,
+        "to": 645
+      },
+      {
+        "word": "economics",
+        "from": 650,
+        "to": 681
+      },
+      {
+        "word": "foreign",
+        "from": 681,
+        "to": 692
+      },
+      {
+        "word": "languages",
+        "from": 692,
+        "to": 708
+      },
+      {
+        "word": "suddenly",
+        "from": 708,
+        "to": 731
+      },
+      {
+        "word": "learning",
+        "from": 731,
+        "to": 743
+      },
+      {
+        "word": "becomes",
+        "from": 743,
+        "to": 760
+      },
+      {
+        "word": "unbelievably",
+        "from": 760,
+        "to": 786
+      },
+      {
+        "word": "easy",
+        "from": 786,
+        "to": 798
+      },
+      {
+        "word": "but",
+        "from": 798,
+        "to": 802
+      },
+      {
+        "word": "forget",
+        "from": 802,
+        "to": 813
+      },
+      {
+        "word": "about",
+        "from": 813,
+        "to": 820
+      },
+      {
+        "word": "getting",
+        "from": 820,
+        "to": 828
+      },
+      {
+        "word": "perfect",
+        "from": 828,
+        "to": 839
+      },
+      {
+        "word": "grades",
+        "from": 839,
+        "to": 862
+      },
+      {
+        "word": "the",
+        "from": 862,
+        "to": 865
+      },
+      {
+        "word": "real",
+        "from": 865,
+        "to": 872
+      },
+      {
+        "word": "question",
+        "from": 872,
+        "to": 886
+      },
+      {
+        "word": "is",
+        "from": 886,
+        "to": 896
+      },
+      {
+        "word": "how",
+        "from": 902,
+        "to": 907
+      },
+      {
+        "word": "much",
+        "from": 907,
+        "to": 914
+      },
+      {
+        "word": "money",
+        "from": 914,
+        "to": 925
+      },
+      {
+        "word": "could",
+        "from": 925,
+        "to": 931
+      },
+      {
+        "word": "you",
+        "from": 931,
+        "to": 935
+      },
+      {
+        "word": "make",
+        "from": 935,
+        "to": 942
+      },
+      {
+        "word": "with",
+        "from": 942,
+        "to": 946
+      },
+      {
+        "word": "a",
+        "from": 946,
+        "to": 947
+      },
+      {
+        "word": "brain",
+        "from": 947,
+        "to": 957
+      },
+      {
+        "word": "like",
+        "from": 957,
+        "to": 963
+      },
+      {
+        "word": "this",
+        "from": 963,
+        "to": 978
+      },
+      {
+        "word": "and",
+        "from": 983,
+        "to": 988
+      },
+      {
+        "word": "what",
+        "from": 988,
+        "to": 992
+      },
+      {
+        "word": "happens",
+        "from": 992,
+        "to": 1006
+      },
+      {
+        "word": "when",
+        "from": 1006,
+        "to": 1011
+      },
+      {
+        "word": "the",
+        "from": 1011,
+        "to": 1014
+      },
+      {
+        "word": "entire",
+        "from": 1014,
+        "to": 1028
+      },
+      {
+        "word": "world",
+        "from": 1028,
+        "to": 1042
+      },
+      {
+        "word": "finds",
+        "from": 1042,
+        "to": 1054
+      },
+      {
+        "word": "out",
+        "from": 1054,
+        "to": 1067
+      }
+    ],
+    "beats": [
+      {
+        "from": 0,
+        "tag": "alarm",
+        "phrase": ""
+      },
+      {
+        "from": 165,
+        "tag": "brain",
+        "phrase": "You can learn anything"
+      },
+      {
+        "from": 263,
+        "tag": "comparison",
+        "phrase": "Something that takes someone else"
+      },
+      {
+        "from": 434,
+        "tag": "knowledge",
+        "phrase": "A subject that normally takes months"
+      },
+      {
+        "from": 592,
+        "tag": "mathematics",
+        "phrase": "Mathematics"
+      },
+      {
+        "from": 620,
+        "tag": "programming",
+        "phrase": "Programming"
+      },
+      {
+        "from": 650,
+        "tag": "economics",
+        "phrase": "Economics"
+      },
+      {
+        "from": 681,
+        "tag": "languages",
+        "phrase": "Foreign languages"
+      },
+      {
+        "from": 798,
+        "tag": "grades",
+        "phrase": "But forget about getting perfect grades"
+      },
+      {
+        "from": 902,
+        "tag": "money",
+        "phrase": "How much money"
+      },
+      {
+        "from": 983,
+        "tag": "worldAttention",
+        "phrase": "And what happens"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "THE RULES OF YOUR SUPERPOWER",
+    "label": "THE RULES",
+    "text": "Before we begin, let's establish a few rules. You can understand and remember information one hundred times faster. But your body is still completely normal. A day still has only twenty-four hours. And if humanity hasn't discovered something yet... You'll still have to figure it out yourself. These might sound like small limitations. But they're going to determine just how far your superpower can actually take you.",
+    "originalText": "Before we begin, let's establish a few rules.\n\nYou can understand and remember information one hundred times faster.\n\nBut your body is still completely normal.\n\nA day still has only twenty-four hours.\n\nAnd if humanity hasn't discovered something yet...\n\nYou'll still have to figure it out yourself.\n\nThese might sound like small limitations.\n\nBut they're going to determine just how far your superpower can actually take you.",
+    "from": 1093,
+    "duration": 714,
+    "words": [
+      {
+        "word": "before",
+        "from": 10,
+        "to": 23
+      },
+      {
+        "word": "we",
+        "from": 23,
+        "to": 27
+      },
+      {
+        "word": "begin",
+        "from": 27,
+        "to": 42
+      },
+      {
+        "word": "let's",
+        "from": 57,
+        "to": 62
+      },
+      {
+        "word": "establish",
+        "from": 62,
+        "to": 79
+      },
+      {
+        "word": "a",
+        "from": 79,
+        "to": 80
+      },
+      {
+        "word": "few",
+        "from": 80,
+        "to": 89
+      },
+      {
+        "word": "rules",
+        "from": 89,
+        "to": 109
+      },
+      {
+        "word": "you",
+        "from": 109,
+        "to": 113
+      },
+      {
+        "word": "can",
+        "from": 113,
+        "to": 117
+      },
+      {
+        "word": "understand",
+        "from": 117,
+        "to": 136
+      },
+      {
+        "word": "and",
+        "from": 136,
+        "to": 139
+      },
+      {
+        "word": "remember",
+        "from": 139,
+        "to": 153
+      },
+      {
+        "word": "information",
+        "from": 153,
+        "to": 170
+      },
+      {
+        "word": "one",
+        "from": 170,
+        "to": 177
+      },
+      {
+        "word": "hundred",
+        "from": 177,
+        "to": 188
+      },
+      {
+        "word": "times",
+        "from": 188,
+        "to": 200
+      },
+      {
+        "word": "faster",
+        "from": 200,
+        "to": 221
+      },
+      {
+        "word": "but",
+        "from": 221,
+        "to": 226
+      },
+      {
+        "word": "your",
+        "from": 226,
+        "to": 229
+      },
+      {
+        "word": "body",
+        "from": 229,
+        "to": 239
+      },
+      {
+        "word": "is",
+        "from": 239,
+        "to": 242
+      },
+      {
+        "word": "still",
+        "from": 242,
+        "to": 249
+      },
+      {
+        "word": "completely",
+        "from": 249,
+        "to": 266
+      },
+      {
+        "word": "normal",
+        "from": 266,
+        "to": 285
+      },
+      {
+        "word": "a",
+        "from": 285,
+        "to": 288
+      },
+      {
+        "word": "day",
+        "from": 288,
+        "to": 296
+      },
+      {
+        "word": "still",
+        "from": 296,
+        "to": 309
+      },
+      {
+        "word": "has",
+        "from": 309,
+        "to": 315
+      },
+      {
+        "word": "only",
+        "from": 315,
+        "to": 322
+      },
+      {
+        "word": "twenty",
+        "from": 322,
+        "to": 331
+      },
+      {
+        "word": "four",
+        "from": 331,
+        "to": 338
+      },
+      {
+        "word": "hours",
+        "from": 338,
+        "to": 358
+      },
+      {
+        "word": "and",
+        "from": 358,
+        "to": 364
+      },
+      {
+        "word": "if",
+        "from": 364,
+        "to": 369
+      },
+      {
+        "word": "humanity",
+        "from": 369,
+        "to": 386
+      },
+      {
+        "word": "hasn't",
+        "from": 386,
+        "to": 397
+      },
+      {
+        "word": "discovered",
+        "from": 397,
+        "to": 411
+      },
+      {
+        "word": "something",
+        "from": 411,
+        "to": 421
+      },
+      {
+        "word": "yet",
+        "from": 421,
+        "to": 431
+      },
+      {
+        "word": "you'll",
+        "from": 438,
+        "to": 442
+      },
+      {
+        "word": "still",
+        "from": 442,
+        "to": 450
+      },
+      {
+        "word": "have",
+        "from": 450,
+        "to": 454
+      },
+      {
+        "word": "to",
+        "from": 454,
+        "to": 457
+      },
+      {
+        "word": "figure",
+        "from": 457,
+        "to": 466
+      },
+      {
+        "word": "it",
+        "from": 466,
+        "to": 468
+      },
+      {
+        "word": "out",
+        "from": 468,
+        "to": 473
+      },
+      {
+        "word": "yourself",
+        "from": 473,
+        "to": 489
+      },
+      {
+        "word": "these",
+        "from": 496,
+        "to": 503
+      },
+      {
+        "word": "might",
+        "from": 503,
+        "to": 509
+      },
+      {
+        "word": "sound",
+        "from": 509,
+        "to": 518
+      },
+      {
+        "word": "like",
+        "from": 518,
+        "to": 523
+      },
+      {
+        "word": "small",
+        "from": 523,
+        "to": 532
+      },
+      {
+        "word": "limitations",
+        "from": 532,
+        "to": 560
+      },
+      {
+        "word": "but",
+        "from": 560,
+        "to": 566
+      },
+      {
+        "word": "they're",
+        "from": 566,
+        "to": 569
+      },
+      {
+        "word": "going",
+        "from": 569,
+        "to": 575
+      },
+      {
+        "word": "to",
+        "from": 575,
+        "to": 578
+      },
+      {
+        "word": "determine",
+        "from": 578,
+        "to": 595
+      },
+      {
+        "word": "just",
+        "from": 595,
+        "to": 604
+      },
+      {
+        "word": "how",
+        "from": 604,
+        "to": 612
+      },
+      {
+        "word": "far",
+        "from": 612,
+        "to": 623
+      },
+      {
+        "word": "your",
+        "from": 623,
+        "to": 626
+      },
+      {
+        "word": "superpower",
+        "from": 626,
+        "to": 644
+      },
+      {
+        "word": "can",
+        "from": 644,
+        "to": 649
+      },
+      {
+        "word": "actually",
+        "from": 649,
+        "to": 665
+      },
+      {
+        "word": "take",
+        "from": 665,
+        "to": 675
+      },
+      {
+        "word": "you",
+        "from": 675,
+        "to": 689
+      }
+    ],
+    "beats": [
+      {
+        "from": 0,
+        "tag": "rules",
+        "phrase": ""
+      },
+      {
+        "from": 109,
+        "tag": "learn",
+        "phrase": "You can understand"
+      },
+      {
+        "from": 221,
+        "tag": "body",
+        "phrase": "But your body"
+      },
+      {
+        "from": 285,
+        "tag": "day",
+        "phrase": "A day still"
+      },
+      {
+        "from": 358,
+        "tag": "unknown",
+        "phrase": "And if humanity"
+      },
+      {
+        "from": 496,
+        "tag": "limits",
+        "phrase": "These might sound"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "DAY ONE: BECOMING THE SMARTEST STUDENT IN CLASS",
+    "label": "DAY ONE",
+    "text": "Let's start with an ordinary day. You're sitting in class. Your teacher is explaining a complicated math problem. Normally, you might need hours of practice to understand it. But today? Within minutes, everything makes sense. You understand the formulas, the logic behind them, and exactly how to apply them. While everyone else is still taking notes... You're already studying the next chapter. So you decide to test your limits. Why stop at mathematics? You move on to physics. Then chemistry. Economics. And computer science. Knowledge that would normally take years to absorb now takes a fraction of the time. After just one week, you've learned an incredible amount. Of course, knowing everything in a degree program doesn't mean a university will immediately hand you a diploma. You still have to meet its official requirements. But you've realized something important. Learning is no longer your biggest obstacle. And that gives you an idea. Why use this ability just to get better grades?",
+    "originalText": "Let's start with an ordinary day.\n\nYou're sitting in class.\n\nYour teacher is explaining a complicated math problem.\n\nNormally, you might need hours of practice to understand it.\n\nBut today?\n\nWithin minutes, everything makes sense.\n\nYou understand the formulas, the logic behind them, and exactly how to apply them.\n\nWhile everyone else is still taking notes...\n\nYou're already studying the next chapter.\n\nSo you decide to test your limits.\n\nWhy stop at mathematics?\n\nYou move on to physics.\n\nThen chemistry.\n\nEconomics.\n\nAnd computer science.\n\nKnowledge that would normally take years to absorb now takes a fraction of the time.\n\nAfter just one week, you've learned an incredible amount.\n\nOf course, knowing everything in a degree program doesn't mean a university will immediately hand you a diploma.\n\nYou still have to meet its official requirements.\n\nBut you've realized something important.\n\nLearning is no longer your biggest obstacle.\n\nAnd that gives you an idea.\n\nWhy use this ability just to get better grades?",
+    "from": 1807,
+    "duration": 1632,
+    "words": [
+      {
+        "word": "let's",
+        "from": 14,
+        "to": 20
+      },
+      {
+        "word": "start",
+        "from": 20,
+        "to": 27
+      },
+      {
+        "word": "with",
+        "from": 27,
+        "to": 31
+      },
+      {
+        "word": "an",
+        "from": 31,
+        "to": 34
+      },
+      {
+        "word": "ordinary",
+        "from": 34,
+        "to": 50
+      },
+      {
+        "word": "day",
+        "from": 50,
+        "to": 62
+      },
+      {
+        "word": "you're",
+        "from": 68,
+        "to": 72
+      },
+      {
+        "word": "sitting",
+        "from": 72,
+        "to": 82
+      },
+      {
+        "word": "in",
+        "from": 82,
+        "to": 85
+      },
+      {
+        "word": "class",
+        "from": 85,
+        "to": 105
+      },
+      {
+        "word": "your",
+        "from": 105,
+        "to": 109
+      },
+      {
+        "word": "teacher",
+        "from": 109,
+        "to": 122
+      },
+      {
+        "word": "is",
+        "from": 122,
+        "to": 127
+      },
+      {
+        "word": "explaining",
+        "from": 127,
+        "to": 142
+      },
+      {
+        "word": "a",
+        "from": 142,
+        "to": 144
+      },
+      {
+        "word": "complicated",
+        "from": 144,
+        "to": 160
+      },
+      {
+        "word": "math",
+        "from": 160,
+        "to": 167
+      },
+      {
+        "word": "problem",
+        "from": 167,
+        "to": 187
+      },
+      {
+        "word": "normally",
+        "from": 187,
+        "to": 206
+      },
+      {
+        "word": "you",
+        "from": 206,
+        "to": 211
+      },
+      {
+        "word": "might",
+        "from": 211,
+        "to": 217
+      },
+      {
+        "word": "need",
+        "from": 217,
+        "to": 222
+      },
+      {
+        "word": "hours",
+        "from": 222,
+        "to": 233
+      },
+      {
+        "word": "of",
+        "from": 233,
+        "to": 235
+      },
+      {
+        "word": "practice",
+        "from": 235,
+        "to": 250
+      },
+      {
+        "word": "to",
+        "from": 250,
+        "to": 252
+      },
+      {
+        "word": "understand",
+        "from": 252,
+        "to": 269
+      },
+      {
+        "word": "it",
+        "from": 269,
+        "to": 280
+      },
+      {
+        "word": "but",
+        "from": 280,
+        "to": 284
+      },
+      {
+        "word": "today",
+        "from": 284,
+        "to": 298
+      },
+      {
+        "word": "within",
+        "from": 304,
+        "to": 312
+      },
+      {
+        "word": "minutes",
+        "from": 312,
+        "to": 332
+      },
+      {
+        "word": "everything",
+        "from": 332,
+        "to": 345
+      },
+      {
+        "word": "makes",
+        "from": 345,
+        "to": 354
+      },
+      {
+        "word": "sense",
+        "from": 354,
+        "to": 374
+      },
+      {
+        "word": "you",
+        "from": 374,
+        "to": 379
+      },
+      {
+        "word": "understand",
+        "from": 379,
+        "to": 393
+      },
+      {
+        "word": "the",
+        "from": 393,
+        "to": 395
+      },
+      {
+        "word": "formulas",
+        "from": 395,
+        "to": 419
+      },
+      {
+        "word": "the",
+        "from": 419,
+        "to": 421
+      },
+      {
+        "word": "logic",
+        "from": 421,
+        "to": 434
+      },
+      {
+        "word": "behind",
+        "from": 434,
+        "to": 446
+      },
+      {
+        "word": "them",
+        "from": 446,
+        "to": 456
+      },
+      {
+        "word": "and",
+        "from": 456,
+        "to": 460
+      },
+      {
+        "word": "exactly",
+        "from": 460,
+        "to": 478
+      },
+      {
+        "word": "how",
+        "from": 478,
+        "to": 485
+      },
+      {
+        "word": "to",
+        "from": 485,
+        "to": 491
+      },
+      {
+        "word": "apply",
+        "from": 491,
+        "to": 501
+      },
+      {
+        "word": "them",
+        "from": 501,
+        "to": 509
+      },
+      {
+        "word": "while",
+        "from": 517,
+        "to": 525
+      },
+      {
+        "word": "everyone",
+        "from": 525,
+        "to": 538
+      },
+      {
+        "word": "else",
+        "from": 538,
+        "to": 546
+      },
+      {
+        "word": "is",
+        "from": 546,
+        "to": 549
+      },
+      {
+        "word": "still",
+        "from": 549,
+        "to": 557
+      },
+      {
+        "word": "taking",
+        "from": 557,
+        "to": 568
+      },
+      {
+        "word": "notes",
+        "from": 568,
+        "to": 583
+      },
+      {
+        "word": "you're",
+        "from": 609,
+        "to": 615
+      },
+      {
+        "word": "already",
+        "from": 615,
+        "to": 625
+      },
+      {
+        "word": "studying",
+        "from": 625,
+        "to": 639
+      },
+      {
+        "word": "the",
+        "from": 639,
+        "to": 641
+      },
+      {
+        "word": "next",
+        "from": 641,
+        "to": 649
+      },
+      {
+        "word": "chapter",
+        "from": 649,
+        "to": 665
+      },
+      {
+        "word": "so",
+        "from": 671,
+        "to": 674
+      },
+      {
+        "word": "you",
+        "from": 674,
+        "to": 678
+      },
+      {
+        "word": "decide",
+        "from": 678,
+        "to": 690
+      },
+      {
+        "word": "to",
+        "from": 690,
+        "to": 692
+      },
+      {
+        "word": "test",
+        "from": 692,
+        "to": 701
+      },
+      {
+        "word": "your",
+        "from": 701,
+        "to": 704
+      },
+      {
+        "word": "limits",
+        "from": 704,
+        "to": 717
+      },
+      {
+        "word": "why",
+        "from": 724,
+        "to": 729
+      },
+      {
+        "word": "stop",
+        "from": 729,
+        "to": 739
+      },
+      {
+        "word": "at",
+        "from": 739,
+        "to": 741
+      },
+      {
+        "word": "mathematics",
+        "from": 741,
+        "to": 767
+      },
+      {
+        "word": "you",
+        "from": 767,
+        "to": 772
+      },
+      {
+        "word": "move",
+        "from": 772,
+        "to": 779
+      },
+      {
+        "word": "on",
+        "from": 779,
+        "to": 784
+      },
+      {
+        "word": "to",
+        "from": 784,
+        "to": 787
+      },
+      {
+        "word": "physics",
+        "from": 787,
+        "to": 807
+      },
+      {
+        "word": "then",
+        "from": 807,
+        "to": 818
+      },
+      {
+        "word": "chemistry",
+        "from": 818,
+        "to": 837
+      },
+      {
+        "word": "economics",
+        "from": 843,
+        "to": 868
+      },
+      {
+        "word": "and",
+        "from": 871,
+        "to": 878
+      },
+      {
+        "word": "computer",
+        "from": 878,
+        "to": 891
+      },
+      {
+        "word": "science",
+        "from": 891,
+        "to": 917
+      },
+      {
+        "word": "knowledge",
+        "from": 917,
+        "to": 931
+      },
+      {
+        "word": "that",
+        "from": 931,
+        "to": 936
+      },
+      {
+        "word": "would",
+        "from": 936,
+        "to": 941
+      },
+      {
+        "word": "normally",
+        "from": 941,
+        "to": 954
+      },
+      {
+        "word": "take",
+        "from": 954,
+        "to": 963
+      },
+      {
+        "word": "years",
+        "from": 963,
+        "to": 979
+      },
+      {
+        "word": "to",
+        "from": 979,
+        "to": 985
+      },
+      {
+        "word": "absorb",
+        "from": 985,
+        "to": 1001
+      },
+      {
+        "word": "now",
+        "from": 1001,
+        "to": 1008
+      },
+      {
+        "word": "takes",
+        "from": 1008,
+        "to": 1017
+      },
+      {
+        "word": "a",
+        "from": 1017,
+        "to": 1018
+      },
+      {
+        "word": "fraction",
+        "from": 1018,
+        "to": 1036
+      },
+      {
+        "word": "of",
+        "from": 1036,
+        "to": 1040
+      },
+      {
+        "word": "the",
+        "from": 1040,
+        "to": 1043
+      },
+      {
+        "word": "time",
+        "from": 1043,
+        "to": 1055
+      },
+      {
+        "word": "after",
+        "from": 1065,
+        "to": 1071
+      },
+      {
+        "word": "just",
+        "from": 1071,
+        "to": 1078
+      },
+      {
+        "word": "one",
+        "from": 1078,
+        "to": 1084
+      },
+      {
+        "word": "week",
+        "from": 1084,
+        "to": 1094
+      },
+      {
+        "word": "you've",
+        "from": 1094,
+        "to": 1100
+      },
+      {
+        "word": "learned",
+        "from": 1100,
+        "to": 1107
+      },
+      {
+        "word": "an",
+        "from": 1107,
+        "to": 1110
+      },
+      {
+        "word": "incredible",
+        "from": 1110,
+        "to": 1127
+      },
+      {
+        "word": "amount",
+        "from": 1127,
+        "to": 1145
+      },
+      {
+        "word": "of",
+        "from": 1145,
+        "to": 1148
+      },
+      {
+        "word": "course",
+        "from": 1148,
+        "to": 1163
+      },
+      {
+        "word": "knowing",
+        "from": 1163,
+        "to": 1172
+      },
+      {
+        "word": "everything",
+        "from": 1172,
+        "to": 1182
+      },
+      {
+        "word": "in",
+        "from": 1182,
+        "to": 1184
+      },
+      {
+        "word": "a",
+        "from": 1184,
+        "to": 1185
+      },
+      {
+        "word": "degree",
+        "from": 1185,
+        "to": 1194
+      },
+      {
+        "word": "program",
+        "from": 1194,
+        "to": 1209
+      },
+      {
+        "word": "doesn't",
+        "from": 1209,
+        "to": 1218
+      },
+      {
+        "word": "mean",
+        "from": 1218,
+        "to": 1224
+      },
+      {
+        "word": "a",
+        "from": 1224,
+        "to": 1225
+      },
+      {
+        "word": "university",
+        "from": 1225,
+        "to": 1244
+      },
+      {
+        "word": "will",
+        "from": 1244,
+        "to": 1250
+      },
+      {
+        "word": "immediately",
+        "from": 1250,
+        "to": 1264
+      },
+      {
+        "word": "hand",
+        "from": 1264,
+        "to": 1272
+      },
+      {
+        "word": "you",
+        "from": 1272,
+        "to": 1277
+      },
+      {
+        "word": "a",
+        "from": 1277,
+        "to": 1278
+      },
+      {
+        "word": "diploma",
+        "from": 1278,
+        "to": 1299
+      },
+      {
+        "word": "you",
+        "from": 1308,
+        "to": 1313
+      },
+      {
+        "word": "still",
+        "from": 1313,
+        "to": 1320
+      },
+      {
+        "word": "have",
+        "from": 1320,
+        "to": 1326
+      },
+      {
+        "word": "to",
+        "from": 1326,
+        "to": 1329
+      },
+      {
+        "word": "meet",
+        "from": 1329,
+        "to": 1334
+      },
+      {
+        "word": "its",
+        "from": 1334,
+        "to": 1338
+      },
+      {
+        "word": "official",
+        "from": 1338,
+        "to": 1350
+      },
+      {
+        "word": "requirements",
+        "from": 1350,
+        "to": 1374
+      },
+      {
+        "word": "but",
+        "from": 1374,
+        "to": 1382
+      },
+      {
+        "word": "you've",
+        "from": 1382,
+        "to": 1387
+      },
+      {
+        "word": "realized",
+        "from": 1387,
+        "to": 1400
+      },
+      {
+        "word": "something",
+        "from": 1400,
+        "to": 1408
+      },
+      {
+        "word": "important",
+        "from": 1408,
+        "to": 1424
+      },
+      {
+        "word": "learning",
+        "from": 1432,
+        "to": 1441
+      },
+      {
+        "word": "is",
+        "from": 1441,
+        "to": 1444
+      },
+      {
+        "word": "no",
+        "from": 1444,
+        "to": 1448
+      },
+      {
+        "word": "longer",
+        "from": 1448,
+        "to": 1457
+      },
+      {
+        "word": "your",
+        "from": 1457,
+        "to": 1460
+      },
+      {
+        "word": "biggest",
+        "from": 1460,
+        "to": 1472
+      },
+      {
+        "word": "obstacle",
+        "from": 1472,
+        "to": 1494
+      },
+      {
+        "word": "and",
+        "from": 1494,
+        "to": 1498
+      },
+      {
+        "word": "that",
+        "from": 1498,
+        "to": 1504
+      },
+      {
+        "word": "gives",
+        "from": 1504,
+        "to": 1510
+      },
+      {
+        "word": "you",
+        "from": 1510,
+        "to": 1514
+      },
+      {
+        "word": "an",
+        "from": 1514,
+        "to": 1516
+      },
+      {
+        "word": "idea",
+        "from": 1516,
+        "to": 1530
+      },
+      {
+        "word": "why",
+        "from": 1536,
+        "to": 1541
+      },
+      {
+        "word": "use",
+        "from": 1541,
+        "to": 1548
+      },
+      {
+        "word": "this",
+        "from": 1548,
+        "to": 1554
+      },
+      {
+        "word": "ability",
+        "from": 1554,
+        "to": 1566
+      },
+      {
+        "word": "just",
+        "from": 1566,
+        "to": 1574
+      },
+      {
+        "word": "to",
+        "from": 1574,
+        "to": 1575
+      },
+      {
+        "word": "get",
+        "from": 1575,
+        "to": 1580
+      },
+      {
+        "word": "better",
+        "from": 1580,
+        "to": 1586
+      },
+      {
+        "word": "grades",
+        "from": 1586,
+        "to": 1606
+      }
+    ],
+    "beats": [
+      {
+        "from": 0,
+        "tag": "classroom",
+        "phrase": ""
+      },
+      {
+        "from": 105,
+        "tag": "equation",
+        "phrase": "Your teacher"
+      },
+      {
+        "from": 304,
+        "tag": "solution",
+        "phrase": "Within minutes"
+      },
+      {
+        "from": 517,
+        "tag": "nextChapter",
+        "phrase": "While everyone else"
+      },
+      {
+        "from": 671,
+        "tag": "testLimits",
+        "phrase": "So you decide"
+      },
+      {
+        "from": 767,
+        "tag": "physics",
+        "phrase": "You move on to physics"
+      },
+      {
+        "from": 807,
+        "tag": "chemistry",
+        "phrase": "Then chemistry"
+      },
+      {
+        "from": 843,
+        "tag": "economics",
+        "phrase": "Economics"
+      },
+      {
+        "from": 871,
+        "tag": "programming",
+        "phrase": "And computer science"
+      },
+      {
+        "from": 1065,
+        "tag": "week",
+        "phrase": "After just one week"
+      },
+      {
+        "from": 1145,
+        "tag": "diploma",
+        "phrase": "Of course knowing"
+      },
+      {
+        "from": 1308,
+        "tag": "requirements",
+        "phrase": "You still have to meet"
+      },
+      {
+        "from": 1374,
+        "tag": "opportunity",
+        "phrase": "But you've realized"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "MAKING MONEY WITH A SUPERHUMAN BRAIN",
+    "label": "BUILD. FAIL. ADAPT.",
+    "text": "Now let's talk about what you're probably thinking. Money. You start by learning how to code. What normally takes hundreds of hours of study... You can learn in a tiny fraction of that time. Next comes website design. App development. Artificial intelligence. Marketing. And business management. Within weeks, you've built a foundation across several professional fields. So you decide to launch an online store. First, you research the market. You study customer behavior. Learn how to choose products. Analyze competitors. And figure out how online advertising works. While a beginner might spend months learning these things... You can understand the underlying concepts in days. You launch your first product. And then... Nothing. Not a single customer buys it. Apparently, even knowing everything about marketing doesn't mean you can force people to spend money. So you investigate. Is the price too high? Are the product photos terrible? Or does nobody actually want what you're selling? You test different ideas, analyze the results, and adjust your strategy. Finally, the first order arrives. Then another. And another. You realize your greatest advantage isn't that you'll always succeed. It's that you can learn from mistakes and adapt incredibly quickly. Next, you study investing. Stocks. Real estate. Financial markets. You understand complicated economic models in record time. But even with your extraordinary brain... You still can't know for certain whether a stock will rise or fall tomorrow. Because the economy isn't just a mathematical equation. It's influenced by millions of human decisions. And not every decision can be predicted.",
+    "originalText": "Now let's talk about what you're probably thinking.\n\nMoney.\n\nYou start by learning how to code.\n\nWhat normally takes hundreds of hours of study...\n\nYou can learn in a tiny fraction of that time.\n\nNext comes website design.\n\nApp development.\n\nArtificial intelligence.\n\nMarketing.\n\nAnd business management.\n\nWithin weeks, you've built a foundation across several professional fields.\n\nSo you decide to launch an online store.\n\nFirst, you research the market.\n\nYou study customer behavior.\n\nLearn how to choose products.\n\nAnalyze competitors.\n\nAnd figure out how online advertising works.\n\nWhile a beginner might spend months learning these things...\n\nYou can understand the underlying concepts in days.\n\nYou launch your first product.\n\nAnd then...\n\nNothing.\n\nNot a single customer buys it.\n\nApparently, even knowing everything about marketing doesn't mean you can force people to spend money.\n\nSo you investigate.\n\nIs the price too high?\n\nAre the product photos terrible?\n\nOr does nobody actually want what you're selling?\n\nYou test different ideas, analyze the results, and adjust your strategy.\n\nFinally, the first order arrives.\n\nThen another.\n\nAnd another.\n\nYou realize your greatest advantage isn't that you'll always succeed.\n\nIt's that you can learn from mistakes and adapt incredibly quickly.\n\nNext, you study investing.\n\nStocks.\n\nReal estate.\n\nFinancial markets.\n\nYou understand complicated economic models in record time.\n\nBut even with your extraordinary brain...\n\nYou still can't know for certain whether a stock will rise or fall tomorrow.\n\nBecause the economy isn't just a mathematical equation.\n\nIt's influenced by millions of human decisions.\n\nAnd not every decision can be predicted.",
+    "from": 3439,
+    "duration": 2889,
+    "words": [
+      {
+        "word": "now",
+        "from": 13,
+        "to": 17
+      },
+      {
+        "word": "let's",
+        "from": 17,
+        "to": 25
+      },
+      {
+        "word": "talk",
+        "from": 25,
+        "to": 31
+      },
+      {
+        "word": "about",
+        "from": 31,
+        "to": 35
+      },
+      {
+        "word": "what",
+        "from": 35,
+        "to": 41
+      },
+      {
+        "word": "you're",
+        "from": 41,
+        "to": 44
+      },
+      {
+        "word": "probably",
+        "from": 44,
+        "to": 54
+      },
+      {
+        "word": "thinking",
+        "from": 54,
+        "to": 71
+      },
+      {
+        "word": "money",
+        "from": 71,
+        "to": 90
+      },
+      {
+        "word": "you",
+        "from": 90,
+        "to": 93
+      },
+      {
+        "word": "start",
+        "from": 93,
+        "to": 101
+      },
+      {
+        "word": "by",
+        "from": 101,
+        "to": 105
+      },
+      {
+        "word": "learning",
+        "from": 105,
+        "to": 116
+      },
+      {
+        "word": "how",
+        "from": 116,
+        "to": 122
+      },
+      {
+        "word": "to",
+        "from": 122,
+        "to": 124
+      },
+      {
+        "word": "code",
+        "from": 124,
+        "to": 142
+      },
+      {
+        "word": "what",
+        "from": 142,
+        "to": 149
+      },
+      {
+        "word": "normally",
+        "from": 149,
+        "to": 162
+      },
+      {
+        "word": "takes",
+        "from": 162,
+        "to": 172
+      },
+      {
+        "word": "hundreds",
+        "from": 172,
+        "to": 188
+      },
+      {
+        "word": "of",
+        "from": 188,
+        "to": 190
+      },
+      {
+        "word": "hours",
+        "from": 190,
+        "to": 201
+      },
+      {
+        "word": "of",
+        "from": 201,
+        "to": 203
+      },
+      {
+        "word": "study",
+        "from": 203,
+        "to": 217
+      },
+      {
+        "word": "you",
+        "from": 228,
+        "to": 231
+      },
+      {
+        "word": "can",
+        "from": 231,
+        "to": 235
+      },
+      {
+        "word": "learn",
+        "from": 235,
+        "to": 243
+      },
+      {
+        "word": "in",
+        "from": 243,
+        "to": 246
+      },
+      {
+        "word": "a",
+        "from": 246,
+        "to": 248
+      },
+      {
+        "word": "tiny",
+        "from": 248,
+        "to": 259
+      },
+      {
+        "word": "fraction",
+        "from": 259,
+        "to": 279
+      },
+      {
+        "word": "of",
+        "from": 279,
+        "to": 284
+      },
+      {
+        "word": "that",
+        "from": 284,
+        "to": 290
+      },
+      {
+        "word": "time",
+        "from": 290,
+        "to": 301
+      },
+      {
+        "word": "next",
+        "from": 309,
+        "to": 319
+      },
+      {
+        "word": "comes",
+        "from": 319,
+        "to": 327
+      },
+      {
+        "word": "website",
+        "from": 327,
+        "to": 339
+      },
+      {
+        "word": "design",
+        "from": 339,
+        "to": 356
+      },
+      {
+        "word": "app",
+        "from": 356,
+        "to": 363
+      },
+      {
+        "word": "development",
+        "from": 363,
+        "to": 386
+      },
+      {
+        "word": "artificial",
+        "from": 386,
+        "to": 402
+      },
+      {
+        "word": "intelligence",
+        "from": 402,
+        "to": 427
+      },
+      {
+        "word": "marketing",
+        "from": 427,
+        "to": 451
+      },
+      {
+        "word": "and",
+        "from": 451,
+        "to": 458
+      },
+      {
+        "word": "business",
+        "from": 458,
+        "to": 470
+      },
+      {
+        "word": "management",
+        "from": 470,
+        "to": 489
+      },
+      {
+        "word": "within",
+        "from": 494,
+        "to": 503
+      },
+      {
+        "word": "weeks",
+        "from": 503,
+        "to": 518
+      },
+      {
+        "word": "you've",
+        "from": 518,
+        "to": 525
+      },
+      {
+        "word": "built",
+        "from": 525,
+        "to": 534
+      },
+      {
+        "word": "a",
+        "from": 534,
+        "to": 536
+      },
+      {
+        "word": "foundation",
+        "from": 536,
+        "to": 559
+      },
+      {
+        "word": "across",
+        "from": 559,
+        "to": 569
+      },
+      {
+        "word": "several",
+        "from": 569,
+        "to": 580
+      },
+      {
+        "word": "professional",
+        "from": 580,
+        "to": 597
+      },
+      {
+        "word": "fields",
+        "from": 597,
+        "to": 617
+      },
+      {
+        "word": "so",
+        "from": 625,
+        "to": 632
+      },
+      {
+        "word": "you",
+        "from": 632,
+        "to": 638
+      },
+      {
+        "word": "decide",
+        "from": 638,
+        "to": 652
+      },
+      {
+        "word": "to",
+        "from": 652,
+        "to": 655
+      },
+      {
+        "word": "launch",
+        "from": 655,
+        "to": 666
+      },
+      {
+        "word": "an",
+        "from": 666,
+        "to": 668
+      },
+      {
+        "word": "online",
+        "from": 668,
+        "to": 684
+      },
+      {
+        "word": "store",
+        "from": 684,
+        "to": 706
+      },
+      {
+        "word": "first",
+        "from": 706,
+        "to": 723
+      },
+      {
+        "word": "you",
+        "from": 723,
+        "to": 728
+      },
+      {
+        "word": "research",
+        "from": 728,
+        "to": 743
+      },
+      {
+        "word": "the",
+        "from": 743,
+        "to": 745
+      },
+      {
+        "word": "market",
+        "from": 745,
+        "to": 761
+      },
+      {
+        "word": "you",
+        "from": 761,
+        "to": 766
+      },
+      {
+        "word": "study",
+        "from": 766,
+        "to": 778
+      },
+      {
+        "word": "customer",
+        "from": 778,
+        "to": 794
+      },
+      {
+        "word": "behavior",
+        "from": 794,
+        "to": 816
+      },
+      {
+        "word": "learn",
+        "from": 825,
+        "to": 834
+      },
+      {
+        "word": "how",
+        "from": 834,
+        "to": 839
+      },
+      {
+        "word": "to",
+        "from": 839,
+        "to": 841
+      },
+      {
+        "word": "choose",
+        "from": 841,
+        "to": 852
+      },
+      {
+        "word": "products",
+        "from": 852,
+        "to": 871
+      },
+      {
+        "word": "analyze",
+        "from": 877,
+        "to": 890
+      },
+      {
+        "word": "competitors",
+        "from": 890,
+        "to": 914
+      },
+      {
+        "word": "and",
+        "from": 914,
+        "to": 922
+      },
+      {
+        "word": "figure",
+        "from": 922,
+        "to": 933
+      },
+      {
+        "word": "out",
+        "from": 933,
+        "to": 937
+      },
+      {
+        "word": "how",
+        "from": 937,
+        "to": 943
+      },
+      {
+        "word": "online",
+        "from": 943,
+        "to": 958
+      },
+      {
+        "word": "advertising",
+        "from": 958,
+        "to": 977
+      },
+      {
+        "word": "works",
+        "from": 977,
+        "to": 991
+      },
+      {
+        "word": "while",
+        "from": 1001,
+        "to": 1007
+      },
+      {
+        "word": "a",
+        "from": 1007,
+        "to": 1009
+      },
+      {
+        "word": "beginner",
+        "from": 1009,
+        "to": 1022
+      },
+      {
+        "word": "might",
+        "from": 1022,
+        "to": 1030
+      },
+      {
+        "word": "spend",
+        "from": 1030,
+        "to": 1040
+      },
+      {
+        "word": "months",
+        "from": 1040,
+        "to": 1051
+      },
+      {
+        "word": "learning",
+        "from": 1051,
+        "to": 1061
+      },
+      {
+        "word": "these",
+        "from": 1061,
+        "to": 1069
+      },
+      {
+        "word": "things",
+        "from": 1069,
+        "to": 1083
+      },
+      {
+        "word": "you",
+        "from": 1094,
+        "to": 1098
+      },
+      {
+        "word": "can",
+        "from": 1098,
+        "to": 1104
+      },
+      {
+        "word": "understand",
+        "from": 1104,
+        "to": 1125
+      },
+      {
+        "word": "the",
+        "from": 1125,
+        "to": 1130
+      },
+      {
+        "word": "underlying",
+        "from": 1130,
+        "to": 1148
+      },
+      {
+        "word": "concepts",
+        "from": 1148,
+        "to": 1167
+      },
+      {
+        "word": "in",
+        "from": 1167,
+        "to": 1171
+      },
+      {
+        "word": "days",
+        "from": 1171,
+        "to": 1187
+      },
+      {
+        "word": "you",
+        "from": 1193,
+        "to": 1198
+      },
+      {
+        "word": "launch",
+        "from": 1198,
+        "to": 1206
+      },
+      {
+        "word": "your",
+        "from": 1206,
+        "to": 1209
+      },
+      {
+        "word": "first",
+        "from": 1209,
+        "to": 1219
+      },
+      {
+        "word": "product",
+        "from": 1219,
+        "to": 1241
+      },
+      {
+        "word": "and",
+        "from": 1241,
+        "to": 1247
+      },
+      {
+        "word": "then",
+        "from": 1247,
+        "to": 1262
+      },
+      {
+        "word": "nothing",
+        "from": 1270,
+        "to": 1283
+      },
+      {
+        "word": "not",
+        "from": 1283,
+        "to": 1291
+      },
+      {
+        "word": "a",
+        "from": 1291,
+        "to": 1292
+      },
+      {
+        "word": "single",
+        "from": 1292,
+        "to": 1303
+      },
+      {
+        "word": "customer",
+        "from": 1303,
+        "to": 1317
+      },
+      {
+        "word": "buys",
+        "from": 1317,
+        "to": 1327
+      },
+      {
+        "word": "it",
+        "from": 1327,
+        "to": 1340
+      },
+      {
+        "word": "apparently",
+        "from": 1340,
+        "to": 1365
+      },
+      {
+        "word": "even",
+        "from": 1365,
+        "to": 1373
+      },
+      {
+        "word": "knowing",
+        "from": 1373,
+        "to": 1385
+      },
+      {
+        "word": "everything",
+        "from": 1385,
+        "to": 1396
+      },
+      {
+        "word": "about",
+        "from": 1396,
+        "to": 1402
+      },
+      {
+        "word": "marketing",
+        "from": 1402,
+        "to": 1415
+      },
+      {
+        "word": "doesn't",
+        "from": 1415,
+        "to": 1423
+      },
+      {
+        "word": "mean",
+        "from": 1423,
+        "to": 1429
+      },
+      {
+        "word": "you",
+        "from": 1429,
+        "to": 1432
+      },
+      {
+        "word": "can",
+        "from": 1432,
+        "to": 1435
+      },
+      {
+        "word": "force",
+        "from": 1435,
+        "to": 1444
+      },
+      {
+        "word": "people",
+        "from": 1444,
+        "to": 1452
+      },
+      {
+        "word": "to",
+        "from": 1452,
+        "to": 1454
+      },
+      {
+        "word": "spend",
+        "from": 1454,
+        "to": 1462
+      },
+      {
+        "word": "money",
+        "from": 1462,
+        "to": 1478
+      },
+      {
+        "word": "so",
+        "from": 1478,
+        "to": 1483
+      },
+      {
+        "word": "you",
+        "from": 1483,
+        "to": 1488
+      },
+      {
+        "word": "investigate",
+        "from": 1488,
+        "to": 1510
+      },
+      {
+        "word": "is",
+        "from": 1510,
+        "to": 1517
+      },
+      {
+        "word": "the",
+        "from": 1517,
+        "to": 1519
+      },
+      {
+        "word": "price",
+        "from": 1519,
+        "to": 1532
+      },
+      {
+        "word": "too",
+        "from": 1532,
+        "to": 1538
+      },
+      {
+        "word": "high",
+        "from": 1538,
+        "to": 1555
+      },
+      {
+        "word": "are",
+        "from": 1555,
+        "to": 1562
+      },
+      {
+        "word": "the",
+        "from": 1562,
+        "to": 1565
+      },
+      {
+        "word": "product",
+        "from": 1565,
+        "to": 1574
+      },
+      {
+        "word": "photos",
+        "from": 1574,
+        "to": 1586
+      },
+      {
+        "word": "terrible",
+        "from": 1586,
+        "to": 1606
+      },
+      {
+        "word": "or",
+        "from": 1606,
+        "to": 1610
+      },
+      {
+        "word": "does",
+        "from": 1610,
+        "to": 1618
+      },
+      {
+        "word": "nobody",
+        "from": 1618,
+        "to": 1632
+      },
+      {
+        "word": "actually",
+        "from": 1632,
+        "to": 1644
+      },
+      {
+        "word": "want",
+        "from": 1644,
+        "to": 1652
+      },
+      {
+        "word": "what",
+        "from": 1652,
+        "to": 1656
+      },
+      {
+        "word": "you're",
+        "from": 1656,
+        "to": 1660
+      },
+      {
+        "word": "selling",
+        "from": 1660,
+        "to": 1682
+      },
+      {
+        "word": "you",
+        "from": 1682,
+        "to": 1686
+      },
+      {
+        "word": "test",
+        "from": 1686,
+        "to": 1695
+      },
+      {
+        "word": "different",
+        "from": 1695,
+        "to": 1705
+      },
+      {
+        "word": "ideas",
+        "from": 1705,
+        "to": 1726
+      },
+      {
+        "word": "analyze",
+        "from": 1726,
+        "to": 1742
+      },
+      {
+        "word": "the",
+        "from": 1742,
+        "to": 1744
+      },
+      {
+        "word": "results",
+        "from": 1744,
+        "to": 1766
+      },
+      {
+        "word": "and",
+        "from": 1766,
+        "to": 1771
+      },
+      {
+        "word": "adjust",
+        "from": 1771,
+        "to": 1782
+      },
+      {
+        "word": "your",
+        "from": 1782,
+        "to": 1786
+      },
+      {
+        "word": "strategy",
+        "from": 1786,
+        "to": 1805
+      },
+      {
+        "word": "finally",
+        "from": 1812,
+        "to": 1831
+      },
+      {
+        "word": "the",
+        "from": 1831,
+        "to": 1837
+      },
+      {
+        "word": "first",
+        "from": 1837,
+        "to": 1850
+      },
+      {
+        "word": "order",
+        "from": 1850,
+        "to": 1861
+      },
+      {
+        "word": "arrives",
+        "from": 1861,
+        "to": 1882
+      },
+      {
+        "word": "then",
+        "from": 1890,
+        "to": 1895
+      },
+      {
+        "word": "another",
+        "from": 1895,
+        "to": 1908
+      },
+      {
+        "word": "and",
+        "from": 1915,
+        "to": 1921
+      },
+      {
+        "word": "another",
+        "from": 1921,
+        "to": 1936
+      },
+      {
+        "word": "you",
+        "from": 1973,
+        "to": 1978
+      },
+      {
+        "word": "realize",
+        "from": 1978,
+        "to": 1994
+      },
+      {
+        "word": "your",
+        "from": 1994,
+        "to": 1997
+      },
+      {
+        "word": "greatest",
+        "from": 1997,
+        "to": 2013
+      },
+      {
+        "word": "advantage",
+        "from": 2013,
+        "to": 2031
+      },
+      {
+        "word": "isn't",
+        "from": 2031,
+        "to": 2039
+      },
+      {
+        "word": "that",
+        "from": 2039,
+        "to": 2044
+      },
+      {
+        "word": "you'll",
+        "from": 2044,
+        "to": 2050
+      },
+      {
+        "word": "always",
+        "from": 2050,
+        "to": 2060
+      },
+      {
+        "word": "succeed",
+        "from": 2060,
+        "to": 2083
+      },
+      {
+        "word": "it's",
+        "from": 2083,
+        "to": 2088
+      },
+      {
+        "word": "that",
+        "from": 2088,
+        "to": 2092
+      },
+      {
+        "word": "you",
+        "from": 2092,
+        "to": 2097
+      },
+      {
+        "word": "can",
+        "from": 2097,
+        "to": 2102
+      },
+      {
+        "word": "learn",
+        "from": 2102,
+        "to": 2108
+      },
+      {
+        "word": "from",
+        "from": 2108,
+        "to": 2113
+      },
+      {
+        "word": "mistakes",
+        "from": 2113,
+        "to": 2130
+      },
+      {
+        "word": "and",
+        "from": 2130,
+        "to": 2132
+      },
+      {
+        "word": "adapt",
+        "from": 2132,
+        "to": 2145
+      },
+      {
+        "word": "incredibly",
+        "from": 2145,
+        "to": 2167
+      },
+      {
+        "word": "quickly",
+        "from": 2167,
+        "to": 2185
+      },
+      {
+        "word": "next",
+        "from": 2191,
+        "to": 2207
+      },
+      {
+        "word": "you",
+        "from": 2207,
+        "to": 2210
+      },
+      {
+        "word": "study",
+        "from": 2210,
+        "to": 2221
+      },
+      {
+        "word": "investing",
+        "from": 2221,
+        "to": 2239
+      },
+      {
+        "word": "stocks",
+        "from": 2244,
+        "to": 2272
+      },
+      {
+        "word": "real",
+        "from": 2272,
+        "to": 2278
+      },
+      {
+        "word": "estate",
+        "from": 2278,
+        "to": 2290
+      },
+      {
+        "word": "financial",
+        "from": 2290,
+        "to": 2305
+      },
+      {
+        "word": "markets",
+        "from": 2305,
+        "to": 2324
+      },
+      {
+        "word": "you",
+        "from": 2331,
+        "to": 2339
+      },
+      {
+        "word": "understand",
+        "from": 2339,
+        "to": 2358
+      },
+      {
+        "word": "complicated",
+        "from": 2358,
+        "to": 2379
+      },
+      {
+        "word": "economic",
+        "from": 2379,
+        "to": 2397
+      },
+      {
+        "word": "models",
+        "from": 2397,
+        "to": 2413
+      },
+      {
+        "word": "in",
+        "from": 2413,
+        "to": 2416
+      },
+      {
+        "word": "record",
+        "from": 2416,
+        "to": 2427
+      },
+      {
+        "word": "time",
+        "from": 2427,
+        "to": 2439
+      },
+      {
+        "word": "but",
+        "from": 2439,
+        "to": 2451
+      },
+      {
+        "word": "even",
+        "from": 2451,
+        "to": 2458
+      },
+      {
+        "word": "with",
+        "from": 2458,
+        "to": 2462
+      },
+      {
+        "word": "your",
+        "from": 2462,
+        "to": 2467
+      },
+      {
+        "word": "extraordinary",
+        "from": 2467,
+        "to": 2489
+      },
+      {
+        "word": "brain",
+        "from": 2489,
+        "to": 2504
+      },
+      {
+        "word": "you",
+        "from": 2510,
+        "to": 2512
+      },
+      {
+        "word": "still",
+        "from": 2512,
+        "to": 2520
+      },
+      {
+        "word": "can't",
+        "from": 2520,
+        "to": 2527
+      },
+      {
+        "word": "know",
+        "from": 2527,
+        "to": 2532
+      },
+      {
+        "word": "for",
+        "from": 2532,
+        "to": 2536
+      },
+      {
+        "word": "certain",
+        "from": 2536,
+        "to": 2547
+      },
+      {
+        "word": "whether",
+        "from": 2547,
+        "to": 2554
+      },
+      {
+        "word": "a",
+        "from": 2554,
+        "to": 2555
+      },
+      {
+        "word": "stock",
+        "from": 2555,
+        "to": 2567
+      },
+      {
+        "word": "will",
+        "from": 2567,
+        "to": 2571
+      },
+      {
+        "word": "rise",
+        "from": 2571,
+        "to": 2582
+      },
+      {
+        "word": "or",
+        "from": 2582,
+        "to": 2584
+      },
+      {
+        "word": "fall",
+        "from": 2584,
+        "to": 2592
+      },
+      {
+        "word": "tomorrow",
+        "from": 2592,
+        "to": 2610
+      },
+      {
+        "word": "because",
+        "from": 2618,
+        "to": 2630
+      },
+      {
+        "word": "the",
+        "from": 2630,
+        "to": 2634
+      },
+      {
+        "word": "economy",
+        "from": 2634,
+        "to": 2656
+      },
+      {
+        "word": "isn't",
+        "from": 2656,
+        "to": 2663
+      },
+      {
+        "word": "just",
+        "from": 2663,
+        "to": 2672
+      },
+      {
+        "word": "a",
+        "from": 2672,
+        "to": 2673
+      },
+      {
+        "word": "mathematical",
+        "from": 2673,
+        "to": 2694
+      },
+      {
+        "word": "equation",
+        "from": 2694,
+        "to": 2712
+      },
+      {
+        "word": "it's",
+        "from": 2717,
+        "to": 2722
+      },
+      {
+        "word": "influenced",
+        "from": 2722,
+        "to": 2739
+      },
+      {
+        "word": "by",
+        "from": 2739,
+        "to": 2743
+      },
+      {
+        "word": "millions",
+        "from": 2743,
+        "to": 2762
+      },
+      {
+        "word": "of",
+        "from": 2762,
+        "to": 2767
+      },
+      {
+        "word": "human",
+        "from": 2767,
+        "to": 2776
+      },
+      {
+        "word": "decisions",
+        "from": 2776,
+        "to": 2802
+      },
+      {
+        "word": "and",
+        "from": 2802,
+        "to": 2807
+      },
+      {
+        "word": "not",
+        "from": 2807,
+        "to": 2813
+      },
+      {
+        "word": "every",
+        "from": 2813,
+        "to": 2820
+      },
+      {
+        "word": "decision",
+        "from": 2820,
+        "to": 2834
+      },
+      {
+        "word": "can",
+        "from": 2834,
+        "to": 2839
+      },
+      {
+        "word": "be",
+        "from": 2839,
+        "to": 2843
+      },
+      {
+        "word": "predicted",
+        "from": 2843,
+        "to": 2864
+      }
+    ],
+    "beats": [
+      {
+        "from": 0,
+        "tag": "money",
+        "phrase": ""
+      },
+      {
+        "from": 90,
+        "tag": "programming",
+        "phrase": "You start by learning how to code"
+      },
+      {
+        "from": 309,
+        "tag": "web",
+        "phrase": "Next comes website design"
+      },
+      {
+        "from": 356,
+        "tag": "apps",
+        "phrase": "App development"
+      },
+      {
+        "from": 386,
+        "tag": "ai",
+        "phrase": "Artificial intelligence"
+      },
+      {
+        "from": 427,
+        "tag": "marketing",
+        "phrase": "Marketing"
+      },
+      {
+        "from": 451,
+        "tag": "management",
+        "phrase": "And business management"
+      },
+      {
+        "from": 625,
+        "tag": "store",
+        "phrase": "So you decide to launch"
+      },
+      {
+        "from": 706,
+        "tag": "research",
+        "phrase": "First you research"
+      },
+      {
+        "from": 761,
+        "tag": "customers",
+        "phrase": "You study customer behavior"
+      },
+      {
+        "from": 825,
+        "tag": "products",
+        "phrase": "Learn how to choose products"
+      },
+      {
+        "from": 877,
+        "tag": "competitors",
+        "phrase": "Analyze competitors"
+      },
+      {
+        "from": 914,
+        "tag": "ads",
+        "phrase": "And figure out how online advertising works"
+      },
+      {
+        "from": 1193,
+        "tag": "launch",
+        "phrase": "You launch your first product"
+      },
+      {
+        "from": 1270,
+        "tag": "zero",
+        "phrase": "Nothing"
+      },
+      {
+        "from": 1478,
+        "tag": "investigate",
+        "phrase": "So you investigate"
+      },
+      {
+        "from": 1510,
+        "tag": "price",
+        "phrase": "Is the price too high"
+      },
+      {
+        "from": 1555,
+        "tag": "photos",
+        "phrase": "Are the product photos"
+      },
+      {
+        "from": 1606,
+        "tag": "demand",
+        "phrase": "Or does nobody"
+      },
+      {
+        "from": 1682,
+        "tag": "test",
+        "phrase": "You test different ideas"
+      },
+      {
+        "from": 1812,
+        "tag": "orders",
+        "phrase": "Finally the first order"
+      },
+      {
+        "from": 1973,
+        "tag": "adapt",
+        "phrase": "You realize your greatest advantage"
+      },
+      {
+        "from": 2191,
+        "tag": "investing",
+        "phrase": "Next you study investing"
+      },
+      {
+        "from": 2244,
+        "tag": "stocks",
+        "phrase": "Stocks"
+      },
+      {
+        "from": 2272,
+        "tag": "realEstate",
+        "phrase": "Real estate"
+      },
+      {
+        "from": 2290,
+        "tag": "finance",
+        "phrase": "Financial markets"
+      },
+      {
+        "from": 2439,
+        "tag": "uncertainty",
+        "phrase": "But even with your extraordinary brain"
+      },
+      {
+        "from": 2618,
+        "tag": "decisions",
+        "phrase": "Because the economy"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "LEARNING EVERY LANGUAGE AND SKILL",
+    "label": "BEYOND BOOKS",
+    "text": "After making your first money, you decide to try something different. Languages. You start with English. Then Mandarin Chinese. Japanese. French. And Spanish. Vocabulary, grammar, and sentence structures suddenly become incredibly easy to absorb. Material that usually takes months to learn can be understood in days. You'll still need to practice listening, speaking, and real conversations. But your progress is astonishing. Now you can read research from around the world. Understand information in its original language. And communicate with people you could never speak to before. Then you try learning other skills. Piano. Drawing. Football. You understand the theory almost instantly. But when you sit down at the piano... Your fingers still make mistakes. And when you step onto a football field... You can still completely miss the goal. Because understanding a skill isn't the same as physically performing it. Your muscles, coordination, and reflexes still need practice. For the first time, you realize... Not everything can be accelerated one hundred times.",
+    "originalText": "After making your first money, you decide to try something different.\n\nLanguages.\n\nYou start with English.\n\nThen Mandarin Chinese.\n\nJapanese.\n\nFrench.\n\nAnd Spanish.\n\nVocabulary, grammar, and sentence structures suddenly become incredibly easy to absorb.\n\nMaterial that usually takes months to learn can be understood in days.\n\nYou'll still need to practice listening, speaking, and real conversations.\n\nBut your progress is astonishing.\n\nNow you can read research from around the world.\n\nUnderstand information in its original language.\n\nAnd communicate with people you could never speak to before.\n\nThen you try learning other skills.\n\nPiano.\n\nDrawing.\n\nFootball.\n\nYou understand the theory almost instantly.\n\nBut when you sit down at the piano...\n\nYour fingers still make mistakes.\n\nAnd when you step onto a football field...\n\nYou can still completely miss the goal.\n\nBecause understanding a skill isn't the same as physically performing it.\n\nYour muscles, coordination, and reflexes still need practice.\n\nFor the first time, you realize...\n\nNot everything can be accelerated one hundred times.",
+    "from": 6328,
+    "duration": 1821,
+    "words": [
+      {
+        "word": "after",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "word": "making",
+        "from": 22,
+        "to": 31
+      },
+      {
+        "word": "your",
+        "from": 31,
+        "to": 35
+      },
+      {
+        "word": "first",
+        "from": 35,
+        "to": 44
+      },
+      {
+        "word": "money",
+        "from": 44,
+        "to": 59
+      },
+      {
+        "word": "you",
+        "from": 59,
+        "to": 62
+      },
+      {
+        "word": "decide",
+        "from": 62,
+        "to": 75
+      },
+      {
+        "word": "to",
+        "from": 75,
+        "to": 78
+      },
+      {
+        "word": "try",
+        "from": 78,
+        "to": 86
+      },
+      {
+        "word": "something",
+        "from": 86,
+        "to": 97
+      },
+      {
+        "word": "different",
+        "from": 97,
+        "to": 117
+      },
+      {
+        "word": "languages",
+        "from": 117,
+        "to": 139
+      },
+      {
+        "word": "you",
+        "from": 139,
+        "to": 143
+      },
+      {
+        "word": "start",
+        "from": 143,
+        "to": 154
+      },
+      {
+        "word": "with",
+        "from": 154,
+        "to": 160
+      },
+      {
+        "word": "english",
+        "from": 160,
+        "to": 178
+      },
+      {
+        "word": "then",
+        "from": 185,
+        "to": 191
+      },
+      {
+        "word": "mandarin",
+        "from": 191,
+        "to": 206
+      },
+      {
+        "word": "chinese",
+        "from": 206,
+        "to": 229
+      },
+      {
+        "word": "japanese",
+        "from": 238,
+        "to": 260
+      },
+      {
+        "word": "french",
+        "from": 264,
+        "to": 282
+      },
+      {
+        "word": "and",
+        "from": 282,
+        "to": 286
+      },
+      {
+        "word": "spanish",
+        "from": 286,
+        "to": 301
+      },
+      {
+        "word": "vocabulary",
+        "from": 301,
+        "to": 326
+      },
+      {
+        "word": "grammar",
+        "from": 326,
+        "to": 340
+      },
+      {
+        "word": "and",
+        "from": 340,
+        "to": 346
+      },
+      {
+        "word": "sentence",
+        "from": 346,
+        "to": 359
+      },
+      {
+        "word": "structures",
+        "from": 359,
+        "to": 372
+      },
+      {
+        "word": "suddenly",
+        "from": 372,
+        "to": 384
+      },
+      {
+        "word": "become",
+        "from": 384,
+        "to": 394
+      },
+      {
+        "word": "incredibly",
+        "from": 394,
+        "to": 417
+      },
+      {
+        "word": "easy",
+        "from": 417,
+        "to": 422
+      },
+      {
+        "word": "to",
+        "from": 422,
+        "to": 427
+      },
+      {
+        "word": "absorb",
+        "from": 427,
+        "to": 447
+      },
+      {
+        "word": "material",
+        "from": 447,
+        "to": 465
+      },
+      {
+        "word": "that",
+        "from": 465,
+        "to": 469
+      },
+      {
+        "word": "usually",
+        "from": 469,
+        "to": 481
+      },
+      {
+        "word": "takes",
+        "from": 481,
+        "to": 491
+      },
+      {
+        "word": "months",
+        "from": 491,
+        "to": 502
+      },
+      {
+        "word": "to",
+        "from": 502,
+        "to": 505
+      },
+      {
+        "word": "learn",
+        "from": 505,
+        "to": 517
+      },
+      {
+        "word": "can",
+        "from": 517,
+        "to": 529
+      },
+      {
+        "word": "be",
+        "from": 529,
+        "to": 535
+      },
+      {
+        "word": "understood",
+        "from": 535,
+        "to": 554
+      },
+      {
+        "word": "in",
+        "from": 554,
+        "to": 559
+      },
+      {
+        "word": "days",
+        "from": 559,
+        "to": 578
+      },
+      {
+        "word": "you'll",
+        "from": 578,
+        "to": 582
+      },
+      {
+        "word": "still",
+        "from": 582,
+        "to": 592
+      },
+      {
+        "word": "need",
+        "from": 592,
+        "to": 596
+      },
+      {
+        "word": "to",
+        "from": 596,
+        "to": 598
+      },
+      {
+        "word": "practice",
+        "from": 598,
+        "to": 613
+      },
+      {
+        "word": "listening",
+        "from": 613,
+        "to": 628
+      },
+      {
+        "word": "speaking",
+        "from": 628,
+        "to": 649
+      },
+      {
+        "word": "and",
+        "from": 649,
+        "to": 652
+      },
+      {
+        "word": "real",
+        "from": 652,
+        "to": 663
+      },
+      {
+        "word": "conversations",
+        "from": 663,
+        "to": 697
+      },
+      {
+        "word": "but",
+        "from": 706,
+        "to": 711
+      },
+      {
+        "word": "your",
+        "from": 711,
+        "to": 718
+      },
+      {
+        "word": "progress",
+        "from": 718,
+        "to": 735
+      },
+      {
+        "word": "is",
+        "from": 735,
+        "to": 742
+      },
+      {
+        "word": "astonishing",
+        "from": 742,
+        "to": 765
+      },
+      {
+        "word": "now",
+        "from": 771,
+        "to": 776
+      },
+      {
+        "word": "you",
+        "from": 776,
+        "to": 779
+      },
+      {
+        "word": "can",
+        "from": 779,
+        "to": 784
+      },
+      {
+        "word": "read",
+        "from": 784,
+        "to": 790
+      },
+      {
+        "word": "research",
+        "from": 790,
+        "to": 803
+      },
+      {
+        "word": "from",
+        "from": 803,
+        "to": 808
+      },
+      {
+        "word": "around",
+        "from": 808,
+        "to": 815
+      },
+      {
+        "word": "the",
+        "from": 815,
+        "to": 817
+      },
+      {
+        "word": "world",
+        "from": 817,
+        "to": 838
+      },
+      {
+        "word": "understand",
+        "from": 838,
+        "to": 852
+      },
+      {
+        "word": "information",
+        "from": 852,
+        "to": 868
+      },
+      {
+        "word": "in",
+        "from": 868,
+        "to": 871
+      },
+      {
+        "word": "its",
+        "from": 871,
+        "to": 876
+      },
+      {
+        "word": "original",
+        "from": 876,
+        "to": 890
+      },
+      {
+        "word": "language",
+        "from": 890,
+        "to": 909
+      },
+      {
+        "word": "and",
+        "from": 909,
+        "to": 916
+      },
+      {
+        "word": "communicate",
+        "from": 916,
+        "to": 933
+      },
+      {
+        "word": "with",
+        "from": 933,
+        "to": 938
+      },
+      {
+        "word": "people",
+        "from": 938,
+        "to": 945
+      },
+      {
+        "word": "you",
+        "from": 945,
+        "to": 950
+      },
+      {
+        "word": "could",
+        "from": 950,
+        "to": 955
+      },
+      {
+        "word": "never",
+        "from": 955,
+        "to": 965
+      },
+      {
+        "word": "speak",
+        "from": 965,
+        "to": 976
+      },
+      {
+        "word": "to",
+        "from": 976,
+        "to": 983
+      },
+      {
+        "word": "before",
+        "from": 983,
+        "to": 1001
+      },
+      {
+        "word": "then",
+        "from": 1007,
+        "to": 1011
+      },
+      {
+        "word": "you",
+        "from": 1011,
+        "to": 1014
+      },
+      {
+        "word": "try",
+        "from": 1014,
+        "to": 1019
+      },
+      {
+        "word": "learning",
+        "from": 1019,
+        "to": 1029
+      },
+      {
+        "word": "other",
+        "from": 1029,
+        "to": 1034
+      },
+      {
+        "word": "skills",
+        "from": 1034,
+        "to": 1052
+      },
+      {
+        "word": "piano",
+        "from": 1052,
+        "to": 1072
+      },
+      {
+        "word": "drawing",
+        "from": 1072,
+        "to": 1083
+      },
+      {
+        "word": "football",
+        "from": 1083,
+        "to": 1105
+      },
+      {
+        "word": "you",
+        "from": 1105,
+        "to": 1109
+      },
+      {
+        "word": "understand",
+        "from": 1109,
+        "to": 1123
+      },
+      {
+        "word": "the",
+        "from": 1123,
+        "to": 1125
+      },
+      {
+        "word": "theory",
+        "from": 1125,
+        "to": 1136
+      },
+      {
+        "word": "almost",
+        "from": 1136,
+        "to": 1148
+      },
+      {
+        "word": "instantly",
+        "from": 1148,
+        "to": 1166
+      },
+      {
+        "word": "but",
+        "from": 1173,
+        "to": 1177
+      },
+      {
+        "word": "when",
+        "from": 1177,
+        "to": 1182
+      },
+      {
+        "word": "you",
+        "from": 1182,
+        "to": 1185
+      },
+      {
+        "word": "sit",
+        "from": 1185,
+        "to": 1193
+      },
+      {
+        "word": "down",
+        "from": 1193,
+        "to": 1200
+      },
+      {
+        "word": "at",
+        "from": 1200,
+        "to": 1202
+      },
+      {
+        "word": "the",
+        "from": 1202,
+        "to": 1205
+      },
+      {
+        "word": "piano",
+        "from": 1205,
+        "to": 1222
+      },
+      {
+        "word": "your",
+        "from": 1234,
+        "to": 1238
+      },
+      {
+        "word": "fingers",
+        "from": 1238,
+        "to": 1248
+      },
+      {
+        "word": "still",
+        "from": 1248,
+        "to": 1258
+      },
+      {
+        "word": "make",
+        "from": 1258,
+        "to": 1264
+      },
+      {
+        "word": "mistakes",
+        "from": 1264,
+        "to": 1289
+      },
+      {
+        "word": "and",
+        "from": 1298,
+        "to": 1302
+      },
+      {
+        "word": "when",
+        "from": 1302,
+        "to": 1307
+      },
+      {
+        "word": "you",
+        "from": 1307,
+        "to": 1310
+      },
+      {
+        "word": "step",
+        "from": 1310,
+        "to": 1320
+      },
+      {
+        "word": "onto",
+        "from": 1320,
+        "to": 1331
+      },
+      {
+        "word": "a",
+        "from": 1331,
+        "to": 1332
+      },
+      {
+        "word": "football",
+        "from": 1332,
+        "to": 1346
+      },
+      {
+        "word": "field",
+        "from": 1346,
+        "to": 1363
+      },
+      {
+        "word": "you",
+        "from": 1363,
+        "to": 1366
+      },
+      {
+        "word": "can",
+        "from": 1366,
+        "to": 1370
+      },
+      {
+        "word": "still",
+        "from": 1370,
+        "to": 1380
+      },
+      {
+        "word": "completely",
+        "from": 1380,
+        "to": 1395
+      },
+      {
+        "word": "miss",
+        "from": 1395,
+        "to": 1403
+      },
+      {
+        "word": "the",
+        "from": 1403,
+        "to": 1406
+      },
+      {
+        "word": "goal",
+        "from": 1406,
+        "to": 1422
+      },
+      {
+        "word": "because",
+        "from": 1422,
+        "to": 1433
+      },
+      {
+        "word": "understanding",
+        "from": 1433,
+        "to": 1454
+      },
+      {
+        "word": "a",
+        "from": 1454,
+        "to": 1455
+      },
+      {
+        "word": "skill",
+        "from": 1455,
+        "to": 1469
+      },
+      {
+        "word": "isn't",
+        "from": 1469,
+        "to": 1480
+      },
+      {
+        "word": "the",
+        "from": 1480,
+        "to": 1482
+      },
+      {
+        "word": "same",
+        "from": 1482,
+        "to": 1496
+      },
+      {
+        "word": "as",
+        "from": 1496,
+        "to": 1503
+      },
+      {
+        "word": "physically",
+        "from": 1503,
+        "to": 1517
+      },
+      {
+        "word": "performing",
+        "from": 1517,
+        "to": 1534
+      },
+      {
+        "word": "it",
+        "from": 1534,
+        "to": 1547
+      },
+      {
+        "word": "your",
+        "from": 1547,
+        "to": 1551
+      },
+      {
+        "word": "muscles",
+        "from": 1551,
+        "to": 1567
+      },
+      {
+        "word": "coordination",
+        "from": 1567,
+        "to": 1589
+      },
+      {
+        "word": "and",
+        "from": 1589,
+        "to": 1593
+      },
+      {
+        "word": "reflexes",
+        "from": 1593,
+        "to": 1612
+      },
+      {
+        "word": "still",
+        "from": 1612,
+        "to": 1625
+      },
+      {
+        "word": "need",
+        "from": 1625,
+        "to": 1630
+      },
+      {
+        "word": "practice",
+        "from": 1630,
+        "to": 1651
+      },
+      {
+        "word": "for",
+        "from": 1655,
+        "to": 1658
+      },
+      {
+        "word": "the",
+        "from": 1658,
+        "to": 1661
+      },
+      {
+        "word": "first",
+        "from": 1661,
+        "to": 1669
+      },
+      {
+        "word": "time",
+        "from": 1669,
+        "to": 1678
+      },
+      {
+        "word": "you",
+        "from": 1678,
+        "to": 1683
+      },
+      {
+        "word": "realize",
+        "from": 1683,
+        "to": 1700
+      },
+      {
+        "word": "not",
+        "from": 1706,
+        "to": 1711
+      },
+      {
+        "word": "everything",
+        "from": 1711,
+        "to": 1723
+      },
+      {
+        "word": "can",
+        "from": 1723,
+        "to": 1727
+      },
+      {
+        "word": "be",
+        "from": 1727,
+        "to": 1731
+      },
+      {
+        "word": "accelerated",
+        "from": 1731,
+        "to": 1752
+      },
+      {
+        "word": "one",
+        "from": 1752,
+        "to": 1760
+      },
+      {
+        "word": "hundred",
+        "from": 1760,
+        "to": 1773
+      },
+      {
+        "word": "times",
+        "from": 1773,
+        "to": 1796
+      }
+    ],
+    "beats": [
+      {
+        "from": 0,
+        "tag": "map",
+        "phrase": ""
+      },
+      {
+        "from": 139,
+        "tag": "English",
+        "phrase": "You start with English"
+      },
+      {
+        "from": 185,
+        "tag": "Mandarin",
+        "phrase": "Then Mandarin Chinese"
+      },
+      {
+        "from": 238,
+        "tag": "Japanese",
+        "phrase": "Japanese"
+      },
+      {
+        "from": 264,
+        "tag": "French",
+        "phrase": "French"
+      },
+      {
+        "from": 282,
+        "tag": "Spanish",
+        "phrase": "And Spanish"
+      },
+      {
+        "from": 301,
+        "tag": "languageStudy",
+        "phrase": "Vocabulary grammar"
+      },
+      {
+        "from": 578,
+        "tag": "conversation",
+        "phrase": "You'll still need to practice"
+      },
+      {
+        "from": 771,
+        "tag": "worldResearch",
+        "phrase": "Now you can read research"
+      },
+      {
+        "from": 1007,
+        "tag": "skills",
+        "phrase": "Then you try learning"
+      },
+      {
+        "from": 1052,
+        "tag": "pianoTheory",
+        "phrase": "Piano"
+      },
+      {
+        "from": 1072,
+        "tag": "drawing",
+        "phrase": "Drawing"
+      },
+      {
+        "from": 1083,
+        "tag": "footballTheory",
+        "phrase": "Football"
+      },
+      {
+        "from": 1173,
+        "tag": "piano",
+        "phrase": "But when you sit down"
+      },
+      {
+        "from": 1234,
+        "tag": "pianoMistake",
+        "phrase": "Your fingers still make mistakes"
+      },
+      {
+        "from": 1298,
+        "tag": "football",
+        "phrase": "And when you step"
+      },
+      {
+        "from": 1363,
+        "tag": "miss",
+        "phrase": "You can still completely miss"
+      },
+      {
+        "from": 1422,
+        "tag": "practice",
+        "phrase": "Because understanding"
+      },
+      {
+        "from": 1655,
+        "tag": "bodyLimit",
+        "phrase": "For the first time"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "COULD YOU BECOME A MILLIONAIRE?",
+    "label": "THE COMPANY",
+    "text": "A few months have passed. You've absorbed knowledge that might normally require years of study. You understand technology. Economics. And how businesses operate. Whenever you encounter a problem... You can quickly learn the information needed to tackle it. So you decide to start a technology company. You identify a problem affecting millions of people. Then you learn how to solve it. You design a product. Write the software. Develop a business strategy. Hire employees. And pitch to investors. Tasks that normally require the expertise of several specialists... You can now understand and contribute to yourself. But building a successful company still takes time. Products need testing. Customers need convincing. Employees need leadership. And one bad decision can still cost you a fortune. You're not guaranteed to become a millionaire. But if you use your ability wisely... You have an advantage almost nobody else possesses. There's just one problem. An advantage this extraordinary is very difficult to keep secret.",
+    "originalText": "A few months have passed.\n\nYou've absorbed knowledge that might normally require years of study.\n\nYou understand technology.\n\nEconomics.\n\nAnd how businesses operate.\n\nWhenever you encounter a problem...\n\nYou can quickly learn the information needed to tackle it.\n\nSo you decide to start a technology company.\n\nYou identify a problem affecting millions of people.\n\nThen you learn how to solve it.\n\nYou design a product.\n\nWrite the software.\n\nDevelop a business strategy.\n\nHire employees.\n\nAnd pitch to investors.\n\nTasks that normally require the expertise of several specialists...\n\nYou can now understand and contribute to yourself.\n\nBut building a successful company still takes time.\n\nProducts need testing.\n\nCustomers need convincing.\n\nEmployees need leadership.\n\nAnd one bad decision can still cost you a fortune.\n\nYou're not guaranteed to become a millionaire.\n\nBut if you use your ability wisely...\n\nYou have an advantage almost nobody else possesses.\n\nThere's just one problem.\n\nAn advantage this extraordinary is very difficult to keep secret.",
+    "from": 8149,
+    "duration": 1838,
+    "words": [
+      {
+        "word": "a",
+        "from": 10,
+        "to": 14
+      },
+      {
+        "word": "few",
+        "from": 14,
+        "to": 21
+      },
+      {
+        "word": "months",
+        "from": 21,
+        "to": 30
+      },
+      {
+        "word": "have",
+        "from": 30,
+        "to": 34
+      },
+      {
+        "word": "passed",
+        "from": 34,
+        "to": 54
+      },
+      {
+        "word": "you've",
+        "from": 54,
+        "to": 59
+      },
+      {
+        "word": "absorbed",
+        "from": 59,
+        "to": 74
+      },
+      {
+        "word": "knowledge",
+        "from": 74,
+        "to": 87
+      },
+      {
+        "word": "that",
+        "from": 87,
+        "to": 90
+      },
+      {
+        "word": "might",
+        "from": 90,
+        "to": 97
+      },
+      {
+        "word": "normally",
+        "from": 97,
+        "to": 108
+      },
+      {
+        "word": "require",
+        "from": 108,
+        "to": 120
+      },
+      {
+        "word": "years",
+        "from": 120,
+        "to": 129
+      },
+      {
+        "word": "of",
+        "from": 129,
+        "to": 131
+      },
+      {
+        "word": "study",
+        "from": 131,
+        "to": 152
+      },
+      {
+        "word": "you",
+        "from": 152,
+        "to": 157
+      },
+      {
+        "word": "understand",
+        "from": 157,
+        "to": 177
+      },
+      {
+        "word": "technology",
+        "from": 177,
+        "to": 202
+      },
+      {
+        "word": "economics",
+        "from": 208,
+        "to": 236
+      },
+      {
+        "word": "and",
+        "from": 236,
+        "to": 244
+      },
+      {
+        "word": "how",
+        "from": 244,
+        "to": 251
+      },
+      {
+        "word": "businesses",
+        "from": 251,
+        "to": 267
+      },
+      {
+        "word": "operate",
+        "from": 267,
+        "to": 280
+      },
+      {
+        "word": "whenever",
+        "from": 298,
+        "to": 307
+      },
+      {
+        "word": "you",
+        "from": 307,
+        "to": 314
+      },
+      {
+        "word": "encounter",
+        "from": 314,
+        "to": 329
+      },
+      {
+        "word": "a",
+        "from": 329,
+        "to": 330
+      },
+      {
+        "word": "problem",
+        "from": 330,
+        "to": 345
+      },
+      {
+        "word": "you",
+        "from": 359,
+        "to": 361
+      },
+      {
+        "word": "can",
+        "from": 361,
+        "to": 366
+      },
+      {
+        "word": "quickly",
+        "from": 366,
+        "to": 378
+      },
+      {
+        "word": "learn",
+        "from": 378,
+        "to": 388
+      },
+      {
+        "word": "the",
+        "from": 388,
+        "to": 391
+      },
+      {
+        "word": "information",
+        "from": 391,
+        "to": 407
+      },
+      {
+        "word": "needed",
+        "from": 407,
+        "to": 415
+      },
+      {
+        "word": "to",
+        "from": 415,
+        "to": 418
+      },
+      {
+        "word": "tackle",
+        "from": 418,
+        "to": 432
+      },
+      {
+        "word": "it",
+        "from": 432,
+        "to": 436
+      },
+      {
+        "word": "so",
+        "from": 445,
+        "to": 449
+      },
+      {
+        "word": "you",
+        "from": 449,
+        "to": 452
+      },
+      {
+        "word": "decide",
+        "from": 452,
+        "to": 462
+      },
+      {
+        "word": "to",
+        "from": 462,
+        "to": 464
+      },
+      {
+        "word": "start",
+        "from": 464,
+        "to": 485
+      },
+      {
+        "word": "a",
+        "from": 485,
+        "to": 487
+      },
+      {
+        "word": "technology",
+        "from": 487,
+        "to": 505
+      },
+      {
+        "word": "company",
+        "from": 505,
+        "to": 522
+      },
+      {
+        "word": "you",
+        "from": 529,
+        "to": 533
+      },
+      {
+        "word": "identify",
+        "from": 533,
+        "to": 551
+      },
+      {
+        "word": "a",
+        "from": 551,
+        "to": 553
+      },
+      {
+        "word": "problem",
+        "from": 553,
+        "to": 570
+      },
+      {
+        "word": "affecting",
+        "from": 570,
+        "to": 590
+      },
+      {
+        "word": "millions",
+        "from": 590,
+        "to": 605
+      },
+      {
+        "word": "of",
+        "from": 605,
+        "to": 608
+      },
+      {
+        "word": "people",
+        "from": 608,
+        "to": 623
+      },
+      {
+        "word": "then",
+        "from": 629,
+        "to": 635
+      },
+      {
+        "word": "you",
+        "from": 635,
+        "to": 639
+      },
+      {
+        "word": "learn",
+        "from": 639,
+        "to": 646
+      },
+      {
+        "word": "how",
+        "from": 646,
+        "to": 652
+      },
+      {
+        "word": "to",
+        "from": 652,
+        "to": 655
+      },
+      {
+        "word": "solve",
+        "from": 655,
+        "to": 667
+      },
+      {
+        "word": "it",
+        "from": 667,
+        "to": 680
+      },
+      {
+        "word": "you",
+        "from": 689,
+        "to": 693
+      },
+      {
+        "word": "design",
+        "from": 693,
+        "to": 704
+      },
+      {
+        "word": "a",
+        "from": 704,
+        "to": 705
+      },
+      {
+        "word": "product",
+        "from": 705,
+        "to": 722
+      },
+      {
+        "word": "write",
+        "from": 732,
+        "to": 739
+      },
+      {
+        "word": "the",
+        "from": 739,
+        "to": 742
+      },
+      {
+        "word": "software",
+        "from": 742,
+        "to": 766
+      },
+      {
+        "word": "develop",
+        "from": 766,
+        "to": 778
+      },
+      {
+        "word": "a",
+        "from": 778,
+        "to": 780
+      },
+      {
+        "word": "business",
+        "from": 780,
+        "to": 792
+      },
+      {
+        "word": "strategy",
+        "from": 792,
+        "to": 812
+      },
+      {
+        "word": "hire",
+        "from": 812,
+        "to": 824
+      },
+      {
+        "word": "employees",
+        "from": 824,
+        "to": 851
+      },
+      {
+        "word": "and",
+        "from": 851,
+        "to": 856
+      },
+      {
+        "word": "pitch",
+        "from": 856,
+        "to": 867
+      },
+      {
+        "word": "to",
+        "from": 867,
+        "to": 870
+      },
+      {
+        "word": "investors",
+        "from": 870,
+        "to": 890
+      },
+      {
+        "word": "tasks",
+        "from": 897,
+        "to": 911
+      },
+      {
+        "word": "that",
+        "from": 911,
+        "to": 916
+      },
+      {
+        "word": "normally",
+        "from": 916,
+        "to": 931
+      },
+      {
+        "word": "require",
+        "from": 931,
+        "to": 945
+      },
+      {
+        "word": "the",
+        "from": 945,
+        "to": 949
+      },
+      {
+        "word": "expertise",
+        "from": 949,
+        "to": 971
+      },
+      {
+        "word": "of",
+        "from": 971,
+        "to": 974
+      },
+      {
+        "word": "several",
+        "from": 974,
+        "to": 986
+      },
+      {
+        "word": "specialists",
+        "from": 986,
+        "to": 1013
+      },
+      {
+        "word": "you",
+        "from": 1025,
+        "to": 1028
+      },
+      {
+        "word": "can",
+        "from": 1028,
+        "to": 1032
+      },
+      {
+        "word": "now",
+        "from": 1032,
+        "to": 1041
+      },
+      {
+        "word": "understand",
+        "from": 1041,
+        "to": 1060
+      },
+      {
+        "word": "and",
+        "from": 1060,
+        "to": 1065
+      },
+      {
+        "word": "contribute",
+        "from": 1065,
+        "to": 1083
+      },
+      {
+        "word": "to",
+        "from": 1083,
+        "to": 1087
+      },
+      {
+        "word": "yourself",
+        "from": 1087,
+        "to": 1113
+      },
+      {
+        "word": "but",
+        "from": 1113,
+        "to": 1120
+      },
+      {
+        "word": "building",
+        "from": 1120,
+        "to": 1134
+      },
+      {
+        "word": "a",
+        "from": 1134,
+        "to": 1135
+      },
+      {
+        "word": "successful",
+        "from": 1135,
+        "to": 1156
+      },
+      {
+        "word": "company",
+        "from": 1156,
+        "to": 1170
+      },
+      {
+        "word": "still",
+        "from": 1170,
+        "to": 1181
+      },
+      {
+        "word": "takes",
+        "from": 1181,
+        "to": 1191
+      },
+      {
+        "word": "time",
+        "from": 1191,
+        "to": 1203
+      },
+      {
+        "word": "products",
+        "from": 1209,
+        "to": 1222
+      },
+      {
+        "word": "need",
+        "from": 1222,
+        "to": 1227
+      },
+      {
+        "word": "testing",
+        "from": 1227,
+        "to": 1242
+      },
+      {
+        "word": "customers",
+        "from": 1242,
+        "to": 1262
+      },
+      {
+        "word": "need",
+        "from": 1262,
+        "to": 1268
+      },
+      {
+        "word": "convincing",
+        "from": 1268,
+        "to": 1292
+      },
+      {
+        "word": "employees",
+        "from": 1292,
+        "to": 1307
+      },
+      {
+        "word": "need",
+        "from": 1307,
+        "to": 1313
+      },
+      {
+        "word": "leadership",
+        "from": 1313,
+        "to": 1338
+      },
+      {
+        "word": "and",
+        "from": 1338,
+        "to": 1343
+      },
+      {
+        "word": "one",
+        "from": 1343,
+        "to": 1350
+      },
+      {
+        "word": "bad",
+        "from": 1350,
+        "to": 1361
+      },
+      {
+        "word": "decision",
+        "from": 1361,
+        "to": 1376
+      },
+      {
+        "word": "can",
+        "from": 1376,
+        "to": 1383
+      },
+      {
+        "word": "still",
+        "from": 1383,
+        "to": 1395
+      },
+      {
+        "word": "cost",
+        "from": 1395,
+        "to": 1407
+      },
+      {
+        "word": "you",
+        "from": 1407,
+        "to": 1410
+      },
+      {
+        "word": "a",
+        "from": 1410,
+        "to": 1411
+      },
+      {
+        "word": "fortune",
+        "from": 1411,
+        "to": 1433
+      },
+      {
+        "word": "you're",
+        "from": 1443,
+        "to": 1447
+      },
+      {
+        "word": "not",
+        "from": 1447,
+        "to": 1453
+      },
+      {
+        "word": "guaranteed",
+        "from": 1453,
+        "to": 1469
+      },
+      {
+        "word": "to",
+        "from": 1469,
+        "to": 1471
+      },
+      {
+        "word": "become",
+        "from": 1471,
+        "to": 1480
+      },
+      {
+        "word": "a",
+        "from": 1480,
+        "to": 1481
+      },
+      {
+        "word": "millionaire",
+        "from": 1481,
+        "to": 1502
+      },
+      {
+        "word": "but",
+        "from": 1502,
+        "to": 1510
+      },
+      {
+        "word": "if",
+        "from": 1510,
+        "to": 1513
+      },
+      {
+        "word": "you",
+        "from": 1513,
+        "to": 1520
+      },
+      {
+        "word": "use",
+        "from": 1520,
+        "to": 1524
+      },
+      {
+        "word": "your",
+        "from": 1524,
+        "to": 1528
+      },
+      {
+        "word": "ability",
+        "from": 1528,
+        "to": 1539
+      },
+      {
+        "word": "wisely",
+        "from": 1539,
+        "to": 1557
+      },
+      {
+        "word": "you",
+        "from": 1579,
+        "to": 1582
+      },
+      {
+        "word": "have",
+        "from": 1582,
+        "to": 1587
+      },
+      {
+        "word": "an",
+        "from": 1587,
+        "to": 1590
+      },
+      {
+        "word": "advantage",
+        "from": 1590,
+        "to": 1605
+      },
+      {
+        "word": "almost",
+        "from": 1605,
+        "to": 1617
+      },
+      {
+        "word": "nobody",
+        "from": 1617,
+        "to": 1628
+      },
+      {
+        "word": "else",
+        "from": 1628,
+        "to": 1634
+      },
+      {
+        "word": "possesses",
+        "from": 1634,
+        "to": 1656
+      },
+      {
+        "word": "there's",
+        "from": 1667,
+        "to": 1673
+      },
+      {
+        "word": "just",
+        "from": 1673,
+        "to": 1680
+      },
+      {
+        "word": "one",
+        "from": 1680,
+        "to": 1687
+      },
+      {
+        "word": "problem",
+        "from": 1687,
+        "to": 1705
+      },
+      {
+        "word": "an",
+        "from": 1705,
+        "to": 1711
+      },
+      {
+        "word": "advantage",
+        "from": 1711,
+        "to": 1726
+      },
+      {
+        "word": "this",
+        "from": 1726,
+        "to": 1731
+      },
+      {
+        "word": "extraordinary",
+        "from": 1731,
+        "to": 1753
+      },
+      {
+        "word": "is",
+        "from": 1753,
+        "to": 1758
+      },
+      {
+        "word": "very",
+        "from": 1758,
+        "to": 1766
+      },
+      {
+        "word": "difficult",
+        "from": 1766,
+        "to": 1782
+      },
+      {
+        "word": "to",
+        "from": 1782,
+        "to": 1784
+      },
+      {
+        "word": "keep",
+        "from": 1784,
+        "to": 1793
+      },
+      {
+        "word": "secret",
+        "from": 1793,
+        "to": 1813
+      }
+    ],
+    "beats": [
+      {
+        "from": 0,
+        "tag": "startup",
+        "phrase": ""
+      },
+      {
+        "from": 152,
+        "tag": "expertise",
+        "phrase": "You understand technology"
+      },
+      {
+        "from": 298,
+        "tag": "problem",
+        "phrase": "Whenever you encounter"
+      },
+      {
+        "from": 445,
+        "tag": "company",
+        "phrase": "So you decide to start"
+      },
+      {
+        "from": 529,
+        "tag": "identify",
+        "phrase": "You identify a problem"
+      },
+      {
+        "from": 689,
+        "tag": "design",
+        "phrase": "You design a product"
+      },
+      {
+        "from": 732,
+        "tag": "software",
+        "phrase": "Write the software"
+      },
+      {
+        "from": 766,
+        "tag": "strategy",
+        "phrase": "Develop a business strategy"
+      },
+      {
+        "from": 812,
+        "tag": "employees",
+        "phrase": "Hire employees"
+      },
+      {
+        "from": 851,
+        "tag": "investors",
+        "phrase": "And pitch to investors"
+      },
+      {
+        "from": 897,
+        "tag": "team",
+        "phrase": "Tasks that normally"
+      },
+      {
+        "from": 1113,
+        "tag": "testing",
+        "phrase": "But building a successful company"
+      },
+      {
+        "from": 1242,
+        "tag": "customers",
+        "phrase": "Customers need convincing"
+      },
+      {
+        "from": 1292,
+        "tag": "leadership",
+        "phrase": "Employees need leadership"
+      },
+      {
+        "from": 1338,
+        "tag": "risk",
+        "phrase": "And one bad decision"
+      },
+      {
+        "from": 1443,
+        "tag": "notGuaranteed",
+        "phrase": "You're not guaranteed"
+      },
+      {
+        "from": 1502,
+        "tag": "advantage",
+        "phrase": "But if you use"
+      },
+      {
+        "from": 1667,
+        "tag": "secret",
+        "phrase": "There's just one problem"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "HOW WOULD THE WORLD REACT?",
+    "label": "THE WORLD IS WATCHING",
+    "text": "Let's say you manage to keep your ability secret for a few months. But someone who learns one hundred times faster can't stay unnoticed forever. You pass advanced university-level knowledge tests after just days of preparation. You become conversational in six languages over a single summer. Then one day, a video of your abilities spreads across the internet. At first, people think it's fake. But after experts independently verify what you can do... Everything changes. The invitations begin arriving. Technology companies. Investment firms. World-class research institutions. And perhaps even government agencies. Everyone wants to work with you. Because you can absorb knowledge across multiple fields in an unbelievably short amount of time. You might become incredibly wealthy. But your privacy could slowly disappear. Everyone wants a piece of your time. And that raises an interesting question. What if tomorrow... Everyone on Earth could learn one hundred times faster? Education would change dramatically. Programs that once took years could potentially become much shorter. A university degree alone might no longer make someone stand out. And your extraordinary ability? It would suddenly become normal. If everyone could learn at incredible speed, success would depend even more on creativity, resources, judgment, and the ability to turn knowledge into action. You'd still have an extraordinary brain. You just wouldn't be the only one anymore.",
+    "originalText": "Let's say you manage to keep your ability secret for a few months.\n\nBut someone who learns one hundred times faster can't stay unnoticed forever.\n\nYou pass advanced university-level knowledge tests after just days of preparation.\n\nYou become conversational in six languages over a single summer.\n\nThen one day, a video of your abilities spreads across the internet.\n\nAt first, people think it's fake.\n\nBut after experts independently verify what you can do...\n\nEverything changes.\n\nThe invitations begin arriving.\n\nTechnology companies.\n\nInvestment firms.\n\nWorld-class research institutions.\n\nAnd perhaps even government agencies.\n\nEveryone wants to work with you.\n\nBecause you can absorb knowledge across multiple fields in an unbelievably short amount of time.\n\nYou might become incredibly wealthy.\n\nBut your privacy could slowly disappear.\n\nEveryone wants a piece of your time.\n\nAnd that raises an interesting question.\n\nWhat if tomorrow...\n\nEveryone on Earth could learn one hundred times faster?\n\nEducation would change dramatically.\n\nPrograms that once took years could potentially become much shorter.\n\nA university degree alone might no longer make someone stand out.\n\nAnd your extraordinary ability?\n\nIt would suddenly become normal.\n\nIf everyone could learn at incredible speed, success would depend even more on creativity, resources, judgment, and the ability to turn knowledge into action.\n\nYou'd still have an extraordinary brain.\n\nYou just wouldn't be the only one anymore.",
+    "from": 9987,
+    "duration": 2487,
+    "words": [
+      {
+        "word": "let's",
+        "from": 10,
+        "to": 18
+      },
+      {
+        "word": "say",
+        "from": 18,
+        "to": 21
+      },
+      {
+        "word": "you",
+        "from": 21,
+        "to": 24
+      },
+      {
+        "word": "manage",
+        "from": 24,
+        "to": 35
+      },
+      {
+        "word": "to",
+        "from": 35,
+        "to": 37
+      },
+      {
+        "word": "keep",
+        "from": 37,
+        "to": 44
+      },
+      {
+        "word": "your",
+        "from": 44,
+        "to": 47
+      },
+      {
+        "word": "ability",
+        "from": 47,
+        "to": 58
+      },
+      {
+        "word": "secret",
+        "from": 58,
+        "to": 70
+      },
+      {
+        "word": "for",
+        "from": 70,
+        "to": 75
+      },
+      {
+        "word": "a",
+        "from": 75,
+        "to": 76
+      },
+      {
+        "word": "few",
+        "from": 76,
+        "to": 81
+      },
+      {
+        "word": "months",
+        "from": 81,
+        "to": 95
+      },
+      {
+        "word": "but",
+        "from": 95,
+        "to": 105
+      },
+      {
+        "word": "someone",
+        "from": 105,
+        "to": 116
+      },
+      {
+        "word": "who",
+        "from": 116,
+        "to": 122
+      },
+      {
+        "word": "learns",
+        "from": 122,
+        "to": 134
+      },
+      {
+        "word": "one",
+        "from": 134,
+        "to": 140
+      },
+      {
+        "word": "hundred",
+        "from": 140,
+        "to": 149
+      },
+      {
+        "word": "times",
+        "from": 149,
+        "to": 160
+      },
+      {
+        "word": "faster",
+        "from": 160,
+        "to": 174
+      },
+      {
+        "word": "can't",
+        "from": 174,
+        "to": 185
+      },
+      {
+        "word": "stay",
+        "from": 185,
+        "to": 194
+      },
+      {
+        "word": "unnoticed",
+        "from": 194,
+        "to": 212
+      },
+      {
+        "word": "forever",
+        "from": 212,
+        "to": 227
+      },
+      {
+        "word": "you",
+        "from": 234,
+        "to": 238
+      },
+      {
+        "word": "pass",
+        "from": 238,
+        "to": 247
+      },
+      {
+        "word": "advanced",
+        "from": 247,
+        "to": 261
+      },
+      {
+        "word": "university",
+        "from": 261,
+        "to": 276
+      },
+      {
+        "word": "level",
+        "from": 276,
+        "to": 287
+      },
+      {
+        "word": "knowledge",
+        "from": 287,
+        "to": 298
+      },
+      {
+        "word": "tests",
+        "from": 298,
+        "to": 310
+      },
+      {
+        "word": "after",
+        "from": 310,
+        "to": 319
+      },
+      {
+        "word": "just",
+        "from": 319,
+        "to": 328
+      },
+      {
+        "word": "days",
+        "from": 328,
+        "to": 337
+      },
+      {
+        "word": "of",
+        "from": 337,
+        "to": 340
+      },
+      {
+        "word": "preparation",
+        "from": 340,
+        "to": 364
+      },
+      {
+        "word": "you",
+        "from": 374,
+        "to": 377
+      },
+      {
+        "word": "become",
+        "from": 377,
+        "to": 387
+      },
+      {
+        "word": "conversational",
+        "from": 387,
+        "to": 414
+      },
+      {
+        "word": "in",
+        "from": 414,
+        "to": 417
+      },
+      {
+        "word": "six",
+        "from": 417,
+        "to": 428
+      },
+      {
+        "word": "languages",
+        "from": 428,
+        "to": 450
+      },
+      {
+        "word": "over",
+        "from": 450,
+        "to": 463
+      },
+      {
+        "word": "a",
+        "from": 463,
+        "to": 464
+      },
+      {
+        "word": "single",
+        "from": 464,
+        "to": 477
+      },
+      {
+        "word": "summer",
+        "from": 477,
+        "to": 497
+      },
+      {
+        "word": "then",
+        "from": 497,
+        "to": 501
+      },
+      {
+        "word": "one",
+        "from": 501,
+        "to": 508
+      },
+      {
+        "word": "day",
+        "from": 508,
+        "to": 518
+      },
+      {
+        "word": "a",
+        "from": 524,
+        "to": 526
+      },
+      {
+        "word": "video",
+        "from": 526,
+        "to": 534
+      },
+      {
+        "word": "of",
+        "from": 534,
+        "to": 537
+      },
+      {
+        "word": "your",
+        "from": 537,
+        "to": 540
+      },
+      {
+        "word": "abilities",
+        "from": 540,
+        "to": 552
+      },
+      {
+        "word": "spreads",
+        "from": 552,
+        "to": 562
+      },
+      {
+        "word": "across",
+        "from": 562,
+        "to": 574
+      },
+      {
+        "word": "the",
+        "from": 574,
+        "to": 578
+      },
+      {
+        "word": "internet",
+        "from": 578,
+        "to": 594
+      },
+      {
+        "word": "at",
+        "from": 605,
+        "to": 610
+      },
+      {
+        "word": "first",
+        "from": 610,
+        "to": 627
+      },
+      {
+        "word": "people",
+        "from": 627,
+        "to": 636
+      },
+      {
+        "word": "think",
+        "from": 636,
+        "to": 646
+      },
+      {
+        "word": "it's",
+        "from": 646,
+        "to": 651
+      },
+      {
+        "word": "fake",
+        "from": 651,
+        "to": 663
+      },
+      {
+        "word": "but",
+        "from": 663,
+        "to": 672
+      },
+      {
+        "word": "after",
+        "from": 672,
+        "to": 685
+      },
+      {
+        "word": "experts",
+        "from": 685,
+        "to": 700
+      },
+      {
+        "word": "independently",
+        "from": 700,
+        "to": 721
+      },
+      {
+        "word": "verify",
+        "from": 721,
+        "to": 738
+      },
+      {
+        "word": "what",
+        "from": 738,
+        "to": 746
+      },
+      {
+        "word": "you",
+        "from": 746,
+        "to": 751
+      },
+      {
+        "word": "can",
+        "from": 751,
+        "to": 757
+      },
+      {
+        "word": "do",
+        "from": 757,
+        "to": 766
+      },
+      {
+        "word": "everything",
+        "from": 779,
+        "to": 796
+      },
+      {
+        "word": "changes",
+        "from": 796,
+        "to": 822
+      },
+      {
+        "word": "the",
+        "from": 822,
+        "to": 826
+      },
+      {
+        "word": "invitations",
+        "from": 826,
+        "to": 846
+      },
+      {
+        "word": "begin",
+        "from": 846,
+        "to": 853
+      },
+      {
+        "word": "arriving",
+        "from": 853,
+        "to": 874
+      },
+      {
+        "word": "technology",
+        "from": 874,
+        "to": 893
+      },
+      {
+        "word": "companies",
+        "from": 893,
+        "to": 911
+      },
+      {
+        "word": "investment",
+        "from": 918,
+        "to": 932
+      },
+      {
+        "word": "firms",
+        "from": 932,
+        "to": 951
+      },
+      {
+        "word": "world",
+        "from": 951,
+        "to": 960
+      },
+      {
+        "word": "class",
+        "from": 960,
+        "to": 969
+      },
+      {
+        "word": "research",
+        "from": 969,
+        "to": 980
+      },
+      {
+        "word": "institutions",
+        "from": 980,
+        "to": 1009
+      },
+      {
+        "word": "and",
+        "from": 1009,
+        "to": 1013
+      },
+      {
+        "word": "perhaps",
+        "from": 1013,
+        "to": 1027
+      },
+      {
+        "word": "even",
+        "from": 1027,
+        "to": 1037
+      },
+      {
+        "word": "government",
+        "from": 1037,
+        "to": 1052
+      },
+      {
+        "word": "agencies",
+        "from": 1052,
+        "to": 1076
+      },
+      {
+        "word": "everyone",
+        "from": 1076,
+        "to": 1086
+      },
+      {
+        "word": "wants",
+        "from": 1086,
+        "to": 1094
+      },
+      {
+        "word": "to",
+        "from": 1094,
+        "to": 1097
+      },
+      {
+        "word": "work",
+        "from": 1097,
+        "to": 1105
+      },
+      {
+        "word": "with",
+        "from": 1105,
+        "to": 1110
+      },
+      {
+        "word": "you",
+        "from": 1110,
+        "to": 1117
+      },
+      {
+        "word": "because",
+        "from": 1124,
+        "to": 1138
+      },
+      {
+        "word": "you",
+        "from": 1138,
+        "to": 1141
+      },
+      {
+        "word": "can",
+        "from": 1141,
+        "to": 1145
+      },
+      {
+        "word": "absorb",
+        "from": 1145,
+        "to": 1160
+      },
+      {
+        "word": "knowledge",
+        "from": 1160,
+        "to": 1172
+      },
+      {
+        "word": "across",
+        "from": 1172,
+        "to": 1184
+      },
+      {
+        "word": "multiple",
+        "from": 1184,
+        "to": 1200
+      },
+      {
+        "word": "fields",
+        "from": 1200,
+        "to": 1216
+      },
+      {
+        "word": "in",
+        "from": 1216,
+        "to": 1218
+      },
+      {
+        "word": "an",
+        "from": 1218,
+        "to": 1222
+      },
+      {
+        "word": "unbelievably",
+        "from": 1222,
+        "to": 1243
+      },
+      {
+        "word": "short",
+        "from": 1243,
+        "to": 1252
+      },
+      {
+        "word": "amount",
+        "from": 1252,
+        "to": 1259
+      },
+      {
+        "word": "of",
+        "from": 1259,
+        "to": 1262
+      },
+      {
+        "word": "time",
+        "from": 1262,
+        "to": 1273
+      },
+      {
+        "word": "you",
+        "from": 1283,
+        "to": 1286
+      },
+      {
+        "word": "might",
+        "from": 1286,
+        "to": 1291
+      },
+      {
+        "word": "become",
+        "from": 1291,
+        "to": 1302
+      },
+      {
+        "word": "incredibly",
+        "from": 1302,
+        "to": 1315
+      },
+      {
+        "word": "wealthy",
+        "from": 1315,
+        "to": 1333
+      },
+      {
+        "word": "but",
+        "from": 1341,
+        "to": 1347
+      },
+      {
+        "word": "your",
+        "from": 1347,
+        "to": 1350
+      },
+      {
+        "word": "privacy",
+        "from": 1350,
+        "to": 1366
+      },
+      {
+        "word": "could",
+        "from": 1366,
+        "to": 1373
+      },
+      {
+        "word": "slowly",
+        "from": 1373,
+        "to": 1388
+      },
+      {
+        "word": "disappear",
+        "from": 1388,
+        "to": 1410
+      },
+      {
+        "word": "everyone",
+        "from": 1410,
+        "to": 1420
+      },
+      {
+        "word": "wants",
+        "from": 1420,
+        "to": 1427
+      },
+      {
+        "word": "a",
+        "from": 1427,
+        "to": 1428
+      },
+      {
+        "word": "piece",
+        "from": 1428,
+        "to": 1437
+      },
+      {
+        "word": "of",
+        "from": 1437,
+        "to": 1439
+      },
+      {
+        "word": "your",
+        "from": 1439,
+        "to": 1442
+      },
+      {
+        "word": "time",
+        "from": 1442,
+        "to": 1454
+      },
+      {
+        "word": "and",
+        "from": 1464,
+        "to": 1469
+      },
+      {
+        "word": "that",
+        "from": 1469,
+        "to": 1476
+      },
+      {
+        "word": "raises",
+        "from": 1476,
+        "to": 1489
+      },
+      {
+        "word": "an",
+        "from": 1489,
+        "to": 1491
+      },
+      {
+        "word": "interesting",
+        "from": 1491,
+        "to": 1506
+      },
+      {
+        "word": "question",
+        "from": 1506,
+        "to": 1523
+      },
+      {
+        "word": "what",
+        "from": 1533,
+        "to": 1538
+      },
+      {
+        "word": "if",
+        "from": 1538,
+        "to": 1542
+      },
+      {
+        "word": "tomorrow",
+        "from": 1542,
+        "to": 1561
+      },
+      {
+        "word": "everyone",
+        "from": 1578,
+        "to": 1593
+      },
+      {
+        "word": "on",
+        "from": 1593,
+        "to": 1599
+      },
+      {
+        "word": "earth",
+        "from": 1599,
+        "to": 1608
+      },
+      {
+        "word": "could",
+        "from": 1608,
+        "to": 1613
+      },
+      {
+        "word": "learn",
+        "from": 1613,
+        "to": 1619
+      },
+      {
+        "word": "one",
+        "from": 1619,
+        "to": 1626
+      },
+      {
+        "word": "hundred",
+        "from": 1626,
+        "to": 1636
+      },
+      {
+        "word": "times",
+        "from": 1636,
+        "to": 1646
+      },
+      {
+        "word": "faster",
+        "from": 1646,
+        "to": 1667
+      },
+      {
+        "word": "education",
+        "from": 1667,
+        "to": 1685
+      },
+      {
+        "word": "would",
+        "from": 1685,
+        "to": 1688
+      },
+      {
+        "word": "change",
+        "from": 1688,
+        "to": 1700
+      },
+      {
+        "word": "dramatically",
+        "from": 1700,
+        "to": 1729
+      },
+      {
+        "word": "programs",
+        "from": 1729,
+        "to": 1746
+      },
+      {
+        "word": "that",
+        "from": 1746,
+        "to": 1752
+      },
+      {
+        "word": "once",
+        "from": 1752,
+        "to": 1761
+      },
+      {
+        "word": "took",
+        "from": 1761,
+        "to": 1768
+      },
+      {
+        "word": "years",
+        "from": 1768,
+        "to": 1778
+      },
+      {
+        "word": "could",
+        "from": 1778,
+        "to": 1782
+      },
+      {
+        "word": "potentially",
+        "from": 1782,
+        "to": 1798
+      },
+      {
+        "word": "become",
+        "from": 1798,
+        "to": 1810
+      },
+      {
+        "word": "much",
+        "from": 1810,
+        "to": 1816
+      },
+      {
+        "word": "shorter",
+        "from": 1816,
+        "to": 1832
+      },
+      {
+        "word": "a",
+        "from": 1837,
+        "to": 1839
+      },
+      {
+        "word": "university",
+        "from": 1839,
+        "to": 1859
+      },
+      {
+        "word": "degree",
+        "from": 1859,
+        "to": 1867
+      },
+      {
+        "word": "alone",
+        "from": 1867,
+        "to": 1879
+      },
+      {
+        "word": "might",
+        "from": 1879,
+        "to": 1885
+      },
+      {
+        "word": "no",
+        "from": 1885,
+        "to": 1889
+      },
+      {
+        "word": "longer",
+        "from": 1889,
+        "to": 1898
+      },
+      {
+        "word": "make",
+        "from": 1898,
+        "to": 1904
+      },
+      {
+        "word": "someone",
+        "from": 1904,
+        "to": 1912
+      },
+      {
+        "word": "stand",
+        "from": 1912,
+        "to": 1922
+      },
+      {
+        "word": "out",
+        "from": 1922,
+        "to": 1930
+      },
+      {
+        "word": "and",
+        "from": 1942,
+        "to": 1948
+      },
+      {
+        "word": "your",
+        "from": 1948,
+        "to": 1955
+      },
+      {
+        "word": "extraordinary",
+        "from": 1955,
+        "to": 1974
+      },
+      {
+        "word": "ability",
+        "from": 1974,
+        "to": 1989
+      },
+      {
+        "word": "it",
+        "from": 1995,
+        "to": 1998
+      },
+      {
+        "word": "would",
+        "from": 1998,
+        "to": 2001
+      },
+      {
+        "word": "suddenly",
+        "from": 2001,
+        "to": 2013
+      },
+      {
+        "word": "become",
+        "from": 2013,
+        "to": 2022
+      },
+      {
+        "word": "normal",
+        "from": 2022,
+        "to": 2041
+      },
+      {
+        "word": "if",
+        "from": 2041,
+        "to": 2046
+      },
+      {
+        "word": "everyone",
+        "from": 2046,
+        "to": 2057
+      },
+      {
+        "word": "could",
+        "from": 2057,
+        "to": 2061
+      },
+      {
+        "word": "learn",
+        "from": 2061,
+        "to": 2070
+      },
+      {
+        "word": "at",
+        "from": 2070,
+        "to": 2074
+      },
+      {
+        "word": "incredible",
+        "from": 2074,
+        "to": 2093
+      },
+      {
+        "word": "speed",
+        "from": 2093,
+        "to": 2110
+      },
+      {
+        "word": "success",
+        "from": 2121,
+        "to": 2138
+      },
+      {
+        "word": "would",
+        "from": 2138,
+        "to": 2142
+      },
+      {
+        "word": "depend",
+        "from": 2142,
+        "to": 2154
+      },
+      {
+        "word": "even",
+        "from": 2154,
+        "to": 2165
+      },
+      {
+        "word": "more",
+        "from": 2165,
+        "to": 2174
+      },
+      {
+        "word": "on",
+        "from": 2174,
+        "to": 2178
+      },
+      {
+        "word": "creativity",
+        "from": 2178,
+        "to": 2204
+      },
+      {
+        "word": "resources",
+        "from": 2214,
+        "to": 2240
+      },
+      {
+        "word": "judgment",
+        "from": 2240,
+        "to": 2264
+      },
+      {
+        "word": "and",
+        "from": 2264,
+        "to": 2268
+      },
+      {
+        "word": "the",
+        "from": 2268,
+        "to": 2272
+      },
+      {
+        "word": "ability",
+        "from": 2272,
+        "to": 2286
+      },
+      {
+        "word": "to",
+        "from": 2286,
+        "to": 2289
+      },
+      {
+        "word": "turn",
+        "from": 2289,
+        "to": 2298
+      },
+      {
+        "word": "knowledge",
+        "from": 2298,
+        "to": 2314
+      },
+      {
+        "word": "into",
+        "from": 2314,
+        "to": 2320
+      },
+      {
+        "word": "action",
+        "from": 2320,
+        "to": 2339
+      },
+      {
+        "word": "you'd",
+        "from": 2346,
+        "to": 2350
+      },
+      {
+        "word": "still",
+        "from": 2350,
+        "to": 2361
+      },
+      {
+        "word": "have",
+        "from": 2361,
+        "to": 2365
+      },
+      {
+        "word": "an",
+        "from": 2365,
+        "to": 2367
+      },
+      {
+        "word": "extraordinary",
+        "from": 2367,
+        "to": 2390
+      },
+      {
+        "word": "brain",
+        "from": 2390,
+        "to": 2405
+      },
+      {
+        "word": "you",
+        "from": 2412,
+        "to": 2415
+      },
+      {
+        "word": "just",
+        "from": 2415,
+        "to": 2421
+      },
+      {
+        "word": "wouldn't",
+        "from": 2421,
+        "to": 2427
+      },
+      {
+        "word": "be",
+        "from": 2427,
+        "to": 2430
+      },
+      {
+        "word": "the",
+        "from": 2430,
+        "to": 2433
+      },
+      {
+        "word": "only",
+        "from": 2433,
+        "to": 2439
+      },
+      {
+        "word": "one",
+        "from": 2439,
+        "to": 2447
+      },
+      {
+        "word": "anymore",
+        "from": 2447,
+        "to": 2461
+      }
+    ],
+    "beats": [
+      {
+        "from": 0,
+        "tag": "private",
+        "phrase": ""
+      },
+      {
+        "from": 234,
+        "tag": "tests",
+        "phrase": "You pass advanced"
+      },
+      {
+        "from": 374,
+        "tag": "sixLanguages",
+        "phrase": "You become conversational"
+      },
+      {
+        "from": 497,
+        "tag": "viral",
+        "phrase": "Then one day a video"
+      },
+      {
+        "from": 605,
+        "tag": "fake",
+        "phrase": "At first people think"
+      },
+      {
+        "from": 663,
+        "tag": "verify",
+        "phrase": "But after experts"
+      },
+      {
+        "from": 822,
+        "tag": "invites",
+        "phrase": "The invitations begin"
+      },
+      {
+        "from": 874,
+        "tag": "tech",
+        "phrase": "Technology companies"
+      },
+      {
+        "from": 918,
+        "tag": "investment",
+        "phrase": "Investment firms"
+      },
+      {
+        "from": 951,
+        "tag": "researchOrg",
+        "phrase": "World class research institutions"
+      },
+      {
+        "from": 1009,
+        "tag": "government",
+        "phrase": "And perhaps even government"
+      },
+      {
+        "from": 1076,
+        "tag": "attention",
+        "phrase": "Everyone wants to work"
+      },
+      {
+        "from": 1341,
+        "tag": "privacy",
+        "phrase": "But your privacy"
+      },
+      {
+        "from": 1464,
+        "tag": "question",
+        "phrase": "And that raises"
+      },
+      {
+        "from": 1533,
+        "tag": "everyone",
+        "phrase": "What if tomorrow"
+      },
+      {
+        "from": 1667,
+        "tag": "education",
+        "phrase": "Education would change"
+      },
+      {
+        "from": 1837,
+        "tag": "degreeNormal",
+        "phrase": "A university degree alone"
+      },
+      {
+        "from": 1942,
+        "tag": "normal",
+        "phrase": "And your extraordinary ability"
+      },
+      {
+        "from": 2041,
+        "tag": "creativity",
+        "phrase": "If everyone could learn"
+      },
+      {
+        "from": 2346,
+        "tag": "notAlone",
+        "phrase": "You'd still have"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "COULD YOU CHANGE THE WORLD?",
+    "label": "THE UNKNOWN",
+    "text": "When the whole world starts paying attention to you, another question emerges. Will you use your ability to make even more money? Or will you try to do something money alone can't accomplish? You begin thinking about bigger problems. Cancer. Clean energy. Climate change. Diseases that still have no effective treatment. You study biology. Chemistry. Artificial intelligence. And materials science. You absorb knowledge from different scientific disciplines at an astonishing speed. Then you begin connecting ideas that other researchers might rarely have considered together. Perhaps you identify a promising new treatment. A more efficient energy technology. Or an invention that could improve millions of lives. But scientific discoveries still require evidence. Theories must be tested. Inventions must be validated. And some questions don't yet have answers. You can learn almost everything humanity has already discovered. But to discover something truly new... You still have to step into the unknown.",
+    "originalText": "When the whole world starts paying attention to you, another question emerges.\n\nWill you use your ability to make even more money?\n\nOr will you try to do something money alone can't accomplish?\n\nYou begin thinking about bigger problems.\n\nCancer.\n\nClean energy.\n\nClimate change.\n\nDiseases that still have no effective treatment.\n\nYou study biology.\n\nChemistry.\n\nArtificial intelligence.\n\nAnd materials science.\n\nYou absorb knowledge from different scientific disciplines at an astonishing speed.\n\nThen you begin connecting ideas that other researchers might rarely have considered together.\n\nPerhaps you identify a promising new treatment.\n\nA more efficient energy technology.\n\nOr an invention that could improve millions of lives.\n\nBut scientific discoveries still require evidence.\n\nTheories must be tested.\n\nInventions must be validated.\n\nAnd some questions don't yet have answers.\n\nYou can learn almost everything humanity has already discovered.\n\nBut to discover something truly new...\n\nYou still have to step into the unknown.",
+    "from": 12474,
+    "duration": 1743,
+    "words": [
+      {
+        "word": "when",
+        "from": 14,
+        "to": 19
+      },
+      {
+        "word": "the",
+        "from": 19,
+        "to": 21
+      },
+      {
+        "word": "whole",
+        "from": 21,
+        "to": 30
+      },
+      {
+        "word": "world",
+        "from": 30,
+        "to": 39
+      },
+      {
+        "word": "starts",
+        "from": 39,
+        "to": 51
+      },
+      {
+        "word": "paying",
+        "from": 51,
+        "to": 59
+      },
+      {
+        "word": "attention",
+        "from": 59,
+        "to": 74
+      },
+      {
+        "word": "to",
+        "from": 74,
+        "to": 78
+      },
+      {
+        "word": "you",
+        "from": 78,
+        "to": 89
+      },
+      {
+        "word": "another",
+        "from": 89,
+        "to": 99
+      },
+      {
+        "word": "question",
+        "from": 99,
+        "to": 115
+      },
+      {
+        "word": "emerges",
+        "from": 115,
+        "to": 138
+      },
+      {
+        "word": "will",
+        "from": 142,
+        "to": 146
+      },
+      {
+        "word": "you",
+        "from": 146,
+        "to": 151
+      },
+      {
+        "word": "use",
+        "from": 151,
+        "to": 159
+      },
+      {
+        "word": "your",
+        "from": 159,
+        "to": 162
+      },
+      {
+        "word": "ability",
+        "from": 162,
+        "to": 177
+      },
+      {
+        "word": "to",
+        "from": 177,
+        "to": 181
+      },
+      {
+        "word": "make",
+        "from": 181,
+        "to": 188
+      },
+      {
+        "word": "even",
+        "from": 188,
+        "to": 199
+      },
+      {
+        "word": "more",
+        "from": 199,
+        "to": 209
+      },
+      {
+        "word": "money",
+        "from": 209,
+        "to": 221
+      },
+      {
+        "word": "or",
+        "from": 232,
+        "to": 236
+      },
+      {
+        "word": "will",
+        "from": 236,
+        "to": 240
+      },
+      {
+        "word": "you",
+        "from": 240,
+        "to": 245
+      },
+      {
+        "word": "try",
+        "from": 245,
+        "to": 253
+      },
+      {
+        "word": "to",
+        "from": 253,
+        "to": 256
+      },
+      {
+        "word": "do",
+        "from": 256,
+        "to": 261
+      },
+      {
+        "word": "something",
+        "from": 261,
+        "to": 273
+      },
+      {
+        "word": "money",
+        "from": 273,
+        "to": 282
+      },
+      {
+        "word": "alone",
+        "from": 282,
+        "to": 293
+      },
+      {
+        "word": "can't",
+        "from": 293,
+        "to": 301
+      },
+      {
+        "word": "accomplish",
+        "from": 301,
+        "to": 324
+      },
+      {
+        "word": "you",
+        "from": 330,
+        "to": 334
+      },
+      {
+        "word": "begin",
+        "from": 334,
+        "to": 344
+      },
+      {
+        "word": "thinking",
+        "from": 344,
+        "to": 353
+      },
+      {
+        "word": "about",
+        "from": 353,
+        "to": 363
+      },
+      {
+        "word": "bigger",
+        "from": 363,
+        "to": 371
+      },
+      {
+        "word": "problems",
+        "from": 371,
+        "to": 395
+      },
+      {
+        "word": "cancer",
+        "from": 395,
+        "to": 408
+      },
+      {
+        "word": "clean",
+        "from": 408,
+        "to": 417
+      },
+      {
+        "word": "energy",
+        "from": 417,
+        "to": 429
+      },
+      {
+        "word": "climate",
+        "from": 429,
+        "to": 441
+      },
+      {
+        "word": "change",
+        "from": 441,
+        "to": 457
+      },
+      {
+        "word": "diseases",
+        "from": 461,
+        "to": 480
+      },
+      {
+        "word": "that",
+        "from": 480,
+        "to": 484
+      },
+      {
+        "word": "still",
+        "from": 484,
+        "to": 494
+      },
+      {
+        "word": "have",
+        "from": 494,
+        "to": 500
+      },
+      {
+        "word": "no",
+        "from": 500,
+        "to": 509
+      },
+      {
+        "word": "effective",
+        "from": 509,
+        "to": 525
+      },
+      {
+        "word": "treatment",
+        "from": 525,
+        "to": 545
+      },
+      {
+        "word": "you",
+        "from": 545,
+        "to": 549
+      },
+      {
+        "word": "study",
+        "from": 549,
+        "to": 560
+      },
+      {
+        "word": "biology",
+        "from": 560,
+        "to": 581
+      },
+      {
+        "word": "chemistry",
+        "from": 586,
+        "to": 612
+      },
+      {
+        "word": "artificial",
+        "from": 621,
+        "to": 639
+      },
+      {
+        "word": "intelligence",
+        "from": 639,
+        "to": 662
+      },
+      {
+        "word": "and",
+        "from": 662,
+        "to": 667
+      },
+      {
+        "word": "materials",
+        "from": 667,
+        "to": 685
+      },
+      {
+        "word": "science",
+        "from": 685,
+        "to": 706
+      },
+      {
+        "word": "you",
+        "from": 713,
+        "to": 718
+      },
+      {
+        "word": "absorb",
+        "from": 718,
+        "to": 733
+      },
+      {
+        "word": "knowledge",
+        "from": 733,
+        "to": 748
+      },
+      {
+        "word": "from",
+        "from": 748,
+        "to": 753
+      },
+      {
+        "word": "different",
+        "from": 753,
+        "to": 764
+      },
+      {
+        "word": "scientific",
+        "from": 764,
+        "to": 781
+      },
+      {
+        "word": "disciplines",
+        "from": 781,
+        "to": 802
+      },
+      {
+        "word": "at",
+        "from": 802,
+        "to": 806
+      },
+      {
+        "word": "an",
+        "from": 806,
+        "to": 810
+      },
+      {
+        "word": "astonishing",
+        "from": 810,
+        "to": 833
+      },
+      {
+        "word": "speed",
+        "from": 833,
+        "to": 849
+      },
+      {
+        "word": "then",
+        "from": 861,
+        "to": 865
+      },
+      {
+        "word": "you",
+        "from": 865,
+        "to": 867
+      },
+      {
+        "word": "begin",
+        "from": 867,
+        "to": 876
+      },
+      {
+        "word": "connecting",
+        "from": 876,
+        "to": 890
+      },
+      {
+        "word": "ideas",
+        "from": 890,
+        "to": 904
+      },
+      {
+        "word": "that",
+        "from": 904,
+        "to": 908
+      },
+      {
+        "word": "other",
+        "from": 908,
+        "to": 914
+      },
+      {
+        "word": "researchers",
+        "from": 914,
+        "to": 932
+      },
+      {
+        "word": "might",
+        "from": 932,
+        "to": 936
+      },
+      {
+        "word": "rarely",
+        "from": 936,
+        "to": 947
+      },
+      {
+        "word": "have",
+        "from": 947,
+        "to": 952
+      },
+      {
+        "word": "considered",
+        "from": 952,
+        "to": 967
+      },
+      {
+        "word": "together",
+        "from": 967,
+        "to": 985
+      },
+      {
+        "word": "perhaps",
+        "from": 985,
+        "to": 996
+      },
+      {
+        "word": "you",
+        "from": 996,
+        "to": 999
+      },
+      {
+        "word": "identify",
+        "from": 999,
+        "to": 1019
+      },
+      {
+        "word": "a",
+        "from": 1019,
+        "to": 1021
+      },
+      {
+        "word": "promising",
+        "from": 1021,
+        "to": 1041
+      },
+      {
+        "word": "new",
+        "from": 1041,
+        "to": 1046
+      },
+      {
+        "word": "treatment",
+        "from": 1046,
+        "to": 1067
+      },
+      {
+        "word": "a",
+        "from": 1067,
+        "to": 1070
+      },
+      {
+        "word": "more",
+        "from": 1070,
+        "to": 1077
+      },
+      {
+        "word": "efficient",
+        "from": 1077,
+        "to": 1092
+      },
+      {
+        "word": "energy",
+        "from": 1092,
+        "to": 1103
+      },
+      {
+        "word": "technology",
+        "from": 1103,
+        "to": 1131
+      },
+      {
+        "word": "or",
+        "from": 1131,
+        "to": 1136
+      },
+      {
+        "word": "an",
+        "from": 1136,
+        "to": 1139
+      },
+      {
+        "word": "invention",
+        "from": 1139,
+        "to": 1152
+      },
+      {
+        "word": "that",
+        "from": 1152,
+        "to": 1157
+      },
+      {
+        "word": "could",
+        "from": 1157,
+        "to": 1161
+      },
+      {
+        "word": "improve",
+        "from": 1161,
+        "to": 1175
+      },
+      {
+        "word": "millions",
+        "from": 1175,
+        "to": 1192
+      },
+      {
+        "word": "of",
+        "from": 1192,
+        "to": 1195
+      },
+      {
+        "word": "lives",
+        "from": 1195,
+        "to": 1215
+      },
+      {
+        "word": "but",
+        "from": 1215,
+        "to": 1220
+      },
+      {
+        "word": "scientific",
+        "from": 1220,
+        "to": 1239
+      },
+      {
+        "word": "discoveries",
+        "from": 1239,
+        "to": 1257
+      },
+      {
+        "word": "still",
+        "from": 1257,
+        "to": 1267
+      },
+      {
+        "word": "require",
+        "from": 1267,
+        "to": 1284
+      },
+      {
+        "word": "evidence",
+        "from": 1284,
+        "to": 1306
+      },
+      {
+        "word": "theories",
+        "from": 1314,
+        "to": 1325
+      },
+      {
+        "word": "must",
+        "from": 1325,
+        "to": 1331
+      },
+      {
+        "word": "be",
+        "from": 1331,
+        "to": 1334
+      },
+      {
+        "word": "tested",
+        "from": 1334,
+        "to": 1349
+      },
+      {
+        "word": "inventions",
+        "from": 1356,
+        "to": 1374
+      },
+      {
+        "word": "must",
+        "from": 1374,
+        "to": 1383
+      },
+      {
+        "word": "be",
+        "from": 1383,
+        "to": 1388
+      },
+      {
+        "word": "validated",
+        "from": 1388,
+        "to": 1416
+      },
+      {
+        "word": "and",
+        "from": 1416,
+        "to": 1422
+      },
+      {
+        "word": "some",
+        "from": 1422,
+        "to": 1429
+      },
+      {
+        "word": "questions",
+        "from": 1429,
+        "to": 1446
+      },
+      {
+        "word": "don't",
+        "from": 1446,
+        "to": 1452
+      },
+      {
+        "word": "yet",
+        "from": 1452,
+        "to": 1458
+      },
+      {
+        "word": "have",
+        "from": 1458,
+        "to": 1463
+      },
+      {
+        "word": "answers",
+        "from": 1463,
+        "to": 1486
+      },
+      {
+        "word": "you",
+        "from": 1486,
+        "to": 1490
+      },
+      {
+        "word": "can",
+        "from": 1490,
+        "to": 1494
+      },
+      {
+        "word": "learn",
+        "from": 1494,
+        "to": 1502
+      },
+      {
+        "word": "almost",
+        "from": 1502,
+        "to": 1517
+      },
+      {
+        "word": "everything",
+        "from": 1517,
+        "to": 1531
+      },
+      {
+        "word": "humanity",
+        "from": 1531,
+        "to": 1551
+      },
+      {
+        "word": "has",
+        "from": 1551,
+        "to": 1556
+      },
+      {
+        "word": "already",
+        "from": 1556,
+        "to": 1572
+      },
+      {
+        "word": "discovered",
+        "from": 1572,
+        "to": 1595
+      },
+      {
+        "word": "but",
+        "from": 1595,
+        "to": 1602
+      },
+      {
+        "word": "to",
+        "from": 1602,
+        "to": 1605
+      },
+      {
+        "word": "discover",
+        "from": 1605,
+        "to": 1620
+      },
+      {
+        "word": "something",
+        "from": 1620,
+        "to": 1632
+      },
+      {
+        "word": "truly",
+        "from": 1632,
+        "to": 1643
+      },
+      {
+        "word": "new",
+        "from": 1643,
+        "to": 1656
+      },
+      {
+        "word": "you",
+        "from": 1666,
+        "to": 1669
+      },
+      {
+        "word": "still",
+        "from": 1669,
+        "to": 1676
+      },
+      {
+        "word": "have",
+        "from": 1676,
+        "to": 1680
+      },
+      {
+        "word": "to",
+        "from": 1680,
+        "to": 1682
+      },
+      {
+        "word": "step",
+        "from": 1682,
+        "to": 1691
+      },
+      {
+        "word": "into",
+        "from": 1691,
+        "to": 1696
+      },
+      {
+        "word": "the",
+        "from": 1696,
+        "to": 1700
+      },
+      {
+        "word": "unknown",
+        "from": 1700,
+        "to": 1718
+      }
+    ],
+    "beats": [
+      {
+        "from": 0,
+        "tag": "money",
+        "phrase": ""
+      },
+      {
+        "from": 232,
+        "tag": "impact",
+        "phrase": "Or will you try"
+      },
+      {
+        "from": 330,
+        "tag": "challenges",
+        "phrase": "You begin thinking"
+      },
+      {
+        "from": 395,
+        "tag": "health",
+        "phrase": "Cancer"
+      },
+      {
+        "from": 408,
+        "tag": "energy",
+        "phrase": "Clean energy"
+      },
+      {
+        "from": 429,
+        "tag": "climate",
+        "phrase": "Climate change"
+      },
+      {
+        "from": 461,
+        "tag": "disease",
+        "phrase": "Diseases that still"
+      },
+      {
+        "from": 545,
+        "tag": "biology",
+        "phrase": "You study biology"
+      },
+      {
+        "from": 586,
+        "tag": "chemistry",
+        "phrase": "Chemistry"
+      },
+      {
+        "from": 621,
+        "tag": "ai",
+        "phrase": "Artificial intelligence"
+      },
+      {
+        "from": 662,
+        "tag": "materials",
+        "phrase": "And materials science"
+      },
+      {
+        "from": 713,
+        "tag": "connections",
+        "phrase": "You absorb knowledge"
+      },
+      {
+        "from": 985,
+        "tag": "prototype",
+        "phrase": "Perhaps you identify"
+      },
+      {
+        "from": 1215,
+        "tag": "evidence",
+        "phrase": "But scientific discoveries"
+      },
+      {
+        "from": 1314,
+        "tag": "testing",
+        "phrase": "Theories must be tested"
+      },
+      {
+        "from": 1356,
+        "tag": "validation",
+        "phrase": "Inventions must be validated"
+      },
+      {
+        "from": 1416,
+        "tag": "questions",
+        "phrase": "And some questions"
+      },
+      {
+        "from": 1486,
+        "tag": "known",
+        "phrase": "You can learn almost everything"
+      },
+      {
+        "from": 1595,
+        "tag": "unknown",
+        "phrase": "But to discover something truly new"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "THE DARK SIDE OF LEARNING TOO FAST",
+    "label": "ONE YEAR LATER",
+    "text": "One year passes. In that single year, you've absorbed an amount of knowledge that might once have taken a century of studying. But tonight... You're just having dinner with your family. Your parents talk about work. Your younger brother tells everyone what happened at school. You smile and listen. But your mind keeps analyzing everything. You've become so accustomed to understanding things almost instantly... That you've started to forget what struggling to learn actually feels like. And then... You remember those evenings spent staring at a difficult math problem. The frustration of getting the answer wrong again and again. And the excitement when everything finally made sense. It's been a long time since you've felt that way. You've learned countless things. Read thousands of books. Understood complicated theories. Solved problems that once seemed impossible. But none of that automatically makes you happier. You can still feel exhausted. Still make decisions you regret. And still face questions that no textbook can answer. For the first time, you wonder... If everything becomes too easy... Will you still appreciate the journey of learning?",
+    "originalText": "One year passes.\n\nIn that single year, you've absorbed an amount of knowledge that might once have taken a century of studying.\n\nBut tonight...\n\nYou're just having dinner with your family.\n\nYour parents talk about work.\n\nYour younger brother tells everyone what happened at school.\n\nYou smile and listen.\n\nBut your mind keeps analyzing everything.\n\nYou've become so accustomed to understanding things almost instantly...\n\nThat you've started to forget what struggling to learn actually feels like.\n\nAnd then...\n\nYou remember those evenings spent staring at a difficult math problem.\n\nThe frustration of getting the answer wrong again and again.\n\nAnd the excitement when everything finally made sense.\n\nIt's been a long time since you've felt that way.\n\nYou've learned countless things.\n\nRead thousands of books.\n\nUnderstood complicated theories.\n\nSolved problems that once seemed impossible.\n\nBut none of that automatically makes you happier.\n\nYou can still feel exhausted.\n\nStill make decisions you regret.\n\nAnd still face questions that no textbook can answer.\n\nFor the first time, you wonder...\n\nIf everything becomes too easy...\n\nWill you still appreciate the journey of learning?",
+    "from": 14217,
+    "duration": 1846,
+    "words": [
+      {
+        "word": "one",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "word": "year",
+        "from": 22,
+        "to": 30
+      },
+      {
+        "word": "passes",
+        "from": 30,
+        "to": 51
+      },
+      {
+        "word": "in",
+        "from": 51,
+        "to": 56
+      },
+      {
+        "word": "that",
+        "from": 56,
+        "to": 62
+      },
+      {
+        "word": "single",
+        "from": 62,
+        "to": 74
+      },
+      {
+        "word": "year",
+        "from": 74,
+        "to": 86
+      },
+      {
+        "word": "you've",
+        "from": 86,
+        "to": 92
+      },
+      {
+        "word": "absorbed",
+        "from": 92,
+        "to": 108
+      },
+      {
+        "word": "an",
+        "from": 108,
+        "to": 111
+      },
+      {
+        "word": "amount",
+        "from": 111,
+        "to": 119
+      },
+      {
+        "word": "of",
+        "from": 119,
+        "to": 122
+      },
+      {
+        "word": "knowledge",
+        "from": 122,
+        "to": 136
+      },
+      {
+        "word": "that",
+        "from": 136,
+        "to": 141
+      },
+      {
+        "word": "might",
+        "from": 141,
+        "to": 147
+      },
+      {
+        "word": "once",
+        "from": 147,
+        "to": 158
+      },
+      {
+        "word": "have",
+        "from": 158,
+        "to": 161
+      },
+      {
+        "word": "taken",
+        "from": 161,
+        "to": 171
+      },
+      {
+        "word": "a",
+        "from": 171,
+        "to": 172
+      },
+      {
+        "word": "century",
+        "from": 172,
+        "to": 189
+      },
+      {
+        "word": "of",
+        "from": 189,
+        "to": 192
+      },
+      {
+        "word": "studying",
+        "from": 192,
+        "to": 209
+      },
+      {
+        "word": "but",
+        "from": 209,
+        "to": 218
+      },
+      {
+        "word": "tonight",
+        "from": 218,
+        "to": 236
+      },
+      {
+        "word": "you're",
+        "from": 236,
+        "to": 241
+      },
+      {
+        "word": "just",
+        "from": 241,
+        "to": 246
+      },
+      {
+        "word": "having",
+        "from": 246,
+        "to": 255
+      },
+      {
+        "word": "dinner",
+        "from": 255,
+        "to": 262
+      },
+      {
+        "word": "with",
+        "from": 262,
+        "to": 266
+      },
+      {
+        "word": "your",
+        "from": 266,
+        "to": 269
+      },
+      {
+        "word": "family",
+        "from": 269,
+        "to": 284
+      },
+      {
+        "word": "your",
+        "from": 284,
+        "to": 287
+      },
+      {
+        "word": "parents",
+        "from": 287,
+        "to": 298
+      },
+      {
+        "word": "talk",
+        "from": 298,
+        "to": 305
+      },
+      {
+        "word": "about",
+        "from": 305,
+        "to": 311
+      },
+      {
+        "word": "work",
+        "from": 311,
+        "to": 324
+      },
+      {
+        "word": "your",
+        "from": 328,
+        "to": 331
+      },
+      {
+        "word": "younger",
+        "from": 331,
+        "to": 342
+      },
+      {
+        "word": "brother",
+        "from": 342,
+        "to": 351
+      },
+      {
+        "word": "tells",
+        "from": 351,
+        "to": 363
+      },
+      {
+        "word": "everyone",
+        "from": 363,
+        "to": 374
+      },
+      {
+        "word": "what",
+        "from": 374,
+        "to": 379
+      },
+      {
+        "word": "happened",
+        "from": 379,
+        "to": 388
+      },
+      {
+        "word": "at",
+        "from": 388,
+        "to": 392
+      },
+      {
+        "word": "school",
+        "from": 392,
+        "to": 407
+      },
+      {
+        "word": "you",
+        "from": 407,
+        "to": 410
+      },
+      {
+        "word": "smile",
+        "from": 410,
+        "to": 427
+      },
+      {
+        "word": "and",
+        "from": 427,
+        "to": 430
+      },
+      {
+        "word": "listen",
+        "from": 430,
+        "to": 443
+      },
+      {
+        "word": "but",
+        "from": 443,
+        "to": 457
+      },
+      {
+        "word": "your",
+        "from": 457,
+        "to": 460
+      },
+      {
+        "word": "mind",
+        "from": 460,
+        "to": 470
+      },
+      {
+        "word": "keeps",
+        "from": 470,
+        "to": 480
+      },
+      {
+        "word": "analyzing",
+        "from": 480,
+        "to": 499
+      },
+      {
+        "word": "everything",
+        "from": 499,
+        "to": 519
+      },
+      {
+        "word": "you've",
+        "from": 527,
+        "to": 535
+      },
+      {
+        "word": "become",
+        "from": 535,
+        "to": 543
+      },
+      {
+        "word": "so",
+        "from": 543,
+        "to": 553
+      },
+      {
+        "word": "accustomed",
+        "from": 553,
+        "to": 570
+      },
+      {
+        "word": "to",
+        "from": 570,
+        "to": 573
+      },
+      {
+        "word": "understanding",
+        "from": 573,
+        "to": 592
+      },
+      {
+        "word": "things",
+        "from": 592,
+        "to": 601
+      },
+      {
+        "word": "almost",
+        "from": 601,
+        "to": 616
+      },
+      {
+        "word": "instantly",
+        "from": 616,
+        "to": 640
+      },
+      {
+        "word": "that",
+        "from": 647,
+        "to": 654
+      },
+      {
+        "word": "you've",
+        "from": 654,
+        "to": 659
+      },
+      {
+        "word": "started",
+        "from": 659,
+        "to": 674
+      },
+      {
+        "word": "to",
+        "from": 674,
+        "to": 679
+      },
+      {
+        "word": "forget",
+        "from": 679,
+        "to": 695
+      },
+      {
+        "word": "what",
+        "from": 695,
+        "to": 701
+      },
+      {
+        "word": "struggling",
+        "from": 701,
+        "to": 724
+      },
+      {
+        "word": "to",
+        "from": 724,
+        "to": 728
+      },
+      {
+        "word": "learn",
+        "from": 728,
+        "to": 738
+      },
+      {
+        "word": "actually",
+        "from": 738,
+        "to": 749
+      },
+      {
+        "word": "feels",
+        "from": 749,
+        "to": 760
+      },
+      {
+        "word": "like",
+        "from": 760,
+        "to": 771
+      },
+      {
+        "word": "and",
+        "from": 777,
+        "to": 783
+      },
+      {
+        "word": "then",
+        "from": 783,
+        "to": 793
+      },
+      {
+        "word": "you",
+        "from": 801,
+        "to": 806
+      },
+      {
+        "word": "remember",
+        "from": 806,
+        "to": 817
+      },
+      {
+        "word": "those",
+        "from": 817,
+        "to": 826
+      },
+      {
+        "word": "evenings",
+        "from": 826,
+        "to": 838
+      },
+      {
+        "word": "spent",
+        "from": 838,
+        "to": 847
+      },
+      {
+        "word": "staring",
+        "from": 847,
+        "to": 862
+      },
+      {
+        "word": "at",
+        "from": 862,
+        "to": 865
+      },
+      {
+        "word": "a",
+        "from": 865,
+        "to": 866
+      },
+      {
+        "word": "difficult",
+        "from": 866,
+        "to": 881
+      },
+      {
+        "word": "math",
+        "from": 881,
+        "to": 890
+      },
+      {
+        "word": "problem",
+        "from": 890,
+        "to": 907
+      },
+      {
+        "word": "the",
+        "from": 914,
+        "to": 917
+      },
+      {
+        "word": "frustration",
+        "from": 917,
+        "to": 939
+      },
+      {
+        "word": "of",
+        "from": 939,
+        "to": 943
+      },
+      {
+        "word": "getting",
+        "from": 943,
+        "to": 952
+      },
+      {
+        "word": "the",
+        "from": 952,
+        "to": 958
+      },
+      {
+        "word": "answer",
+        "from": 958,
+        "to": 966
+      },
+      {
+        "word": "wrong",
+        "from": 966,
+        "to": 976
+      },
+      {
+        "word": "again",
+        "from": 976,
+        "to": 989
+      },
+      {
+        "word": "and",
+        "from": 989,
+        "to": 997
+      },
+      {
+        "word": "again",
+        "from": 997,
+        "to": 1020
+      },
+      {
+        "word": "and",
+        "from": 1020,
+        "to": 1026
+      },
+      {
+        "word": "the",
+        "from": 1026,
+        "to": 1029
+      },
+      {
+        "word": "excitement",
+        "from": 1029,
+        "to": 1046
+      },
+      {
+        "word": "when",
+        "from": 1046,
+        "to": 1053
+      },
+      {
+        "word": "everything",
+        "from": 1053,
+        "to": 1068
+      },
+      {
+        "word": "finally",
+        "from": 1068,
+        "to": 1081
+      },
+      {
+        "word": "made",
+        "from": 1081,
+        "to": 1087
+      },
+      {
+        "word": "sense",
+        "from": 1087,
+        "to": 1107
+      },
+      {
+        "word": "it's",
+        "from": 1107,
+        "to": 1111
+      },
+      {
+        "word": "been",
+        "from": 1111,
+        "to": 1115
+      },
+      {
+        "word": "a",
+        "from": 1115,
+        "to": 1116
+      },
+      {
+        "word": "long",
+        "from": 1116,
+        "to": 1127
+      },
+      {
+        "word": "time",
+        "from": 1127,
+        "to": 1135
+      },
+      {
+        "word": "since",
+        "from": 1135,
+        "to": 1143
+      },
+      {
+        "word": "you've",
+        "from": 1143,
+        "to": 1146
+      },
+      {
+        "word": "felt",
+        "from": 1146,
+        "to": 1155
+      },
+      {
+        "word": "that",
+        "from": 1155,
+        "to": 1160
+      },
+      {
+        "word": "way",
+        "from": 1160,
+        "to": 1172
+      },
+      {
+        "word": "you've",
+        "from": 1180,
+        "to": 1188
+      },
+      {
+        "word": "learned",
+        "from": 1188,
+        "to": 1197
+      },
+      {
+        "word": "countless",
+        "from": 1197,
+        "to": 1212
+      },
+      {
+        "word": "things",
+        "from": 1212,
+        "to": 1230
+      },
+      {
+        "word": "read",
+        "from": 1230,
+        "to": 1240
+      },
+      {
+        "word": "thousands",
+        "from": 1240,
+        "to": 1256
+      },
+      {
+        "word": "of",
+        "from": 1256,
+        "to": 1258
+      },
+      {
+        "word": "books",
+        "from": 1258,
+        "to": 1274
+      },
+      {
+        "word": "understood",
+        "from": 1274,
+        "to": 1290
+      },
+      {
+        "word": "complicated",
+        "from": 1290,
+        "to": 1308
+      },
+      {
+        "word": "theories",
+        "from": 1308,
+        "to": 1327
+      },
+      {
+        "word": "solved",
+        "from": 1327,
+        "to": 1340
+      },
+      {
+        "word": "problems",
+        "from": 1340,
+        "to": 1354
+      },
+      {
+        "word": "that",
+        "from": 1354,
+        "to": 1357
+      },
+      {
+        "word": "once",
+        "from": 1357,
+        "to": 1365
+      },
+      {
+        "word": "seemed",
+        "from": 1365,
+        "to": 1372
+      },
+      {
+        "word": "impossible",
+        "from": 1372,
+        "to": 1395
+      },
+      {
+        "word": "but",
+        "from": 1395,
+        "to": 1401
+      },
+      {
+        "word": "none",
+        "from": 1401,
+        "to": 1409
+      },
+      {
+        "word": "of",
+        "from": 1409,
+        "to": 1412
+      },
+      {
+        "word": "that",
+        "from": 1412,
+        "to": 1420
+      },
+      {
+        "word": "automatically",
+        "from": 1420,
+        "to": 1440
+      },
+      {
+        "word": "makes",
+        "from": 1440,
+        "to": 1449
+      },
+      {
+        "word": "you",
+        "from": 1449,
+        "to": 1453
+      },
+      {
+        "word": "happier",
+        "from": 1453,
+        "to": 1478
+      },
+      {
+        "word": "you",
+        "from": 1478,
+        "to": 1481
+      },
+      {
+        "word": "can",
+        "from": 1481,
+        "to": 1484
+      },
+      {
+        "word": "still",
+        "from": 1484,
+        "to": 1494
+      },
+      {
+        "word": "feel",
+        "from": 1494,
+        "to": 1502
+      },
+      {
+        "word": "exhausted",
+        "from": 1502,
+        "to": 1525
+      },
+      {
+        "word": "still",
+        "from": 1525,
+        "to": 1534
+      },
+      {
+        "word": "make",
+        "from": 1534,
+        "to": 1541
+      },
+      {
+        "word": "decisions",
+        "from": 1541,
+        "to": 1558
+      },
+      {
+        "word": "you",
+        "from": 1558,
+        "to": 1561
+      },
+      {
+        "word": "regret",
+        "from": 1561,
+        "to": 1583
+      },
+      {
+        "word": "and",
+        "from": 1583,
+        "to": 1588
+      },
+      {
+        "word": "still",
+        "from": 1588,
+        "to": 1596
+      },
+      {
+        "word": "face",
+        "from": 1596,
+        "to": 1605
+      },
+      {
+        "word": "questions",
+        "from": 1605,
+        "to": 1619
+      },
+      {
+        "word": "that",
+        "from": 1619,
+        "to": 1623
+      },
+      {
+        "word": "no",
+        "from": 1623,
+        "to": 1627
+      },
+      {
+        "word": "textbook",
+        "from": 1627,
+        "to": 1641
+      },
+      {
+        "word": "can",
+        "from": 1641,
+        "to": 1646
+      },
+      {
+        "word": "answer",
+        "from": 1646,
+        "to": 1664
+      },
+      {
+        "word": "for",
+        "from": 1664,
+        "to": 1669
+      },
+      {
+        "word": "the",
+        "from": 1669,
+        "to": 1671
+      },
+      {
+        "word": "first",
+        "from": 1671,
+        "to": 1680
+      },
+      {
+        "word": "time",
+        "from": 1680,
+        "to": 1687
+      },
+      {
+        "word": "you",
+        "from": 1693,
+        "to": 1696
+      },
+      {
+        "word": "wonder",
+        "from": 1696,
+        "to": 1707
+      },
+      {
+        "word": "if",
+        "from": 1713,
+        "to": 1717
+      },
+      {
+        "word": "everything",
+        "from": 1717,
+        "to": 1728
+      },
+      {
+        "word": "becomes",
+        "from": 1728,
+        "to": 1741
+      },
+      {
+        "word": "too",
+        "from": 1741,
+        "to": 1746
+      },
+      {
+        "word": "easy",
+        "from": 1746,
+        "to": 1762
+      },
+      {
+        "word": "will",
+        "from": 1769,
+        "to": 1773
+      },
+      {
+        "word": "you",
+        "from": 1773,
+        "to": 1775
+      },
+      {
+        "word": "still",
+        "from": 1775,
+        "to": 1781
+      },
+      {
+        "word": "appreciate",
+        "from": 1781,
+        "to": 1793
+      },
+      {
+        "word": "the",
+        "from": 1793,
+        "to": 1795
+      },
+      {
+        "word": "journey",
+        "from": 1795,
+        "to": 1803
+      },
+      {
+        "word": "of",
+        "from": 1803,
+        "to": 1806
+      },
+      {
+        "word": "learning",
+        "from": 1806,
+        "to": 1820
+      }
+    ],
+    "beats": [
+      {
+        "from": 0,
+        "tag": "year",
+        "phrase": ""
+      },
+      {
+        "from": 51,
+        "tag": "library",
+        "phrase": "In that single year"
+      },
+      {
+        "from": 209,
+        "tag": "dinner",
+        "phrase": "But tonight"
+      },
+      {
+        "from": 284,
+        "tag": "parents",
+        "phrase": "Your parents talk"
+      },
+      {
+        "from": 328,
+        "tag": "brother",
+        "phrase": "Your younger brother"
+      },
+      {
+        "from": 407,
+        "tag": "listen",
+        "phrase": "You smile and listen"
+      },
+      {
+        "from": 443,
+        "tag": "analyze",
+        "phrase": "But your mind"
+      },
+      {
+        "from": 647,
+        "tag": "forget",
+        "phrase": "That you've started to forget"
+      },
+      {
+        "from": 801,
+        "tag": "memory",
+        "phrase": "You remember those evenings"
+      },
+      {
+        "from": 914,
+        "tag": "frustration",
+        "phrase": "The frustration"
+      },
+      {
+        "from": 1020,
+        "tag": "aha",
+        "phrase": "And the excitement"
+      },
+      {
+        "from": 1107,
+        "tag": "quiet",
+        "phrase": "It's been a long time"
+      },
+      {
+        "from": 1180,
+        "tag": "knowledge",
+        "phrase": "You've learned countless things"
+      },
+      {
+        "from": 1395,
+        "tag": "unhappy",
+        "phrase": "But none of that"
+      },
+      {
+        "from": 1478,
+        "tag": "exhausted",
+        "phrase": "You can still feel exhausted"
+      },
+      {
+        "from": 1525,
+        "tag": "regret",
+        "phrase": "Still make decisions"
+      },
+      {
+        "from": 1583,
+        "tag": "questions",
+        "phrase": "And still face questions"
+      },
+      {
+        "from": 1664,
+        "tag": "journey",
+        "phrase": "For the first time"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "THE ENDING: THE ONE THING YOU CAN'T MULTIPLY",
+    "label": "TIME",
+    "text": "So, what would really happen if you could learn one hundred times faster? You could absorb knowledge faster than almost anyone. Explore multiple careers. Build businesses. Create new technologies. And possibly contribute to discoveries that change the world. But there's one thing even your extraordinary ability can't change. Time. A day still has only twenty-four hours. You still need to sleep. You still need to eat. You still need to rest. And the people you love... Will continue growing older, just like everyone else. You might learn a lifetime's worth of knowledge in an incredibly short amount of time. But you can't live a hundred different lives. In the end, maybe the most important question isn't how much you know. It's what you choose to do with everything you've learned. Because if you woke up tomorrow with the ability to learn one hundred times faster... What would be the very first thing you'd learn?",
+    "originalText": "So, what would really happen if you could learn one hundred times faster?\n\nYou could absorb knowledge faster than almost anyone.\n\nExplore multiple careers.\n\nBuild businesses.\n\nCreate new technologies.\n\nAnd possibly contribute to discoveries that change the world.\n\nBut there's one thing even your extraordinary ability can't change.\n\nTime.\n\nA day still has only twenty-four hours.\n\nYou still need to sleep.\n\nYou still need to eat.\n\nYou still need to rest.\n\nAnd the people you love...\n\nWill continue growing older, just like everyone else.\n\nYou might learn a lifetime's worth of knowledge in an incredibly short amount of time.\n\nBut you can't live a hundred different lives.\n\nIn the end, maybe the most important question isn't how much you know.\n\nIt's what you choose to do with everything you've learned.\n\nBecause if you woke up tomorrow with the ability to learn one hundred times faster...\n\nWhat would be the very first thing you'd learn?",
+    "from": 16063,
+    "duration": 1667,
+    "words": [
+      {
+        "word": "so",
+        "from": 14,
+        "to": 29
+      },
+      {
+        "word": "what",
+        "from": 29,
+        "to": 37
+      },
+      {
+        "word": "would",
+        "from": 37,
+        "to": 41
+      },
+      {
+        "word": "really",
+        "from": 41,
+        "to": 50
+      },
+      {
+        "word": "happen",
+        "from": 50,
+        "to": 62
+      },
+      {
+        "word": "if",
+        "from": 62,
+        "to": 64
+      },
+      {
+        "word": "you",
+        "from": 64,
+        "to": 68
+      },
+      {
+        "word": "could",
+        "from": 68,
+        "to": 72
+      },
+      {
+        "word": "learn",
+        "from": 72,
+        "to": 77
+      },
+      {
+        "word": "one",
+        "from": 77,
+        "to": 83
+      },
+      {
+        "word": "hundred",
+        "from": 83,
+        "to": 92
+      },
+      {
+        "word": "times",
+        "from": 92,
+        "to": 100
+      },
+      {
+        "word": "faster",
+        "from": 100,
+        "to": 115
+      },
+      {
+        "word": "you",
+        "from": 122,
+        "to": 126
+      },
+      {
+        "word": "could",
+        "from": 126,
+        "to": 130
+      },
+      {
+        "word": "absorb",
+        "from": 130,
+        "to": 144
+      },
+      {
+        "word": "knowledge",
+        "from": 144,
+        "to": 157
+      },
+      {
+        "word": "faster",
+        "from": 157,
+        "to": 172
+      },
+      {
+        "word": "than",
+        "from": 172,
+        "to": 176
+      },
+      {
+        "word": "almost",
+        "from": 176,
+        "to": 188
+      },
+      {
+        "word": "anyone",
+        "from": 188,
+        "to": 201
+      },
+      {
+        "word": "explore",
+        "from": 206,
+        "to": 223
+      },
+      {
+        "word": "multiple",
+        "from": 223,
+        "to": 238
+      },
+      {
+        "word": "careers",
+        "from": 238,
+        "to": 260
+      },
+      {
+        "word": "build",
+        "from": 260,
+        "to": 269
+      },
+      {
+        "word": "businesses",
+        "from": 269,
+        "to": 294
+      },
+      {
+        "word": "create",
+        "from": 294,
+        "to": 305
+      },
+      {
+        "word": "new",
+        "from": 305,
+        "to": 310
+      },
+      {
+        "word": "technologies",
+        "from": 310,
+        "to": 334
+      },
+      {
+        "word": "and",
+        "from": 345,
+        "to": 350
+      },
+      {
+        "word": "possibly",
+        "from": 350,
+        "to": 366
+      },
+      {
+        "word": "contribute",
+        "from": 366,
+        "to": 386
+      },
+      {
+        "word": "to",
+        "from": 386,
+        "to": 390
+      },
+      {
+        "word": "discoveries",
+        "from": 390,
+        "to": 414
+      },
+      {
+        "word": "that",
+        "from": 414,
+        "to": 420
+      },
+      {
+        "word": "change",
+        "from": 420,
+        "to": 433
+      },
+      {
+        "word": "the",
+        "from": 433,
+        "to": 435
+      },
+      {
+        "word": "world",
+        "from": 435,
+        "to": 450
+      },
+      {
+        "word": "but",
+        "from": 450,
+        "to": 459
+      },
+      {
+        "word": "there's",
+        "from": 459,
+        "to": 464
+      },
+      {
+        "word": "one",
+        "from": 464,
+        "to": 474
+      },
+      {
+        "word": "thing",
+        "from": 474,
+        "to": 483
+      },
+      {
+        "word": "even",
+        "from": 483,
+        "to": 496
+      },
+      {
+        "word": "your",
+        "from": 496,
+        "to": 501
+      },
+      {
+        "word": "extraordinary",
+        "from": 501,
+        "to": 523
+      },
+      {
+        "word": "ability",
+        "from": 523,
+        "to": 535
+      },
+      {
+        "word": "can't",
+        "from": 535,
+        "to": 545
+      },
+      {
+        "word": "change",
+        "from": 545,
+        "to": 566
+      },
+      {
+        "word": "time",
+        "from": 566,
+        "to": 579
+      },
+      {
+        "word": "a",
+        "from": 585,
+        "to": 587
+      },
+      {
+        "word": "day",
+        "from": 587,
+        "to": 593
+      },
+      {
+        "word": "still",
+        "from": 593,
+        "to": 602
+      },
+      {
+        "word": "has",
+        "from": 602,
+        "to": 609
+      },
+      {
+        "word": "only",
+        "from": 609,
+        "to": 617
+      },
+      {
+        "word": "twenty",
+        "from": 617,
+        "to": 631
+      },
+      {
+        "word": "four",
+        "from": 631,
+        "to": 645
+      },
+      {
+        "word": "hours",
+        "from": 645,
+        "to": 667
+      },
+      {
+        "word": "you",
+        "from": 675,
+        "to": 681
+      },
+      {
+        "word": "still",
+        "from": 681,
+        "to": 690
+      },
+      {
+        "word": "need",
+        "from": 690,
+        "to": 694
+      },
+      {
+        "word": "to",
+        "from": 694,
+        "to": 697
+      },
+      {
+        "word": "sleep",
+        "from": 697,
+        "to": 714
+      },
+      {
+        "word": "you",
+        "from": 737,
+        "to": 740
+      },
+      {
+        "word": "still",
+        "from": 740,
+        "to": 750
+      },
+      {
+        "word": "need",
+        "from": 750,
+        "to": 755
+      },
+      {
+        "word": "to",
+        "from": 755,
+        "to": 758
+      },
+      {
+        "word": "eat",
+        "from": 758,
+        "to": 776
+      },
+      {
+        "word": "you",
+        "from": 776,
+        "to": 780
+      },
+      {
+        "word": "still",
+        "from": 780,
+        "to": 787
+      },
+      {
+        "word": "need",
+        "from": 787,
+        "to": 792
+      },
+      {
+        "word": "to",
+        "from": 792,
+        "to": 794
+      },
+      {
+        "word": "rest",
+        "from": 794,
+        "to": 817
+      },
+      {
+        "word": "and",
+        "from": 817,
+        "to": 821
+      },
+      {
+        "word": "the",
+        "from": 821,
+        "to": 823
+      },
+      {
+        "word": "people",
+        "from": 823,
+        "to": 832
+      },
+      {
+        "word": "you",
+        "from": 832,
+        "to": 837
+      },
+      {
+        "word": "love",
+        "from": 837,
+        "to": 850
+      },
+      {
+        "word": "will",
+        "from": 856,
+        "to": 861
+      },
+      {
+        "word": "continue",
+        "from": 861,
+        "to": 876
+      },
+      {
+        "word": "growing",
+        "from": 876,
+        "to": 885
+      },
+      {
+        "word": "older",
+        "from": 885,
+        "to": 900
+      },
+      {
+        "word": "just",
+        "from": 900,
+        "to": 907
+      },
+      {
+        "word": "like",
+        "from": 907,
+        "to": 912
+      },
+      {
+        "word": "everyone",
+        "from": 912,
+        "to": 922
+      },
+      {
+        "word": "else",
+        "from": 922,
+        "to": 940
+      },
+      {
+        "word": "you",
+        "from": 940,
+        "to": 944
+      },
+      {
+        "word": "might",
+        "from": 944,
+        "to": 949
+      },
+      {
+        "word": "learn",
+        "from": 949,
+        "to": 954
+      },
+      {
+        "word": "a",
+        "from": 954,
+        "to": 955
+      },
+      {
+        "word": "lifetime's",
+        "from": 955,
+        "to": 973
+      },
+      {
+        "word": "worth",
+        "from": 973,
+        "to": 979
+      },
+      {
+        "word": "of",
+        "from": 979,
+        "to": 982
+      },
+      {
+        "word": "knowledge",
+        "from": 982,
+        "to": 996
+      },
+      {
+        "word": "in",
+        "from": 996,
+        "to": 1000
+      },
+      {
+        "word": "an",
+        "from": 1000,
+        "to": 1003
+      },
+      {
+        "word": "incredibly",
+        "from": 1003,
+        "to": 1021
+      },
+      {
+        "word": "short",
+        "from": 1021,
+        "to": 1029
+      },
+      {
+        "word": "amount",
+        "from": 1029,
+        "to": 1036
+      },
+      {
+        "word": "of",
+        "from": 1036,
+        "to": 1038
+      },
+      {
+        "word": "time",
+        "from": 1038,
+        "to": 1048
+      },
+      {
+        "word": "but",
+        "from": 1048,
+        "to": 1054
+      },
+      {
+        "word": "you",
+        "from": 1054,
+        "to": 1057
+      },
+      {
+        "word": "can't",
+        "from": 1057,
+        "to": 1068
+      },
+      {
+        "word": "live",
+        "from": 1068,
+        "to": 1075
+      },
+      {
+        "word": "a",
+        "from": 1075,
+        "to": 1077
+      },
+      {
+        "word": "hundred",
+        "from": 1077,
+        "to": 1090
+      },
+      {
+        "word": "different",
+        "from": 1090,
+        "to": 1101
+      },
+      {
+        "word": "lives",
+        "from": 1101,
+        "to": 1123
+      },
+      {
+        "word": "in",
+        "from": 1123,
+        "to": 1127
+      },
+      {
+        "word": "the",
+        "from": 1127,
+        "to": 1132
+      },
+      {
+        "word": "end",
+        "from": 1132,
+        "to": 1139
+      },
+      {
+        "word": "maybe",
+        "from": 1139,
+        "to": 1148
+      },
+      {
+        "word": "the",
+        "from": 1148,
+        "to": 1150
+      },
+      {
+        "word": "most",
+        "from": 1150,
+        "to": 1158
+      },
+      {
+        "word": "important",
+        "from": 1158,
+        "to": 1169
+      },
+      {
+        "word": "question",
+        "from": 1169,
+        "to": 1180
+      },
+      {
+        "word": "isn't",
+        "from": 1180,
+        "to": 1186
+      },
+      {
+        "word": "how",
+        "from": 1186,
+        "to": 1190
+      },
+      {
+        "word": "much",
+        "from": 1190,
+        "to": 1198
+      },
+      {
+        "word": "you",
+        "from": 1198,
+        "to": 1200
+      },
+      {
+        "word": "know",
+        "from": 1200,
+        "to": 1215
+      },
+      {
+        "word": "it's",
+        "from": 1225,
+        "to": 1230
+      },
+      {
+        "word": "what",
+        "from": 1230,
+        "to": 1234
+      },
+      {
+        "word": "you",
+        "from": 1234,
+        "to": 1238
+      },
+      {
+        "word": "choose",
+        "from": 1238,
+        "to": 1248
+      },
+      {
+        "word": "to",
+        "from": 1248,
+        "to": 1251
+      },
+      {
+        "word": "do",
+        "from": 1251,
+        "to": 1255
+      },
+      {
+        "word": "with",
+        "from": 1255,
+        "to": 1260
+      },
+      {
+        "word": "everything",
+        "from": 1260,
+        "to": 1274
+      },
+      {
+        "word": "you've",
+        "from": 1274,
+        "to": 1279
+      },
+      {
+        "word": "learned",
+        "from": 1279,
+        "to": 1297
+      },
+      {
+        "word": "because",
+        "from": 1297,
+        "to": 1311
+      },
+      {
+        "word": "if",
+        "from": 1311,
+        "to": 1313
+      },
+      {
+        "word": "you",
+        "from": 1313,
+        "to": 1317
+      },
+      {
+        "word": "woke",
+        "from": 1317,
+        "to": 1324
+      },
+      {
+        "word": "up",
+        "from": 1324,
+        "to": 1328
+      },
+      {
+        "word": "tomorrow",
+        "from": 1328,
+        "to": 1341
+      },
+      {
+        "word": "with",
+        "from": 1341,
+        "to": 1345
+      },
+      {
+        "word": "the",
+        "from": 1345,
+        "to": 1348
+      },
+      {
+        "word": "ability",
+        "from": 1348,
+        "to": 1358
+      },
+      {
+        "word": "to",
+        "from": 1358,
+        "to": 1362
+      },
+      {
+        "word": "learn",
+        "from": 1362,
+        "to": 1370
+      },
+      {
+        "word": "one",
+        "from": 1370,
+        "to": 1377
+      },
+      {
+        "word": "hundred",
+        "from": 1377,
+        "to": 1386
+      },
+      {
+        "word": "times",
+        "from": 1386,
+        "to": 1398
+      },
+      {
+        "word": "faster",
+        "from": 1398,
+        "to": 1412
+      },
+      {
+        "word": "what",
+        "from": 1418,
+        "to": 1423
+      },
+      {
+        "word": "would",
+        "from": 1423,
+        "to": 1431
+      },
+      {
+        "word": "be",
+        "from": 1431,
+        "to": 1435
+      },
+      {
+        "word": "the",
+        "from": 1435,
+        "to": 1438
+      },
+      {
+        "word": "very",
+        "from": 1438,
+        "to": 1446
+      },
+      {
+        "word": "first",
+        "from": 1446,
+        "to": 1455
+      },
+      {
+        "word": "thing",
+        "from": 1455,
+        "to": 1460
+      },
+      {
+        "word": "you'd",
+        "from": 1460,
+        "to": 1464
+      },
+      {
+        "word": "learn",
+        "from": 1464,
+        "to": 1479
+      }
+    ],
+    "beats": [
+      {
+        "from": 0,
+        "tag": "recap",
+        "phrase": ""
+      },
+      {
+        "from": 206,
+        "tag": "careers",
+        "phrase": "Explore multiple careers"
+      },
+      {
+        "from": 260,
+        "tag": "business",
+        "phrase": "Build businesses"
+      },
+      {
+        "from": 294,
+        "tag": "technology",
+        "phrase": "Create new technologies"
+      },
+      {
+        "from": 345,
+        "tag": "science",
+        "phrase": "And possibly contribute"
+      },
+      {
+        "from": 450,
+        "tag": "limit",
+        "phrase": "But there's one thing"
+      },
+      {
+        "from": 566,
+        "tag": "clock",
+        "phrase": "Time"
+      },
+      {
+        "from": 585,
+        "tag": "day",
+        "phrase": "A day still"
+      },
+      {
+        "from": 675,
+        "tag": "sleep",
+        "phrase": "You still need to sleep"
+      },
+      {
+        "from": 737,
+        "tag": "eat",
+        "phrase": "You still need to eat"
+      },
+      {
+        "from": 776,
+        "tag": "rest",
+        "phrase": "You still need to rest"
+      },
+      {
+        "from": 817,
+        "tag": "family",
+        "phrase": "And the people you love"
+      },
+      {
+        "from": 856,
+        "tag": "aging",
+        "phrase": "Will continue growing older"
+      },
+      {
+        "from": 940,
+        "tag": "photo",
+        "phrase": "You might learn"
+      },
+      {
+        "from": 1048,
+        "tag": "oneLife",
+        "phrase": "But you can't live"
+      },
+      {
+        "from": 1123,
+        "tag": "meaning",
+        "phrase": "In the end"
+      },
+      {
+        "from": 1225,
+        "tag": "sunset",
+        "phrase": "It's what you choose"
+      },
+      {
+        "from": 1297,
+        "tag": "window",
+        "phrase": "Because if you woke up"
+      },
+      {
+        "from": 1418,
+        "tag": "final",
+        "phrase": "What would be the very first"
+      }
+    ]
+  }
+]
