@@ -1,0 +1,29 @@
+{
+  "key": "e50b20889c83df89181278532f022d7d26370c2965733fb3889c8e7ccf8a3e53",
+  "text": "Bạn vẫn cần ngủ.",
+  "sampleRate": 22050,
+  "seconds": 0.8475283446712019,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 512,
+      "toSample": 4096
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 4608,
+      "toSample": 8192
+    },
+    {
+      "word": "cần",
+      "fromSample": 9216,
+      "toSample": 13056
+    },
+    {
+      "word": "ngủ",
+      "fromSample": 13824,
+      "toSample": 17664
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

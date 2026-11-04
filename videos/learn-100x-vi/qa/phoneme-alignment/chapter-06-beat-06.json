@@ -1,0 +1,39 @@
+{
+  "key": "3e06d31d8e8cf93ff087bf9a24f31c73be4203f4984017b8caadb347886a80ff",
+  "text": "Những lời mời bắt đầu tới.",
+  "sampleRate": 22050,
+  "seconds": 1.3583673469387756,
+  "words": [
+    {
+      "word": "những",
+      "fromSample": 512,
+      "toSample": 4608
+    },
+    {
+      "word": "lời",
+      "fromSample": 5376,
+      "toSample": 9472
+    },
+    {
+      "word": "mời",
+      "fromSample": 9984,
+      "toSample": 14336
+    },
+    {
+      "word": "bắt",
+      "fromSample": 14848,
+      "toSample": 18176
+    },
+    {
+      "word": "đầu",
+      "fromSample": 18688,
+      "toSample": 21760
+    },
+    {
+      "word": "tới",
+      "fromSample": 22528,
+      "toSample": 28416
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,79 @@
+{
+  "key": "b0d33c0a9a424e556440a22ced7f35435d9ae772a29fb35c71e9c34f2c9a6afa",
+  "text": "Bạn có thể giao tiếp bằng sáu ngôn ngữ chỉ trong một mùa hè.",
+  "sampleRate": 22050,
+  "seconds": 2.8676643990929707,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 512,
+      "toSample": 4096
+    },
+    {
+      "word": "có",
+      "fromSample": 4608,
+      "toSample": 6656
+    },
+    {
+      "word": "thể",
+      "fromSample": 7168,
+      "toSample": 11264
+    },
+    {
+      "word": "giao",
+      "fromSample": 12032,
+      "toSample": 16384
+    },
+    {
+      "word": "tiếp",
+      "fromSample": 16896,
+      "toSample": 22272
+    },
+    {
+      "word": "bằng",
+      "fromSample": 22784,
+      "toSample": 26624
+    },
+    {
+      "word": "sáu",
+      "fromSample": 27392,
+      "toSample": 31744
+    },
+    {
+      "word": "ngôn",
+      "fromSample": 32768,
+      "toSample": 35840
+    },
+    {
+      "word": "ngữ",
+      "fromSample": 36608,
+      "toSample": 40192
+    },
+    {
+      "word": "chỉ",
+      "fromSample": 41216,
+      "toSample": 45056
+    },
+    {
+      "word": "trong",
+      "fromSample": 45568,
+      "toSample": 48640
+    },
+    {
+      "word": "một",
+      "fromSample": 49408,
+      "toSample": 52736
+    },
+    {
+      "word": "mùa",
+      "fromSample": 53504,
+      "toSample": 56832
+    },
+    {
+      "word": "hè",
+      "fromSample": 57856,
+      "toSample": 62464
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,59 @@
+{
+  "key": "47063dde0d3eaba8a6b3e885553aa9f054eb79a6b98bb7ec3fa4de9686b4e1bf",
+  "text": "Và điều đó dẫn tới một câu hỏi thú vị.",
+  "sampleRate": 22050,
+  "seconds": 2.078185941043084,
+  "words": [
+    {
+      "word": "và",
+      "fromSample": 512,
+      "toSample": 3328
+    },
+    {
+      "word": "điều",
+      "fromSample": 3840,
+      "toSample": 7168
+    },
+    {
+      "word": "đó",
+      "fromSample": 7936,
+      "toSample": 11776
+    },
+    {
+      "word": "dẫn",
+      "fromSample": 12800,
+      "toSample": 17408
+    },
+    {
+      "word": "tới",
+      "fromSample": 18176,
+      "toSample": 23552
+    },
+    {
+      "word": "một",
+      "fromSample": 24064,
+      "toSample": 27648
+    },
+    {
+      "word": "câu",
+      "fromSample": 28160,
+      "toSample": 31232
+    },
+    {
+      "word": "hỏi",
+      "fromSample": 32256,
+      "toSample": 36864
+    },
+    {
+      "word": "thú",
+      "fromSample": 37632,
+      "toSample": 40448
+    },
+    {
+      "word": "vị",
+      "fromSample": 41728,
+      "toSample": 44544
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

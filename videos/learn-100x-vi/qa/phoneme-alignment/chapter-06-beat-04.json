@@ -1,0 +1,49 @@
+{
+  "key": "0d92359ea0ed6bae52a29894d98b7ffc7f0e6e5d492720ab20e9904523bb8581",
+  "text": "Ban đầu, mọi người nghĩ đó là giả.",
+  "sampleRate": 22050,
+  "seconds": 1.8459863945578232,
+  "words": [
+    {
+      "word": "ban",
+      "fromSample": 512,
+      "toSample": 4096
+    },
+    {
+      "word": "đầu",
+      "fromSample": 4864,
+      "toSample": 10496
+    },
+    {
+      "word": "mọi",
+      "fromSample": 13056,
+      "toSample": 17664
+    },
+    {
+      "word": "người",
+      "fromSample": 18432,
+      "toSample": 22784
+    },
+    {
+      "word": "nghĩ",
+      "fromSample": 23296,
+      "toSample": 26368
+    },
+    {
+      "word": "đó",
+      "fromSample": 27136,
+      "toSample": 30720
+    },
+    {
+      "word": "là",
+      "fromSample": 31232,
+      "toSample": 34816
+    },
+    {
+      "word": "giả",
+      "fromSample": 36096,
+      "toSample": 39936
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

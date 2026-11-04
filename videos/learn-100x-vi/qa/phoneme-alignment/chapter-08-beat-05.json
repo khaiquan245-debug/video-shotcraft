@@ -1,0 +1,39 @@
+{
+  "key": "2a0f94f3cff3c3cc684b8394e1d0291363e8f63aa87d48bd2dddb727890e87c7",
+  "text": "Bạn mỉm cười và lắng nghe.",
+  "sampleRate": 22050,
+  "seconds": 1.230657596371882,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 768,
+      "toSample": 4864
+    },
+    {
+      "word": "mỉm",
+      "fromSample": 5632,
+      "toSample": 9472
+    },
+    {
+      "word": "cười",
+      "fromSample": 10752,
+      "toSample": 15104
+    },
+    {
+      "word": "và",
+      "fromSample": 15616,
+      "toSample": 18944
+    },
+    {
+      "word": "lắng",
+      "fromSample": 19456,
+      "toSample": 22784
+    },
+    {
+      "word": "nghe",
+      "fromSample": 23296,
+      "toSample": 26368
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,1454 @@
+{
+  "language": "vi-VN",
+  "voice": "native female VAIS1000 medium",
+  "engine": "Piper 1.8.0 / ONNX Runtime CPU, FP32",
+  "profile": "female-vais1000-native-piper1.8-aligned-v1",
+  "pitchShiftApplied": false,
+  "maleVoiceReused": false,
+  "nativePausesPreserved": true,
+  "nativeSampleRate": 22050,
+  "alignment": "Actual phoneme sample durations from the same audio inference; converted to 30fps words",
+  "frames": 16166,
+  "seconds": 538.8666666666667,
+  "manifest": [
+    {
+      "id": 0,
+      "seconds": 32.233333333333334,
+      "speed": 0.95,
+      "utterances": [
+        {
+          "text": "Hãy tưởng tượng, sáng mai thức dậy, bạn phát hiện bộ não của mình đã có một khả năng phi thường.",
+          "tag": "alarm",
+          "fromSeconds": 0.34997732426303857,
+          "seconds": 4.632380952380952,
+          "audio": "out/female-aligned/chapter-00-beat-00.wav",
+          "key": "bcbda52c2a106a541ac2fd925803a746f30a37291ef5bf67618902f406e88d96"
+        },
+        {
+          "text": "Bạn có thể học bất cứ điều gì nhanh gấp một trăm lần người bình thường.",
+          "tag": "brain",
+          "fromSeconds": 5.102358276643991,
+          "seconds": 3.320453514739229,
+          "audio": "out/female-aligned/chapter-00-beat-01.wav",
+          "key": "5f80d930cd8223d5aafb3f0ff1be5809b87d4d34ecd79b9ad222299f29a5932d"
+        },
+        {
+          "text": "Điều mà người khác phải mất một trăm giờ mới hiểu được, bạn chỉ cần học trong một giờ.",
+          "tag": "comparison",
+          "fromSeconds": 8.54281179138322,
+          "seconds": 4.191201814058957,
+          "audio": "out/female-aligned/chapter-00-beat-02.wav",
+          "key": "4deaeb388020648630483a1d2d67804fd3a747f9b61d93fd7f18dd0215f13de3"
+        },
+        {
+          "text": "Một môn học thường phải mất nhiều tháng mới thành thạo? Bạn có thể tiếp thu kiến thức ấy chỉ trong vài ngày.",
+          "tag": "knowledge",
+          "fromSeconds": 12.854013605442177,
+          "seconds": 4.655600907029479,
+          "audio": "out/female-aligned/chapter-00-beat-03.wav",
+          "key": "feadb1b44348024cfe4da4e4f52867828737dc1a1fea4309ea765c6ea40a7298"
+        },
+        {
+          "text": "Toán học.",
+          "tag": "mathematics",
+          "fromSeconds": 17.629614512471655,
+          "seconds": 0.5108390022675737,
+          "audio": "out/female-aligned/chapter-00-beat-04.wav",
+          "key": "04a6e90c64a06c522abfaa9d59db053288bde5588c49494e2b2e0de222f9c132"
+        },
+        {
+          "text": "Lập trình.",
+          "tag": "programming",
+          "fromSeconds": 18.26045351473923,
+          "seconds": 0.5108390022675737,
+          "audio": "out/female-aligned/chapter-00-beat-05.wav",
+          "key": "4e0a4acc7e4eedecc68215875e820affe499733be3c33608d8c78779795b2010"
+        },
+        {
+          "text": "Kinh tế học.",
+          "tag": "economics",
+          "fromSeconds": 18.891292517006804,
+          "seconds": 0.5572789115646258,
+          "audio": "out/female-aligned/chapter-00-beat-06.wav",
+          "key": "dfae1c64e5dbd3828386ba24738af03e04cdab6c5ca3ac48c52a171facddabef"
+        },
+        {
+          "text": "Ngoại ngữ. Bỗng nhiên, việc học trở nên dễ dàng đến khó tin.",
+          "tag": "languages",
+          "fromSeconds": 19.568571428571428,
+          "seconds": 2.9605442176870747,
+          "audio": "out/female-aligned/chapter-00-beat-07.wav",
+          "key": "e13b32f17aa5ddd4663812f565b0e33629d7ec746aa68aafba7f5dff71406bc9"
+        },
+        {
+          "text": "Nhưng hãy quên chuyện đạt điểm tuyệt đối đi. Câu hỏi thực sự là,",
+          "tag": "grades",
+          "fromSeconds": 22.649115646258505,
+          "seconds": 3.4017233560090703,
+          "audio": "out/female-aligned/chapter-00-beat-08.wav",
+          "key": "b6a3a74e817899ac06585c3b0c3c2d64f5405e763253f921c7e359913f9722c6"
+        },
+        {
+          "text": "bạn có thể kiếm được bao nhiêu tiền với một bộ não như thế?",
+          "tag": "money",
+          "fromSeconds": 26.170839002267574,
+          "seconds": 2.8212244897959184,
+          "audio": "out/female-aligned/chapter-00-beat-09.wav",
+          "key": "8abc7e46eacb9efe38711edd92cdb661e6da1305c5d7cc5bf8efd77965b41cda"
+        },
+        {
+          "text": "Và điều gì sẽ xảy ra khi cả thế giới biết chuyện?",
+          "tag": "worldAttention",
+          "fromSeconds": 29.11206349206349,
+          "seconds": 2.4380952380952383,
+          "audio": "out/female-aligned/chapter-00-beat-10.wav",
+          "key": "02d42f4618efa8a33896cd7d4c0d3ee85b259a35809d4e6d2d0a7a6f3752778b"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seconds": 20.8,
+      "speed": 0.95,
+      "utterances": [
+        {
+          "text": "Trước khi bắt đầu, hãy thống nhất một vài quy tắc.",
+          "tag": "rules",
+          "fromSeconds": 0.34997732426303857,
+          "seconds": 2.2755555555555556,
+          "audio": "out/female-aligned/chapter-01-beat-00.wav",
+          "key": "2cae40d227fcb69af9423562f191bbd1a3c1c92ec33943e05f4033bc92a561e5"
+        },
+        {
+          "text": "Bạn có thể hiểu và ghi nhớ thông tin nhanh gấp một trăm lần.",
+          "tag": "learn",
+          "fromSeconds": 2.7455328798185943,
+          "seconds": 2.5658049886621317,
+          "audio": "out/female-aligned/chapter-01-beat-01.wav",
+          "key": "4a62f467b3f551337816d42a121201e5034c0e6f2519dce1bd9d81123f5af5bc"
+        },
+        {
+          "text": "Nhưng cơ thể của bạn vẫn hoàn toàn bình thường.",
+          "tag": "body",
+          "fromSeconds": 5.431337868480726,
+          "seconds": 2.159455782312925,
+          "audio": "out/female-aligned/chapter-01-beat-02.wav",
+          "key": "b426d9c1b82661bb573d94a8ca78bbd483e73780cd761c33dbf0811c3b25abbb"
+        },
+        {
+          "text": "Một ngày vẫn chỉ có hai mươi bốn giờ.",
+          "tag": "day",
+          "fromSeconds": 7.710793650793651,
+          "seconds": 1.799546485260771,
+          "audio": "out/female-aligned/chapter-01-beat-03.wav",
+          "key": "5c30bcf05a573748b3fd7794bc5617a78550bbed91d626b39b3e75852923ff31"
+        },
+        {
+          "text": "Và nếu nhân loại chưa khám phá ra điều gì đó, bạn vẫn phải tự mình tìm ra câu trả lời.",
+          "tag": "unknown",
+          "fromSeconds": 9.630340136054421,
+          "seconds": 4.655600907029479,
+          "audio": "out/female-aligned/chapter-01-beat-04.wav",
+          "key": "67109ab8b151745f1ad1bae1b389a60a316329da1a83871c98b248ef8a38db26"
+        },
+        {
+          "text": "Những giới hạn này nghe có vẻ nhỏ. Nhưng chính chúng sẽ quyết định siêu năng lực ấy thực sự có thể đưa bạn đi xa đến đâu.",
+          "tag": "limits",
+          "fromSeconds": 14.4059410430839,
+          "seconds": 5.723718820861678,
+          "audio": "out/female-aligned/chapter-01-beat-05.wav",
+          "key": "b3b2dfdcb67cadb5de3a6c60cf625b16f73fb43030225ef2b742084f28332ba7"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seconds": 52.63333333333333,
+      "speed": 0.95,
+      "utterances": [
+        {
+          "text": "Hãy bắt đầu bằng một ngày bình thường. Bạn đang ngồi trong lớp.",
+          "tag": "classroom",
+          "fromSeconds": 0.34997732426303857,
+          "seconds": 2.461315192743764,
+          "audio": "out/female-aligned/chapter-02-beat-00.wav",
+          "key": "718b9e3b3547d29ac7cc6e91d1bc36ee116c2cb4d838cf4258ebd45feb6080e2"
+        },
+        {
+          "text": "Thầy giáo đang giải thích một bài toán phức tạp. Bình thường, có lẽ bạn phải luyện tập hàng giờ mới hiểu. Nhưng hôm nay thì sao?",
+          "tag": "equation",
+          "fromSeconds": 2.9312925170068027,
+          "seconds": 6.025578231292517,
+          "audio": "out/female-aligned/chapter-02-beat-01.wav",
+          "key": "c9676bb83c56749025ca7cf585394b9688c8c76cceeeee768ee5a23620c6124b"
+        },
+        {
+          "text": "Chỉ sau vài phút, mọi thứ đều trở nên rõ ràng. Bạn hiểu các công thức, hiểu logic đằng sau chúng và biết chính xác cách áp dụng.",
+          "tag": "solution",
+          "fromSeconds": 9.076870748299319,
+          "seconds": 6.257777777777778,
+          "audio": "out/female-aligned/chapter-02-beat-02.wav",
+          "key": "6286fa1d6d96d8d54976f2721c7f1be2db8398ba9c0dcadcdf9745c8f3528b2c"
+        },
+        {
+          "text": "Trong khi mọi người vẫn đang ghi chép, bạn đã chuyển sang học chương tiếp theo.",
+          "tag": "nextChapter",
+          "fromSeconds": 15.454648526077097,
+          "seconds": 3.4017233560090703,
+          "audio": "out/female-aligned/chapter-02-beat-03.wav",
+          "key": "335ad3078607bd68e30b4a734b097af5bda774f2507ddd69103fc02ae086f422"
+        },
+        {
+          "text": "Thế là bạn quyết định thử xem giới hạn của mình ở đâu. Tại sao chỉ dừng lại ở toán học?",
+          "tag": "testLimits",
+          "fromSeconds": 18.976371882086166,
+          "seconds": 4.249251700680272,
+          "audio": "out/female-aligned/chapter-02-beat-04.wav",
+          "key": "acfbfe7b6742370dd5d388a742ca72bbb70f7d09d7015ad15d19a1a6b0db80d8"
+        },
+        {
+          "text": "Bạn chuyển sang vật lý.",
+          "tag": "physics",
+          "fromSeconds": 23.34562358276644,
+          "seconds": 1.1493877551020408,
+          "audio": "out/female-aligned/chapter-02-beat-05.wav",
+          "key": "7296be2dfc3001def1499fdd3a92906ce123d83551861065bbb56d74e1c2763f"
+        },
+        {
+          "text": "Rồi hóa học.",
+          "tag": "chemistry",
+          "fromSeconds": 24.61501133786848,
+          "seconds": 0.6501587301587302,
+          "audio": "out/female-aligned/chapter-02-beat-06.wav",
+          "key": "99f2bb2e556caad194a565043288b9bedfb3c395d531a40340a2563eeb9a9cd4"
+        },
+        {
+          "text": "Kinh tế học.",
+          "tag": "economics",
+          "fromSeconds": 25.38517006802721,
+          "seconds": 0.5340589569160997,
+          "audio": "out/female-aligned/chapter-02-beat-07.wav",
+          "key": "dfae1c64e5dbd3828386ba24738af03e04cdab6c5ca3ac48c52a171facddabef"
+        },
+        {
+          "text": "Và khoa học máy tính. Những kiến thức thường phải mất nhiều năm mới tiếp thu được, giờ chỉ cần một phần nhỏ thời gian đó.",
+          "tag": "programming",
+          "fromSeconds": 26.03922902494331,
+          "seconds": 5.7817687074829935,
+          "audio": "out/female-aligned/chapter-02-beat-08.wav",
+          "key": "b05a0f615adc379510555c4709d3e8cdfbc8c7c9a5b9daed2add6b9e32383074"
+        },
+        {
+          "text": "Chỉ sau một tuần, bạn đã học được một lượng kiến thức đáng kinh ngạc.",
+          "tag": "week",
+          "fromSeconds": 31.940997732426304,
+          "seconds": 3.297233560090703,
+          "audio": "out/female-aligned/chapter-02-beat-09.wav",
+          "key": "de3dcdc70715407b0a38df48b79c3b5ca2799dd717b052ba205b1502ffbdb008"
+        },
+        {
+          "text": "Tất nhiên, biết toàn bộ kiến thức của một chương trình đại học không có nghĩa là nhà trường sẽ lập tức trao bằng cho bạn.",
+          "tag": "diploma",
+          "fromSeconds": 35.358231292517004,
+          "seconds": 5.061950113378685,
+          "audio": "out/female-aligned/chapter-02-beat-10.wav",
+          "key": "06d6d8c099a377f6836386c658612864ae78920fcca9b5cf47ac07dca2341f86"
+        },
+        {
+          "text": "Bạn vẫn phải đáp ứng các yêu cầu chính thức của trường.",
+          "tag": "requirements",
+          "fromSeconds": 40.540181405895694,
+          "seconds": 2.5193650793650795,
+          "audio": "out/female-aligned/chapter-02-beat-11.wav",
+          "key": "045c19ba2ec7421f12d8779e860d7c911f520bbeb02bc5c144c4d0cb66f29bb0"
+        },
+        {
+          "text": "Nhưng bạn đã nhận ra một điều quan trọng. Việc học không còn là trở ngại lớn nhất nữa. Và điều đó khiến bạn nảy ra một ý tưởng. Tại sao chỉ dùng khả năng này để có điểm số tốt hơn?",
+          "tag": "opportunity",
+          "fromSeconds": 43.17954648526077,
+          "seconds": 8.753922902494331,
+          "audio": "out/female-aligned/chapter-02-beat-12.wav",
+          "key": "763ac184217e5b9d68676e78d53e6ee3e3d6f2f367fff91f512c15f4512f2235"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seconds": 86.16666666666667,
+      "speed": 0.95,
+      "utterances": [
+        {
+          "text": "Giờ hãy nói đến điều mà có lẽ bạn đang nghĩ tới. Tiền.",
+          "tag": "money",
+          "fromSeconds": 0.34997732426303857,
+          "seconds": 2.786394557823129,
+          "audio": "out/female-aligned/chapter-03-beat-00.wav",
+          "key": "a7206f4e85141a3aeb1e925325c4772ea82eb59f1e476645eec6fc0f3022b5c6"
+        },
+        {
+          "text": "Bạn bắt đầu bằng việc học lập trình. Những thứ thường cần hàng trăm giờ học, bạn có thể nắm được chỉ trong một phần rất nhỏ thời gian ấy.",
+          "tag": "programming",
+          "fromSeconds": 3.256371882086168,
+          "seconds": 6.5712471655328795,
+          "audio": "out/female-aligned/chapter-03-beat-01.wav",
+          "key": "4eddbc1db4c4c383d9fa1923135fb9e0a9f4de0a2d2a956740f731c6cd409ef5"
+        },
+        {
+          "text": "Tiếp theo là thiết kế trang web.",
+          "tag": "web",
+          "fromSeconds": 9.947619047619048,
+          "seconds": 1.4048072562358276,
+          "audio": "out/female-aligned/chapter-03-beat-02.wav",
+          "key": "42ff961f40a7f0a988cd7db1618c965bbe56a247f14961a376af4b9c1a6ca0f5"
+        },
+        {
+          "text": "Phát triển ứng dụng.",
+          "tag": "apps",
+          "fromSeconds": 11.472426303854876,
+          "seconds": 0.8823582766439909,
+          "audio": "out/female-aligned/chapter-03-beat-03.wav",
+          "key": "d1e982d411db835e70e1f14318f8d2ea09726940f8776082c5c93908383541cd"
+        },
+        {
+          "text": "Trí tuệ nhân tạo.",
+          "tag": "ai",
+          "fromSeconds": 12.474784580498866,
+          "seconds": 0.8243083900226758,
+          "audio": "out/female-aligned/chapter-03-beat-04.wav",
+          "key": "27f67ee91517486044b9527c9fb49c453521cda375f29de3518f41049a3d9ea2"
+        },
+        {
+          "text": "Tiếp thị.",
+          "tag": "marketing",
+          "fromSeconds": 13.419092970521541,
+          "seconds": 0.37151927437641724,
+          "audio": "out/female-aligned/chapter-03-beat-05.wav",
+          "key": "04c2c0b1f4b106f167427857f084b4e6cbab25aebb622278b3c4ff91d1d3f748"
+        },
+        {
+          "text": "Và quản trị kinh doanh. Chỉ sau vài tuần, bạn đã có nền tảng trong nhiều lĩnh vực chuyên môn.",
+          "tag": "management",
+          "fromSeconds": 13.910612244897958,
+          "seconds": 4.342131519274377,
+          "audio": "out/female-aligned/chapter-03-beat-06.wav",
+          "key": "888498ddd8ae2f2c50f457321666aca2be769feca82f67c8b49cc14404921da7"
+        },
+        {
+          "text": "Vì vậy, bạn quyết định mở một cửa hàng trực tuyến.",
+          "tag": "store",
+          "fromSeconds": 18.372743764172334,
+          "seconds": 2.4380952380952383,
+          "audio": "out/female-aligned/chapter-03-beat-07.wav",
+          "key": "70da6e797b564f5f6aeafe2d7b8e055b92194ba36ef910941dcc25a88ff6af4e"
+        },
+        {
+          "text": "Đầu tiên, bạn nghiên cứu thị trường.",
+          "tag": "research",
+          "fromSeconds": 20.930839002267575,
+          "seconds": 1.7763265306122449,
+          "audio": "out/female-aligned/chapter-03-beat-08.wav",
+          "key": "50c2627beaf6626274c336628c3a4f3ad4ec5cd7b4c19f9e7a99cbca0e1004b3"
+        },
+        {
+          "text": "Tìm hiểu hành vi khách hàng.",
+          "tag": "customers",
+          "fromSeconds": 22.827165532879818,
+          "seconds": 1.253877551020408,
+          "audio": "out/female-aligned/chapter-03-beat-09.wav",
+          "key": "35331bd086c1afad539480e2695d2b64d3575216f783b8c6949d10c38e48845b"
+        },
+        {
+          "text": "Học cách lựa chọn sản phẩm.",
+          "tag": "products",
+          "fromSeconds": 24.201043083900228,
+          "seconds": 1.3931972789115645,
+          "audio": "out/female-aligned/chapter-03-beat-10.wav",
+          "key": "c003925d30f053f85174008a1876c583cd809408f377aa829077bba49bc7621f"
+        },
+        {
+          "text": "Phân tích đối thủ cạnh tranh.",
+          "tag": "competitors",
+          "fromSeconds": 25.71424036281179,
+          "seconds": 1.3119274376417234,
+          "audio": "out/female-aligned/chapter-03-beat-11.wav",
+          "key": "dc0d377599e3581279819ffa1eeea929daa04253394bbb46a608caeabc30342e"
+        },
+        {
+          "text": "Và tìm hiểu cách quảng cáo trực tuyến vận hành. Trong khi người mới bắt đầu có thể mất nhiều tháng để học những điều này, bạn có thể hiểu các nguyên lý nền tảng chỉ trong vài ngày.",
+          "tag": "ads",
+          "fromSeconds": 27.146167800453515,
+          "seconds": 8.080544217687075,
+          "audio": "out/female-aligned/chapter-03-beat-12.wav",
+          "key": "af93e60807d4beec53964f14ea26daf6b89ad50e7528ec02d593c725da0b51c8"
+        },
+        {
+          "text": "Bạn ra mắt sản phẩm đầu tiên. Và rồi,",
+          "tag": "launch",
+          "fromSeconds": 35.346712018140586,
+          "seconds": 1.9504761904761905,
+          "audio": "out/female-aligned/chapter-03-beat-13.wav",
+          "key": "5e99376ca5ba8e2407367a45f68884ba335b6fc1ef5ab33505b0f56219b9a963"
+        },
+        {
+          "text": "chẳng có gì xảy ra. Không một khách hàng nào mua cả. Hóa ra, dù biết mọi thứ về tiếp thị, bạn cũng không thể ép người khác bỏ tiền ra.",
+          "tag": "zero",
+          "fromSeconds": 37.41718820861678,
+          "seconds": 6.791836734693877,
+          "audio": "out/female-aligned/chapter-03-beat-14.wav",
+          "key": "b645d29ad83b24ad3cf4f4ae0a19984fc2c465fd1626c714280e79c8e26cf297"
+        },
+        {
+          "text": "Thế là bạn bắt đầu tìm nguyên nhân.",
+          "tag": "investigate",
+          "fromSeconds": 44.32902494331066,
+          "seconds": 1.5905668934240362,
+          "audio": "out/female-aligned/chapter-03-beat-15.wav",
+          "key": "2da1c8cb95e2643a94168ab76d926c55053b5fedde7843cd68ccb393bffcc348"
+        },
+        {
+          "text": "Giá bán có quá cao không?",
+          "tag": "price",
+          "fromSeconds": 46.039591836734694,
+          "seconds": 1.3815873015873017,
+          "audio": "out/female-aligned/chapter-03-beat-16.wav",
+          "key": "bd94d165167c285ef3503adb1b853de2272c3f2f1aa760b2bbdef8cdb6bb39ba"
+        },
+        {
+          "text": "Ảnh sản phẩm có quá tệ không?",
+          "tag": "photos",
+          "fromSeconds": 47.54117913832199,
+          "seconds": 1.555736961451247,
+          "audio": "out/female-aligned/chapter-03-beat-17.wav",
+          "key": "a2cf2c0f2b5ac807e7988ce757e7841ef92796f9b46ff3ea486949df12aa79fd"
+        },
+        {
+          "text": "Hay đơn giản là chẳng ai thực sự cần thứ bạn đang bán?",
+          "tag": "demand",
+          "fromSeconds": 49.21691609977324,
+          "seconds": 2.6354648526077096,
+          "audio": "out/female-aligned/chapter-03-beat-18.wav",
+          "key": "fc2cfcc43d2ef3b1756aebc9d68635fc3eb79f16011e90552bd7fc5aea4a8afc"
+        },
+        {
+          "text": "Bạn thử những ý tưởng khác nhau, phân tích kết quả rồi điều chỉnh chiến lược.",
+          "tag": "test",
+          "fromSeconds": 51.97238095238095,
+          "seconds": 3.5294331065759637,
+          "audio": "out/female-aligned/chapter-03-beat-19.wav",
+          "key": "31344af980996f3cad4c0764c08d407c71f6c827c64fade07a25f7194d75ad49"
+        },
+        {
+          "text": "Cuối cùng, đơn hàng đầu tiên xuất hiện. Rồi thêm một đơn nữa. Và thêm một đơn nữa.",
+          "tag": "orders",
+          "fromSeconds": 55.621814058956915,
+          "seconds": 3.8312925170068026,
+          "audio": "out/female-aligned/chapter-03-beat-20.wav",
+          "key": "dc81ce437a8a44ff7bad357ca2e62cf4bf75171dad1fe754a963e4f82373a749"
+        },
+        {
+          "text": "Bạn nhận ra lợi thế lớn nhất không phải là mình sẽ luôn thành công. Mà là bạn có thể học từ sai lầm và thích nghi cực kỳ nhanh.",
+          "tag": "adapt",
+          "fromSeconds": 59.57310657596372,
+          "seconds": 6.048798185941043,
+          "audio": "out/female-aligned/chapter-03-beat-21.wav",
+          "key": "6b9e91800e562a75d8d36f44dcffe4343cb08393ec8984829d4f0051d54e23dd"
+        },
+        {
+          "text": "Tiếp theo, bạn tìm hiểu đầu tư.",
+          "tag": "investing",
+          "fromSeconds": 65.74190476190476,
+          "seconds": 1.6834467120181407,
+          "audio": "out/female-aligned/chapter-03-beat-22.wav",
+          "key": "826d1034e56a8539c9f8cce06f30edcd9186ed2ae4dabc8ffc5e545aab742436"
+        },
+        {
+          "text": "Cổ phiếu.",
+          "tag": "stocks",
+          "fromSeconds": 67.5453514739229,
+          "seconds": 0.5108390022675737,
+          "audio": "out/female-aligned/chapter-03-beat-23.wav",
+          "key": "19573d5c82ed6abcd361ff8116954bb4b1d98115019038ea280261b9234b5c7f"
+        },
+        {
+          "text": "Bất động sản.",
+          "tag": "realEstate",
+          "fromSeconds": 68.17619047619047,
+          "seconds": 0.615328798185941,
+          "audio": "out/female-aligned/chapter-03-beat-24.wav",
+          "key": "d4e3d41ddc919464cbed9e409b96d01745b1cd5d541ba845213745a9240e3407"
+        },
+        {
+          "text": "Thị trường tài chính. Bạn hiểu những mô hình kinh tế phức tạp trong thời gian ngắn kỷ lục.",
+          "tag": "finance",
+          "fromSeconds": 68.91151927437642,
+          "seconds": 3.877732426303855,
+          "audio": "out/female-aligned/chapter-03-beat-25.wav",
+          "key": "b77fa7d7cdb93c341e1f93db6f58a5d82336b8ec8f0e8da6047247f255a71e71"
+        },
+        {
+          "text": "Nhưng dù sở hữu bộ não phi thường, bạn vẫn không thể biết chắc ngày mai một cổ phiếu sẽ tăng hay giảm.",
+          "tag": "uncertainty",
+          "fromSeconds": 72.90925170068027,
+          "seconds": 5.027120181405896,
+          "audio": "out/female-aligned/chapter-03-beat-26.wav",
+          "key": "9ffc43963b2f3a5fcac54b8973880fc0dfd6c3b687509923da2797d7961e2014"
+        },
+        {
+          "text": "Bởi nền kinh tế không chỉ là một phương trình toán học. Nó chịu ảnh hưởng từ hàng triệu quyết định của con người. Và không phải quyết định nào cũng có thể dự đoán được.",
+          "tag": "decisions",
+          "fromSeconds": 78.05637188208617,
+          "seconds": 7.418775510204082,
+          "audio": "out/female-aligned/chapter-03-beat-27.wav",
+          "key": "8db92de2179dfd0c7cd0d8b969105e35d70dbe64dd83a37deada965dfdb1bf15"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seconds": 54.86666666666667,
+      "speed": 0.95,
+      "utterances": [
+        {
+          "text": "Sau khi kiếm được những khoản tiền đầu tiên, bạn quyết định thử một điều khác. Ngoại ngữ.",
+          "tag": "map",
+          "fromSeconds": 0.34997732426303857,
+          "seconds": 3.982222222222222,
+          "audio": "out/female-aligned/chapter-04-beat-00.wav",
+          "key": "182e653df26028945380f044f45d85b48303b45ccf44c88df8ddbbfa3e177ba8"
+        },
+        {
+          "text": "Bạn bắt đầu với tiếng Anh.",
+          "tag": "English",
+          "fromSeconds": 4.452199546485261,
+          "seconds": 1.242267573696145,
+          "audio": "out/female-aligned/chapter-04-beat-01.wav",
+          "key": "c2a6e2b689d449daf5eb1624e26b98bdfc7a3dabc8f95010b42b4e82fc7f3ee8"
+        },
+        {
+          "text": "Rồi tiếng Trung phổ thông.",
+          "tag": "Mandarin",
+          "fromSeconds": 5.814467120181406,
+          "seconds": 1.18421768707483,
+          "audio": "out/female-aligned/chapter-04-beat-02.wav",
+          "key": "19cf3313bc4bbbd419231110266ee5ac237af9b9cbf7f0d725d08cebe93144ed"
+        },
+        {
+          "text": "Tiếng Nhật.",
+          "tag": "Japanese",
+          "fromSeconds": 7.118684807256236,
+          "seconds": 0.3831292517006803,
+          "audio": "out/female-aligned/chapter-04-beat-03.wav",
+          "key": "e1dbdb41d8c80dc6d494a8b7fafaeaec73bebe50e64d7042a290f46b9d499ce7"
+        },
+        {
+          "text": "Tiếng Pháp.",
+          "tag": "French",
+          "fromSeconds": 7.621814058956916,
+          "seconds": 0.3947392290249433,
+          "audio": "out/female-aligned/chapter-04-beat-04.wav",
+          "key": "d2f7fc4e121a9b2a0abb66862c44050f5c19e50563e2b875025b808bdd5ec830"
+        },
+        {
+          "text": "Và tiếng Tây Ban Nha.",
+          "tag": "Spanish",
+          "fromSeconds": 8.13655328798186,
+          "seconds": 1.0100680272108844,
+          "audio": "out/female-aligned/chapter-04-beat-05.wav",
+          "key": "19ca37c412a12fae49817dabdcfc73ef777c4ebf3332968970d3a40ed3564433"
+        },
+        {
+          "text": "Từ vựng, ngữ pháp và cấu trúc câu bỗng trở nên rất dễ tiếp thu. Những nội dung thường phải học hàng tháng, bạn có thể hiểu chỉ trong vài ngày.",
+          "tag": "languageStudy",
+          "fromSeconds": 9.266621315192744,
+          "seconds": 6.757006802721088,
+          "audio": "out/female-aligned/chapter-04-beat-06.wav",
+          "key": "c2411960d9ae2cf55420beb767f9c787b35cded412d79bf6a0dabdc49643c0d7"
+        },
+        {
+          "text": "Bạn vẫn cần luyện nghe, luyện nói và trò chuyện thực tế. Nhưng tốc độ tiến bộ của bạn thật đáng kinh ngạc.",
+          "tag": "conversation",
+          "fromSeconds": 16.14362811791383,
+          "seconds": 4.922630385487528,
+          "audio": "out/female-aligned/chapter-04-beat-07.wav",
+          "key": "ed6c6de215db651651ea02bef0ceeb9a59a91906cee7eb67172f93bbaded4077"
+        },
+        {
+          "text": "Giờ đây, bạn có thể đọc các nghiên cứu trên khắp thế giới. Hiểu thông tin bằng ngôn ngữ gốc. Và giao tiếp với những người mà trước kia bạn chưa từng có thể trò chuyện.",
+          "tag": "worldResearch",
+          "fromSeconds": 21.186258503401362,
+          "seconds": 7.4071655328798185,
+          "audio": "out/female-aligned/chapter-04-beat-08.wav",
+          "key": "9dd8471e21d40fb94ec1e4dd975af89eafafb39751df0b3523472cc3772cefbd"
+        },
+        {
+          "text": "Rồi bạn thử học các kỹ năng khác.",
+          "tag": "skills",
+          "fromSeconds": 28.71342403628118,
+          "seconds": 1.555736961451247,
+          "audio": "out/female-aligned/chapter-04-beat-09.wav",
+          "key": "9186d4de6f2786f56b8d208fb941abdf1b17d66067145a2ed059dab899c79ec9"
+        },
+        {
+          "text": "Chơi đàn dương cầm.",
+          "tag": "pianoTheory",
+          "fromSeconds": 30.389160997732425,
+          "seconds": 0.8010884353741496,
+          "audio": "out/female-aligned/chapter-04-beat-10.wav",
+          "key": "897b76487cf99b93dad56a732ce82848eb2f2604441f5d3d2f8641b3a841a4d2"
+        },
+        {
+          "text": "Vẽ.",
+          "tag": "drawing",
+          "fromSeconds": 31.310249433106577,
+          "seconds": 0.2089795918367347,
+          "audio": "out/female-aligned/chapter-04-beat-11.wav",
+          "key": "af17d5043cb4fad144fdca7edffdf4b2c91d4b078bcf1f8c7e19921588a383ad"
+        },
+        {
+          "text": "Bóng đá. Bạn gần như hiểu lý thuyết ngay lập tức.",
+          "tag": "footballTheory",
+          "fromSeconds": 32.91024943310658,
+          "seconds": 2.345215419501134,
+          "audio": "out/female-aligned/chapter-04-beat-12.wav",
+          "key": "e7a1e6fbd04f90bd5ac797bfc474dc48e35b55ef69526fdd474f38549f3a184c"
+        },
+        {
+          "text": "Nhưng khi ngồi xuống trước cây đàn,",
+          "tag": "piano",
+          "fromSeconds": 35.375464852607706,
+          "seconds": 1.497687074829932,
+          "audio": "out/female-aligned/chapter-04-beat-13.wav",
+          "key": "1821bb3baaa7349d721f91308f7dcba9ff36ebb9c610ccea66d9ac3a842d498b"
+        },
+        {
+          "text": "những ngón tay của bạn vẫn đánh sai nốt.",
+          "tag": "pianoMistake",
+          "fromSeconds": 36.993151927437644,
+          "seconds": 1.9040362811791383,
+          "audio": "out/female-aligned/chapter-04-beat-14.wav",
+          "key": "8b294c81d2ffac0a9ba45e6343de6340073d0af3eb9d6c4bbe50637cf3ccc3a8"
+        },
+        {
+          "text": "Và khi bước ra sân bóng,",
+          "tag": "football",
+          "fromSeconds": 39.01718820861678,
+          "seconds": 1.3119274376417234,
+          "audio": "out/female-aligned/chapter-04-beat-15.wav",
+          "key": "02dc5e3a1ee61ae526323e039de4f0549853cae92778c87cd9fe136f4a909579"
+        },
+        {
+          "text": "bạn vẫn có thể sút bóng trượt hoàn toàn khỏi khung thành.",
+          "tag": "miss",
+          "fromSeconds": 40.449115646258505,
+          "seconds": 2.705124716553288,
+          "audio": "out/female-aligned/chapter-04-beat-16.wav",
+          "key": "ef189d1872294d0c59400a7b8351ae0ad31a63aa087cbe253acd8fa9c1cb1023"
+        },
+        {
+          "text": "Bởi hiểu một kỹ năng không đồng nghĩa với việc cơ thể có thể thực hiện kỹ năng ấy. Cơ bắp, khả năng phối hợp và phản xạ của bạn vẫn cần luyện tập.",
+          "tag": "practice",
+          "fromSeconds": 43.27424036281179,
+          "seconds": 6.733786848072563,
+          "audio": "out/female-aligned/chapter-04-beat-17.wav",
+          "key": "2296cb48fed59eb84648c29c3a16abfefa8b82102e51dd7fcc1a0f89d11867fa"
+        },
+        {
+          "text": "Lần đầu tiên, bạn nhận ra, không phải thứ gì cũng có thể tăng tốc một trăm lần.",
+          "tag": "bodyLimit",
+          "fromSeconds": 50.128027210884355,
+          "seconds": 4.063492063492063,
+          "audio": "out/female-aligned/chapter-04-beat-18.wav",
+          "key": "73d99549192b2c9f57f34636249183484f04a58c9bd8f679802e9a4bc0de8b0e"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seconds": 55.2,
+      "speed": 0.95,
+      "utterances": [
+        {
+          "text": "Vài tháng đã trôi qua. Bạn đã tiếp thu lượng kiến thức mà bình thường có thể cần nhiều năm học tập.",
+          "tag": "startup",
+          "fromSeconds": 0.34997732426303857,
+          "seconds": 4.504671201814059,
+          "audio": "out/female-aligned/chapter-05-beat-00.wav",
+          "key": "bde6b670150cac15699ad603112b117f7b1f3b9bb391a1139cc0ac9349230ab1"
+        },
+        {
+          "text": "Bạn hiểu công nghệ. Kinh tế học. Và cách các doanh nghiệp vận hành.",
+          "tag": "expertise",
+          "fromSeconds": 4.974648526077098,
+          "seconds": 2.6354648526077096,
+          "audio": "out/female-aligned/chapter-05-beat-01.wav",
+          "key": "a8fd4a587e51f3bfbe5a8c45a63f4a7dbdc53e8cbbc8b1f5e753cd3f9b1a8c48"
+        },
+        {
+          "text": "Mỗi khi gặp một vấn đề, bạn có thể nhanh chóng học những kiến thức cần thiết để giải quyết nó.",
+          "tag": "problem",
+          "fromSeconds": 7.730113378684807,
+          "seconds": 4.6439909297052155,
+          "audio": "out/female-aligned/chapter-05-beat-02.wav",
+          "key": "66250c9424f621fbd58391ab7fe80896b1e89d81462b6c361aff1309b1febe00"
+        },
+        {
+          "text": "Vì vậy, bạn quyết định thành lập một công ty công nghệ.",
+          "tag": "company",
+          "fromSeconds": 12.494104308390023,
+          "seconds": 2.3103854875283445,
+          "audio": "out/female-aligned/chapter-05-beat-03.wav",
+          "key": "3646490ec729cb5bbfc12196fca9b7c4a34c83a2bb165eb75dc4deaa7c710553"
+        },
+        {
+          "text": "Bạn tìm ra một vấn đề đang ảnh hưởng tới hàng triệu người. Sau đó, bạn học cách giải quyết nó.",
+          "tag": "identify",
+          "fromSeconds": 14.924489795918367,
+          "seconds": 4.876190476190477,
+          "audio": "out/female-aligned/chapter-05-beat-04.wav",
+          "key": "52848008bd64e4f29034e1cdbd2fbf44e9ceedd29601c96f496052539c415276"
+        },
+        {
+          "text": "Bạn thiết kế một sản phẩm.",
+          "tag": "design",
+          "fromSeconds": 19.920680272108843,
+          "seconds": 1.2190476190476192,
+          "audio": "out/female-aligned/chapter-05-beat-05.wav",
+          "key": "4dc780a32b8c9797ee2edc433d5a87f6ccc103e38ea509d07190fb311c66cc44"
+        },
+        {
+          "text": "Viết phần mềm.",
+          "tag": "software",
+          "fromSeconds": 21.259727891156462,
+          "seconds": 0.6385487528344671,
+          "audio": "out/female-aligned/chapter-05-beat-06.wav",
+          "key": "30ffd30520fe9d20906df748f9d240db0c802bf5c64041a0fbb9995b6e89552c"
+        },
+        {
+          "text": "Xây dựng chiến lược kinh doanh.",
+          "tag": "strategy",
+          "fromSeconds": 22.659727891156464,
+          "seconds": 1.3815873015873017,
+          "audio": "out/female-aligned/chapter-05-beat-07.wav",
+          "key": "461f0a124ffa2d69fc5ba122dd033efdad79e6d3cb22935fc6be679a8a1fad70"
+        },
+        {
+          "text": "Tuyển nhân viên.",
+          "tag": "employees",
+          "fromSeconds": 24.161315192743764,
+          "seconds": 0.7894784580498866,
+          "audio": "out/female-aligned/chapter-05-beat-08.wav",
+          "key": "e06a33d6b0207f3e5af11a6f82d76c609509fc1b05363d2aac710c7786b8e6bc"
+        },
+        {
+          "text": "Và thuyết trình để gọi vốn từ các nhà đầu tư.",
+          "tag": "investors",
+          "fromSeconds": 25.07079365079365,
+          "seconds": 2.345215419501134,
+          "audio": "out/female-aligned/chapter-05-beat-09.wav",
+          "key": "365a2fdd8e87a9c86333661b6b0d2c839fa60b5b29e02522b6d59603b8e84389"
+        },
+        {
+          "text": "Những công việc thường cần chuyên môn của nhiều chuyên gia khác nhau, giờ bạn đều có thể hiểu và tự mình tham gia thực hiện.",
+          "tag": "team",
+          "fromSeconds": 27.536009070294785,
+          "seconds": 5.642448979591837,
+          "audio": "out/female-aligned/chapter-05-beat-10.wav",
+          "key": "0d8f372af781a979e5c356ff7e0d95df672a3772ef415306ba9d49a7052ffe36"
+        },
+        {
+          "text": "Nhưng xây dựng một công ty thành công vẫn cần thời gian. Sản phẩm cần được thử nghiệm.",
+          "tag": "testing",
+          "fromSeconds": 33.29845804988662,
+          "seconds": 3.8312925170068026,
+          "audio": "out/female-aligned/chapter-05-beat-11.wav",
+          "key": "81f59ca1fa74e5de74deda17a6323e80f3ed26c370b5f507e537fe460dac9440"
+        },
+        {
+          "text": "Khách hàng cần được thuyết phục.",
+          "tag": "customers",
+          "fromSeconds": 37.249750566893425,
+          "seconds": 1.207437641723356,
+          "audio": "out/female-aligned/chapter-05-beat-12.wav",
+          "key": "ade9ca0b856f3ae28198e6fab97686622a7553405514315261514c9494dbc26b"
+        },
+        {
+          "text": "Nhân viên cần sự dẫn dắt.",
+          "tag": "leadership",
+          "fromSeconds": 38.57718820861678,
+          "seconds": 1.4396371882086167,
+          "audio": "out/female-aligned/chapter-05-beat-13.wav",
+          "key": "be1f22adb00d0d7d748269b0198bc207adec52bbf0e6c09c5e075180442ca492"
+        },
+        {
+          "text": "Và chỉ một quyết định sai lầm vẫn có thể khiến bạn mất cả một gia tài.",
+          "tag": "risk",
+          "fromSeconds": 40.136825396825394,
+          "seconds": 3.4017233560090703,
+          "audio": "out/female-aligned/chapter-05-beat-14.wav",
+          "key": "ccfcf874436a1a7bdc65435a4967bec8478f65b5fbad95c0ce1b4ca1b3893059"
+        },
+        {
+          "text": "Không có gì đảm bảo bạn sẽ trở thành triệu phú.",
+          "tag": "notGuaranteed",
+          "fromSeconds": 43.65854875283447,
+          "seconds": 2.2523356009070294,
+          "audio": "out/female-aligned/chapter-05-beat-15.wav",
+          "key": "16e7593a6dc656afb84d08238ef5832ab8837d04eb17a266af0836808a6c6dde"
+        },
+        {
+          "text": "Nhưng nếu sử dụng khả năng ấy một cách khôn ngoan, bạn sẽ có một lợi thế mà gần như chẳng ai khác có được.",
+          "tag": "advantage",
+          "fromSeconds": 46.0308843537415,
+          "seconds": 5.131609977324263,
+          "audio": "out/female-aligned/chapter-05-beat-16.wav",
+          "key": "3aaa21968b2d2e5f68353232bfd62aedf6d868dc60d0ed027494c31264f1deea"
+        },
+        {
+          "text": "Chỉ có một vấn đề. Một lợi thế phi thường đến vậy rất khó giữ kín.",
+          "tag": "secret",
+          "fromSeconds": 51.28249433106576,
+          "seconds": 3.215963718820862,
+          "audio": "out/female-aligned/chapter-05-beat-17.wav",
+          "key": "4f44560ea0e1b6fcbfb9557892c19738aef8c3b553cd56cbce7310beb29ca848"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seconds": 72.9,
+      "speed": 0.95,
+      "utterances": [
+        {
+          "text": "Giả sử bạn giữ bí mật về khả năng của mình được vài tháng. Nhưng một người học nhanh gấp một trăm lần không thể mãi không bị chú ý.",
+          "tag": "private",
+          "fromSeconds": 0.34997732426303857,
+          "seconds": 6.257777777777778,
+          "audio": "out/female-aligned/chapter-06-beat-00.wav",
+          "key": "0ab490e4e4309bea4c2b00ddce42bfb005e51b3e655b91773b3b2edfb6e08cad"
+        },
+        {
+          "text": "Bạn vượt qua những bài kiểm tra kiến thức đại học nâng cao chỉ sau vài ngày chuẩn bị.",
+          "tag": "tests",
+          "fromSeconds": 6.727755102040816,
+          "seconds": 3.9938321995464854,
+          "audio": "out/female-aligned/chapter-06-beat-01.wav",
+          "key": "b055f2a76b82d104e89639af161f7aad3f0ff3a6589c9019387fac322961514b"
+        },
+        {
+          "text": "Bạn có thể giao tiếp bằng sáu ngôn ngữ chỉ trong một mùa hè.",
+          "tag": "sixLanguages",
+          "fromSeconds": 10.841587301587301,
+          "seconds": 2.8676643990929707,
+          "audio": "out/female-aligned/chapter-06-beat-02.wav",
+          "key": "b0d33c0a9a424e556440a22ced7f35435d9ae772a29fb35c71e9c34f2c9a6afa"
+        },
+        {
+          "text": "Rồi một ngày, video về khả năng của bạn lan truyền trên mạng.",
+          "tag": "viral",
+          "fromSeconds": 13.829251700680272,
+          "seconds": 2.7631746031746034,
+          "audio": "out/female-aligned/chapter-06-beat-03.wav",
+          "key": "6985699e5190c6bd1d5d904d3d9b2200a9d9e5054e71f633502ea4aae4857c65"
+        },
+        {
+          "text": "Ban đầu, mọi người nghĩ đó là giả.",
+          "tag": "fake",
+          "fromSeconds": 16.712426303854876,
+          "seconds": 1.8459863945578232,
+          "audio": "out/female-aligned/chapter-06-beat-04.wav",
+          "key": "0d92359ea0ed6bae52a29894d98b7ffc7f0e6e5d492720ab20e9904523bb8581"
+        },
+        {
+          "text": "Nhưng sau khi các chuyên gia kiểm chứng độc lập những gì bạn làm được, mọi thứ thay đổi.",
+          "tag": "verify",
+          "fromSeconds": 18.6784126984127,
+          "seconds": 4.179591836734694,
+          "audio": "out/female-aligned/chapter-06-beat-05.wav",
+          "key": "4cb33f14337a3973c413343f5bf3b03aebf89d21f2499816dffbd09cfe463448"
+        },
+        {
+          "text": "Những lời mời bắt đầu tới.",
+          "tag": "invites",
+          "fromSeconds": 22.97800453514739,
+          "seconds": 1.3583673469387756,
+          "audio": "out/female-aligned/chapter-06-beat-06.wav",
+          "key": "3e06d31d8e8cf93ff087bf9a24f31c73be4203f4984017b8caadb347886a80ff"
+        },
+        {
+          "text": "Các công ty công nghệ.",
+          "tag": "tech",
+          "fromSeconds": 24.456371882086167,
+          "seconds": 0.8126984126984127,
+          "audio": "out/female-aligned/chapter-06-beat-07.wav",
+          "key": "53b528646664c20fb9834e2b09992904a39c8a1a92a5347f625db53a9c20a3d2"
+        },
+        {
+          "text": "Các quỹ đầu tư.",
+          "tag": "investment",
+          "fromSeconds": 25.38907029478458,
+          "seconds": 0.7430385487528345,
+          "audio": "out/female-aligned/chapter-06-beat-08.wav",
+          "key": "c97c63637a7cb5373ae34e80fde341cf699399213a402bf4a6c59e58a9b7c33f"
+        },
+        {
+          "text": "Những viện nghiên cứu hàng đầu thế giới.",
+          "tag": "researchOrg",
+          "fromSeconds": 26.252108843537414,
+          "seconds": 1.8808163265306121,
+          "audio": "out/female-aligned/chapter-06-beat-09.wav",
+          "key": "c289e5fc3a33c4a0c8a743e22ebeabc3e815695d3fef7f2928f8390c7f1bc09b"
+        },
+        {
+          "text": "Và có lẽ cả các cơ quan chính phủ.",
+          "tag": "government",
+          "fromSeconds": 28.25292517006803,
+          "seconds": 1.9388662131519274,
+          "audio": "out/female-aligned/chapter-06-beat-10.wav",
+          "key": "e4136d15fa8a01263b8feffbc3ada5cc5a4b3deb00dd48fd86b860693e5f7135"
+        },
+        {
+          "text": "Ai cũng muốn làm việc với bạn. Bởi bạn có thể tiếp thu kiến thức trong nhiều lĩnh vực trong một thời gian ngắn đến khó tin. Bạn có thể trở nên vô cùng giàu có.",
+          "tag": "attention",
+          "fromSeconds": 30.311791383219955,
+          "seconds": 7.163356009070295,
+          "audio": "out/female-aligned/chapter-06-beat-11.wav",
+          "key": "78215b90c278a125efabdd3219c0fa46c2dc40a47046e45b48164c31b0f2e584"
+        },
+        {
+          "text": "Nhưng sự riêng tư của bạn có thể dần biến mất. Ai cũng muốn có một phần thời gian của bạn.",
+          "tag": "privacy",
+          "fromSeconds": 37.59514739229025,
+          "seconds": 4.272471655328798,
+          "audio": "out/female-aligned/chapter-06-beat-12.wav",
+          "key": "ef1aee0659ec7129a479221361024b232b299ff4a97117c203e26f3169ac2db2"
+        },
+        {
+          "text": "Và điều đó dẫn tới một câu hỏi thú vị.",
+          "tag": "question",
+          "fromSeconds": 41.98761904761905,
+          "seconds": 2.078185941043084,
+          "audio": "out/female-aligned/chapter-06-beat-13.wav",
+          "key": "47063dde0d3eaba8a6b3e885553aa9f054eb79a6b98bb7ec3fa4de9686b4e1bf"
+        },
+        {
+          "text": "Nếu ngày mai, tất cả mọi người trên Trái Đất đều có thể học nhanh gấp một trăm lần thì sao?",
+          "tag": "everyone",
+          "fromSeconds": 44.185804988662134,
+          "seconds": 4.748480725623582,
+          "audio": "out/female-aligned/chapter-06-beat-14.wav",
+          "key": "12962953f256d8cfbfde0dba99d13fc4a19f6949d0f70f1897c77c3e15b4256b"
+        },
+        {
+          "text": "Giáo dục sẽ thay đổi mạnh mẽ. Những chương trình từng kéo dài nhiều năm có thể được rút ngắn đáng kể.",
+          "tag": "education",
+          "fromSeconds": 49.05428571428571,
+          "seconds": 5.050340136054421,
+          "audio": "out/female-aligned/chapter-06-beat-15.wav",
+          "key": "a2273d3addb7ed4930eb1b2de529d0c400aa1ad4d3032b5ee33d28fce53eedf6"
+        },
+        {
+          "text": "Chỉ một tấm bằng đại học có lẽ sẽ không còn đủ để một người nổi bật.",
+          "tag": "degreeNormal",
+          "fromSeconds": 54.22462585034014,
+          "seconds": 3.355283446712018,
+          "audio": "out/female-aligned/chapter-06-beat-16.wav",
+          "key": "368f015cb60581193892956571e6e8d522b43135642dfb8a826e8bcbf9d954b9"
+        },
+        {
+          "text": "Còn khả năng phi thường của bạn? Nó bỗng trở nên bình thường.",
+          "tag": "normal",
+          "fromSeconds": 57.69990929705215,
+          "seconds": 2.6006349206349206,
+          "audio": "out/female-aligned/chapter-06-beat-17.wav",
+          "key": "3ab581a31f316c59aa38e36d1f6d0ba2db40328b058084db7a0ae91ce8f852cd"
+        },
+        {
+          "text": "Nếu ai cũng học với tốc độ đáng kinh ngạc, thành công sẽ càng phụ thuộc vào sự sáng tạo, nguồn lực, khả năng phán đoán và năng lực biến kiến thức thành hành động.",
+          "tag": "creativity",
+          "fromSeconds": 60.42054421768707,
+          "seconds": 7.801904761904762,
+          "audio": "out/female-aligned/chapter-06-beat-18.wav",
+          "key": "9d259cdab9a69691e7356eeee58b655d618571ffcc4e826536bb3ee712b3aa6e"
+        },
+        {
+          "text": "Bạn vẫn có một bộ não phi thường. Chỉ là, bạn không còn là người duy nhất nữa.",
+          "tag": "notAlone",
+          "fromSeconds": 68.34244897959184,
+          "seconds": 3.8545124716553287,
+          "audio": "out/female-aligned/chapter-06-beat-19.wav",
+          "key": "10100f83bc92b2d5f9c1d49f4c5e68daccdb4d5d366bfc1420cb45e85ae65324"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seconds": 51.233333333333334,
+      "speed": 0.95,
+      "utterances": [
+        {
+          "text": "Khi cả thế giới bắt đầu chú ý tới bạn, một câu hỏi khác xuất hiện. Bạn sẽ dùng khả năng ấy để kiếm thêm nhiều tiền hơn nữa?",
+          "tag": "money",
+          "fromSeconds": 0.34997732426303857,
+          "seconds": 6.257777777777778,
+          "audio": "out/female-aligned/chapter-07-beat-00.wav",
+          "key": "4c319664896fb2c2c44a4f3c0639ee1f25f6a94f2dc122a73d0fb541713004ff"
+        },
+        {
+          "text": "Hay sẽ thử làm điều gì đó mà chỉ riêng tiền bạc không thể thực hiện?",
+          "tag": "impact",
+          "fromSeconds": 6.727755102040816,
+          "seconds": 3.239183673469388,
+          "audio": "out/female-aligned/chapter-07-beat-01.wav",
+          "key": "938780997ca1039b235a0f908ef25e8e38747159316976c198806f78887e3271"
+        },
+        {
+          "text": "Bạn bắt đầu nghĩ tới những vấn đề lớn hơn.",
+          "tag": "challenges",
+          "fromSeconds": 10.086938775510204,
+          "seconds": 2.0549659863945577,
+          "audio": "out/female-aligned/chapter-07-beat-02.wav",
+          "key": "c607ade3277d10aa89f0181dfc445525e8298ceaa0c10795df9cb867fa546fdc"
+        },
+        {
+          "text": "Ung thư.",
+          "tag": "health",
+          "fromSeconds": 12.261904761904763,
+          "seconds": 0.301859410430839,
+          "audio": "out/female-aligned/chapter-07-beat-03.wav",
+          "key": "2b803cfd3bd73bf7d98a40432f52cb31451e74ea59cf69e075b22d72a3b1c5e8"
+        },
+        {
+          "text": "Năng lượng sạch.",
+          "tag": "energy",
+          "fromSeconds": 12.6837641723356,
+          "seconds": 0.6385487528344671,
+          "audio": "out/female-aligned/chapter-07-beat-04.wav",
+          "key": "6882bab8ba911dc08000d66788f26882b52f4137050925e0a51707d92c63872e"
+        },
+        {
+          "text": "Biến đổi khí hậu.",
+          "tag": "climate",
+          "fromSeconds": 13.442312925170068,
+          "seconds": 0.9287981859410431,
+          "audio": "out/female-aligned/chapter-07-beat-05.wav",
+          "key": "ff94f9c95a57973cf6c2305c86fa1a32dba047aa4ed4353fdb472caba8539184"
+        },
+        {
+          "text": "Những căn bệnh vẫn chưa có cách điều trị hiệu quả.",
+          "tag": "disease",
+          "fromSeconds": 14.491111111111111,
+          "seconds": 2.2871655328798184,
+          "audio": "out/female-aligned/chapter-07-beat-06.wav",
+          "key": "ababf4a54cf5d111b01b5bfecf61fec9201f14eac2e157f639ed481eea3e96b2"
+        },
+        {
+          "text": "Bạn nghiên cứu sinh học.",
+          "tag": "biology",
+          "fromSeconds": 16.89827664399093,
+          "seconds": 1.0681179138321995,
+          "audio": "out/female-aligned/chapter-07-beat-07.wav",
+          "key": "21c3fab41892dd6010d0613337b891d2492e4f8bd66159c7dfdc4f12d537ae1c"
+        },
+        {
+          "text": "Hóa học.",
+          "tag": "chemistry",
+          "fromSeconds": 18.08639455782313,
+          "seconds": 0.3831292517006803,
+          "audio": "out/female-aligned/chapter-07-beat-08.wav",
+          "key": "d61b0f3211a6e94e3a67ef103b897efef1613ad8632c25b3ec564502659ff9e6"
+        },
+        {
+          "text": "Trí tuệ nhân tạo.",
+          "tag": "ai",
+          "fromSeconds": 18.589523809523808,
+          "seconds": 0.8359183673469388,
+          "audio": "out/female-aligned/chapter-07-beat-09.wav",
+          "key": "27f67ee91517486044b9527c9fb49c453521cda375f29de3518f41049a3d9ea2"
+        },
+        {
+          "text": "Và khoa học vật liệu.",
+          "tag": "materials",
+          "fromSeconds": 19.545442176870747,
+          "seconds": 0.9636281179138322,
+          "audio": "out/female-aligned/chapter-07-beat-10.wav",
+          "key": "58367c07d32679baf7e336e75f2af65ebb814291d316530458e821f9bbd65377"
+        },
+        {
+          "text": "Bạn tiếp thu kiến thức từ nhiều ngành khoa học với tốc độ đáng kinh ngạc. Rồi bạn bắt đầu kết nối những ý tưởng mà các nhà nghiên cứu khác có lẽ hiếm khi xem xét cùng nhau.",
+          "tag": "connections",
+          "fromSeconds": 20.62907029478458,
+          "seconds": 8.092154195011338,
+          "audio": "out/female-aligned/chapter-07-beat-11.wav",
+          "key": "b0cf5f4b50093e54136b71a2f8307eca0ec28debfcee6b40bb10089159aaf3df"
+        },
+        {
+          "text": "Có thể bạn tìm ra một phương pháp điều trị mới đầy triển vọng. Một công nghệ năng lượng hiệu quả hơn. Hoặc một phát minh có thể cải thiện cuộc sống của hàng triệu người.",
+          "tag": "prototype",
+          "fromSeconds": 28.84122448979592,
+          "seconds": 7.3723356009070296,
+          "audio": "out/female-aligned/chapter-07-beat-12.wav",
+          "key": "136831419d1965d248bf94f0244002a88bcd287ef8ba11dccb3c7d07ee298778"
+        },
+        {
+          "text": "Nhưng các khám phá khoa học vẫn cần bằng chứng.",
+          "tag": "evidence",
+          "fromSeconds": 36.333560090702946,
+          "seconds": 2.345215419501134,
+          "audio": "out/female-aligned/chapter-07-beat-13.wav",
+          "key": "97fd52d3472264aac9cb8336b8ce3d82d1137e59f206a3aed23d768f51e136e3"
+        },
+        {
+          "text": "Lý thuyết phải được kiểm nghiệm.",
+          "tag": "testing",
+          "fromSeconds": 38.79877551020408,
+          "seconds": 1.242267573696145,
+          "audio": "out/female-aligned/chapter-07-beat-14.wav",
+          "key": "bacb49d86d6c5b1e522521a10fc5f51b9ea4731f0b3eb093f2b0f9809b37e9e7"
+        },
+        {
+          "text": "Phát minh phải được xác thực.",
+          "tag": "validation",
+          "fromSeconds": 40.161043083900225,
+          "seconds": 1.242267573696145,
+          "audio": "out/female-aligned/chapter-07-beat-15.wav",
+          "key": "a6524ed1964733940c82f91ee7b338bda3219f0b0b237345d6daeb7409a58e1e"
+        },
+        {
+          "text": "Và có những câu hỏi hiện vẫn chưa có lời giải.",
+          "tag": "questions",
+          "fromSeconds": 41.52331065759637,
+          "seconds": 2.2871655328798184,
+          "audio": "out/female-aligned/chapter-07-beat-16.wav",
+          "key": "96eb3431435eb3e04831e50addd30700b15dfce5587cd5e561a645c215354258"
+        },
+        {
+          "text": "Bạn có thể học gần như mọi điều nhân loại đã khám phá.",
+          "tag": "known",
+          "fromSeconds": 43.93047619047619,
+          "seconds": 2.6354648526077096,
+          "audio": "out/female-aligned/chapter-07-beat-17.wav",
+          "key": "10cc70ccb756b9ea5af5df4604882b398bf7314dabdbecb2e25527e1c08cfb92"
+        },
+        {
+          "text": "Nhưng để khám phá một điều thực sự mới, bạn vẫn phải bước vào vùng chưa biết.",
+          "tag": "unknown",
+          "fromSeconds": 46.6859410430839,
+          "seconds": 3.866122448979592,
+          "audio": "out/female-aligned/chapter-07-beat-18.wav",
+          "key": "59b9d0d3e1863729b9ba87f8e6ecdf6f2ec8ed45ee48ce6c7ded92d928c076e6"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seconds": 61.2,
+      "speed": 0.92,
+      "utterances": [
+        {
+          "text": "Một năm trôi qua.",
+          "tag": "year",
+          "fromSeconds": 0.34997732426303857,
+          "seconds": 0.7546485260770975,
+          "audio": "out/female-aligned/chapter-08-beat-00.wav",
+          "key": "e96b64a5e117dacdada310971851959c56fbc458f463676f180198e212aa7d4d"
+        },
+        {
+          "text": "Trong một năm ấy, bạn đã tiếp thu lượng kiến thức mà trước kia có thể cần cả một thế kỷ học tập.",
+          "tag": "library",
+          "fromSeconds": 1.2246258503401362,
+          "seconds": 4.911020408163266,
+          "audio": "out/female-aligned/chapter-08-beat-01.wav",
+          "key": "28b2ea4e69aa89e3a71b7b0cd2ff63944e78d4dd49b467514d4def623a2cfaae"
+        },
+        {
+          "text": "Nhưng tối nay, bạn chỉ đang ăn cơm cùng gia đình.",
+          "tag": "dinner",
+          "fromSeconds": 6.255646258503401,
+          "seconds": 2.507755102040816,
+          "audio": "out/female-aligned/chapter-08-beat-02.wav",
+          "key": "9eca54c7e75d4c021739897aa4cb7210a95d88d0ed20ec26bc75d4c596c52045"
+        },
+        {
+          "text": "Bố mẹ kể chuyện công việc.",
+          "tag": "parents",
+          "fromSeconds": 8.883401360544218,
+          "seconds": 1.242267573696145,
+          "audio": "out/female-aligned/chapter-08-beat-03.wav",
+          "key": "3c171745be91a9c1f4065244ec336c14ff666aa3e0aec9b1af0c85b87fac765d"
+        },
+        {
+          "text": "Em trai bạn kể với mọi người những gì đã xảy ra ở trường.",
+          "tag": "brother",
+          "fromSeconds": 10.245668934240364,
+          "seconds": 2.8908843537414968,
+          "audio": "out/female-aligned/chapter-08-beat-04.wav",
+          "key": "14acd3df8d0c56f2e1ca0a795cbe9fc0d19b1fa74c98e29a2b82b1c8ff0648dd"
+        },
+        {
+          "text": "Bạn mỉm cười và lắng nghe.",
+          "tag": "listen",
+          "fromSeconds": 13.256553287981859,
+          "seconds": 1.230657596371882,
+          "audio": "out/female-aligned/chapter-08-beat-05.wav",
+          "key": "2a0f94f3cff3c3cc684b8394e1d0291363e8f63aa87d48bd2dddb727890e87c7"
+        },
+        {
+          "text": "Nhưng đầu óc bạn vẫn không ngừng phân tích mọi thứ. Bạn đã quá quen với việc hiểu mọi chuyện gần như ngay lập tức,",
+          "tag": "analyze",
+          "fromSeconds": 14.60721088435374,
+          "seconds": 5.294149659863946,
+          "audio": "out/female-aligned/chapter-08-beat-06.wav",
+          "key": "24520b400fd1a9696c7f2015e65ab24d399303b908bce937120bdc1d2c42e0f3"
+        },
+        {
+          "text": "đến mức bắt đầu quên cảm giác phải vật lộn để học một điều gì đó. Và rồi,",
+          "tag": "forget",
+          "fromSeconds": 20.021360544217686,
+          "seconds": 3.900952380952381,
+          "audio": "out/female-aligned/chapter-08-beat-07.wav",
+          "key": "90d0d9f540fcfb9b8f339f5c8ba3fe2da0ee26942c43313401931ead0438bd7b"
+        },
+        {
+          "text": "bạn nhớ lại những buổi tối ngồi nhìn mãi vào một bài toán khó.",
+          "tag": "memory",
+          "fromSeconds": 24.04231292517007,
+          "seconds": 3.1346938775510202,
+          "audio": "out/female-aligned/chapter-08-beat-08.wav",
+          "key": "8225edb9ef5347d418fbdbf7a8f01b186d06afc5ead3dbb5c1b6d9e98ff5aa28"
+        },
+        {
+          "text": "Cảm giác bực bội khi hết lần này đến lần khác giải sai.",
+          "tag": "frustration",
+          "fromSeconds": 27.29700680272109,
+          "seconds": 2.9373242630385485,
+          "audio": "out/female-aligned/chapter-08-beat-09.wav",
+          "key": "3772784499814c198083d5fb3b3f14c2c1b0faee41ffc85e17701c9bc0acf58a"
+        },
+        {
+          "text": "Và niềm vui vỡ òa khi cuối cùng mọi thứ trở nên rõ ràng.",
+          "tag": "aha",
+          "fromSeconds": 30.354331065759638,
+          "seconds": 3.0650340136054424,
+          "audio": "out/female-aligned/chapter-08-beat-10.wav",
+          "key": "57d6a64d5b78c8832fecb5ab7bebcf0aac4d23b7de60760e2a3fd3d4eca0dcd8"
+        },
+        {
+          "text": "Đã lâu lắm rồi bạn không còn cảm thấy như vậy.",
+          "tag": "quiet",
+          "fromSeconds": 33.539365079365076,
+          "seconds": 2.461315192743764,
+          "audio": "out/female-aligned/chapter-08-beat-11.wav",
+          "key": "9952555805842c5626f375e2a838cc863091597276edf0baa66305a4abbd7d8a"
+        },
+        {
+          "text": "Bạn đã học vô số điều. Đọc hàng nghìn cuốn sách. Hiểu những lý thuyết phức tạp. Giải quyết những vấn đề từng tưởng chừng không thể.",
+          "tag": "knowledge",
+          "fromSeconds": 36.12068027210884,
+          "seconds": 5.793378684807256,
+          "audio": "out/female-aligned/chapter-08-beat-12.wav",
+          "key": "475ccab05b0c997590ea7342d7f6517c64a766bdc8f83f84fcb4331482c92196"
+        },
+        {
+          "text": "Nhưng không điều nào trong số đó tự động khiến bạn hạnh phúc hơn.",
+          "tag": "unhappy",
+          "fromSeconds": 42.0340589569161,
+          "seconds": 3.053424036281179,
+          "audio": "out/female-aligned/chapter-08-beat-13.wav",
+          "key": "1d3b73bce3db3b8617bd2142538b69b747f5838e1e91f5772d7bbc6a6b1e4891"
+        },
+        {
+          "text": "Bạn vẫn có thể thấy kiệt sức.",
+          "tag": "exhausted",
+          "fromSeconds": 45.20748299319728,
+          "seconds": 1.474467120181406,
+          "audio": "out/female-aligned/chapter-08-beat-14.wav",
+          "key": "1303854fc5625c7785679c1dd5eb3495292d3f8ed2ca6809ffac39b0aab8023c"
+        },
+        {
+          "text": "Vẫn có thể đưa ra những quyết định khiến mình hối tiếc.",
+          "tag": "regret",
+          "fromSeconds": 46.80195011337869,
+          "seconds": 2.3336054421768706,
+          "audio": "out/female-aligned/chapter-08-beat-15.wav",
+          "key": "aa5c51155f4cd567d9957c65179b2ff46fc15489ede7d029477b5c4473fadf45"
+        },
+        {
+          "text": "Và vẫn phải đối mặt với những câu hỏi mà không cuốn sách giáo khoa nào có thể trả lời.",
+          "tag": "questions",
+          "fromSeconds": 49.25555555555555,
+          "seconds": 4.144761904761904,
+          "audio": "out/female-aligned/chapter-08-beat-16.wav",
+          "key": "9545e4fe216be1ff710d6681cea7f938f638a05f5dd3e776eccab65d5e250029"
+        },
+        {
+          "text": "Lần đầu tiên, bạn tự hỏi, nếu mọi thứ đều trở nên quá dễ dàng, liệu mình còn biết trân trọng hành trình học hỏi nữa không?",
+          "tag": "journey",
+          "fromSeconds": 53.52031746031746,
+          "seconds": 7.000816326530612,
+          "audio": "out/female-aligned/chapter-08-beat-17.wav",
+          "key": "df67104069793a21ea5b8186e93e57bea695dc4275bbf778c19b6dd3353f05ee"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seconds": 51.63333333333333,
+      "speed": 0.92,
+      "utterances": [
+        {
+          "text": "Vậy điều gì thực sự sẽ xảy ra nếu bạn có thể học nhanh gấp một trăm lần? Bạn có thể tiếp thu kiến thức nhanh hơn gần như bất kỳ ai.",
+          "tag": "recap",
+          "fromSeconds": 0.34997732426303857,
+          "seconds": 6.339047619047619,
+          "audio": "out/female-aligned/chapter-09-beat-00.wav",
+          "key": "7ca3bdf937b9e2da28c2719fbc6cebf46e8f7edaacee88752a0d1809ae4041d7"
+        },
+        {
+          "text": "Khám phá nhiều con đường nghề nghiệp.",
+          "tag": "careers",
+          "fromSeconds": 6.809024943310658,
+          "seconds": 1.509297052154195,
+          "audio": "out/female-aligned/chapter-09-beat-01.wav",
+          "key": "90faa93de7353faa1b5da536b4d82c84bff0b00c91bfd892851d2ec5e85ae6b0"
+        },
+        {
+          "text": "Xây dựng doanh nghiệp.",
+          "tag": "business",
+          "fromSeconds": 8.438321995464852,
+          "seconds": 0.8010884353741496,
+          "audio": "out/female-aligned/chapter-09-beat-02.wav",
+          "key": "c3c3bc755d4583f0fb7a4abe3c810ead8a9eaf28c763dfee88cc98dd75f21e85"
+        },
+        {
+          "text": "Tạo ra những công nghệ mới.",
+          "tag": "technology",
+          "fromSeconds": 9.359410430839002,
+          "seconds": 1.2887074829931973,
+          "audio": "out/female-aligned/chapter-09-beat-03.wav",
+          "key": "3694a91b3ec80aca894a9b38367e7b963d3298f4fbf4f3be3e4b39be1ef78d82"
+        },
+        {
+          "text": "Và có thể đóng góp vào những khám phá làm thay đổi thế giới.",
+          "tag": "science",
+          "fromSeconds": 10.7681179138322,
+          "seconds": 2.9837641723356008,
+          "audio": "out/female-aligned/chapter-09-beat-04.wav",
+          "key": "69a907e08eb9a991e815d7256de7594801033f7dd79bf8baa1bc47c32b1a5db0"
+        },
+        {
+          "text": "Nhưng có một điều mà ngay cả khả năng phi thường ấy cũng không thể thay đổi.",
+          "tag": "limit",
+          "fromSeconds": 13.871882086167801,
+          "seconds": 3.274013605442177,
+          "audio": "out/female-aligned/chapter-09-beat-05.wav",
+          "key": "8f9a8ad56665e09e53f94ada9283ed30dfe36193d4bf81694b454d98707b7017"
+        },
+        {
+          "text": "Thời gian.",
+          "tag": "clock",
+          "fromSeconds": 17.265895691609977,
+          "seconds": 0.4295691609977324,
+          "audio": "out/female-aligned/chapter-09-beat-06.wav",
+          "key": "c4738b3bdc974ac8582ec48ba2584911759e54186150490886d0b1f919bc0070"
+        },
+        {
+          "text": "Một ngày vẫn chỉ có hai mươi bốn giờ.",
+          "tag": "day",
+          "fromSeconds": 17.81546485260771,
+          "seconds": 1.811156462585034,
+          "audio": "out/female-aligned/chapter-09-beat-07.wav",
+          "key": "7155ed29438ebe7c1860b2c036372c5f2bda7a0665c91745637bcedfda570511"
+        },
+        {
+          "text": "Bạn vẫn cần ngủ.",
+          "tag": "sleep",
+          "fromSeconds": 19.746621315192744,
+          "seconds": 0.8475283446712019,
+          "audio": "out/female-aligned/chapter-09-beat-08.wav",
+          "key": "e50b20889c83df89181278532f022d7d26370c2965733fb3889c8e7ccf8a3e53"
+        },
+        {
+          "text": "Bạn vẫn cần ăn.",
+          "tag": "eat",
+          "fromSeconds": 20.714149659863946,
+          "seconds": 0.7546485260770975,
+          "audio": "out/female-aligned/chapter-09-beat-09.wav",
+          "key": "998f192ed3b7f7fc8fcda8dd874551d064ae96c4c20f5b8b146b2c7faba03718"
+        },
+        {
+          "text": "Bạn vẫn cần nghỉ ngơi.",
+          "tag": "rest",
+          "fromSeconds": 21.588798185941044,
+          "seconds": 0.9520181405895691,
+          "audio": "out/female-aligned/chapter-09-beat-10.wav",
+          "key": "66598a19a0c2fb908bf92f92f4bf02422b901c798e46c5486a368b5cd92a3c3e"
+        },
+        {
+          "text": "Và những người bạn yêu thương,",
+          "tag": "family",
+          "fromSeconds": 22.66081632653061,
+          "seconds": 1.242267573696145,
+          "audio": "out/female-aligned/chapter-09-beat-11.wav",
+          "key": "55fa8bbfabb11f495cbdfa2ea5140e0507e046cae3311e0077277217667ec824"
+        },
+        {
+          "text": "vẫn sẽ tiếp tục già đi, giống như tất cả mọi người.",
+          "tag": "aging",
+          "fromSeconds": 24.02308390022676,
+          "seconds": 2.5658049886621317,
+          "audio": "out/female-aligned/chapter-09-beat-12.wav",
+          "key": "433d7d48a451bf686a8bd36361992f91cf7606423aca0b0e47abe64b1f761e0b"
+        },
+        {
+          "text": "Bạn có thể học lượng kiến thức của cả một đời người trong một khoảng thời gian cực ngắn.",
+          "tag": "photo",
+          "fromSeconds": 26.70888888888889,
+          "seconds": 3.924172335600907,
+          "audio": "out/female-aligned/chapter-09-beat-13.wav",
+          "key": "e32ca6f211fa6bd190f2e234d4599c07d26176d3d3d0d473fecaa25bb4f397f6"
+        },
+        {
+          "text": "Nhưng bạn không thể sống một trăm cuộc đời khác nhau.",
+          "tag": "oneLife",
+          "fromSeconds": 30.753061224489795,
+          "seconds": 2.2291156462585033,
+          "audio": "out/female-aligned/chapter-09-beat-14.wav",
+          "key": "7ab39c5f3966fc9b848d37ad50f236de8ebb2bfd38a12be461119abf98656434"
+        },
+        {
+          "text": "Cuối cùng, có lẽ câu hỏi quan trọng nhất không phải là bạn biết bao nhiêu.",
+          "tag": "meaning",
+          "fromSeconds": 33.1021768707483,
+          "seconds": 3.633922902494331,
+          "audio": "out/female-aligned/chapter-09-beat-15.wav",
+          "key": "d57ebab7ebc174e3de9967a6f5b3af44b92a12330f2481cff7f9199f5deb1d19"
+        },
+        {
+          "text": "Mà là bạn chọn làm gì với tất cả những điều mình đã học.",
+          "tag": "sunset",
+          "fromSeconds": 36.85609977324263,
+          "seconds": 2.7747845804988662,
+          "audio": "out/female-aligned/chapter-09-beat-16.wav",
+          "key": "4ffa77a73568222b08086862f932915bb57baeb48aa5b1214df4771c7401b8f0"
+        },
+        {
+          "text": "Bởi nếu sáng mai thức dậy, bạn có khả năng học nhanh gấp một trăm lần,",
+          "tag": "window",
+          "fromSeconds": 39.7508843537415,
+          "seconds": 3.6687528344671203,
+          "audio": "out/female-aligned/chapter-09-beat-17.wav",
+          "key": "53ca1def85c5136349240f4a56955acd588473ce76e76a61b729e20213507968"
+        },
+        {
+          "text": "điều đầu tiên bạn muốn học sẽ là gì?",
+          "tag": "final",
+          "fromSeconds": 43.539637188208616,
+          "seconds": 1.9736961451247166,
+          "audio": "out/female-aligned/chapter-09-beat-18.wav",
+          "key": "f3fee4478beadfac691c305b2a24ec0ca6f3acddcbfff004ccadc18649784ee1"
+        }
+      ]
+    }
+  ],
+  "humanListeningApproval": "not claimed; user authorized female narration and full video production"
+}

@@ -1,0 +1,39 @@
+{
+  "key": "4dc780a32b8c9797ee2edc433d5a87f6ccc103e38ea509d07190fb311c66cc44",
+  "text": "Bạn thiết kế một sản phẩm.",
+  "sampleRate": 22050,
+  "seconds": 1.2190476190476192,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 768,
+      "toSample": 4608
+    },
+    {
+      "word": "thiết",
+      "fromSample": 5376,
+      "toSample": 8960
+    },
+    {
+      "word": "kế",
+      "fromSample": 9472,
+      "toSample": 13056
+    },
+    {
+      "word": "một",
+      "fromSample": 13568,
+      "toSample": 16896
+    },
+    {
+      "word": "sản",
+      "fromSample": 17664,
+      "toSample": 21248
+    },
+    {
+      "word": "phẩm",
+      "fromSample": 21760,
+      "toSample": 26112
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

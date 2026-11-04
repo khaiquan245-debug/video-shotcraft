@@ -1,0 +1,204 @@
+{
+  "key": "af93e60807d4beec53964f14ea26daf6b89ad50e7528ec02d593c725da0b51c8",
+  "text": "Và tìm hiểu cách quảng cáo trực tuyến vận hành. Trong khi người mới bắt đầu có thể mất nhiều tháng để học những điều này, bạn có thể hiểu các nguyên lý nền tảng chỉ trong vài ngày.",
+  "sampleRate": 22050,
+  "seconds": 8.080544217687075,
+  "words": [
+    {
+      "word": "và",
+      "fromSample": 512,
+      "toSample": 3584
+    },
+    {
+      "word": "tìm",
+      "fromSample": 4096,
+      "toSample": 7936
+    },
+    {
+      "word": "hiểu",
+      "fromSample": 8704,
+      "toSample": 13824
+    },
+    {
+      "word": "cách",
+      "fromSample": 14336,
+      "toSample": 17920
+    },
+    {
+      "word": "quảng",
+      "fromSample": 18432,
+      "toSample": 23040
+    },
+    {
+      "word": "cáo",
+      "fromSample": 24576,
+      "toSample": 29184
+    },
+    {
+      "word": "trực",
+      "fromSample": 30208,
+      "toSample": 33536
+    },
+    {
+      "word": "tuyến",
+      "fromSample": 34048,
+      "toSample": 39424
+    },
+    {
+      "word": "vận",
+      "fromSample": 40192,
+      "toSample": 43008
+    },
+    {
+      "word": "hành",
+      "fromSample": 43520,
+      "toSample": 47872
+    },
+    {
+      "word": "trong",
+      "fromSample": 49152,
+      "toSample": 52224
+    },
+    {
+      "word": "khi",
+      "fromSample": 52992,
+      "toSample": 54784
+    },
+    {
+      "word": "người",
+      "fromSample": 55296,
+      "toSample": 59648
+    },
+    {
+      "word": "mới",
+      "fromSample": 60160,
+      "toSample": 63488
+    },
+    {
+      "word": "bắt",
+      "fromSample": 64000,
+      "toSample": 67328
+    },
+    {
+      "word": "đầu",
+      "fromSample": 68096,
+      "toSample": 72192
+    },
+    {
+      "word": "có",
+      "fromSample": 72704,
+      "toSample": 75264
+    },
+    {
+      "word": "thể",
+      "fromSample": 75776,
+      "toSample": 79616
+    },
+    {
+      "word": "mất",
+      "fromSample": 80128,
+      "toSample": 84736
+    },
+    {
+      "word": "nhiều",
+      "fromSample": 85248,
+      "toSample": 89088
+    },
+    {
+      "word": "tháng",
+      "fromSample": 90368,
+      "toSample": 95488
+    },
+    {
+      "word": "để",
+      "fromSample": 96000,
+      "toSample": 99072
+    },
+    {
+      "word": "học",
+      "fromSample": 99840,
+      "toSample": 102912
+    },
+    {
+      "word": "những",
+      "fromSample": 103680,
+      "toSample": 106496
+    },
+    {
+      "word": "điều",
+      "fromSample": 107008,
+      "toSample": 110336
+    },
+    {
+      "word": "này",
+      "fromSample": 111104,
+      "toSample": 116992
+    },
+    {
+      "word": "bạn",
+      "fromSample": 120064,
+      "toSample": 124160
+    },
+    {
+      "word": "có",
+      "fromSample": 124928,
+      "toSample": 127488
+    },
+    {
+      "word": "thể",
+      "fromSample": 128256,
+      "toSample": 131584
+    },
+    {
+      "word": "hiểu",
+      "fromSample": 132096,
+      "toSample": 136192
+    },
+    {
+      "word": "các",
+      "fromSample": 137472,
+      "toSample": 141056
+    },
+    {
+      "word": "nguyên",
+      "fromSample": 141568,
+      "toSample": 144640
+    },
+    {
+      "word": "lý",
+      "fromSample": 145152,
+      "toSample": 148992
+    },
+    {
+      "word": "nền",
+      "fromSample": 150016,
+      "toSample": 153856
+    },
+    {
+      "word": "tảng",
+      "fromSample": 154880,
+      "toSample": 158976
+    },
+    {
+      "word": "chỉ",
+      "fromSample": 159744,
+      "toSample": 163584
+    },
+    {
+      "word": "trong",
+      "fromSample": 164608,
+      "toSample": 168192
+    },
+    {
+      "word": "vài",
+      "fromSample": 168704,
+      "toSample": 172288
+    },
+    {
+      "word": "ngày",
+      "fromSample": 173056,
+      "toSample": 177408
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

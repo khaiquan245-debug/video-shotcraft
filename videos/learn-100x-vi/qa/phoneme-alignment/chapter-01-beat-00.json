@@ -1,0 +1,64 @@
+{
+  "key": "2cae40d227fcb69af9423562f191bbd1a3c1c92ec33943e05f4033bc92a561e5",
+  "text": "Trước khi bắt đầu, hãy thống nhất một vài quy tắc.",
+  "sampleRate": 22050,
+  "seconds": 2.2755555555555556,
+  "words": [
+    {
+      "word": "trước",
+      "fromSample": 512,
+      "toSample": 4096
+    },
+    {
+      "word": "khi",
+      "fromSample": 4608,
+      "toSample": 6656
+    },
+    {
+      "word": "bắt",
+      "fromSample": 7424,
+      "toSample": 10752
+    },
+    {
+      "word": "đầu",
+      "fromSample": 11264,
+      "toSample": 16896
+    },
+    {
+      "word": "hãy",
+      "fromSample": 18432,
+      "toSample": 22784
+    },
+    {
+      "word": "thống",
+      "fromSample": 24064,
+      "toSample": 28160
+    },
+    {
+      "word": "nhất",
+      "fromSample": 28672,
+      "toSample": 32768
+    },
+    {
+      "word": "một",
+      "fromSample": 33536,
+      "toSample": 37376
+    },
+    {
+      "word": "vài",
+      "fromSample": 38400,
+      "toSample": 42240
+    },
+    {
+      "word": "quy",
+      "fromSample": 42752,
+      "toSample": 45312
+    },
+    {
+      "word": "tắc",
+      "fromSample": 46080,
+      "toSample": 49408
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

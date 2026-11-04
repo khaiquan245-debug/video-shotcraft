@@ -1,0 +1,39 @@
+{
+  "key": "3c171745be91a9c1f4065244ec336c14ff666aa3e0aec9b1af0c85b87fac765d",
+  "text": "Bố mẹ kể chuyện công việc.",
+  "sampleRate": 22050,
+  "seconds": 1.242267573696145,
+  "words": [
+    {
+      "word": "bố",
+      "fromSample": 768,
+      "toSample": 4096
+    },
+    {
+      "word": "mẹ",
+      "fromSample": 5120,
+      "toSample": 8960
+    },
+    {
+      "word": "kể",
+      "fromSample": 10240,
+      "toSample": 12800
+    },
+    {
+      "word": "chuyện",
+      "fromSample": 13568,
+      "toSample": 18688
+    },
+    {
+      "word": "công",
+      "fromSample": 19456,
+      "toSample": 22016
+    },
+    {
+      "word": "việc",
+      "fromSample": 22784,
+      "toSample": 26624
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

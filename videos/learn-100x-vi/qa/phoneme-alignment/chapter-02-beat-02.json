@@ -1,0 +1,149 @@
+{
+  "key": "6286fa1d6d96d8d54976f2721c7f1be2db8398ba9c0dcadcdf9745c8f3528b2c",
+  "text": "Chỉ sau vài phút, mọi thứ đều trở nên rõ ràng. Bạn hiểu các công thức, hiểu logic đằng sau chúng và biết chính xác cách áp dụng.",
+  "sampleRate": 22050,
+  "seconds": 6.257777777777778,
+  "words": [
+    {
+      "word": "chỉ",
+      "fromSample": 512,
+      "toSample": 3840
+    },
+    {
+      "word": "sau",
+      "fromSample": 4608,
+      "toSample": 8704
+    },
+    {
+      "word": "vài",
+      "fromSample": 9216,
+      "toSample": 12800
+    },
+    {
+      "word": "phút",
+      "fromSample": 14080,
+      "toSample": 18432
+    },
+    {
+      "word": "mọi",
+      "fromSample": 20992,
+      "toSample": 26368
+    },
+    {
+      "word": "thứ",
+      "fromSample": 27648,
+      "toSample": 30720
+    },
+    {
+      "word": "đều",
+      "fromSample": 31488,
+      "toSample": 35584
+    },
+    {
+      "word": "trở",
+      "fromSample": 36096,
+      "toSample": 40192
+    },
+    {
+      "word": "nên",
+      "fromSample": 40960,
+      "toSample": 44288
+    },
+    {
+      "word": "rõ",
+      "fromSample": 45568,
+      "toSample": 48896
+    },
+    {
+      "word": "ràng",
+      "fromSample": 49920,
+      "toSample": 54784
+    },
+    {
+      "word": "bạn",
+      "fromSample": 56832,
+      "toSample": 60672
+    },
+    {
+      "word": "hiểu",
+      "fromSample": 61440,
+      "toSample": 65280
+    },
+    {
+      "word": "các",
+      "fromSample": 66048,
+      "toSample": 69376
+    },
+    {
+      "word": "công",
+      "fromSample": 69888,
+      "toSample": 73472
+    },
+    {
+      "word": "thức",
+      "fromSample": 74240,
+      "toSample": 79104
+    },
+    {
+      "word": "hiểu",
+      "fromSample": 80896,
+      "toSample": 84736
+    },
+    {
+      "word": "logic",
+      "fromSample": 85248,
+      "toSample": 89856
+    },
+    {
+      "word": "đằng",
+      "fromSample": 90624,
+      "toSample": 94720
+    },
+    {
+      "word": "sau",
+      "fromSample": 96000,
+      "toSample": 99328
+    },
+    {
+      "word": "chúng",
+      "fromSample": 100352,
+      "toSample": 105728
+    },
+    {
+      "word": "và",
+      "fromSample": 106752,
+      "toSample": 109824
+    },
+    {
+      "word": "biết",
+      "fromSample": 110336,
+      "toSample": 113920
+    },
+    {
+      "word": "chính",
+      "fromSample": 114688,
+      "toSample": 118784
+    },
+    {
+      "word": "xác",
+      "fromSample": 120064,
+      "toSample": 124672
+    },
+    {
+      "word": "cách",
+      "fromSample": 125184,
+      "toSample": 129280
+    },
+    {
+      "word": "áp",
+      "fromSample": 129792,
+      "toSample": 133376
+    },
+    {
+      "word": "dụng",
+      "fromSample": 134144,
+      "toSample": 137216
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

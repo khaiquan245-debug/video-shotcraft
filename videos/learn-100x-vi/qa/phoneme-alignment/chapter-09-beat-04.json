@@ -1,0 +1,79 @@
+{
+  "key": "69a907e08eb9a991e815d7256de7594801033f7dd79bf8baa1bc47c32b1a5db0",
+  "text": "Và có thể đóng góp vào những khám phá làm thay đổi thế giới.",
+  "sampleRate": 22050,
+  "seconds": 2.9837641723356008,
+  "words": [
+    {
+      "word": "và",
+      "fromSample": 768,
+      "toSample": 4096
+    },
+    {
+      "word": "có",
+      "fromSample": 4608,
+      "toSample": 7168
+    },
+    {
+      "word": "thể",
+      "fromSample": 7680,
+      "toSample": 11776
+    },
+    {
+      "word": "đóng",
+      "fromSample": 12544,
+      "toSample": 16640
+    },
+    {
+      "word": "góp",
+      "fromSample": 17664,
+      "toSample": 21504
+    },
+    {
+      "word": "vào",
+      "fromSample": 22016,
+      "toSample": 26112
+    },
+    {
+      "word": "những",
+      "fromSample": 26880,
+      "toSample": 29952
+    },
+    {
+      "word": "khám",
+      "fromSample": 30976,
+      "toSample": 34816
+    },
+    {
+      "word": "phá",
+      "fromSample": 36096,
+      "toSample": 40192
+    },
+    {
+      "word": "làm",
+      "fromSample": 41472,
+      "toSample": 45824
+    },
+    {
+      "word": "thay",
+      "fromSample": 46336,
+      "toSample": 49408
+    },
+    {
+      "word": "đổi",
+      "fromSample": 50176,
+      "toSample": 54272
+    },
+    {
+      "word": "thế",
+      "fromSample": 54784,
+      "toSample": 57600
+    },
+    {
+      "word": "giới",
+      "fromSample": 58368,
+      "toSample": 64256
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

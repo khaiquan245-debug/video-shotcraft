@@ -1,0 +1,79 @@
+{
+  "key": "b6a3a74e817899ac06585c3b0c3c2d64f5405e763253f921c7e359913f9722c6",
+  "text": "Nhưng hãy quên chuyện đạt điểm tuyệt đối đi. Câu hỏi thực sự là,",
+  "sampleRate": 22050,
+  "seconds": 3.4017233560090703,
+  "words": [
+    {
+      "word": "nhưng",
+      "fromSample": 512,
+      "toSample": 4096
+    },
+    {
+      "word": "hãy",
+      "fromSample": 4608,
+      "toSample": 8448
+    },
+    {
+      "word": "quên",
+      "fromSample": 9216,
+      "toSample": 12032
+    },
+    {
+      "word": "chuyện",
+      "fromSample": 12544,
+      "toSample": 17408
+    },
+    {
+      "word": "đạt",
+      "fromSample": 18176,
+      "toSample": 22016
+    },
+    {
+      "word": "điểm",
+      "fromSample": 22528,
+      "toSample": 26880
+    },
+    {
+      "word": "tuyệt",
+      "fromSample": 27392,
+      "toSample": 32256
+    },
+    {
+      "word": "đối",
+      "fromSample": 32768,
+      "toSample": 36096
+    },
+    {
+      "word": "đi",
+      "fromSample": 36864,
+      "toSample": 39680
+    },
+    {
+      "word": "câu",
+      "fromSample": 49664,
+      "toSample": 53248
+    },
+    {
+      "word": "hỏi",
+      "fromSample": 53760,
+      "toSample": 58624
+    },
+    {
+      "word": "thực",
+      "fromSample": 59648,
+      "toSample": 63232
+    },
+    {
+      "word": "sự",
+      "fromSample": 64000,
+      "toSample": 67328
+    },
+    {
+      "word": "là",
+      "fromSample": 67840,
+      "toSample": 72960
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

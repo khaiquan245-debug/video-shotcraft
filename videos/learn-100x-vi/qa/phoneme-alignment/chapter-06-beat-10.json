@@ -1,0 +1,54 @@
+{
+  "key": "e4136d15fa8a01263b8feffbc3ada5cc5a4b3deb00dd48fd86b860693e5f7135",
+  "text": "Và có lẽ cả các cơ quan chính phủ.",
+  "sampleRate": 22050,
+  "seconds": 1.9388662131519274,
+  "words": [
+    {
+      "word": "và",
+      "fromSample": 768,
+      "toSample": 3840
+    },
+    {
+      "word": "có",
+      "fromSample": 4608,
+      "toSample": 7168
+    },
+    {
+      "word": "lẽ",
+      "fromSample": 7936,
+      "toSample": 10752
+    },
+    {
+      "word": "cả",
+      "fromSample": 11776,
+      "toSample": 15616
+    },
+    {
+      "word": "các",
+      "fromSample": 16384,
+      "toSample": 20736
+    },
+    {
+      "word": "cơ",
+      "fromSample": 21248,
+      "toSample": 25856
+    },
+    {
+      "word": "quan",
+      "fromSample": 27136,
+      "toSample": 30976
+    },
+    {
+      "word": "chính",
+      "fromSample": 31488,
+      "toSample": 35840
+    },
+    {
+      "word": "phủ",
+      "fromSample": 36864,
+      "toSample": 41472
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

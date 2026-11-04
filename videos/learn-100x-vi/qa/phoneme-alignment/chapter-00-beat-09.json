@@ -1,0 +1,79 @@
+{
+  "key": "8abc7e46eacb9efe38711edd92cdb661e6da1305c5d7cc5bf8efd77965b41cda",
+  "text": "bạn có thể kiếm được bao nhiêu tiền với một bộ não như thế?",
+  "sampleRate": 22050,
+  "seconds": 2.8212244897959184,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 1280,
+      "toSample": 5120
+    },
+    {
+      "word": "có",
+      "fromSample": 5632,
+      "toSample": 7680
+    },
+    {
+      "word": "thể",
+      "fromSample": 8448,
+      "toSample": 12288
+    },
+    {
+      "word": "kiếm",
+      "fromSample": 13568,
+      "toSample": 17664
+    },
+    {
+      "word": "được",
+      "fromSample": 18176,
+      "toSample": 21760
+    },
+    {
+      "word": "bao",
+      "fromSample": 22528,
+      "toSample": 25856
+    },
+    {
+      "word": "nhiêu",
+      "fromSample": 26368,
+      "toSample": 29440
+    },
+    {
+      "word": "tiền",
+      "fromSample": 30464,
+      "toSample": 35072
+    },
+    {
+      "word": "với",
+      "fromSample": 35840,
+      "toSample": 38912
+    },
+    {
+      "word": "một",
+      "fromSample": 39424,
+      "toSample": 42752
+    },
+    {
+      "word": "bộ",
+      "fromSample": 43520,
+      "toSample": 46336
+    },
+    {
+      "word": "não",
+      "fromSample": 47360,
+      "toSample": 51456
+    },
+    {
+      "word": "như",
+      "fromSample": 52224,
+      "toSample": 54272
+    },
+    {
+      "word": "thế",
+      "fromSample": 55040,
+      "toSample": 60928
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

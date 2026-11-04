@@ -1,0 +1,12 @@
+[
+  {
+    "route": "/",
+    "status": 200,
+    "expectedContent": true
+  },
+  {
+    "route": "/proj/workbench.ts",
+    "status": 200,
+    "expectedContent": true
+  }
+]

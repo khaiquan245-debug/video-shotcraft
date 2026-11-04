@@ -1,0 +1,79 @@
+{
+  "key": "a8fd4a587e51f3bfbe5a8c45a63f4a7dbdc53e8cbbc8b1f5e753cd3f9b1a8c48",
+  "text": "Bạn hiểu công nghệ. Kinh tế học. Và cách các doanh nghiệp vận hành.",
+  "sampleRate": 22050,
+  "seconds": 2.6354648526077096,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 768,
+      "toSample": 5120
+    },
+    {
+      "word": "hiểu",
+      "fromSample": 6144,
+      "toSample": 9728
+    },
+    {
+      "word": "công",
+      "fromSample": 10752,
+      "toSample": 13568
+    },
+    {
+      "word": "nghệ",
+      "fromSample": 14080,
+      "toSample": 17408
+    },
+    {
+      "word": "kinh",
+      "fromSample": 20480,
+      "toSample": 23040
+    },
+    {
+      "word": "tế",
+      "fromSample": 23552,
+      "toSample": 26112
+    },
+    {
+      "word": "học",
+      "fromSample": 26624,
+      "toSample": 29184
+    },
+    {
+      "word": "và",
+      "fromSample": 30464,
+      "toSample": 33024
+    },
+    {
+      "word": "cách",
+      "fromSample": 33792,
+      "toSample": 36864
+    },
+    {
+      "word": "các",
+      "fromSample": 37376,
+      "toSample": 40448
+    },
+    {
+      "word": "doanh",
+      "fromSample": 40960,
+      "toSample": 44288
+    },
+    {
+      "word": "nghiệp",
+      "fromSample": 44800,
+      "toSample": 48640
+    },
+    {
+      "word": "vận",
+      "fromSample": 49152,
+      "toSample": 52224
+    },
+    {
+      "word": "hành",
+      "fromSample": 52992,
+      "toSample": 57344
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,39 @@
+{
+  "key": "ade9ca0b856f3ae28198e6fab97686622a7553405514315261514c9494dbc26b",
+  "text": "Khách hàng cần được thuyết phục.",
+  "sampleRate": 22050,
+  "seconds": 1.207437641723356,
+  "words": [
+    {
+      "word": "khách",
+      "fromSample": 512,
+      "toSample": 4352
+    },
+    {
+      "word": "hàng",
+      "fromSample": 4864,
+      "toSample": 9472
+    },
+    {
+      "word": "cần",
+      "fromSample": 10240,
+      "toSample": 13312
+    },
+    {
+      "word": "được",
+      "fromSample": 13824,
+      "toSample": 17152
+    },
+    {
+      "word": "thuyết",
+      "fromSample": 17664,
+      "toSample": 21760
+    },
+    {
+      "word": "phục",
+      "fromSample": 22272,
+      "toSample": 25856
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

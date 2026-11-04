@@ -1,0 +1,54 @@
+{
+  "key": "f3fee4478beadfac691c305b2a24ec0ca6f3acddcbfff004ccadc18649784ee1",
+  "text": "điều đầu tiên bạn muốn học sẽ là gì?",
+  "sampleRate": 22050,
+  "seconds": 1.9736961451247166,
+  "words": [
+    {
+      "word": "điều",
+      "fromSample": 512,
+      "toSample": 4608
+    },
+    {
+      "word": "đầu",
+      "fromSample": 5120,
+      "toSample": 9216
+    },
+    {
+      "word": "tiên",
+      "fromSample": 9984,
+      "toSample": 15104
+    },
+    {
+      "word": "bạn",
+      "fromSample": 15872,
+      "toSample": 19456
+    },
+    {
+      "word": "muốn",
+      "fromSample": 20480,
+      "toSample": 25088
+    },
+    {
+      "word": "học",
+      "fromSample": 25600,
+      "toSample": 28928
+    },
+    {
+      "word": "sẽ",
+      "fromSample": 29696,
+      "toSample": 33024
+    },
+    {
+      "word": "là",
+      "fromSample": 33792,
+      "toSample": 37376
+    },
+    {
+      "word": "gì",
+      "fromSample": 38400,
+      "toSample": 42496
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

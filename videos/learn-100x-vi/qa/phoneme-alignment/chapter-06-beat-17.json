@@ -1,0 +1,74 @@
+{
+  "key": "3ab581a31f316c59aa38e36d1f6d0ba2db40328b058084db7a0ae91ce8f852cd",
+  "text": "Còn khả năng phi thường của bạn? Nó bỗng trở nên bình thường.",
+  "sampleRate": 22050,
+  "seconds": 2.6006349206349206,
+  "words": [
+    {
+      "word": "còn",
+      "fromSample": 512,
+      "toSample": 3584
+    },
+    {
+      "word": "khả",
+      "fromSample": 4608,
+      "toSample": 8192
+    },
+    {
+      "word": "năng",
+      "fromSample": 8960,
+      "toSample": 11520
+    },
+    {
+      "word": "phi",
+      "fromSample": 12032,
+      "toSample": 14592
+    },
+    {
+      "word": "thường",
+      "fromSample": 15616,
+      "toSample": 20736
+    },
+    {
+      "word": "của",
+      "fromSample": 21504,
+      "toSample": 24320
+    },
+    {
+      "word": "bạn",
+      "fromSample": 24832,
+      "toSample": 28160
+    },
+    {
+      "word": "nó",
+      "fromSample": 29696,
+      "toSample": 32768
+    },
+    {
+      "word": "bỗng",
+      "fromSample": 33536,
+      "toSample": 37376
+    },
+    {
+      "word": "trở",
+      "fromSample": 38144,
+      "toSample": 43008
+    },
+    {
+      "word": "nên",
+      "fromSample": 43776,
+      "toSample": 47360
+    },
+    {
+      "word": "bình",
+      "fromSample": 47872,
+      "toSample": 51456
+    },
+    {
+      "word": "thường",
+      "fromSample": 51968,
+      "toSample": 56576
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

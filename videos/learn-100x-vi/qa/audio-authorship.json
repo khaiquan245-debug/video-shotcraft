@@ -1,0 +1,531 @@
+{
+  "provenance": "Original procedural music and sound design for this production; no third-party samples. Foley effects are synthesis, not field recordings.",
+  "externalSearch": "Freesound keyboard search failed: proxy Tunnel403Forbidden. No alternate third-party recordings used.",
+  "sampleRate": 48000,
+  "scoreMoods": [
+    "curiosity",
+    "precise rules",
+    "playful learning",
+    "business rhythm",
+    "adventure",
+    "ambition",
+    "tension",
+    "hope",
+    "intimate piano",
+    "reflective piano and pads"
+  ],
+  "speechDucking": "35-frame100Hz envelope; music attenuated under speech",
+  "files": [
+    {
+      "kind": "alarm",
+      "path": "public/audio/sfx/original-alarm.wav",
+      "sha256": "3e98532e319c0b63af16502a5cd541c02957e621596661fcb2e06cf2ad61a4f5",
+      "peakLagSeconds": 0.01
+    },
+    {
+      "kind": "tick",
+      "path": "public/audio/sfx/original-tick.wav",
+      "sha256": "3a462f0b15a8c538cafdc4ec49cfcd2c8d9d8b6fe4520e4ddb2598c919c490c5",
+      "peakLagSeconds": 0.0
+    },
+    {
+      "kind": "activation",
+      "path": "public/audio/sfx/original-activation.wav",
+      "sha256": "45a087f1056266864ee97b8e18c07705d6db2defdbf79dd497501ca5dbd1f8c8",
+      "peakLagSeconds": 0.2
+    },
+    {
+      "kind": "notification",
+      "path": "public/audio/sfx/original-notification.wav",
+      "sha256": "362817f27a81a43de683a9ef891e5371f72108547488904cad65d13c6ca9038e",
+      "peakLagSeconds": 0.01
+    },
+    {
+      "kind": "pencil",
+      "path": "public/audio/sfx/original-pencil.wav",
+      "sha256": "aaa93035966ffd0cd0dbb5cf56024b893e6444f74094d6b2fc236a32dfb2250c",
+      "peakLagSeconds": 0.2
+    },
+    {
+      "kind": "paper",
+      "path": "public/audio/sfx/original-paper.wav",
+      "sha256": "fa761582adb326f57aa3f57b9576add3b2f21aa163c4fa4dc40a90602f1518f2",
+      "peakLagSeconds": 0.38
+    },
+    {
+      "kind": "typing",
+      "path": "public/audio/sfx/original-typing.wav",
+      "sha256": "dd6ae85ae924be7ac4ac0bb682fb80453d53d643ab4036a158aa9b4a9528bf02",
+      "peakLagSeconds": 0.05
+    },
+    {
+      "kind": "click",
+      "path": "public/audio/sfx/original-click.wav",
+      "sha256": "a64be210d6bb579d42c5a46e3db366ad974d9f53cb9bd678dbd5805504a10276",
+      "peakLagSeconds": 0.0
+    },
+    {
+      "kind": "impact",
+      "path": "public/audio/sfx/original-impact.wav",
+      "sha256": "be2e9009a092c7ccf4b047ac2fb67af1397db97204c7c7c04088c3b8e28c1db1",
+      "peakLagSeconds": 0.0
+    },
+    {
+      "kind": "pianoWrong",
+      "path": "public/audio/sfx/original-pianoWrong.wav",
+      "sha256": "7fe5a616f608ac600502e8ca42695fa603e65baccdad4ed0e0e446b8cc6a8238",
+      "peakLagSeconds": 0.06
+    },
+    {
+      "kind": "kick",
+      "path": "public/audio/sfx/original-kick.wav",
+      "sha256": "08e704ae7363ddec41b1c67d27b119559a139fc1754ab1f37f53caa1b628390e",
+      "peakLagSeconds": 0.0
+    },
+    {
+      "kind": "vibrate",
+      "path": "public/audio/sfx/original-vibrate.wav",
+      "sha256": "b1af75480e4aa11a45a2630a6b9f5d2e18df801e26c2b8f54de25b57e03344c0",
+      "peakLagSeconds": 0.01
+    },
+    {
+      "kind": "news",
+      "path": "public/audio/sfx/original-news.wav",
+      "sha256": "bd417343552adcbc1dba3f9d27b62862c48bb7ebc4198f93da41e139957c2685",
+      "peakLagSeconds": 0.78
+    },
+    {
+      "kind": "shutter",
+      "path": "public/audio/sfx/original-shutter.wav",
+      "sha256": "7da77b24f40ece01f9bae5d00a17e29b3a557841f2a918cc656bfe541871da8b",
+      "peakLagSeconds": 0.0
+    },
+    {
+      "kind": "lab",
+      "path": "public/audio/sfx/original-lab.wav",
+      "sha256": "7fe5241d15fa458aca5a51c5a9016deb889b433a4d4e368c9d5dc6e5dfbf30bc",
+      "peakLagSeconds": 0.54
+    },
+    {
+      "kind": "house",
+      "path": "public/audio/sfx/original-house.wav",
+      "sha256": "9d326345bc105e0c253e0b9a0d6890d0caef5d7f5d4363bec40c2a9c8baab697",
+      "peakLagSeconds": 0.0
+    },
+    {
+      "kind": "clink",
+      "path": "public/audio/sfx/original-clink.wav",
+      "sha256": "e1258278c029e9527852000f3101eff5ee9bbff3431cddb920a51691dc721ff8",
+      "peakLagSeconds": 0.0
+    }
+  ],
+  "cues": [
+    {
+      "chapter": 1,
+      "tag": "alarm",
+      "source": "audio/sfx/original-alarm.wav",
+      "actionPeakFrame": 38,
+      "sourcePeakLagSeconds": 0.01,
+      "fromSeconds": 1.2566666666666666,
+      "duration": 0.4,
+      "gain": 0.1,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 1,
+      "tag": "alarm",
+      "source": "audio/sfx/original-tick.wav",
+      "actionPeakFrame": 0,
+      "sourcePeakLagSeconds": 0.0,
+      "fromSeconds": 0,
+      "duration": 0.4,
+      "gain": 0.06,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 1,
+      "tag": "alarm",
+      "source": "audio/sfx/original-tick.wav",
+      "actionPeakFrame": 30,
+      "sourcePeakLagSeconds": 0.0,
+      "fromSeconds": 1.0,
+      "duration": 0.4,
+      "gain": 0.06,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 1,
+      "tag": "alarm",
+      "source": "audio/sfx/original-tick.wav",
+      "actionPeakFrame": 60,
+      "sourcePeakLagSeconds": 0.0,
+      "fromSeconds": 2.0,
+      "duration": 0.4,
+      "gain": 0.06,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 1,
+      "tag": "alarm",
+      "source": "audio/sfx/original-tick.wav",
+      "actionPeakFrame": 90,
+      "sourcePeakLagSeconds": 0.0,
+      "fromSeconds": 3.0,
+      "duration": 0.4,
+      "gain": 0.06,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 1,
+      "tag": "brain",
+      "source": "audio/sfx/original-activation.wav",
+      "actionPeakFrame": 153,
+      "sourcePeakLagSeconds": 0.2,
+      "fromSeconds": 4.8999999999999995,
+      "duration": 0.4,
+      "gain": 0.06,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 2,
+      "tag": "learn",
+      "source": "audio/sfx/original-notification.wav",
+      "actionPeakFrame": 1049,
+      "sourcePeakLagSeconds": 0.01,
+      "fromSeconds": 34.95666666666667,
+      "duration": 0.4,
+      "gain": 0.045,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 2,
+      "tag": "body",
+      "source": "audio/sfx/original-notification.wav",
+      "actionPeakFrame": 1130,
+      "sourcePeakLagSeconds": 0.01,
+      "fromSeconds": 37.656666666666666,
+      "duration": 0.4,
+      "gain": 0.045,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 2,
+      "tag": "day",
+      "source": "audio/sfx/original-notification.wav",
+      "actionPeakFrame": 1198,
+      "sourcePeakLagSeconds": 0.01,
+      "fromSeconds": 39.92333333333333,
+      "duration": 0.4,
+      "gain": 0.045,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 2,
+      "tag": "unknown",
+      "source": "audio/sfx/original-notification.wav",
+      "actionPeakFrame": 1256,
+      "sourcePeakLagSeconds": 0.01,
+      "fromSeconds": 41.85666666666667,
+      "duration": 0.4,
+      "gain": 0.045,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 3,
+      "tag": "equation",
+      "source": "audio/sfx/original-pencil.wav",
+      "actionPeakFrame": 1699,
+      "sourcePeakLagSeconds": 0.2,
+      "fromSeconds": 56.43333333333333,
+      "duration": 1.1,
+      "gain": 0.07,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 3,
+      "tag": "nextChapter",
+      "source": "audio/sfx/original-paper.wav",
+      "actionPeakFrame": 2065,
+      "sourcePeakLagSeconds": 0.38,
+      "fromSeconds": 68.45333333333333,
+      "duration": 0.65,
+      "gain": 0.07,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 3,
+      "tag": "week",
+      "source": "audio/sfx/original-paper.wav",
+      "actionPeakFrame": 2559,
+      "sourcePeakLagSeconds": 0.38,
+      "fromSeconds": 84.92,
+      "duration": 0.65,
+      "gain": 0.07,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 4,
+      "tag": "programming",
+      "source": "audio/sfx/original-typing.wav",
+      "actionPeakFrame": 3288,
+      "sourcePeakLagSeconds": 0.05,
+      "fromSeconds": 109.55,
+      "duration": 1.8,
+      "gain": 0.075,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 4,
+      "tag": "web",
+      "source": "audio/sfx/original-typing.wav",
+      "actionPeakFrame": 3488,
+      "sourcePeakLagSeconds": 0.05,
+      "fromSeconds": 116.21666666666667,
+      "duration": 1.8,
+      "gain": 0.075,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 4,
+      "tag": "apps",
+      "source": "audio/sfx/original-typing.wav",
+      "actionPeakFrame": 3534,
+      "sourcePeakLagSeconds": 0.05,
+      "fromSeconds": 117.75,
+      "duration": 1.8,
+      "gain": 0.075,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 4,
+      "tag": "launch",
+      "source": "audio/sfx/original-click.wav",
+      "actionPeakFrame": 4250,
+      "sourcePeakLagSeconds": 0.0,
+      "fromSeconds": 141.66666666666666,
+      "duration": 0.4,
+      "gain": 0.08,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 4,
+      "tag": "orders",
+      "source": "audio/sfx/original-notification.wav",
+      "actionPeakFrame": 4839,
+      "sourcePeakLagSeconds": 0.01,
+      "fromSeconds": 161.29000000000002,
+      "duration": 0.4,
+      "gain": 0.085,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 4,
+      "tag": "orders",
+      "source": "audio/sfx/original-notification.wav",
+      "actionPeakFrame": 4884,
+      "sourcePeakLagSeconds": 0.01,
+      "fromSeconds": 162.79000000000002,
+      "duration": 0.4,
+      "gain": 0.085,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 4,
+      "tag": "orders",
+      "source": "audio/sfx/original-notification.wav",
+      "actionPeakFrame": 4929,
+      "sourcePeakLagSeconds": 0.01,
+      "fromSeconds": 164.29000000000002,
+      "duration": 0.4,
+      "gain": 0.085,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 4,
+      "tag": "uncertainty",
+      "source": "audio/sfx/original-impact.wav",
+      "actionPeakFrame": 5452,
+      "sourcePeakLagSeconds": 0.0,
+      "fromSeconds": 181.73333333333332,
+      "duration": 0.4,
+      "gain": 0.07,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 5,
+      "tag": "worldResearch",
+      "source": "audio/sfx/original-paper.wav",
+      "actionPeakFrame": 6401,
+      "sourcePeakLagSeconds": 0.38,
+      "fromSeconds": 212.98666666666668,
+      "duration": 0.65,
+      "gain": 0.07,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 5,
+      "tag": "pianoMistake",
+      "source": "audio/sfx/original-pianoWrong.wav",
+      "actionPeakFrame": 6865,
+      "sourcePeakLagSeconds": 0.06,
+      "fromSeconds": 228.77333333333334,
+      "duration": 0.9,
+      "gain": 0.1,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 5,
+      "tag": "miss",
+      "source": "audio/sfx/original-kick.wav",
+      "actionPeakFrame": 6969,
+      "sourcePeakLagSeconds": 0.0,
+      "fromSeconds": 232.3,
+      "duration": 0.4,
+      "gain": 0.1,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 6,
+      "tag": "design",
+      "source": "audio/sfx/original-pencil.wav",
+      "actionPeakFrame": 8014,
+      "sourcePeakLagSeconds": 0.2,
+      "fromSeconds": 266.93333333333334,
+      "duration": 1.1,
+      "gain": 0.07,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 6,
+      "tag": "software",
+      "source": "audio/sfx/original-typing.wav",
+      "actionPeakFrame": 8054,
+      "sourcePeakLagSeconds": 0.05,
+      "fromSeconds": 268.41666666666663,
+      "duration": 1.8,
+      "gain": 0.07,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 7,
+      "tag": "viral",
+      "source": "audio/sfx/original-vibrate.wav",
+      "actionPeakFrame": 9476,
+      "sourcePeakLagSeconds": 0.01,
+      "fromSeconds": 315.8566666666667,
+      "duration": 0.9,
+      "gain": 0.07,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 7,
+      "tag": "viral",
+      "source": "audio/sfx/original-notification.wav",
+      "actionPeakFrame": 9522,
+      "sourcePeakLagSeconds": 0.01,
+      "fromSeconds": 317.39,
+      "duration": 0.4,
+      "gain": 0.06,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 7,
+      "tag": "attention",
+      "source": "audio/sfx/original-news.wav",
+      "actionPeakFrame": 9966,
+      "sourcePeakLagSeconds": 0.78,
+      "fromSeconds": 331.42,
+      "duration": 1.6,
+      "gain": 0.04,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 7,
+      "tag": "privacy",
+      "source": "audio/sfx/original-shutter.wav",
+      "actionPeakFrame": 10197,
+      "sourcePeakLagSeconds": 0.0,
+      "fromSeconds": 339.9,
+      "duration": 0.4,
+      "gain": 0.075,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 7,
+      "tag": "privacy",
+      "source": "audio/sfx/original-shutter.wav",
+      "actionPeakFrame": 10257,
+      "sourcePeakLagSeconds": 0.0,
+      "fromSeconds": 341.9,
+      "duration": 0.4,
+      "gain": 0.075,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 8,
+      "tag": "biology",
+      "source": "audio/sfx/original-lab.wav",
+      "actionPeakFrame": 11761,
+      "sourcePeakLagSeconds": 0.54,
+      "fromSeconds": 391.49333333333334,
+      "duration": 1.3,
+      "gain": 0.045,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 8,
+      "tag": "prototype",
+      "source": "audio/sfx/original-lab.wav",
+      "actionPeakFrame": 12119,
+      "sourcePeakLagSeconds": 0.54,
+      "fromSeconds": 403.4266666666666,
+      "duration": 1.3,
+      "gain": 0.045,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 9,
+      "tag": "dinner",
+      "source": "audio/sfx/original-house.wav",
+      "actionPeakFrame": 12979,
+      "sourcePeakLagSeconds": 0.0,
+      "fromSeconds": 432.6333333333333,
+      "duration": 1.4,
+      "gain": 0.045,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 9,
+      "tag": "parents",
+      "source": "audio/sfx/original-clink.wav",
+      "actionPeakFrame": 13058,
+      "sourcePeakLagSeconds": 0.0,
+      "fromSeconds": 435.26666666666665,
+      "duration": 0.4,
+      "gain": 0.045,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 9,
+      "tag": "brother",
+      "source": "audio/sfx/original-clink.wav",
+      "actionPeakFrame": 13098,
+      "sourcePeakLagSeconds": 0.0,
+      "fromSeconds": 436.6,
+      "duration": 0.4,
+      "gain": 0.045,
+      "originalSynthesis": true
+    },
+    {
+      "chapter": 9,
+      "tag": "frustration",
+      "source": "audio/sfx/original-pencil.wav",
+      "actionPeakFrame": 13600,
+      "sourcePeakLagSeconds": 0.2,
+      "fromSeconds": 453.1333333333333,
+      "duration": 1.1,
+      "gain": 0.07,
+      "originalSynthesis": true
+    }
+  ]
+}

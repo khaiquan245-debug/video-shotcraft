@@ -1,0 +1,94 @@
+{
+  "key": "368f015cb60581193892956571e6e8d522b43135642dfb8a826e8bcbf9d954b9",
+  "text": "Chỉ một tấm bằng đại học có lẽ sẽ không còn đủ để một người nổi bật.",
+  "sampleRate": 22050,
+  "seconds": 3.355283446712018,
+  "words": [
+    {
+      "word": "chỉ",
+      "fromSample": 512,
+      "toSample": 3584
+    },
+    {
+      "word": "một",
+      "fromSample": 4096,
+      "toSample": 7680
+    },
+    {
+      "word": "tấm",
+      "fromSample": 8192,
+      "toSample": 12288
+    },
+    {
+      "word": "bằng",
+      "fromSample": 13312,
+      "toSample": 16384
+    },
+    {
+      "word": "đại",
+      "fromSample": 16896,
+      "toSample": 20224
+    },
+    {
+      "word": "học",
+      "fromSample": 20992,
+      "toSample": 25088
+    },
+    {
+      "word": "có",
+      "fromSample": 25600,
+      "toSample": 28160
+    },
+    {
+      "word": "lẽ",
+      "fromSample": 29440,
+      "toSample": 33792
+    },
+    {
+      "word": "sẽ",
+      "fromSample": 34816,
+      "toSample": 38400
+    },
+    {
+      "word": "không",
+      "fromSample": 39168,
+      "toSample": 42752
+    },
+    {
+      "word": "còn",
+      "fromSample": 43776,
+      "toSample": 47872
+    },
+    {
+      "word": "đủ",
+      "fromSample": 48384,
+      "toSample": 52992
+    },
+    {
+      "word": "để",
+      "fromSample": 54272,
+      "toSample": 56832
+    },
+    {
+      "word": "một",
+      "fromSample": 57600,
+      "toSample": 61184
+    },
+    {
+      "word": "người",
+      "fromSample": 61696,
+      "toSample": 66048
+    },
+    {
+      "word": "nổi",
+      "fromSample": 66560,
+      "toSample": 69632
+    },
+    {
+      "word": "bật",
+      "fromSample": 70144,
+      "toSample": 73216
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

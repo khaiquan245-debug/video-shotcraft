@@ -1,0 +1,139 @@
+{
+  "key": "06d6d8c099a377f6836386c658612864ae78920fcca9b5cf47ac07dca2341f86",
+  "text": "Tất nhiên, biết toàn bộ kiến thức của một chương trình đại học không có nghĩa là nhà trường sẽ lập tức trao bằng cho bạn.",
+  "sampleRate": 22050,
+  "seconds": 5.061950113378685,
+  "words": [
+    {
+      "word": "tất",
+      "fromSample": 512,
+      "toSample": 4096
+    },
+    {
+      "word": "nhiên",
+      "fromSample": 4608,
+      "toSample": 8448
+    },
+    {
+      "word": "biết",
+      "fromSample": 10496,
+      "toSample": 14336
+    },
+    {
+      "word": "toàn",
+      "fromSample": 14848,
+      "toSample": 19456
+    },
+    {
+      "word": "bộ",
+      "fromSample": 20224,
+      "toSample": 23552
+    },
+    {
+      "word": "kiến",
+      "fromSample": 24832,
+      "toSample": 29184
+    },
+    {
+      "word": "thức",
+      "fromSample": 29696,
+      "toSample": 32512
+    },
+    {
+      "word": "của",
+      "fromSample": 33024,
+      "toSample": 35584
+    },
+    {
+      "word": "một",
+      "fromSample": 36352,
+      "toSample": 39680
+    },
+    {
+      "word": "chương",
+      "fromSample": 40192,
+      "toSample": 43776
+    },
+    {
+      "word": "trình",
+      "fromSample": 44544,
+      "toSample": 48896
+    },
+    {
+      "word": "đại",
+      "fromSample": 49664,
+      "toSample": 53248
+    },
+    {
+      "word": "học",
+      "fromSample": 53760,
+      "toSample": 57856
+    },
+    {
+      "word": "không",
+      "fromSample": 58624,
+      "toSample": 61696
+    },
+    {
+      "word": "có",
+      "fromSample": 62208,
+      "toSample": 65792
+    },
+    {
+      "word": "nghĩa",
+      "fromSample": 66304,
+      "toSample": 69888
+    },
+    {
+      "word": "là",
+      "fromSample": 70400,
+      "toSample": 73728
+    },
+    {
+      "word": "nhà",
+      "fromSample": 74752,
+      "toSample": 78080
+    },
+    {
+      "word": "trường",
+      "fromSample": 78848,
+      "toSample": 84224
+    },
+    {
+      "word": "sẽ",
+      "fromSample": 84992,
+      "toSample": 87552
+    },
+    {
+      "word": "lập",
+      "fromSample": 88832,
+      "toSample": 91904
+    },
+    {
+      "word": "tức",
+      "fromSample": 92416,
+      "toSample": 96256
+    },
+    {
+      "word": "trao",
+      "fromSample": 97280,
+      "toSample": 101120
+    },
+    {
+      "word": "bằng",
+      "fromSample": 101888,
+      "toSample": 104704
+    },
+    {
+      "word": "cho",
+      "fromSample": 105216,
+      "toSample": 107264
+    },
+    {
+      "word": "bạn",
+      "fromSample": 107776,
+      "toSample": 110848
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

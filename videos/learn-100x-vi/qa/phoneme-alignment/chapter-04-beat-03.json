@@ -1,0 +1,19 @@
+{
+  "key": "e1dbdb41d8c80dc6d494a8b7fafaeaec73bebe50e64d7042a290f46b9d499ce7",
+  "text": "Tiếng Nhật.",
+  "sampleRate": 22050,
+  "seconds": 0.3831292517006803,
+  "words": [
+    {
+      "word": "tiếng",
+      "fromSample": 512,
+      "toSample": 4096
+    },
+    {
+      "word": "nhật",
+      "fromSample": 4608,
+      "toSample": 7680
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

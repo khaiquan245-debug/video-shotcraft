@@ -1,0 +1,19 @@
+{
+  "key": "04c2c0b1f4b106f167427857f084b4e6cbab25aebb622278b3c4ff91d1d3f748",
+  "text": "Tiếp thị.",
+  "sampleRate": 22050,
+  "seconds": 0.37151927437641724,
+  "words": [
+    {
+      "word": "tiếp",
+      "fromSample": 512,
+      "toSample": 4096
+    },
+    {
+      "word": "thị",
+      "fromSample": 4608,
+      "toSample": 7168
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

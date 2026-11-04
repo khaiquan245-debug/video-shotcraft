@@ -1,0 +1,159 @@
+{
+  "key": "4eddbc1db4c4c383d9fa1923135fb9e0a9f4de0a2d2a956740f731c6cd409ef5",
+  "text": "Bạn bắt đầu bằng việc học lập trình. Những thứ thường cần hàng trăm giờ học, bạn có thể nắm được chỉ trong một phần rất nhỏ thời gian ấy.",
+  "sampleRate": 22050,
+  "seconds": 6.5712471655328795,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 512,
+      "toSample": 4352
+    },
+    {
+      "word": "bắt",
+      "fromSample": 5120,
+      "toSample": 8448
+    },
+    {
+      "word": "đầu",
+      "fromSample": 8960,
+      "toSample": 12800
+    },
+    {
+      "word": "bằng",
+      "fromSample": 13568,
+      "toSample": 17408
+    },
+    {
+      "word": "việc",
+      "fromSample": 17920,
+      "toSample": 23296
+    },
+    {
+      "word": "học",
+      "fromSample": 24320,
+      "toSample": 27648
+    },
+    {
+      "word": "lập",
+      "fromSample": 28160,
+      "toSample": 31744
+    },
+    {
+      "word": "trình",
+      "fromSample": 32256,
+      "toSample": 36608
+    },
+    {
+      "word": "những",
+      "fromSample": 37888,
+      "toSample": 40704
+    },
+    {
+      "word": "thứ",
+      "fromSample": 41472,
+      "toSample": 44288
+    },
+    {
+      "word": "thường",
+      "fromSample": 44800,
+      "toSample": 50176
+    },
+    {
+      "word": "cần",
+      "fromSample": 51456,
+      "toSample": 55808
+    },
+    {
+      "word": "hàng",
+      "fromSample": 56576,
+      "toSample": 60672
+    },
+    {
+      "word": "trăm",
+      "fromSample": 61184,
+      "toSample": 65280
+    },
+    {
+      "word": "giờ",
+      "fromSample": 66048,
+      "toSample": 69888
+    },
+    {
+      "word": "học",
+      "fromSample": 70656,
+      "toSample": 74752
+    },
+    {
+      "word": "bạn",
+      "fromSample": 78080,
+      "toSample": 82944
+    },
+    {
+      "word": "có",
+      "fromSample": 83712,
+      "toSample": 86016
+    },
+    {
+      "word": "thể",
+      "fromSample": 86784,
+      "toSample": 90624
+    },
+    {
+      "word": "nắm",
+      "fromSample": 91648,
+      "toSample": 95744
+    },
+    {
+      "word": "được",
+      "fromSample": 96768,
+      "toSample": 101120
+    },
+    {
+      "word": "chỉ",
+      "fromSample": 101632,
+      "toSample": 105216
+    },
+    {
+      "word": "trong",
+      "fromSample": 105984,
+      "toSample": 109568
+    },
+    {
+      "word": "một",
+      "fromSample": 110336,
+      "toSample": 113408
+    },
+    {
+      "word": "phần",
+      "fromSample": 113920,
+      "toSample": 118272
+    },
+    {
+      "word": "rất",
+      "fromSample": 118784,
+      "toSample": 121856
+    },
+    {
+      "word": "nhỏ",
+      "fromSample": 122880,
+      "toSample": 127744
+    },
+    {
+      "word": "thời",
+      "fromSample": 129280,
+      "toSample": 134144
+    },
+    {
+      "word": "gian",
+      "fromSample": 134656,
+      "toSample": 138240
+    },
+    {
+      "word": "ấy",
+      "fromSample": 139008,
+      "toSample": 143360
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

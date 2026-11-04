@@ -1,0 +1,69 @@
+{
+  "key": "ef189d1872294d0c59400a7b8351ae0ad31a63aa087cbe253acd8fa9c1cb1023",
+  "text": "bạn vẫn có thể sút bóng trượt hoàn toàn khỏi khung thành.",
+  "sampleRate": 22050,
+  "seconds": 2.705124716553288,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 768,
+      "toSample": 4608
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 5376,
+      "toSample": 8192
+    },
+    {
+      "word": "có",
+      "fromSample": 8960,
+      "toSample": 11264
+    },
+    {
+      "word": "thể",
+      "fromSample": 12032,
+      "toSample": 15872
+    },
+    {
+      "word": "sút",
+      "fromSample": 17664,
+      "toSample": 22528
+    },
+    {
+      "word": "bóng",
+      "fromSample": 23040,
+      "toSample": 27136
+    },
+    {
+      "word": "trượt",
+      "fromSample": 28160,
+      "toSample": 33024
+    },
+    {
+      "word": "hoàn",
+      "fromSample": 33792,
+      "toSample": 37888
+    },
+    {
+      "word": "toàn",
+      "fromSample": 38656,
+      "toSample": 43520
+    },
+    {
+      "word": "khỏi",
+      "fromSample": 44288,
+      "toSample": 49408
+    },
+    {
+      "word": "khung",
+      "fromSample": 50688,
+      "toSample": 53760
+    },
+    {
+      "word": "thành",
+      "fromSample": 54272,
+      "toSample": 58624
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,39 @@
+{
+  "key": "dc0d377599e3581279819ffa1eeea929daa04253394bbb46a608caeabc30342e",
+  "text": "Phân tích đối thủ cạnh tranh.",
+  "sampleRate": 22050,
+  "seconds": 1.3119274376417234,
+  "words": [
+    {
+      "word": "phân",
+      "fromSample": 512,
+      "toSample": 3584
+    },
+    {
+      "word": "tích",
+      "fromSample": 4096,
+      "toSample": 7936
+    },
+    {
+      "word": "đối",
+      "fromSample": 8448,
+      "toSample": 12544
+    },
+    {
+      "word": "thủ",
+      "fromSample": 13312,
+      "toSample": 16896
+    },
+    {
+      "word": "cạnh",
+      "fromSample": 17664,
+      "toSample": 21248
+    },
+    {
+      "word": "tranh",
+      "fromSample": 21760,
+      "toSample": 26624
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

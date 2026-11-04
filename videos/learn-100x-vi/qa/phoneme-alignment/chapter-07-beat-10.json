@@ -1,0 +1,34 @@
+{
+  "key": "58367c07d32679baf7e336e75f2af65ebb814291d316530458e821f9bbd65377",
+  "text": "Và khoa học vật liệu.",
+  "sampleRate": 22050,
+  "seconds": 0.9636281179138322,
+  "words": [
+    {
+      "word": "và",
+      "fromSample": 768,
+      "toSample": 4096
+    },
+    {
+      "word": "khoa",
+      "fromSample": 4608,
+      "toSample": 7680
+    },
+    {
+      "word": "học",
+      "fromSample": 8448,
+      "toSample": 11520
+    },
+    {
+      "word": "vật",
+      "fromSample": 12032,
+      "toSample": 15872
+    },
+    {
+      "word": "liệu",
+      "fromSample": 16384,
+      "toSample": 20480
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

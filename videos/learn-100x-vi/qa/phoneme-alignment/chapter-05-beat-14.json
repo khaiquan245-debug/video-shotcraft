@@ -1,0 +1,94 @@
+{
+  "key": "ccfcf874436a1a7bdc65435a4967bec8478f65b5fbad95c0ce1b4ca1b3893059",
+  "text": "Và chỉ một quyết định sai lầm vẫn có thể khiến bạn mất cả một gia tài.",
+  "sampleRate": 22050,
+  "seconds": 3.4017233560090703,
+  "words": [
+    {
+      "word": "và",
+      "fromSample": 768,
+      "toSample": 4352
+    },
+    {
+      "word": "chỉ",
+      "fromSample": 4864,
+      "toSample": 8192
+    },
+    {
+      "word": "một",
+      "fromSample": 8960,
+      "toSample": 12032
+    },
+    {
+      "word": "quyết",
+      "fromSample": 12544,
+      "toSample": 16640
+    },
+    {
+      "word": "định",
+      "fromSample": 17152,
+      "toSample": 20736
+    },
+    {
+      "word": "sai",
+      "fromSample": 21504,
+      "toSample": 25344
+    },
+    {
+      "word": "lầm",
+      "fromSample": 26368,
+      "toSample": 30208
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 30976,
+      "toSample": 34816
+    },
+    {
+      "word": "có",
+      "fromSample": 35328,
+      "toSample": 37376
+    },
+    {
+      "word": "thể",
+      "fromSample": 38144,
+      "toSample": 42496
+    },
+    {
+      "word": "khiến",
+      "fromSample": 43520,
+      "toSample": 48128
+    },
+    {
+      "word": "bạn",
+      "fromSample": 48896,
+      "toSample": 52480
+    },
+    {
+      "word": "mất",
+      "fromSample": 53248,
+      "toSample": 57088
+    },
+    {
+      "word": "cả",
+      "fromSample": 57600,
+      "toSample": 61184
+    },
+    {
+      "word": "một",
+      "fromSample": 61952,
+      "toSample": 65280
+    },
+    {
+      "word": "gia",
+      "fromSample": 65792,
+      "toSample": 68608
+    },
+    {
+      "word": "tài",
+      "fromSample": 69376,
+      "toSample": 74240
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

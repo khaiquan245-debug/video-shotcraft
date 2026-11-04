@@ -1,0 +1,94 @@
+{
+  "key": "8f9a8ad56665e09e53f94ada9283ed30dfe36193d4bf81694b454d98707b7017",
+  "text": "Nhưng có một điều mà ngay cả khả năng phi thường ấy cũng không thể thay đổi.",
+  "sampleRate": 22050,
+  "seconds": 3.274013605442177,
+  "words": [
+    {
+      "word": "nhưng",
+      "fromSample": 768,
+      "toSample": 3584
+    },
+    {
+      "word": "có",
+      "fromSample": 4096,
+      "toSample": 6400
+    },
+    {
+      "word": "một",
+      "fromSample": 7168,
+      "toSample": 11008
+    },
+    {
+      "word": "điều",
+      "fromSample": 11520,
+      "toSample": 15616
+    },
+    {
+      "word": "mà",
+      "fromSample": 16384,
+      "toSample": 19456
+    },
+    {
+      "word": "ngay",
+      "fromSample": 20480,
+      "toSample": 23808
+    },
+    {
+      "word": "cả",
+      "fromSample": 24320,
+      "toSample": 28160
+    },
+    {
+      "word": "khả",
+      "fromSample": 29184,
+      "toSample": 32512
+    },
+    {
+      "word": "năng",
+      "fromSample": 33024,
+      "toSample": 35840
+    },
+    {
+      "word": "phi",
+      "fromSample": 36864,
+      "toSample": 38912
+    },
+    {
+      "word": "thường",
+      "fromSample": 39680,
+      "toSample": 44544
+    },
+    {
+      "word": "ấy",
+      "fromSample": 45312,
+      "toSample": 50432
+    },
+    {
+      "word": "cũng",
+      "fromSample": 51712,
+      "toSample": 54272
+    },
+    {
+      "word": "không",
+      "fromSample": 54784,
+      "toSample": 58112
+    },
+    {
+      "word": "thể",
+      "fromSample": 58880,
+      "toSample": 62464
+    },
+    {
+      "word": "thay",
+      "fromSample": 63232,
+      "toSample": 66816
+    },
+    {
+      "word": "đổi",
+      "fromSample": 67328,
+      "toSample": 70912
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

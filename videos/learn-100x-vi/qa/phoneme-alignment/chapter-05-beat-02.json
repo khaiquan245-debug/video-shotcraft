@@ -1,0 +1,114 @@
+{
+  "key": "66250c9424f621fbd58391ab7fe80896b1e89d81462b6c361aff1309b1febe00",
+  "text": "Mỗi khi gặp một vấn đề, bạn có thể nhanh chóng học những kiến thức cần thiết để giải quyết nó.",
+  "sampleRate": 22050,
+  "seconds": 4.6439909297052155,
+  "words": [
+    {
+      "word": "mỗi",
+      "fromSample": 512,
+      "toSample": 5632
+    },
+    {
+      "word": "khi",
+      "fromSample": 6144,
+      "toSample": 8704
+    },
+    {
+      "word": "gặp",
+      "fromSample": 9472,
+      "toSample": 13056
+    },
+    {
+      "word": "một",
+      "fromSample": 14080,
+      "toSample": 17152
+    },
+    {
+      "word": "vấn",
+      "fromSample": 17920,
+      "toSample": 21760
+    },
+    {
+      "word": "đề",
+      "fromSample": 22784,
+      "toSample": 27392
+    },
+    {
+      "word": "bạn",
+      "fromSample": 30720,
+      "toSample": 34304
+    },
+    {
+      "word": "có",
+      "fromSample": 34816,
+      "toSample": 37120
+    },
+    {
+      "word": "thể",
+      "fromSample": 37888,
+      "toSample": 42752
+    },
+    {
+      "word": "nhanh",
+      "fromSample": 44032,
+      "toSample": 48384
+    },
+    {
+      "word": "chóng",
+      "fromSample": 49152,
+      "toSample": 54016
+    },
+    {
+      "word": "học",
+      "fromSample": 55040,
+      "toSample": 59392
+    },
+    {
+      "word": "những",
+      "fromSample": 59904,
+      "toSample": 63232
+    },
+    {
+      "word": "kiến",
+      "fromSample": 64000,
+      "toSample": 68096
+    },
+    {
+      "word": "thức",
+      "fromSample": 68608,
+      "toSample": 71936
+    },
+    {
+      "word": "cần",
+      "fromSample": 72704,
+      "toSample": 76288
+    },
+    {
+      "word": "thiết",
+      "fromSample": 76800,
+      "toSample": 81152
+    },
+    {
+      "word": "để",
+      "fromSample": 81920,
+      "toSample": 85248
+    },
+    {
+      "word": "giải",
+      "fromSample": 86016,
+      "toSample": 90624
+    },
+    {
+      "word": "quyết",
+      "fromSample": 91392,
+      "toSample": 95488
+    },
+    {
+      "word": "nó",
+      "fromSample": 96000,
+      "toSample": 100608
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

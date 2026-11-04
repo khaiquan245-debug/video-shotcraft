@@ -1,0 +1,39 @@
+{
+  "key": "02dc5e3a1ee61ae526323e039de4f0549853cae92778c87cd9fe136f4a909579",
+  "text": "Và khi bước ra sân bóng,",
+  "sampleRate": 22050,
+  "seconds": 1.3119274376417234,
+  "words": [
+    {
+      "word": "và",
+      "fromSample": 768,
+      "toSample": 4608
+    },
+    {
+      "word": "khi",
+      "fromSample": 5376,
+      "toSample": 8192
+    },
+    {
+      "word": "bước",
+      "fromSample": 8704,
+      "toSample": 12032
+    },
+    {
+      "word": "ra",
+      "fromSample": 12544,
+      "toSample": 16128
+    },
+    {
+      "word": "sân",
+      "fromSample": 17152,
+      "toSample": 20224
+    },
+    {
+      "word": "bóng",
+      "fromSample": 20992,
+      "toSample": 26880
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

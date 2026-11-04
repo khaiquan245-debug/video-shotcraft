@@ -1,0 +1,189 @@
+{
+  "key": "8db92de2179dfd0c7cd0d8b969105e35d70dbe64dd83a37deada965dfdb1bf15",
+  "text": "Bởi nền kinh tế không chỉ là một phương trình toán học. Nó chịu ảnh hưởng từ hàng triệu quyết định của con người. Và không phải quyết định nào cũng có thể dự đoán được.",
+  "sampleRate": 22050,
+  "seconds": 7.418775510204082,
+  "words": [
+    {
+      "word": "bởi",
+      "fromSample": 512,
+      "toSample": 4864
+    },
+    {
+      "word": "nền",
+      "fromSample": 5376,
+      "toSample": 8960
+    },
+    {
+      "word": "kinh",
+      "fromSample": 9984,
+      "toSample": 13312
+    },
+    {
+      "word": "tế",
+      "fromSample": 14080,
+      "toSample": 18688
+    },
+    {
+      "word": "không",
+      "fromSample": 19456,
+      "toSample": 22272
+    },
+    {
+      "word": "chỉ",
+      "fromSample": 22784,
+      "toSample": 26880
+    },
+    {
+      "word": "là",
+      "fromSample": 27392,
+      "toSample": 30208
+    },
+    {
+      "word": "một",
+      "fromSample": 30720,
+      "toSample": 34304
+    },
+    {
+      "word": "phương",
+      "fromSample": 34816,
+      "toSample": 38144
+    },
+    {
+      "word": "trình",
+      "fromSample": 38912,
+      "toSample": 43008
+    },
+    {
+      "word": "toán",
+      "fromSample": 43520,
+      "toSample": 47872
+    },
+    {
+      "word": "học",
+      "fromSample": 48640,
+      "toSample": 51200
+    },
+    {
+      "word": "nó",
+      "fromSample": 54016,
+      "toSample": 57088
+    },
+    {
+      "word": "chịu",
+      "fromSample": 58368,
+      "toSample": 62464
+    },
+    {
+      "word": "ảnh",
+      "fromSample": 62976,
+      "toSample": 66304
+    },
+    {
+      "word": "hưởng",
+      "fromSample": 67072,
+      "toSample": 71424
+    },
+    {
+      "word": "từ",
+      "fromSample": 72192,
+      "toSample": 75776
+    },
+    {
+      "word": "hàng",
+      "fromSample": 76800,
+      "toSample": 80384
+    },
+    {
+      "word": "triệu",
+      "fromSample": 80896,
+      "toSample": 85760
+    },
+    {
+      "word": "quyết",
+      "fromSample": 86528,
+      "toSample": 90624
+    },
+    {
+      "word": "định",
+      "fromSample": 91136,
+      "toSample": 94464
+    },
+    {
+      "word": "của",
+      "fromSample": 94976,
+      "toSample": 98304
+    },
+    {
+      "word": "con",
+      "fromSample": 99072,
+      "toSample": 101632
+    },
+    {
+      "word": "người",
+      "fromSample": 102400,
+      "toSample": 107520
+    },
+    {
+      "word": "và",
+      "fromSample": 109568,
+      "toSample": 112896
+    },
+    {
+      "word": "không",
+      "fromSample": 113664,
+      "toSample": 116736
+    },
+    {
+      "word": "phải",
+      "fromSample": 117248,
+      "toSample": 121600
+    },
+    {
+      "word": "quyết",
+      "fromSample": 122368,
+      "toSample": 126720
+    },
+    {
+      "word": "định",
+      "fromSample": 127232,
+      "toSample": 130816
+    },
+    {
+      "word": "nào",
+      "fromSample": 131584,
+      "toSample": 136960
+    },
+    {
+      "word": "cũng",
+      "fromSample": 137728,
+      "toSample": 140288
+    },
+    {
+      "word": "có",
+      "fromSample": 140800,
+      "toSample": 142848
+    },
+    {
+      "word": "thể",
+      "fromSample": 143872,
+      "toSample": 147712
+    },
+    {
+      "word": "dự",
+      "fromSample": 148480,
+      "toSample": 152064
+    },
+    {
+      "word": "đoán",
+      "fromSample": 153088,
+      "toSample": 157440
+    },
+    {
+      "word": "được",
+      "fromSample": 157952,
+      "toSample": 162560
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

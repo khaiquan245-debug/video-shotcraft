@@ -1,0 +1,59 @@
+{
+  "key": "c607ade3277d10aa89f0181dfc445525e8298ceaa0c10795df9cb867fa546fdc",
+  "text": "Bạn bắt đầu nghĩ tới những vấn đề lớn hơn.",
+  "sampleRate": 22050,
+  "seconds": 2.0549659863945577,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 768,
+      "toSample": 4352
+    },
+    {
+      "word": "bắt",
+      "fromSample": 4864,
+      "toSample": 8192
+    },
+    {
+      "word": "đầu",
+      "fromSample": 8704,
+      "toSample": 12800
+    },
+    {
+      "word": "nghĩ",
+      "fromSample": 13824,
+      "toSample": 17152
+    },
+    {
+      "word": "tới",
+      "fromSample": 18432,
+      "toSample": 22784
+    },
+    {
+      "word": "những",
+      "fromSample": 23296,
+      "toSample": 26368
+    },
+    {
+      "word": "vấn",
+      "fromSample": 26880,
+      "toSample": 30976
+    },
+    {
+      "word": "đề",
+      "fromSample": 31744,
+      "toSample": 35584
+    },
+    {
+      "word": "lớn",
+      "fromSample": 36352,
+      "toSample": 39680
+    },
+    {
+      "word": "hơn",
+      "fromSample": 40448,
+      "toSample": 44032
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

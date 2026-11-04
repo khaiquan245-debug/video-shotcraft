@@ -1,0 +1,134 @@
+{
+  "key": "24520b400fd1a9696c7f2015e65ab24d399303b908bce937120bdc1d2c42e0f3",
+  "text": "Nhưng đầu óc bạn vẫn không ngừng phân tích mọi thứ. Bạn đã quá quen với việc hiểu mọi chuyện gần như ngay lập tức,",
+  "sampleRate": 22050,
+  "seconds": 5.294149659863946,
+  "words": [
+    {
+      "word": "nhưng",
+      "fromSample": 512,
+      "toSample": 3840
+    },
+    {
+      "word": "đầu",
+      "fromSample": 4608,
+      "toSample": 8192
+    },
+    {
+      "word": "óc",
+      "fromSample": 8960,
+      "toSample": 11520
+    },
+    {
+      "word": "bạn",
+      "fromSample": 12544,
+      "toSample": 16896
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 17920,
+      "toSample": 22016
+    },
+    {
+      "word": "không",
+      "fromSample": 23040,
+      "toSample": 26368
+    },
+    {
+      "word": "ngừng",
+      "fromSample": 27392,
+      "toSample": 31488
+    },
+    {
+      "word": "phân",
+      "fromSample": 32000,
+      "toSample": 35072
+    },
+    {
+      "word": "tích",
+      "fromSample": 35584,
+      "toSample": 40192
+    },
+    {
+      "word": "mọi",
+      "fromSample": 40960,
+      "toSample": 44288
+    },
+    {
+      "word": "thứ",
+      "fromSample": 45312,
+      "toSample": 50176
+    },
+    {
+      "word": "bạn",
+      "fromSample": 52736,
+      "toSample": 56320
+    },
+    {
+      "word": "đã",
+      "fromSample": 56832,
+      "toSample": 59392
+    },
+    {
+      "word": "quá",
+      "fromSample": 60416,
+      "toSample": 64768
+    },
+    {
+      "word": "quen",
+      "fromSample": 65536,
+      "toSample": 70144
+    },
+    {
+      "word": "với",
+      "fromSample": 71168,
+      "toSample": 75520
+    },
+    {
+      "word": "việc",
+      "fromSample": 76032,
+      "toSample": 80640
+    },
+    {
+      "word": "hiểu",
+      "fromSample": 81152,
+      "toSample": 85248
+    },
+    {
+      "word": "mọi",
+      "fromSample": 86528,
+      "toSample": 90624
+    },
+    {
+      "word": "chuyện",
+      "fromSample": 91136,
+      "toSample": 96000
+    },
+    {
+      "word": "gần",
+      "fromSample": 97024,
+      "toSample": 100864
+    },
+    {
+      "word": "như",
+      "fromSample": 101888,
+      "toSample": 103936
+    },
+    {
+      "word": "ngay",
+      "fromSample": 104704,
+      "toSample": 107776
+    },
+    {
+      "word": "lập",
+      "fromSample": 108544,
+      "toSample": 111360
+    },
+    {
+      "word": "tức",
+      "fromSample": 111872,
+      "toSample": 114944
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

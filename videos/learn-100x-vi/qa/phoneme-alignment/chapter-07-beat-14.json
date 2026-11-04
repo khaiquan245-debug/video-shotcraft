@@ -1,0 +1,39 @@
+{
+  "key": "bacb49d86d6c5b1e522521a10fc5f51b9ea4731f0b3eb093f2b0f9809b37e9e7",
+  "text": "Lý thuyết phải được kiểm nghiệm.",
+  "sampleRate": 22050,
+  "seconds": 1.242267573696145,
+  "words": [
+    {
+      "word": "lý",
+      "fromSample": 512,
+      "toSample": 3840
+    },
+    {
+      "word": "thuyết",
+      "fromSample": 4608,
+      "toSample": 8960
+    },
+    {
+      "word": "phải",
+      "fromSample": 9472,
+      "toSample": 13056
+    },
+    {
+      "word": "được",
+      "fromSample": 13568,
+      "toSample": 17408
+    },
+    {
+      "word": "kiểm",
+      "fromSample": 17920,
+      "toSample": 22016
+    },
+    {
+      "word": "nghiệm",
+      "fromSample": 22784,
+      "toSample": 26624
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,74 @@
+{
+  "key": "a7206f4e85141a3aeb1e925325c4772ea82eb59f1e476645eec6fc0f3022b5c6",
+  "text": "Giờ hãy nói đến điều mà có lẽ bạn đang nghĩ tới. Tiền.",
+  "sampleRate": 22050,
+  "seconds": 2.786394557823129,
+  "words": [
+    {
+      "word": "giờ",
+      "fromSample": 1024,
+      "toSample": 5120
+    },
+    {
+      "word": "hãy",
+      "fromSample": 5888,
+      "toSample": 10240
+    },
+    {
+      "word": "nói",
+      "fromSample": 10752,
+      "toSample": 16640
+    },
+    {
+      "word": "đến",
+      "fromSample": 17152,
+      "toSample": 20992
+    },
+    {
+      "word": "điều",
+      "fromSample": 21504,
+      "toSample": 25856
+    },
+    {
+      "word": "mà",
+      "fromSample": 26368,
+      "toSample": 29184
+    },
+    {
+      "word": "có",
+      "fromSample": 30208,
+      "toSample": 32512
+    },
+    {
+      "word": "lẽ",
+      "fromSample": 33536,
+      "toSample": 36096
+    },
+    {
+      "word": "bạn",
+      "fromSample": 36864,
+      "toSample": 40704
+    },
+    {
+      "word": "đang",
+      "fromSample": 41728,
+      "toSample": 44800
+    },
+    {
+      "word": "nghĩ",
+      "fromSample": 45568,
+      "toSample": 48128
+    },
+    {
+      "word": "tới",
+      "fromSample": 48640,
+      "toSample": 55040
+    },
+    {
+      "word": "tiền",
+      "fromSample": 56832,
+      "toSample": 60672
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

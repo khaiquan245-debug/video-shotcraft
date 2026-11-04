@@ -1,0 +1,44 @@
+{
+  "key": "826d1034e56a8539c9f8cce06f30edcd9186ed2ae4dabc8ffc5e545aab742436",
+  "text": "Tiếp theo, bạn tìm hiểu đầu tư.",
+  "sampleRate": 22050,
+  "seconds": 1.6834467120181407,
+  "words": [
+    {
+      "word": "tiếp",
+      "fromSample": 512,
+      "toSample": 4352
+    },
+    {
+      "word": "theo",
+      "fromSample": 4864,
+      "toSample": 11008
+    },
+    {
+      "word": "bạn",
+      "fromSample": 13824,
+      "toSample": 18176
+    },
+    {
+      "word": "tìm",
+      "fromSample": 18944,
+      "toSample": 22784
+    },
+    {
+      "word": "hiểu",
+      "fromSample": 23552,
+      "toSample": 27392
+    },
+    {
+      "word": "đầu",
+      "fromSample": 27904,
+      "toSample": 30720
+    },
+    {
+      "word": "tư",
+      "fromSample": 31488,
+      "toSample": 35584
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

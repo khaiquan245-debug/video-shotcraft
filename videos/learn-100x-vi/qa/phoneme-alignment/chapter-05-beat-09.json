@@ -1,0 +1,64 @@
+{
+  "key": "365a2fdd8e87a9c86333661b6b0d2c839fa60b5b29e02522b6d59603b8e84389",
+  "text": "Và thuyết trình để gọi vốn từ các nhà đầu tư.",
+  "sampleRate": 22050,
+  "seconds": 2.345215419501134,
+  "words": [
+    {
+      "word": "và",
+      "fromSample": 512,
+      "toSample": 3328
+    },
+    {
+      "word": "thuyết",
+      "fromSample": 3840,
+      "toSample": 8448
+    },
+    {
+      "word": "trình",
+      "fromSample": 8960,
+      "toSample": 13056
+    },
+    {
+      "word": "để",
+      "fromSample": 14080,
+      "toSample": 18176
+    },
+    {
+      "word": "gọi",
+      "fromSample": 18944,
+      "toSample": 23296
+    },
+    {
+      "word": "vốn",
+      "fromSample": 24832,
+      "toSample": 28928
+    },
+    {
+      "word": "từ",
+      "fromSample": 29696,
+      "toSample": 34048
+    },
+    {
+      "word": "các",
+      "fromSample": 34560,
+      "toSample": 37888
+    },
+    {
+      "word": "nhà",
+      "fromSample": 38400,
+      "toSample": 41984
+    },
+    {
+      "word": "đầu",
+      "fromSample": 42752,
+      "toSample": 45824
+    },
+    {
+      "word": "tư",
+      "fromSample": 46336,
+      "toSample": 50432
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

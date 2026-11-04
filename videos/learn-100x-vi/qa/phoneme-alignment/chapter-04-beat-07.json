@@ -1,0 +1,124 @@
+{
+  "key": "ed6c6de215db651651ea02bef0ceeb9a59a91906cee7eb67172f93bbaded4077",
+  "text": "Bạn vẫn cần luyện nghe, luyện nói và trò chuyện thực tế. Nhưng tốc độ tiến bộ của bạn thật đáng kinh ngạc.",
+  "sampleRate": 22050,
+  "seconds": 4.922630385487528,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 768,
+      "toSample": 4608
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 5120,
+      "toSample": 8704
+    },
+    {
+      "word": "cần",
+      "fromSample": 9728,
+      "toSample": 13056
+    },
+    {
+      "word": "luyện",
+      "fromSample": 13824,
+      "toSample": 17664
+    },
+    {
+      "word": "nghe",
+      "fromSample": 18688,
+      "toSample": 22784
+    },
+    {
+      "word": "luyện",
+      "fromSample": 25856,
+      "toSample": 30464
+    },
+    {
+      "word": "nói",
+      "fromSample": 31744,
+      "toSample": 36096
+    },
+    {
+      "word": "và",
+      "fromSample": 36864,
+      "toSample": 39936
+    },
+    {
+      "word": "trò",
+      "fromSample": 40448,
+      "toSample": 43520
+    },
+    {
+      "word": "chuyện",
+      "fromSample": 44032,
+      "toSample": 48384
+    },
+    {
+      "word": "thực",
+      "fromSample": 49152,
+      "toSample": 51712
+    },
+    {
+      "word": "tế",
+      "fromSample": 52736,
+      "toSample": 59136
+    },
+    {
+      "word": "nhưng",
+      "fromSample": 60928,
+      "toSample": 64768
+    },
+    {
+      "word": "tốc",
+      "fromSample": 65792,
+      "toSample": 69888
+    },
+    {
+      "word": "độ",
+      "fromSample": 70400,
+      "toSample": 73472
+    },
+    {
+      "word": "tiến",
+      "fromSample": 73984,
+      "toSample": 79872
+    },
+    {
+      "word": "bộ",
+      "fromSample": 80896,
+      "toSample": 83968
+    },
+    {
+      "word": "của",
+      "fromSample": 84480,
+      "toSample": 87552
+    },
+    {
+      "word": "bạn",
+      "fromSample": 88064,
+      "toSample": 91648
+    },
+    {
+      "word": "thật",
+      "fromSample": 92416,
+      "toSample": 95744
+    },
+    {
+      "word": "đáng",
+      "fromSample": 96256,
+      "toSample": 100352
+    },
+    {
+      "word": "kinh",
+      "fromSample": 101376,
+      "toSample": 104192
+    },
+    {
+      "word": "ngạc",
+      "fromSample": 104704,
+      "toSample": 107776
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

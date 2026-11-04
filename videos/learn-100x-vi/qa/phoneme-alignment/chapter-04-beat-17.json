@@ -1,0 +1,179 @@
+{
+  "key": "2296cb48fed59eb84648c29c3a16abfefa8b82102e51dd7fcc1a0f89d11867fa",
+  "text": "Bởi hiểu một kỹ năng không đồng nghĩa với việc cơ thể có thể thực hiện kỹ năng ấy. Cơ bắp, khả năng phối hợp và phản xạ của bạn vẫn cần luyện tập.",
+  "sampleRate": 22050,
+  "seconds": 6.733786848072563,
+  "words": [
+    {
+      "word": "bởi",
+      "fromSample": 512,
+      "toSample": 4864
+    },
+    {
+      "word": "hiểu",
+      "fromSample": 5376,
+      "toSample": 8960
+    },
+    {
+      "word": "một",
+      "fromSample": 9984,
+      "toSample": 13312
+    },
+    {
+      "word": "kỹ",
+      "fromSample": 13824,
+      "toSample": 17152
+    },
+    {
+      "word": "năng",
+      "fromSample": 17920,
+      "toSample": 21504
+    },
+    {
+      "word": "không",
+      "fromSample": 22272,
+      "toSample": 25600
+    },
+    {
+      "word": "đồng",
+      "fromSample": 26880,
+      "toSample": 29952
+    },
+    {
+      "word": "nghĩa",
+      "fromSample": 30464,
+      "toSample": 33280
+    },
+    {
+      "word": "với",
+      "fromSample": 33792,
+      "toSample": 37376
+    },
+    {
+      "word": "việc",
+      "fromSample": 37888,
+      "toSample": 41984
+    },
+    {
+      "word": "cơ",
+      "fromSample": 42496,
+      "toSample": 44800
+    },
+    {
+      "word": "thể",
+      "fromSample": 46080,
+      "toSample": 51200
+    },
+    {
+      "word": "có",
+      "fromSample": 51968,
+      "toSample": 54528
+    },
+    {
+      "word": "thể",
+      "fromSample": 55296,
+      "toSample": 59904
+    },
+    {
+      "word": "thực",
+      "fromSample": 60672,
+      "toSample": 63232
+    },
+    {
+      "word": "hiện",
+      "fromSample": 63744,
+      "toSample": 67584
+    },
+    {
+      "word": "kỹ",
+      "fromSample": 68864,
+      "toSample": 71168
+    },
+    {
+      "word": "năng",
+      "fromSample": 71680,
+      "toSample": 74496
+    },
+    {
+      "word": "ấy",
+      "fromSample": 75008,
+      "toSample": 79360
+    },
+    {
+      "word": "cơ",
+      "fromSample": 81920,
+      "toSample": 83968
+    },
+    {
+      "word": "bắp",
+      "fromSample": 84480,
+      "toSample": 88064
+    },
+    {
+      "word": "khả",
+      "fromSample": 89344,
+      "toSample": 93184
+    },
+    {
+      "word": "năng",
+      "fromSample": 93952,
+      "toSample": 97024
+    },
+    {
+      "word": "phối",
+      "fromSample": 98304,
+      "toSample": 101888
+    },
+    {
+      "word": "hợp",
+      "fromSample": 102656,
+      "toSample": 107520
+    },
+    {
+      "word": "và",
+      "fromSample": 108288,
+      "toSample": 111360
+    },
+    {
+      "word": "phản",
+      "fromSample": 112384,
+      "toSample": 116480
+    },
+    {
+      "word": "xạ",
+      "fromSample": 117248,
+      "toSample": 122624
+    },
+    {
+      "word": "của",
+      "fromSample": 123392,
+      "toSample": 126464
+    },
+    {
+      "word": "bạn",
+      "fromSample": 126976,
+      "toSample": 130560
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 131328,
+      "toSample": 135168
+    },
+    {
+      "word": "cần",
+      "fromSample": 136192,
+      "toSample": 139520
+    },
+    {
+      "word": "luyện",
+      "fromSample": 140288,
+      "toSample": 143872
+    },
+    {
+      "word": "tập",
+      "fromSample": 144384,
+      "toSample": 147712
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

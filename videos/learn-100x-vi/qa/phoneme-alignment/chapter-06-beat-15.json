@@ -1,0 +1,119 @@
+{
+  "key": "a2273d3addb7ed4930eb1b2de529d0c400aa1ad4d3032b5ee33d28fce53eedf6",
+  "text": "Giáo dục sẽ thay đổi mạnh mẽ. Những chương trình từng kéo dài nhiều năm có thể được rút ngắn đáng kể.",
+  "sampleRate": 22050,
+  "seconds": 5.050340136054421,
+  "words": [
+    {
+      "word": "giáo",
+      "fromSample": 768,
+      "toSample": 5888
+    },
+    {
+      "word": "dục",
+      "fromSample": 6912,
+      "toSample": 10496
+    },
+    {
+      "word": "sẽ",
+      "fromSample": 11008,
+      "toSample": 13824
+    },
+    {
+      "word": "thay",
+      "fromSample": 15104,
+      "toSample": 18688
+    },
+    {
+      "word": "đổi",
+      "fromSample": 19456,
+      "toSample": 23808
+    },
+    {
+      "word": "mạnh",
+      "fromSample": 24576,
+      "toSample": 28928
+    },
+    {
+      "word": "mẽ",
+      "fromSample": 29440,
+      "toSample": 33792
+    },
+    {
+      "word": "những",
+      "fromSample": 35584,
+      "toSample": 38656
+    },
+    {
+      "word": "chương",
+      "fromSample": 39168,
+      "toSample": 43008
+    },
+    {
+      "word": "trình",
+      "fromSample": 43776,
+      "toSample": 47872
+    },
+    {
+      "word": "từng",
+      "fromSample": 49152,
+      "toSample": 53760
+    },
+    {
+      "word": "kéo",
+      "fromSample": 54784,
+      "toSample": 59136
+    },
+    {
+      "word": "dài",
+      "fromSample": 60672,
+      "toSample": 66304
+    },
+    {
+      "word": "nhiều",
+      "fromSample": 66816,
+      "toSample": 71424
+    },
+    {
+      "word": "năm",
+      "fromSample": 72448,
+      "toSample": 75776
+    },
+    {
+      "word": "có",
+      "fromSample": 76544,
+      "toSample": 79616
+    },
+    {
+      "word": "thể",
+      "fromSample": 80128,
+      "toSample": 83968
+    },
+    {
+      "word": "được",
+      "fromSample": 84736,
+      "toSample": 88064
+    },
+    {
+      "word": "rút",
+      "fromSample": 88832,
+      "toSample": 92928
+    },
+    {
+      "word": "ngắn",
+      "fromSample": 93696,
+      "toSample": 97536
+    },
+    {
+      "word": "đáng",
+      "fromSample": 98048,
+      "toSample": 102144
+    },
+    {
+      "word": "kể",
+      "fromSample": 102912,
+      "toSample": 107520
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

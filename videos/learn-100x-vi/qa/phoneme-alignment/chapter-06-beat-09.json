@@ -1,0 +1,49 @@
+{
+  "key": "c289e5fc3a33c4a0c8a743e22ebeabc3e815695d3fef7f2928f8390c7f1bc09b",
+  "text": "Những viện nghiên cứu hàng đầu thế giới.",
+  "sampleRate": 22050,
+  "seconds": 1.8808163265306121,
+  "words": [
+    {
+      "word": "những",
+      "fromSample": 512,
+      "toSample": 4352
+    },
+    {
+      "word": "viện",
+      "fromSample": 4864,
+      "toSample": 8704
+    },
+    {
+      "word": "nghiên",
+      "fromSample": 9472,
+      "toSample": 13824
+    },
+    {
+      "word": "cứu",
+      "fromSample": 14848,
+      "toSample": 18688
+    },
+    {
+      "word": "hàng",
+      "fromSample": 19968,
+      "toSample": 25088
+    },
+    {
+      "word": "đầu",
+      "fromSample": 26112,
+      "toSample": 30464
+    },
+    {
+      "word": "thế",
+      "fromSample": 30976,
+      "toSample": 33536
+    },
+    {
+      "word": "giới",
+      "fromSample": 34304,
+      "toSample": 39936
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

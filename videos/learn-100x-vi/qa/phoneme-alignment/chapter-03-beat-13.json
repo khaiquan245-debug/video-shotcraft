@@ -1,0 +1,54 @@
+{
+  "key": "5e99376ca5ba8e2407367a45f68884ba335b6fc1ef5ab33505b0f56219b9a963",
+  "text": "Bạn ra mắt sản phẩm đầu tiên. Và rồi,",
+  "sampleRate": 22050,
+  "seconds": 1.9504761904761905,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 768,
+      "toSample": 4864
+    },
+    {
+      "word": "ra",
+      "fromSample": 5632,
+      "toSample": 8704
+    },
+    {
+      "word": "mắt",
+      "fromSample": 9472,
+      "toSample": 12800
+    },
+    {
+      "word": "sản",
+      "fromSample": 13312,
+      "toSample": 17664
+    },
+    {
+      "word": "phẩm",
+      "fromSample": 18176,
+      "toSample": 22272
+    },
+    {
+      "word": "đầu",
+      "fromSample": 22784,
+      "toSample": 25344
+    },
+    {
+      "word": "tiên",
+      "fromSample": 26112,
+      "toSample": 31488
+    },
+    {
+      "word": "và",
+      "fromSample": 33024,
+      "toSample": 36096
+    },
+    {
+      "word": "rồi",
+      "fromSample": 36864,
+      "toSample": 40960
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,144 @@
+{
+  "key": "475ccab05b0c997590ea7342d7f6517c64a766bdc8f83f84fcb4331482c92196",
+  "text": "Bạn đã học vô số điều. Đọc hàng nghìn cuốn sách. Hiểu những lý thuyết phức tạp. Giải quyết những vấn đề từng tưởng chừng không thể.",
+  "sampleRate": 22050,
+  "seconds": 5.793378684807256,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 768,
+      "toSample": 4096
+    },
+    {
+      "word": "đã",
+      "fromSample": 4864,
+      "toSample": 8448
+    },
+    {
+      "word": "học",
+      "fromSample": 8960,
+      "toSample": 12544
+    },
+    {
+      "word": "vô",
+      "fromSample": 13056,
+      "toSample": 15616
+    },
+    {
+      "word": "số",
+      "fromSample": 16640,
+      "toSample": 19456
+    },
+    {
+      "word": "điều",
+      "fromSample": 20480,
+      "toSample": 24832
+    },
+    {
+      "word": "đọc",
+      "fromSample": 26368,
+      "toSample": 29440
+    },
+    {
+      "word": "hàng",
+      "fromSample": 30208,
+      "toSample": 35328
+    },
+    {
+      "word": "nghìn",
+      "fromSample": 35840,
+      "toSample": 40448
+    },
+    {
+      "word": "cuốn",
+      "fromSample": 41984,
+      "toSample": 45568
+    },
+    {
+      "word": "sách",
+      "fromSample": 46336,
+      "toSample": 49408
+    },
+    {
+      "word": "hiểu",
+      "fromSample": 50688,
+      "toSample": 54272
+    },
+    {
+      "word": "những",
+      "fromSample": 55296,
+      "toSample": 58624
+    },
+    {
+      "word": "lý",
+      "fromSample": 59648,
+      "toSample": 63232
+    },
+    {
+      "word": "thuyết",
+      "fromSample": 64256,
+      "toSample": 68352
+    },
+    {
+      "word": "phức",
+      "fromSample": 68864,
+      "toSample": 71424
+    },
+    {
+      "word": "tạp",
+      "fromSample": 71936,
+      "toSample": 75520
+    },
+    {
+      "word": "giải",
+      "fromSample": 77056,
+      "toSample": 81664
+    },
+    {
+      "word": "quyết",
+      "fromSample": 82688,
+      "toSample": 87296
+    },
+    {
+      "word": "những",
+      "fromSample": 88064,
+      "toSample": 91392
+    },
+    {
+      "word": "vấn",
+      "fromSample": 91904,
+      "toSample": 96512
+    },
+    {
+      "word": "đề",
+      "fromSample": 97024,
+      "toSample": 100864
+    },
+    {
+      "word": "từng",
+      "fromSample": 102400,
+      "toSample": 106496
+    },
+    {
+      "word": "tưởng",
+      "fromSample": 107008,
+      "toSample": 112384
+    },
+    {
+      "word": "chừng",
+      "fromSample": 113152,
+      "toSample": 117248
+    },
+    {
+      "word": "không",
+      "fromSample": 118016,
+      "toSample": 121344
+    },
+    {
+      "word": "thể",
+      "fromSample": 121856,
+      "toSample": 125440
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

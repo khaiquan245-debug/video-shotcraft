@@ -1,0 +1,79 @@
+{
+  "key": "1d3b73bce3db3b8617bd2142538b69b747f5838e1e91f5772d7bbc6a6b1e4891",
+  "text": "Nhưng không điều nào trong số đó tự động khiến bạn hạnh phúc hơn.",
+  "sampleRate": 22050,
+  "seconds": 3.053424036281179,
+  "words": [
+    {
+      "word": "nhưng",
+      "fromSample": 768,
+      "toSample": 3328
+    },
+    {
+      "word": "không",
+      "fromSample": 4096,
+      "toSample": 7168
+    },
+    {
+      "word": "điều",
+      "fromSample": 7680,
+      "toSample": 11776
+    },
+    {
+      "word": "nào",
+      "fromSample": 12800,
+      "toSample": 17152
+    },
+    {
+      "word": "trong",
+      "fromSample": 17920,
+      "toSample": 21248
+    },
+    {
+      "word": "số",
+      "fromSample": 22784,
+      "toSample": 26368
+    },
+    {
+      "word": "đó",
+      "fromSample": 27392,
+      "toSample": 31232
+    },
+    {
+      "word": "tự",
+      "fromSample": 32000,
+      "toSample": 36096
+    },
+    {
+      "word": "động",
+      "fromSample": 36864,
+      "toSample": 40448
+    },
+    {
+      "word": "khiến",
+      "fromSample": 41472,
+      "toSample": 47104
+    },
+    {
+      "word": "bạn",
+      "fromSample": 48128,
+      "toSample": 52224
+    },
+    {
+      "word": "hạnh",
+      "fromSample": 52736,
+      "toSample": 56064
+    },
+    {
+      "word": "phúc",
+      "fromSample": 56832,
+      "toSample": 60672
+    },
+    {
+      "word": "hơn",
+      "fromSample": 61696,
+      "toSample": 65792
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

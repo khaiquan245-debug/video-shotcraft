@@ -1,0 +1,74 @@
+{
+  "key": "3772784499814c198083d5fb3b3f14c2c1b0faee41ffc85e17701c9bc0acf58a",
+  "text": "Cảm giác bực bội khi hết lần này đến lần khác giải sai.",
+  "sampleRate": 22050,
+  "seconds": 2.9373242630385485,
+  "words": [
+    {
+      "word": "cảm",
+      "fromSample": 512,
+      "toSample": 4096
+    },
+    {
+      "word": "giác",
+      "fromSample": 4864,
+      "toSample": 9728
+    },
+    {
+      "word": "bực",
+      "fromSample": 10240,
+      "toSample": 13824
+    },
+    {
+      "word": "bội",
+      "fromSample": 14592,
+      "toSample": 19456
+    },
+    {
+      "word": "khi",
+      "fromSample": 20480,
+      "toSample": 23040
+    },
+    {
+      "word": "hết",
+      "fromSample": 23808,
+      "toSample": 26880
+    },
+    {
+      "word": "lần",
+      "fromSample": 27648,
+      "toSample": 31232
+    },
+    {
+      "word": "này",
+      "fromSample": 31744,
+      "toSample": 35840
+    },
+    {
+      "word": "đến",
+      "fromSample": 37376,
+      "toSample": 40704
+    },
+    {
+      "word": "lần",
+      "fromSample": 41728,
+      "toSample": 46336
+    },
+    {
+      "word": "khác",
+      "fromSample": 47616,
+      "toSample": 52480
+    },
+    {
+      "word": "giải",
+      "fromSample": 53248,
+      "toSample": 57344
+    },
+    {
+      "word": "sai",
+      "fromSample": 58368,
+      "toSample": 63744
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

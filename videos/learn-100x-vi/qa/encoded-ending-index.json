@@ -1,0 +1,23 @@
+[
+  {
+    "id": 172,
+    "chapter": 10,
+    "tag": "post-speech-hold",
+    "frame": 16020,
+    "file": "encoded-beat-172.jpg"
+  },
+  {
+    "id": 173,
+    "chapter": 10,
+    "tag": "fade-start",
+    "frame": 16136,
+    "file": "encoded-beat-173.jpg"
+  },
+  {
+    "id": 174,
+    "chapter": 10,
+    "tag": "last-frame",
+    "frame": 16165,
+    "file": "encoded-beat-174.jpg"
+  }
+]

@@ -1,0 +1,159 @@
+{
+  "key": "0ab490e4e4309bea4c2b00ddce42bfb005e51b3e655b91773b3b2edfb6e08cad",
+  "text": "Giả sử bạn giữ bí mật về khả năng của mình được vài tháng. Nhưng một người học nhanh gấp một trăm lần không thể mãi không bị chú ý.",
+  "sampleRate": 22050,
+  "seconds": 6.257777777777778,
+  "words": [
+    {
+      "word": "giả",
+      "fromSample": 1024,
+      "toSample": 5632
+    },
+    {
+      "word": "sử",
+      "fromSample": 6912,
+      "toSample": 10496
+    },
+    {
+      "word": "bạn",
+      "fromSample": 11264,
+      "toSample": 14848
+    },
+    {
+      "word": "giữ",
+      "fromSample": 15360,
+      "toSample": 18944
+    },
+    {
+      "word": "bí",
+      "fromSample": 20224,
+      "toSample": 23296
+    },
+    {
+      "word": "mật",
+      "fromSample": 24064,
+      "toSample": 28672
+    },
+    {
+      "word": "về",
+      "fromSample": 29184,
+      "toSample": 32512
+    },
+    {
+      "word": "khả",
+      "fromSample": 33792,
+      "toSample": 36864
+    },
+    {
+      "word": "năng",
+      "fromSample": 37632,
+      "toSample": 40960
+    },
+    {
+      "word": "của",
+      "fromSample": 41472,
+      "toSample": 45312
+    },
+    {
+      "word": "mình",
+      "fromSample": 46080,
+      "toSample": 50432
+    },
+    {
+      "word": "được",
+      "fromSample": 51200,
+      "toSample": 54784
+    },
+    {
+      "word": "vài",
+      "fromSample": 55296,
+      "toSample": 58880
+    },
+    {
+      "word": "tháng",
+      "fromSample": 59648,
+      "toSample": 65280
+    },
+    {
+      "word": "nhưng",
+      "fromSample": 67328,
+      "toSample": 70400
+    },
+    {
+      "word": "một",
+      "fromSample": 70912,
+      "toSample": 74240
+    },
+    {
+      "word": "người",
+      "fromSample": 74752,
+      "toSample": 78592
+    },
+    {
+      "word": "học",
+      "fromSample": 79104,
+      "toSample": 81920
+    },
+    {
+      "word": "nhanh",
+      "fromSample": 82688,
+      "toSample": 86272
+    },
+    {
+      "word": "gấp",
+      "fromSample": 86784,
+      "toSample": 90112
+    },
+    {
+      "word": "một",
+      "fromSample": 91136,
+      "toSample": 94976
+    },
+    {
+      "word": "trăm",
+      "fromSample": 95488,
+      "toSample": 99584
+    },
+    {
+      "word": "lần",
+      "fromSample": 100608,
+      "toSample": 104704
+    },
+    {
+      "word": "không",
+      "fromSample": 105728,
+      "toSample": 109312
+    },
+    {
+      "word": "thể",
+      "fromSample": 110080,
+      "toSample": 114176
+    },
+    {
+      "word": "mãi",
+      "fromSample": 114688,
+      "toSample": 119808
+    },
+    {
+      "word": "không",
+      "fromSample": 121088,
+      "toSample": 124416
+    },
+    {
+      "word": "bị",
+      "fromSample": 125184,
+      "toSample": 128000
+    },
+    {
+      "word": "chú",
+      "fromSample": 128512,
+      "toSample": 132096
+    },
+    {
+      "word": "ý",
+      "fromSample": 132864,
+      "toSample": 136704
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,164 @@
+{
+  "key": "b645d29ad83b24ad3cf4f4ae0a19984fc2c465fd1626c714280e79c8e26cf297",
+  "text": "chẳng có gì xảy ra. Không một khách hàng nào mua cả. Hóa ra, dù biết mọi thứ về tiếp thị, bạn cũng không thể ép người khác bỏ tiền ra.",
+  "sampleRate": 22050,
+  "seconds": 6.791836734693877,
+  "words": [
+    {
+      "word": "chẳng",
+      "fromSample": 512,
+      "toSample": 4864
+    },
+    {
+      "word": "có",
+      "fromSample": 5888,
+      "toSample": 8448
+    },
+    {
+      "word": "gì",
+      "fromSample": 9472,
+      "toSample": 13312
+    },
+    {
+      "word": "xảy",
+      "fromSample": 14080,
+      "toSample": 18176
+    },
+    {
+      "word": "ra",
+      "fromSample": 19456,
+      "toSample": 23040
+    },
+    {
+      "word": "không",
+      "fromSample": 24832,
+      "toSample": 27392
+    },
+    {
+      "word": "một",
+      "fromSample": 28160,
+      "toSample": 31232
+    },
+    {
+      "word": "khách",
+      "fromSample": 31744,
+      "toSample": 35072
+    },
+    {
+      "word": "hàng",
+      "fromSample": 35584,
+      "toSample": 39936
+    },
+    {
+      "word": "nào",
+      "fromSample": 40448,
+      "toSample": 44544
+    },
+    {
+      "word": "mua",
+      "fromSample": 45056,
+      "toSample": 47872
+    },
+    {
+      "word": "cả",
+      "fromSample": 49152,
+      "toSample": 52992
+    },
+    {
+      "word": "hóa",
+      "fromSample": 54272,
+      "toSample": 58624
+    },
+    {
+      "word": "ra",
+      "fromSample": 59648,
+      "toSample": 64768
+    },
+    {
+      "word": "dù",
+      "fromSample": 66816,
+      "toSample": 70400
+    },
+    {
+      "word": "biết",
+      "fromSample": 70912,
+      "toSample": 74752
+    },
+    {
+      "word": "mọi",
+      "fromSample": 75264,
+      "toSample": 79616
+    },
+    {
+      "word": "thứ",
+      "fromSample": 80384,
+      "toSample": 84224
+    },
+    {
+      "word": "về",
+      "fromSample": 84736,
+      "toSample": 88320
+    },
+    {
+      "word": "tiếp",
+      "fromSample": 89088,
+      "toSample": 93184
+    },
+    {
+      "word": "thị",
+      "fromSample": 93952,
+      "toSample": 98304
+    },
+    {
+      "word": "bạn",
+      "fromSample": 101888,
+      "toSample": 107264
+    },
+    {
+      "word": "cũng",
+      "fromSample": 108288,
+      "toSample": 110848
+    },
+    {
+      "word": "không",
+      "fromSample": 111360,
+      "toSample": 114432
+    },
+    {
+      "word": "thể",
+      "fromSample": 115200,
+      "toSample": 118272
+    },
+    {
+      "word": "ép",
+      "fromSample": 119296,
+      "toSample": 123648
+    },
+    {
+      "word": "người",
+      "fromSample": 124416,
+      "toSample": 128768
+    },
+    {
+      "word": "khác",
+      "fromSample": 129280,
+      "toSample": 133632
+    },
+    {
+      "word": "bỏ",
+      "fromSample": 134400,
+      "toSample": 137728
+    },
+    {
+      "word": "tiền",
+      "fromSample": 138496,
+      "toSample": 143360
+    },
+    {
+      "word": "ra",
+      "fromSample": 144640,
+      "toSample": 148480
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

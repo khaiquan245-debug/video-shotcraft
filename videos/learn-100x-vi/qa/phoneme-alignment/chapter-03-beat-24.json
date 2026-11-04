@@ -1,0 +1,24 @@
+{
+  "key": "d4e3d41ddc919464cbed9e409b96d01745b1cd5d541ba845213745a9240e3407",
+  "text": "Bất động sản.",
+  "sampleRate": 22050,
+  "seconds": 0.615328798185941,
+  "words": [
+    {
+      "word": "bất",
+      "fromSample": 512,
+      "toSample": 3840
+    },
+    {
+      "word": "động",
+      "fromSample": 4352,
+      "toSample": 7168
+    },
+    {
+      "word": "sản",
+      "fromSample": 7936,
+      "toSample": 12544
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

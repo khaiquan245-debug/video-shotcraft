@@ -1,0 +1,114 @@
+{
+  "key": "12962953f256d8cfbfde0dba99d13fc4a19f6949d0f70f1897c77c3e15b4256b",
+  "text": "Nếu ngày mai, tất cả mọi người trên Trái Đất đều có thể học nhanh gấp một trăm lần thì sao?",
+  "sampleRate": 22050,
+  "seconds": 4.748480725623582,
+  "words": [
+    {
+      "word": "nếu",
+      "fromSample": 768,
+      "toSample": 4352
+    },
+    {
+      "word": "ngày",
+      "fromSample": 5120,
+      "toSample": 8704
+    },
+    {
+      "word": "mai",
+      "fromSample": 9216,
+      "toSample": 14592
+    },
+    {
+      "word": "tất",
+      "fromSample": 17920,
+      "toSample": 22528
+    },
+    {
+      "word": "cả",
+      "fromSample": 23808,
+      "toSample": 27392
+    },
+    {
+      "word": "mọi",
+      "fromSample": 28672,
+      "toSample": 33024
+    },
+    {
+      "word": "người",
+      "fromSample": 33792,
+      "toSample": 37888
+    },
+    {
+      "word": "trên",
+      "fromSample": 38400,
+      "toSample": 42240
+    },
+    {
+      "word": "trái",
+      "fromSample": 42752,
+      "toSample": 47104
+    },
+    {
+      "word": "đất",
+      "fromSample": 47872,
+      "toSample": 52224
+    },
+    {
+      "word": "đều",
+      "fromSample": 52736,
+      "toSample": 57088
+    },
+    {
+      "word": "có",
+      "fromSample": 57600,
+      "toSample": 59904
+    },
+    {
+      "word": "thể",
+      "fromSample": 60672,
+      "toSample": 64768
+    },
+    {
+      "word": "học",
+      "fromSample": 65280,
+      "toSample": 69632
+    },
+    {
+      "word": "nhanh",
+      "fromSample": 70400,
+      "toSample": 74240
+    },
+    {
+      "word": "gấp",
+      "fromSample": 74752,
+      "toSample": 78080
+    },
+    {
+      "word": "một",
+      "fromSample": 79104,
+      "toSample": 83200
+    },
+    {
+      "word": "trăm",
+      "fromSample": 83712,
+      "toSample": 87808
+    },
+    {
+      "word": "lần",
+      "fromSample": 88576,
+      "toSample": 93184
+    },
+    {
+      "word": "thì",
+      "fromSample": 93952,
+      "toSample": 96768
+    },
+    {
+      "word": "sao",
+      "fromSample": 98048,
+      "toSample": 102912
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

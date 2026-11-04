@@ -1,0 +1,29 @@
+{
+  "key": "c3c3bc755d4583f0fb7a4abe3c810ead8a9eaf28c763dfee88cc98dd75f21e85",
+  "text": "Xây dựng doanh nghiệp.",
+  "sampleRate": 22050,
+  "seconds": 0.8010884353741496,
+  "words": [
+    {
+      "word": "xây",
+      "fromSample": 1024,
+      "toSample": 3840
+    },
+    {
+      "word": "dựng",
+      "fromSample": 4608,
+      "toSample": 8960
+    },
+    {
+      "word": "doanh",
+      "fromSample": 9728,
+      "toSample": 13312
+    },
+    {
+      "word": "nghiệp",
+      "fromSample": 13824,
+      "toSample": 16896
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

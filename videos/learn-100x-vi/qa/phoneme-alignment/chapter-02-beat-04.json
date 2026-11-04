@@ -1,0 +1,114 @@
+{
+  "key": "acfbfe7b6742370dd5d388a742ca72bbb70f7d09d7015ad15d19a1a6b0db80d8",
+  "text": "Thế là bạn quyết định thử xem giới hạn của mình ở đâu. Tại sao chỉ dừng lại ở toán học?",
+  "sampleRate": 22050,
+  "seconds": 4.249251700680272,
+  "words": [
+    {
+      "word": "thế",
+      "fromSample": 1792,
+      "toSample": 4096
+    },
+    {
+      "word": "là",
+      "fromSample": 4608,
+      "toSample": 7168
+    },
+    {
+      "word": "bạn",
+      "fromSample": 7680,
+      "toSample": 11264
+    },
+    {
+      "word": "quyết",
+      "fromSample": 12288,
+      "toSample": 16896
+    },
+    {
+      "word": "định",
+      "fromSample": 17408,
+      "toSample": 20480
+    },
+    {
+      "word": "thử",
+      "fromSample": 20992,
+      "toSample": 24832
+    },
+    {
+      "word": "xem",
+      "fromSample": 26112,
+      "toSample": 30976
+    },
+    {
+      "word": "giới",
+      "fromSample": 31744,
+      "toSample": 37120
+    },
+    {
+      "word": "hạn",
+      "fromSample": 37632,
+      "toSample": 41984
+    },
+    {
+      "word": "của",
+      "fromSample": 42496,
+      "toSample": 45824
+    },
+    {
+      "word": "mình",
+      "fromSample": 46336,
+      "toSample": 49920
+    },
+    {
+      "word": "ở",
+      "fromSample": 50432,
+      "toSample": 52480
+    },
+    {
+      "word": "đâu",
+      "fromSample": 53248,
+      "toSample": 57344
+    },
+    {
+      "word": "tại",
+      "fromSample": 59648,
+      "toSample": 63232
+    },
+    {
+      "word": "sao",
+      "fromSample": 63744,
+      "toSample": 67840
+    },
+    {
+      "word": "chỉ",
+      "fromSample": 68608,
+      "toSample": 72448
+    },
+    {
+      "word": "dừng",
+      "fromSample": 73728,
+      "toSample": 77824
+    },
+    {
+      "word": "lại",
+      "fromSample": 78336,
+      "toSample": 81920
+    },
+    {
+      "word": "ở",
+      "fromSample": 82432,
+      "toSample": 84736
+    },
+    {
+      "word": "toán",
+      "fromSample": 85248,
+      "toSample": 89600
+    },
+    {
+      "word": "học",
+      "fromSample": 90368,
+      "toSample": 92928
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

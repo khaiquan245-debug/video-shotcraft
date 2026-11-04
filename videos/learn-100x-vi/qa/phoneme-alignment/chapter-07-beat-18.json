@@ -1,0 +1,94 @@
+{
+  "key": "59b9d0d3e1863729b9ba87f8e6ecdf6f2ec8ed45ee48ce6c7ded92d928c076e6",
+  "text": "Nhưng để khám phá một điều thực sự mới, bạn vẫn phải bước vào vùng chưa biết.",
+  "sampleRate": 22050,
+  "seconds": 3.866122448979592,
+  "words": [
+    {
+      "word": "nhưng",
+      "fromSample": 512,
+      "toSample": 3584
+    },
+    {
+      "word": "để",
+      "fromSample": 4352,
+      "toSample": 7168
+    },
+    {
+      "word": "khám",
+      "fromSample": 8448,
+      "toSample": 13312
+    },
+    {
+      "word": "phá",
+      "fromSample": 14336,
+      "toSample": 19712
+    },
+    {
+      "word": "một",
+      "fromSample": 20480,
+      "toSample": 24320
+    },
+    {
+      "word": "điều",
+      "fromSample": 24832,
+      "toSample": 28928
+    },
+    {
+      "word": "thực",
+      "fromSample": 29696,
+      "toSample": 33536
+    },
+    {
+      "word": "sự",
+      "fromSample": 34304,
+      "toSample": 37632
+    },
+    {
+      "word": "mới",
+      "fromSample": 38656,
+      "toSample": 45568
+    },
+    {
+      "word": "bạn",
+      "fromSample": 48384,
+      "toSample": 53760
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 54528,
+      "toSample": 58880
+    },
+    {
+      "word": "phải",
+      "fromSample": 59392,
+      "toSample": 64000
+    },
+    {
+      "word": "bước",
+      "fromSample": 65024,
+      "toSample": 68608
+    },
+    {
+      "word": "vào",
+      "fromSample": 69120,
+      "toSample": 72704
+    },
+    {
+      "word": "vùng",
+      "fromSample": 73216,
+      "toSample": 77056
+    },
+    {
+      "word": "chưa",
+      "fromSample": 77568,
+      "toSample": 80128
+    },
+    {
+      "word": "biết",
+      "fromSample": 80640,
+      "toSample": 84224
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

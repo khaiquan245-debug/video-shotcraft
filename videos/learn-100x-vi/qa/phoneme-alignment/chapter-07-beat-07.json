@@ -1,0 +1,34 @@
+{
+  "key": "21c3fab41892dd6010d0613337b891d2492e4f8bd66159c7dfdc4f12d537ae1c",
+  "text": "Bạn nghiên cứu sinh học.",
+  "sampleRate": 22050,
+  "seconds": 1.0681179138321995,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 1792,
+      "toSample": 5376
+    },
+    {
+      "word": "nghiên",
+      "fromSample": 6144,
+      "toSample": 9728
+    },
+    {
+      "word": "cứu",
+      "fromSample": 11008,
+      "toSample": 15360
+    },
+    {
+      "word": "sinh",
+      "fromSample": 16896,
+      "toSample": 19712
+    },
+    {
+      "word": "học",
+      "fromSample": 20224,
+      "toSample": 22784
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

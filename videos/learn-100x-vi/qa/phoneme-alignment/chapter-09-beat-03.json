@@ -1,0 +1,39 @@
+{
+  "key": "3694a91b3ec80aca894a9b38367e7b963d3298f4fbf4f3be3e4b39be1ef78d82",
+  "text": "Tạo ra những công nghệ mới.",
+  "sampleRate": 22050,
+  "seconds": 1.2887074829931973,
+  "words": [
+    {
+      "word": "tạo",
+      "fromSample": 512,
+      "toSample": 4864
+    },
+    {
+      "word": "ra",
+      "fromSample": 5888,
+      "toSample": 9472
+    },
+    {
+      "word": "những",
+      "fromSample": 10240,
+      "toSample": 14080
+    },
+    {
+      "word": "công",
+      "fromSample": 15104,
+      "toSample": 18176
+    },
+    {
+      "word": "nghệ",
+      "fromSample": 18688,
+      "toSample": 21248
+    },
+    {
+      "word": "mới",
+      "fromSample": 21760,
+      "toSample": 27136
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

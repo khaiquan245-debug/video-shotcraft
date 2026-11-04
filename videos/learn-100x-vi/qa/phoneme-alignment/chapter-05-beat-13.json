@@ -1,0 +1,39 @@
+{
+  "key": "be1f22adb00d0d7d748269b0198bc207adec52bbf0e6c09c5e075180442ca492",
+  "text": "Nhân viên cần sự dẫn dắt.",
+  "sampleRate": 22050,
+  "seconds": 1.4396371882086167,
+  "words": [
+    {
+      "word": "nhân",
+      "fromSample": 1024,
+      "toSample": 4608
+    },
+    {
+      "word": "viên",
+      "fromSample": 5120,
+      "toSample": 9472
+    },
+    {
+      "word": "cần",
+      "fromSample": 10752,
+      "toSample": 15104
+    },
+    {
+      "word": "sự",
+      "fromSample": 16640,
+      "toSample": 20992
+    },
+    {
+      "word": "dẫn",
+      "fromSample": 21760,
+      "toSample": 25856
+    },
+    {
+      "word": "dắt",
+      "fromSample": 27136,
+      "toSample": 30976
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

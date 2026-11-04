@@ -1,0 +1,29 @@
+{
+  "key": "ff94f9c95a57973cf6c2305c86fa1a32dba047aa4ed4353fdb472caba8539184",
+  "text": "Biến đổi khí hậu.",
+  "sampleRate": 22050,
+  "seconds": 0.9287981859410431,
+  "words": [
+    {
+      "word": "biến",
+      "fromSample": 1024,
+      "toSample": 5632
+    },
+    {
+      "word": "đổi",
+      "fromSample": 6400,
+      "toSample": 11008
+    },
+    {
+      "word": "khí",
+      "fromSample": 11776,
+      "toSample": 14592
+    },
+    {
+      "word": "hậu",
+      "fromSample": 15360,
+      "toSample": 19456
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,74 @@
+{
+  "key": "fc2cfcc43d2ef3b1756aebc9d68635fc3eb79f16011e90552bd7fc5aea4a8afc",
+  "text": "Hay đơn giản là chẳng ai thực sự cần thứ bạn đang bán?",
+  "sampleRate": 22050,
+  "seconds": 2.6354648526077096,
+  "words": [
+    {
+      "word": "hay",
+      "fromSample": 512,
+      "toSample": 2816
+    },
+    {
+      "word": "đơn",
+      "fromSample": 3328,
+      "toSample": 6400
+    },
+    {
+      "word": "giản",
+      "fromSample": 7424,
+      "toSample": 12032
+    },
+    {
+      "word": "là",
+      "fromSample": 12544,
+      "toSample": 15616
+    },
+    {
+      "word": "chẳng",
+      "fromSample": 16384,
+      "toSample": 20224
+    },
+    {
+      "word": "ai",
+      "fromSample": 20992,
+      "toSample": 24320
+    },
+    {
+      "word": "thực",
+      "fromSample": 25344,
+      "toSample": 28672
+    },
+    {
+      "word": "sự",
+      "fromSample": 29952,
+      "toSample": 33024
+    },
+    {
+      "word": "cần",
+      "fromSample": 34048,
+      "toSample": 37888
+    },
+    {
+      "word": "thứ",
+      "fromSample": 38912,
+      "toSample": 42240
+    },
+    {
+      "word": "bạn",
+      "fromSample": 43008,
+      "toSample": 47616
+    },
+    {
+      "word": "đang",
+      "fromSample": 48128,
+      "toSample": 51712
+    },
+    {
+      "word": "bán",
+      "fromSample": 52480,
+      "toSample": 57088
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

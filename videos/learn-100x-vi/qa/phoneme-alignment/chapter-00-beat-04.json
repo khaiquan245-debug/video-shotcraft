@@ -1,0 +1,19 @@
+{
+  "key": "04a6e90c64a06c522abfaa9d59db053288bde5588c49494e2b2e0de222f9c132",
+  "text": "Toán học.",
+  "sampleRate": 22050,
+  "seconds": 0.5108390022675737,
+  "words": [
+    {
+      "word": "toán",
+      "fromSample": 3072,
+      "toSample": 7168
+    },
+    {
+      "word": "học",
+      "fromSample": 7936,
+      "toSample": 10496
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,1170 @@
+[
+  {
+    "id": 0,
+    "chapter": 1,
+    "tag": "alarm",
+    "mode": "wide",
+    "frame": 34,
+    "file": "shot-000.jpg"
+  },
+  {
+    "id": 1,
+    "chapter": 1,
+    "tag": "alarm",
+    "mode": "wide",
+    "frame": 111,
+    "file": "shot-001.jpg"
+  },
+  {
+    "id": 2,
+    "chapter": 1,
+    "tag": "brain",
+    "mode": "wide",
+    "frame": 199,
+    "file": "shot-002.jpg"
+  },
+  {
+    "id": 3,
+    "chapter": 1,
+    "tag": "comparison",
+    "mode": "split",
+    "frame": 315,
+    "file": "shot-003.jpg"
+  },
+  {
+    "id": 4,
+    "chapter": 1,
+    "tag": "knowledge",
+    "mode": "wide",
+    "frame": 450,
+    "file": "shot-004.jpg"
+  },
+  {
+    "id": 5,
+    "chapter": 1,
+    "tag": "mathematics",
+    "mode": "wide",
+    "frame": 563,
+    "file": "shot-005.jpg"
+  },
+  {
+    "id": 6,
+    "chapter": 1,
+    "tag": "languages",
+    "mode": "medium",
+    "frame": 638,
+    "file": "shot-006.jpg"
+  },
+  {
+    "id": 7,
+    "chapter": 1,
+    "tag": "grades",
+    "mode": "wide",
+    "frame": 727,
+    "file": "shot-007.jpg"
+  },
+  {
+    "id": 8,
+    "chapter": 1,
+    "tag": "money",
+    "mode": "wide",
+    "frame": 825,
+    "file": "shot-008.jpg"
+  },
+  {
+    "id": 9,
+    "chapter": 1,
+    "tag": "worldAttention",
+    "mode": "wide",
+    "frame": 915,
+    "file": "shot-009.jpg"
+  },
+  {
+    "id": 10,
+    "chapter": 2,
+    "tag": "rules",
+    "mode": "wide",
+    "frame": 1004,
+    "file": "shot-010.jpg"
+  },
+  {
+    "id": 11,
+    "chapter": 2,
+    "tag": "learn",
+    "mode": "wide",
+    "frame": 1085,
+    "file": "shot-011.jpg"
+  },
+  {
+    "id": 12,
+    "chapter": 2,
+    "tag": "body",
+    "mode": "wide",
+    "frame": 1187,
+    "file": "shot-012.jpg"
+  },
+  {
+    "id": 13,
+    "chapter": 2,
+    "tag": "unknown",
+    "mode": "wide",
+    "frame": 1320,
+    "file": "shot-013.jpg"
+  },
+  {
+    "id": 14,
+    "chapter": 2,
+    "tag": "limits",
+    "mode": "wide",
+    "frame": 1442,
+    "file": "shot-014.jpg"
+  },
+  {
+    "id": 15,
+    "chapter": 2,
+    "tag": "limits",
+    "mode": "medium",
+    "frame": 1538,
+    "file": "shot-015.jpg"
+  },
+  {
+    "id": 16,
+    "chapter": 3,
+    "tag": "classroom",
+    "mode": "wide",
+    "frame": 1631,
+    "file": "shot-016.jpg"
+  },
+  {
+    "id": 17,
+    "chapter": 3,
+    "tag": "equation",
+    "mode": "wide",
+    "frame": 1720,
+    "file": "shot-017.jpg"
+  },
+  {
+    "id": 18,
+    "chapter": 3,
+    "tag": "equation",
+    "mode": "medium",
+    "frame": 1812,
+    "file": "shot-018.jpg"
+  },
+  {
+    "id": 19,
+    "chapter": 3,
+    "tag": "solution",
+    "mode": "wide",
+    "frame": 1906,
+    "file": "shot-019.jpg"
+  },
+  {
+    "id": 20,
+    "chapter": 3,
+    "tag": "solution",
+    "mode": "medium",
+    "frame": 2002,
+    "file": "shot-020.jpg"
+  },
+  {
+    "id": 21,
+    "chapter": 3,
+    "tag": "nextChapter",
+    "mode": "wide",
+    "frame": 2102,
+    "file": "shot-021.jpg"
+  },
+  {
+    "id": 22,
+    "chapter": 3,
+    "tag": "testLimits",
+    "mode": "wide",
+    "frame": 2219,
+    "file": "shot-022.jpg"
+  },
+  {
+    "id": 23,
+    "chapter": 3,
+    "tag": "physics",
+    "mode": "wide",
+    "frame": 2327,
+    "file": "shot-023.jpg"
+  },
+  {
+    "id": 24,
+    "chapter": 3,
+    "tag": "programming",
+    "mode": "wide",
+    "frame": 2412,
+    "file": "shot-024.jpg"
+  },
+  {
+    "id": 25,
+    "chapter": 3,
+    "tag": "programming",
+    "mode": "medium",
+    "frame": 2500,
+    "file": "shot-025.jpg"
+  },
+  {
+    "id": 26,
+    "chapter": 3,
+    "tag": "week",
+    "mode": "wide",
+    "frame": 2595,
+    "file": "shot-026.jpg"
+  },
+  {
+    "id": 27,
+    "chapter": 3,
+    "tag": "diploma",
+    "mode": "wide",
+    "frame": 2687,
+    "file": "shot-027.jpg"
+  },
+  {
+    "id": 28,
+    "chapter": 3,
+    "tag": "diploma",
+    "mode": "wide",
+    "frame": 2765,
+    "file": "shot-028.jpg"
+  },
+  {
+    "id": 29,
+    "chapter": 3,
+    "tag": "requirements",
+    "mode": "top",
+    "frame": 2843,
+    "file": "shot-029.jpg"
+  },
+  {
+    "id": 30,
+    "chapter": 3,
+    "tag": "opportunity",
+    "mode": "portrait",
+    "frame": 2950,
+    "file": "shot-030.jpg"
+  },
+  {
+    "id": 31,
+    "chapter": 3,
+    "tag": "opportunity",
+    "mode": "wide",
+    "frame": 3092,
+    "file": "shot-031.jpg"
+  },
+  {
+    "id": 32,
+    "chapter": 4,
+    "tag": "money",
+    "mode": "wide",
+    "frame": 3214,
+    "file": "shot-032.jpg"
+  },
+  {
+    "id": 33,
+    "chapter": 4,
+    "tag": "programming",
+    "mode": "wide",
+    "frame": 3313,
+    "file": "shot-033.jpg"
+  },
+  {
+    "id": 34,
+    "chapter": 4,
+    "tag": "programming",
+    "mode": "medium",
+    "frame": 3413,
+    "file": "shot-034.jpg"
+  },
+  {
+    "id": 35,
+    "chapter": 4,
+    "tag": "web",
+    "mode": "wide",
+    "frame": 3502,
+    "file": "shot-035.jpg"
+  },
+  {
+    "id": 36,
+    "chapter": 4,
+    "tag": "ai",
+    "mode": "wide",
+    "frame": 3584,
+    "file": "shot-036.jpg"
+  },
+  {
+    "id": 37,
+    "chapter": 4,
+    "tag": "management",
+    "mode": "medium",
+    "frame": 3672,
+    "file": "shot-037.jpg"
+  },
+  {
+    "id": 38,
+    "chapter": 4,
+    "tag": "store",
+    "mode": "wide",
+    "frame": 3756,
+    "file": "shot-038.jpg"
+  },
+  {
+    "id": 39,
+    "chapter": 4,
+    "tag": "research",
+    "mode": "wide",
+    "frame": 3842,
+    "file": "shot-039.jpg"
+  },
+  {
+    "id": 40,
+    "chapter": 4,
+    "tag": "products",
+    "mode": "wide",
+    "frame": 3936,
+    "file": "shot-040.jpg"
+  },
+  {
+    "id": 41,
+    "chapter": 4,
+    "tag": "ads",
+    "mode": "wide",
+    "frame": 4039,
+    "file": "shot-041.jpg"
+  },
+  {
+    "id": 42,
+    "chapter": 4,
+    "tag": "ads",
+    "mode": "medium",
+    "frame": 4162,
+    "file": "shot-042.jpg"
+  },
+  {
+    "id": 43,
+    "chapter": 4,
+    "tag": "launch",
+    "mode": "wide",
+    "frame": 4291,
+    "file": "shot-043.jpg"
+  },
+  {
+    "id": 44,
+    "chapter": 4,
+    "tag": "zero",
+    "mode": "medium",
+    "frame": 4426,
+    "file": "shot-044.jpg"
+  },
+  {
+    "id": 45,
+    "chapter": 4,
+    "tag": "investigate",
+    "mode": "wide",
+    "frame": 4543,
+    "file": "shot-045.jpg"
+  },
+  {
+    "id": 46,
+    "chapter": 4,
+    "tag": "photos",
+    "mode": "wide",
+    "frame": 4656,
+    "file": "shot-046.jpg"
+  },
+  {
+    "id": 47,
+    "chapter": 4,
+    "tag": "test",
+    "mode": "wide",
+    "frame": 4779,
+    "file": "shot-047.jpg"
+  },
+  {
+    "id": 48,
+    "chapter": 4,
+    "tag": "orders",
+    "mode": "wide",
+    "frame": 4892,
+    "file": "shot-048.jpg"
+  },
+  {
+    "id": 49,
+    "chapter": 4,
+    "tag": "adapt",
+    "mode": "portrait",
+    "frame": 4998,
+    "file": "shot-049.jpg"
+  },
+  {
+    "id": 50,
+    "chapter": 4,
+    "tag": "adapt",
+    "mode": "wide",
+    "frame": 5091,
+    "file": "shot-050.jpg"
+  },
+  {
+    "id": 51,
+    "chapter": 4,
+    "tag": "investing",
+    "mode": "wide",
+    "frame": 5185,
+    "file": "shot-051.jpg"
+  },
+  {
+    "id": 52,
+    "chapter": 4,
+    "tag": "finance",
+    "mode": "wide",
+    "frame": 5291,
+    "file": "shot-052.jpg"
+  },
+  {
+    "id": 53,
+    "chapter": 4,
+    "tag": "uncertainty",
+    "mode": "portrait",
+    "frame": 5392,
+    "file": "shot-053.jpg"
+  },
+  {
+    "id": 54,
+    "chapter": 4,
+    "tag": "uncertainty",
+    "mode": "wide",
+    "frame": 5470,
+    "file": "shot-054.jpg"
+  },
+  {
+    "id": 55,
+    "chapter": 4,
+    "tag": "decisions",
+    "mode": "wide",
+    "frame": 5567,
+    "file": "shot-055.jpg"
+  },
+  {
+    "id": 56,
+    "chapter": 4,
+    "tag": "decisions",
+    "mode": "medium",
+    "frame": 5688,
+    "file": "shot-056.jpg"
+  },
+  {
+    "id": 57,
+    "chapter": 5,
+    "tag": "map",
+    "mode": "wide",
+    "frame": 5815,
+    "file": "shot-057.jpg"
+  },
+  {
+    "id": 58,
+    "chapter": 5,
+    "tag": "English",
+    "mode": "wide",
+    "frame": 5925,
+    "file": "shot-058.jpg"
+  },
+  {
+    "id": 59,
+    "chapter": 5,
+    "tag": "Japanese",
+    "mode": "wide",
+    "frame": 6030,
+    "file": "shot-059.jpg"
+  },
+  {
+    "id": 60,
+    "chapter": 5,
+    "tag": "languageStudy",
+    "mode": "medium",
+    "frame": 6165,
+    "file": "shot-060.jpg"
+  },
+  {
+    "id": 61,
+    "chapter": 5,
+    "tag": "conversation",
+    "mode": "wide",
+    "frame": 6273,
+    "file": "shot-061.jpg"
+  },
+  {
+    "id": 62,
+    "chapter": 5,
+    "tag": "conversation",
+    "mode": "medium",
+    "frame": 6349,
+    "file": "shot-062.jpg"
+  },
+  {
+    "id": 63,
+    "chapter": 5,
+    "tag": "worldResearch",
+    "mode": "wide",
+    "frame": 6441,
+    "file": "shot-063.jpg"
+  },
+  {
+    "id": 64,
+    "chapter": 5,
+    "tag": "worldResearch",
+    "mode": "medium",
+    "frame": 6554,
+    "file": "shot-064.jpg"
+  },
+  {
+    "id": 65,
+    "chapter": 5,
+    "tag": "skills",
+    "mode": "wide",
+    "frame": 6651,
+    "file": "shot-065.jpg"
+  },
+  {
+    "id": 66,
+    "chapter": 5,
+    "tag": "drawing",
+    "mode": "wide",
+    "frame": 6749,
+    "file": "shot-066.jpg"
+  },
+  {
+    "id": 67,
+    "chapter": 5,
+    "tag": "piano",
+    "mode": "wide",
+    "frame": 6866,
+    "file": "shot-067.jpg"
+  },
+  {
+    "id": 68,
+    "chapter": 5,
+    "tag": "football",
+    "mode": "wide",
+    "frame": 6983,
+    "file": "shot-068.jpg"
+  },
+  {
+    "id": 69,
+    "chapter": 5,
+    "tag": "practice",
+    "mode": "wide",
+    "frame": 7099,
+    "file": "shot-069.jpg"
+  },
+  {
+    "id": 70,
+    "chapter": 5,
+    "tag": "practice",
+    "mode": "medium",
+    "frame": 7202,
+    "file": "shot-070.jpg"
+  },
+  {
+    "id": 71,
+    "chapter": 5,
+    "tag": "bodyLimit",
+    "mode": "portrait",
+    "frame": 7323,
+    "file": "shot-071.jpg"
+  },
+  {
+    "id": 72,
+    "chapter": 6,
+    "tag": "startup",
+    "mode": "wide",
+    "frame": 7434,
+    "file": "shot-072.jpg"
+  },
+  {
+    "id": 73,
+    "chapter": 6,
+    "tag": "startup",
+    "mode": "medium",
+    "frame": 7509,
+    "file": "shot-073.jpg"
+  },
+  {
+    "id": 74,
+    "chapter": 6,
+    "tag": "expertise",
+    "mode": "wide",
+    "frame": 7587,
+    "file": "shot-074.jpg"
+  },
+  {
+    "id": 75,
+    "chapter": 6,
+    "tag": "problem",
+    "mode": "wide",
+    "frame": 7697,
+    "file": "shot-075.jpg"
+  },
+  {
+    "id": 76,
+    "chapter": 6,
+    "tag": "company",
+    "mode": "wide",
+    "frame": 7826,
+    "file": "shot-076.jpg"
+  },
+  {
+    "id": 77,
+    "chapter": 6,
+    "tag": "identify",
+    "mode": "medium",
+    "frame": 7938,
+    "file": "shot-077.jpg"
+  },
+  {
+    "id": 78,
+    "chapter": 6,
+    "tag": "design",
+    "mode": "wide",
+    "frame": 8036,
+    "file": "shot-078.jpg"
+  },
+  {
+    "id": 79,
+    "chapter": 6,
+    "tag": "strategy",
+    "mode": "wide",
+    "frame": 8114,
+    "file": "shot-079.jpg"
+  },
+  {
+    "id": 80,
+    "chapter": 6,
+    "tag": "investors",
+    "mode": "medium",
+    "frame": 8187,
+    "file": "shot-080.jpg"
+  },
+  {
+    "id": 81,
+    "chapter": 6,
+    "tag": "team",
+    "mode": "wide",
+    "frame": 8266,
+    "file": "shot-081.jpg"
+  },
+  {
+    "id": 82,
+    "chapter": 6,
+    "tag": "team",
+    "mode": "medium",
+    "frame": 8352,
+    "file": "shot-082.jpg"
+  },
+  {
+    "id": 83,
+    "chapter": 6,
+    "tag": "testing",
+    "mode": "wide",
+    "frame": 8453,
+    "file": "shot-083.jpg"
+  },
+  {
+    "id": 84,
+    "chapter": 6,
+    "tag": "customers",
+    "mode": "wide",
+    "frame": 8557,
+    "file": "shot-084.jpg"
+  },
+  {
+    "id": 85,
+    "chapter": 6,
+    "tag": "risk",
+    "mode": "wide",
+    "frame": 8653,
+    "file": "shot-085.jpg"
+  },
+  {
+    "id": 86,
+    "chapter": 6,
+    "tag": "notGuaranteed",
+    "mode": "portrait",
+    "frame": 8762,
+    "file": "shot-086.jpg"
+  },
+  {
+    "id": 87,
+    "chapter": 6,
+    "tag": "advantage",
+    "mode": "wide",
+    "frame": 8876,
+    "file": "shot-087.jpg"
+  },
+  {
+    "id": 88,
+    "chapter": 6,
+    "tag": "secret",
+    "mode": "portrait",
+    "frame": 8992,
+    "file": "shot-088.jpg"
+  },
+  {
+    "id": 89,
+    "chapter": 7,
+    "tag": "private",
+    "mode": "wide",
+    "frame": 9102,
+    "file": "shot-089.jpg"
+  },
+  {
+    "id": 90,
+    "chapter": 7,
+    "tag": "private",
+    "mode": "medium",
+    "frame": 9203,
+    "file": "shot-090.jpg"
+  },
+  {
+    "id": 91,
+    "chapter": 7,
+    "tag": "tests",
+    "mode": "top",
+    "frame": 9314,
+    "file": "shot-091.jpg"
+  },
+  {
+    "id": 92,
+    "chapter": 7,
+    "tag": "sixLanguages",
+    "mode": "wide",
+    "frame": 9423,
+    "file": "shot-092.jpg"
+  },
+  {
+    "id": 93,
+    "chapter": 7,
+    "tag": "viral",
+    "mode": "wide",
+    "frame": 9511,
+    "file": "shot-093.jpg"
+  },
+  {
+    "id": 94,
+    "chapter": 7,
+    "tag": "fake",
+    "mode": "wide",
+    "frame": 9600,
+    "file": "shot-094.jpg"
+  },
+  {
+    "id": 95,
+    "chapter": 7,
+    "tag": "verify",
+    "mode": "wide",
+    "frame": 9694,
+    "file": "shot-095.jpg"
+  },
+  {
+    "id": 96,
+    "chapter": 7,
+    "tag": "invites",
+    "mode": "wide",
+    "frame": 9791,
+    "file": "shot-096.jpg"
+  },
+  {
+    "id": 97,
+    "chapter": 7,
+    "tag": "researchOrg",
+    "mode": "wide",
+    "frame": 9899,
+    "file": "shot-097.jpg"
+  },
+  {
+    "id": 98,
+    "chapter": 7,
+    "tag": "attention",
+    "mode": "wide",
+    "frame": 10016,
+    "file": "shot-098.jpg"
+  },
+  {
+    "id": 99,
+    "chapter": 7,
+    "tag": "attention",
+    "mode": "wide",
+    "frame": 10125,
+    "file": "shot-099.jpg"
+  },
+  {
+    "id": 100,
+    "chapter": 7,
+    "tag": "privacy",
+    "mode": "wide",
+    "frame": 10244,
+    "file": "shot-100.jpg"
+  },
+  {
+    "id": 101,
+    "chapter": 7,
+    "tag": "question",
+    "mode": "wide",
+    "frame": 10365,
+    "file": "shot-101.jpg"
+  },
+  {
+    "id": 102,
+    "chapter": 7,
+    "tag": "everyone",
+    "mode": "wide",
+    "frame": 10471,
+    "file": "shot-102.jpg"
+  },
+  {
+    "id": 103,
+    "chapter": 7,
+    "tag": "education",
+    "mode": "wide",
+    "frame": 10564,
+    "file": "shot-103.jpg"
+  },
+  {
+    "id": 104,
+    "chapter": 7,
+    "tag": "education",
+    "mode": "wide",
+    "frame": 10642,
+    "file": "shot-104.jpg"
+  },
+  {
+    "id": 105,
+    "chapter": 7,
+    "tag": "degreeNormal",
+    "mode": "wide",
+    "frame": 10731,
+    "file": "shot-105.jpg"
+  },
+  {
+    "id": 106,
+    "chapter": 7,
+    "tag": "normal",
+    "mode": "portrait",
+    "frame": 10825,
+    "file": "shot-106.jpg"
+  },
+  {
+    "id": 107,
+    "chapter": 7,
+    "tag": "creativity",
+    "mode": "wide",
+    "frame": 10923,
+    "file": "shot-107.jpg"
+  },
+  {
+    "id": 108,
+    "chapter": 7,
+    "tag": "creativity",
+    "mode": "medium",
+    "frame": 11042,
+    "file": "shot-108.jpg"
+  },
+  {
+    "id": 109,
+    "chapter": 7,
+    "tag": "notAlone",
+    "mode": "portrait",
+    "frame": 11169,
+    "file": "shot-109.jpg"
+  },
+  {
+    "id": 110,
+    "chapter": 8,
+    "tag": "money",
+    "mode": "wide",
+    "frame": 11289,
+    "file": "shot-110.jpg"
+  },
+  {
+    "id": 111,
+    "chapter": 8,
+    "tag": "money",
+    "mode": "medium",
+    "frame": 11390,
+    "file": "shot-111.jpg"
+  },
+  {
+    "id": 112,
+    "chapter": 8,
+    "tag": "impact",
+    "mode": "wide",
+    "frame": 11491,
+    "file": "shot-112.jpg"
+  },
+  {
+    "id": 113,
+    "chapter": 8,
+    "tag": "challenges",
+    "mode": "wide",
+    "frame": 11582,
+    "file": "shot-113.jpg"
+  },
+  {
+    "id": 114,
+    "chapter": 8,
+    "tag": "energy",
+    "mode": "wide",
+    "frame": 11682,
+    "file": "shot-114.jpg"
+  },
+  {
+    "id": 115,
+    "chapter": 8,
+    "tag": "biology",
+    "mode": "wide",
+    "frame": 11787,
+    "file": "shot-115.jpg"
+  },
+  {
+    "id": 116,
+    "chapter": 8,
+    "tag": "materials",
+    "mode": "wide",
+    "frame": 11893,
+    "file": "shot-116.jpg"
+  },
+  {
+    "id": 117,
+    "chapter": 8,
+    "tag": "connections",
+    "mode": "medium",
+    "frame": 12033,
+    "file": "shot-117.jpg"
+  },
+  {
+    "id": 118,
+    "chapter": 8,
+    "tag": "prototype",
+    "mode": "wide",
+    "frame": 12159,
+    "file": "shot-118.jpg"
+  },
+  {
+    "id": 119,
+    "chapter": 8,
+    "tag": "prototype",
+    "mode": "medium",
+    "frame": 12272,
+    "file": "shot-119.jpg"
+  },
+  {
+    "id": 120,
+    "chapter": 8,
+    "tag": "evidence",
+    "mode": "wide",
+    "frame": 12386,
+    "file": "shot-120.jpg"
+  },
+  {
+    "id": 121,
+    "chapter": 8,
+    "tag": "validation",
+    "mode": "wide",
+    "frame": 12500,
+    "file": "shot-121.jpg"
+  },
+  {
+    "id": 122,
+    "chapter": 8,
+    "tag": "known",
+    "mode": "wide",
+    "frame": 12599,
+    "file": "shot-122.jpg"
+  },
+  {
+    "id": 123,
+    "chapter": 8,
+    "tag": "unknown",
+    "mode": "wide",
+    "frame": 12706,
+    "file": "shot-123.jpg"
+  },
+  {
+    "id": 124,
+    "chapter": 9,
+    "tag": "year",
+    "mode": "wide",
+    "frame": 12866,
+    "file": "shot-124.jpg"
+  },
+  {
+    "id": 125,
+    "chapter": 9,
+    "tag": "dinner",
+    "mode": "wide",
+    "frame": 13064,
+    "file": "shot-125.jpg"
+  },
+  {
+    "id": 126,
+    "chapter": 9,
+    "tag": "listen",
+    "mode": "wide",
+    "frame": 13270,
+    "file": "shot-126.jpg"
+  },
+  {
+    "id": 127,
+    "chapter": 9,
+    "tag": "forget",
+    "mode": "portrait",
+    "frame": 13431,
+    "file": "shot-127.jpg"
+  },
+  {
+    "id": 128,
+    "chapter": 9,
+    "tag": "forget",
+    "mode": "wide",
+    "frame": 13540,
+    "file": "shot-128.jpg"
+  },
+  {
+    "id": 129,
+    "chapter": 9,
+    "tag": "frustration",
+    "mode": "wide",
+    "frame": 13684,
+    "file": "shot-129.jpg"
+  },
+  {
+    "id": 130,
+    "chapter": 9,
+    "tag": "quiet",
+    "mode": "wide",
+    "frame": 13845,
+    "file": "shot-130.jpg"
+  },
+  {
+    "id": 131,
+    "chapter": 9,
+    "tag": "knowledge",
+    "mode": "medium",
+    "frame": 13972,
+    "file": "shot-131.jpg"
+  },
+  {
+    "id": 132,
+    "chapter": 9,
+    "tag": "unhappy",
+    "mode": "portrait",
+    "frame": 14106,
+    "file": "shot-132.jpg"
+  },
+  {
+    "id": 133,
+    "chapter": 9,
+    "tag": "regret",
+    "mode": "wide",
+    "frame": 14276,
+    "file": "shot-133.jpg"
+  },
+  {
+    "id": 134,
+    "chapter": 9,
+    "tag": "journey",
+    "mode": "portrait",
+    "frame": 14439,
+    "file": "shot-134.jpg"
+  },
+  {
+    "id": 135,
+    "chapter": 9,
+    "tag": "journey",
+    "mode": "wide",
+    "frame": 14554,
+    "file": "shot-135.jpg"
+  },
+  {
+    "id": 136,
+    "chapter": 10,
+    "tag": "recap",
+    "mode": "wide",
+    "frame": 14709,
+    "file": "shot-136.jpg"
+  },
+  {
+    "id": 137,
+    "chapter": 10,
+    "tag": "careers",
+    "mode": "wide",
+    "frame": 14869,
+    "file": "shot-137.jpg"
+  },
+  {
+    "id": 138,
+    "chapter": 10,
+    "tag": "technology",
+    "mode": "medium",
+    "frame": 14975,
+    "file": "shot-138.jpg"
+  },
+  {
+    "id": 139,
+    "chapter": 10,
+    "tag": "limit",
+    "mode": "wide",
+    "frame": 15112,
+    "file": "shot-139.jpg"
+  },
+  {
+    "id": 140,
+    "chapter": 10,
+    "tag": "sleep",
+    "mode": "wide",
+    "frame": 15267,
+    "file": "shot-140.jpg"
+  },
+  {
+    "id": 141,
+    "chapter": 10,
+    "tag": "aging",
+    "mode": "wide",
+    "frame": 15429,
+    "file": "shot-141.jpg"
+  },
+  {
+    "id": 142,
+    "chapter": 10,
+    "tag": "oneLife",
+    "mode": "wide",
+    "frame": 15622,
+    "file": "shot-142.jpg"
+  },
+  {
+    "id": 143,
+    "chapter": 10,
+    "tag": "sunset",
+    "mode": "wide",
+    "frame": 15813,
+    "file": "shot-143.jpg"
+  },
+  {
+    "id": 144,
+    "chapter": 10,
+    "tag": "final",
+    "mode": "concept",
+    "frame": 15978,
+    "file": "shot-144.jpg"
+  },
+  {
+    "id": 145,
+    "chapter": 10,
+    "tag": "final",
+    "mode": "concept",
+    "frame": 16099,
+    "file": "shot-145.jpg"
+  }
+]

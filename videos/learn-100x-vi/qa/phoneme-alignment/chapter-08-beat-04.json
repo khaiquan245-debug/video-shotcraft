@@ -1,0 +1,79 @@
+{
+  "key": "14acd3df8d0c56f2e1ca0a795cbe9fc0d19b1fa74c98e29a2b82b1c8ff0648dd",
+  "text": "Em trai bạn kể với mọi người những gì đã xảy ra ở trường.",
+  "sampleRate": 22050,
+  "seconds": 2.8908843537414968,
+  "words": [
+    {
+      "word": "em",
+      "fromSample": 768,
+      "toSample": 3328
+    },
+    {
+      "word": "trai",
+      "fromSample": 4096,
+      "toSample": 7936
+    },
+    {
+      "word": "bạn",
+      "fromSample": 8704,
+      "toSample": 13312
+    },
+    {
+      "word": "kể",
+      "fromSample": 14336,
+      "toSample": 18176
+    },
+    {
+      "word": "với",
+      "fromSample": 18688,
+      "toSample": 22016
+    },
+    {
+      "word": "mọi",
+      "fromSample": 22784,
+      "toSample": 27136
+    },
+    {
+      "word": "người",
+      "fromSample": 27648,
+      "toSample": 32000
+    },
+    {
+      "word": "những",
+      "fromSample": 32512,
+      "toSample": 36096
+    },
+    {
+      "word": "gì",
+      "fromSample": 36864,
+      "toSample": 41216
+    },
+    {
+      "word": "đã",
+      "fromSample": 41728,
+      "toSample": 44288
+    },
+    {
+      "word": "xảy",
+      "fromSample": 45312,
+      "toSample": 49664
+    },
+    {
+      "word": "ra",
+      "fromSample": 50944,
+      "toSample": 53504
+    },
+    {
+      "word": "ở",
+      "fromSample": 54016,
+      "toSample": 56576
+    },
+    {
+      "word": "trường",
+      "fromSample": 57088,
+      "toSample": 62976
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

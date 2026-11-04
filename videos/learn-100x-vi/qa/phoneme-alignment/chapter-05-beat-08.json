@@ -1,0 +1,24 @@
+{
+  "key": "e06a33d6b0207f3e5af11a6f82d76c609509fc1b05363d2aac710c7786b8e6bc",
+  "text": "Tuyển nhân viên.",
+  "sampleRate": 22050,
+  "seconds": 0.7894784580498866,
+  "words": [
+    {
+      "word": "tuyển",
+      "fromSample": 2304,
+      "toSample": 6656
+    },
+    {
+      "word": "nhân",
+      "fromSample": 7424,
+      "toSample": 10496
+    },
+    {
+      "word": "viên",
+      "fromSample": 11520,
+      "toSample": 15872
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

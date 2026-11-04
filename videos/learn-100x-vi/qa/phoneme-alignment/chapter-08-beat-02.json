@@ -1,0 +1,64 @@
+{
+  "key": "9eca54c7e75d4c021739897aa4cb7210a95d88d0ed20ec26bc75d4c596c52045",
+  "text": "Nhưng tối nay, bạn chỉ đang ăn cơm cùng gia đình.",
+  "sampleRate": 22050,
+  "seconds": 2.507755102040816,
+  "words": [
+    {
+      "word": "nhưng",
+      "fromSample": 768,
+      "toSample": 4096
+    },
+    {
+      "word": "tối",
+      "fromSample": 4864,
+      "toSample": 8960
+    },
+    {
+      "word": "nay",
+      "fromSample": 9728,
+      "toSample": 15104
+    },
+    {
+      "word": "bạn",
+      "fromSample": 18176,
+      "toSample": 23296
+    },
+    {
+      "word": "chỉ",
+      "fromSample": 24064,
+      "toSample": 28416
+    },
+    {
+      "word": "đang",
+      "fromSample": 29440,
+      "toSample": 32512
+    },
+    {
+      "word": "ăn",
+      "fromSample": 33024,
+      "toSample": 36608
+    },
+    {
+      "word": "cơm",
+      "fromSample": 37632,
+      "toSample": 42240
+    },
+    {
+      "word": "cùng",
+      "fromSample": 43264,
+      "toSample": 47616
+    },
+    {
+      "word": "gia",
+      "fromSample": 48128,
+      "toSample": 50944
+    },
+    {
+      "word": "đình",
+      "fromSample": 51456,
+      "toSample": 54528
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

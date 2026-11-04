@@ -1,0 +1,184 @@
+{
+  "key": "9d259cdab9a69691e7356eeee58b655d618571ffcc4e826536bb3ee712b3aa6e",
+  "text": "Nếu ai cũng học với tốc độ đáng kinh ngạc, thành công sẽ càng phụ thuộc vào sự sáng tạo, nguồn lực, khả năng phán đoán và năng lực biến kiến thức thành hành động.",
+  "sampleRate": 22050,
+  "seconds": 7.801904761904762,
+  "words": [
+    {
+      "word": "nếu",
+      "fromSample": 1280,
+      "toSample": 5120
+    },
+    {
+      "word": "ai",
+      "fromSample": 5888,
+      "toSample": 10240
+    },
+    {
+      "word": "cũng",
+      "fromSample": 11008,
+      "toSample": 14080
+    },
+    {
+      "word": "học",
+      "fromSample": 14592,
+      "toSample": 18688
+    },
+    {
+      "word": "với",
+      "fromSample": 19200,
+      "toSample": 23296
+    },
+    {
+      "word": "tốc",
+      "fromSample": 24064,
+      "toSample": 27904
+    },
+    {
+      "word": "độ",
+      "fromSample": 28416,
+      "toSample": 31488
+    },
+    {
+      "word": "đáng",
+      "fromSample": 32768,
+      "toSample": 37376
+    },
+    {
+      "word": "kinh",
+      "fromSample": 38400,
+      "toSample": 41728
+    },
+    {
+      "word": "ngạc",
+      "fromSample": 42752,
+      "toSample": 48640
+    },
+    {
+      "word": "thành",
+      "fromSample": 50688,
+      "toSample": 55552
+    },
+    {
+      "word": "công",
+      "fromSample": 56832,
+      "toSample": 60416
+    },
+    {
+      "word": "sẽ",
+      "fromSample": 61184,
+      "toSample": 64512
+    },
+    {
+      "word": "càng",
+      "fromSample": 66048,
+      "toSample": 69632
+    },
+    {
+      "word": "phụ",
+      "fromSample": 70656,
+      "toSample": 73472
+    },
+    {
+      "word": "thuộc",
+      "fromSample": 74240,
+      "toSample": 78336
+    },
+    {
+      "word": "vào",
+      "fromSample": 79104,
+      "toSample": 82944
+    },
+    {
+      "word": "sự",
+      "fromSample": 83712,
+      "toSample": 86528
+    },
+    {
+      "word": "sáng",
+      "fromSample": 87296,
+      "toSample": 92416
+    },
+    {
+      "word": "tạo",
+      "fromSample": 92928,
+      "toSample": 98304
+    },
+    {
+      "word": "nguồn",
+      "fromSample": 100096,
+      "toSample": 104448
+    },
+    {
+      "word": "lực",
+      "fromSample": 105728,
+      "toSample": 111104
+    },
+    {
+      "word": "khả",
+      "fromSample": 112896,
+      "toSample": 116480
+    },
+    {
+      "word": "năng",
+      "fromSample": 117504,
+      "toSample": 120064
+    },
+    {
+      "word": "phán",
+      "fromSample": 121088,
+      "toSample": 125696
+    },
+    {
+      "word": "đoán",
+      "fromSample": 126720,
+      "toSample": 133376
+    },
+    {
+      "word": "và",
+      "fromSample": 133888,
+      "toSample": 137984
+    },
+    {
+      "word": "năng",
+      "fromSample": 138496,
+      "toSample": 141312
+    },
+    {
+      "word": "lực",
+      "fromSample": 142336,
+      "toSample": 146176
+    },
+    {
+      "word": "biến",
+      "fromSample": 146944,
+      "toSample": 151552
+    },
+    {
+      "word": "kiến",
+      "fromSample": 152832,
+      "toSample": 156672
+    },
+    {
+      "word": "thức",
+      "fromSample": 157440,
+      "toSample": 160000
+    },
+    {
+      "word": "thành",
+      "fromSample": 161280,
+      "toSample": 164608
+    },
+    {
+      "word": "hành",
+      "fromSample": 165120,
+      "toSample": 168192
+    },
+    {
+      "word": "động",
+      "fromSample": 168704,
+      "toSample": 171264
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

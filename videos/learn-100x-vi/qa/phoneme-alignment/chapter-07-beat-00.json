@@ -1,0 +1,154 @@
+{
+  "key": "4c319664896fb2c2c44a4f3c0639ee1f25f6a94f2dc122a73d0fb541713004ff",
+  "text": "Khi cả thế giới bắt đầu chú ý tới bạn, một câu hỏi khác xuất hiện. Bạn sẽ dùng khả năng ấy để kiếm thêm nhiều tiền hơn nữa?",
+  "sampleRate": 22050,
+  "seconds": 6.257777777777778,
+  "words": [
+    {
+      "word": "khi",
+      "fromSample": 512,
+      "toSample": 2560
+    },
+    {
+      "word": "cả",
+      "fromSample": 3328,
+      "toSample": 7424
+    },
+    {
+      "word": "thế",
+      "fromSample": 7936,
+      "toSample": 11264
+    },
+    {
+      "word": "giới",
+      "fromSample": 11776,
+      "toSample": 16384
+    },
+    {
+      "word": "bắt",
+      "fromSample": 16896,
+      "toSample": 20224
+    },
+    {
+      "word": "đầu",
+      "fromSample": 20736,
+      "toSample": 24576
+    },
+    {
+      "word": "chú",
+      "fromSample": 25344,
+      "toSample": 28672
+    },
+    {
+      "word": "ý",
+      "fromSample": 29440,
+      "toSample": 32512
+    },
+    {
+      "word": "tới",
+      "fromSample": 33280,
+      "toSample": 37120
+    },
+    {
+      "word": "bạn",
+      "fromSample": 37888,
+      "toSample": 42496
+    },
+    {
+      "word": "một",
+      "fromSample": 46080,
+      "toSample": 49920
+    },
+    {
+      "word": "câu",
+      "fromSample": 50432,
+      "toSample": 54016
+    },
+    {
+      "word": "hỏi",
+      "fromSample": 54784,
+      "toSample": 58880
+    },
+    {
+      "word": "khác",
+      "fromSample": 60160,
+      "toSample": 64768
+    },
+    {
+      "word": "xuất",
+      "fromSample": 65280,
+      "toSample": 68864
+    },
+    {
+      "word": "hiện",
+      "fromSample": 69376,
+      "toSample": 72704
+    },
+    {
+      "word": "bạn",
+      "fromSample": 74240,
+      "toSample": 78592
+    },
+    {
+      "word": "sẽ",
+      "fromSample": 79104,
+      "toSample": 82688
+    },
+    {
+      "word": "dùng",
+      "fromSample": 83968,
+      "toSample": 88064
+    },
+    {
+      "word": "khả",
+      "fromSample": 89088,
+      "toSample": 92672
+    },
+    {
+      "word": "năng",
+      "fromSample": 93696,
+      "toSample": 96768
+    },
+    {
+      "word": "ấy",
+      "fromSample": 97536,
+      "toSample": 101376
+    },
+    {
+      "word": "để",
+      "fromSample": 102656,
+      "toSample": 106240
+    },
+    {
+      "word": "kiếm",
+      "fromSample": 107520,
+      "toSample": 112384
+    },
+    {
+      "word": "thêm",
+      "fromSample": 112896,
+      "toSample": 117248
+    },
+    {
+      "word": "nhiều",
+      "fromSample": 118016,
+      "toSample": 122112
+    },
+    {
+      "word": "tiền",
+      "fromSample": 122880,
+      "toSample": 127488
+    },
+    {
+      "word": "hơn",
+      "fromSample": 128000,
+      "toSample": 131072
+    },
+    {
+      "word": "nữa",
+      "fromSample": 131584,
+      "toSample": 136448
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

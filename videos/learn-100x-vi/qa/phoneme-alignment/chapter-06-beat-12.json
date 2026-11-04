@@ -1,0 +1,114 @@
+{
+  "key": "ef1aee0659ec7129a479221361024b232b299ff4a97117c203e26f3169ac2db2",
+  "text": "Nhưng sự riêng tư của bạn có thể dần biến mất. Ai cũng muốn có một phần thời gian của bạn.",
+  "sampleRate": 22050,
+  "seconds": 4.272471655328798,
+  "words": [
+    {
+      "word": "nhưng",
+      "fromSample": 512,
+      "toSample": 3840
+    },
+    {
+      "word": "sự",
+      "fromSample": 5120,
+      "toSample": 8192
+    },
+    {
+      "word": "riêng",
+      "fromSample": 8704,
+      "toSample": 13312
+    },
+    {
+      "word": "tư",
+      "fromSample": 14336,
+      "toSample": 16640
+    },
+    {
+      "word": "của",
+      "fromSample": 17408,
+      "toSample": 20480
+    },
+    {
+      "word": "bạn",
+      "fromSample": 21248,
+      "toSample": 24832
+    },
+    {
+      "word": "có",
+      "fromSample": 25600,
+      "toSample": 28160
+    },
+    {
+      "word": "thể",
+      "fromSample": 29184,
+      "toSample": 33024
+    },
+    {
+      "word": "dần",
+      "fromSample": 33792,
+      "toSample": 38144
+    },
+    {
+      "word": "biến",
+      "fromSample": 38912,
+      "toSample": 42240
+    },
+    {
+      "word": "mất",
+      "fromSample": 42752,
+      "toSample": 45824
+    },
+    {
+      "word": "ai",
+      "fromSample": 47104,
+      "toSample": 50176
+    },
+    {
+      "word": "cũng",
+      "fromSample": 50944,
+      "toSample": 53760
+    },
+    {
+      "word": "muốn",
+      "fromSample": 54528,
+      "toSample": 59648
+    },
+    {
+      "word": "có",
+      "fromSample": 60416,
+      "toSample": 64000
+    },
+    {
+      "word": "một",
+      "fromSample": 64512,
+      "toSample": 67584
+    },
+    {
+      "word": "phần",
+      "fromSample": 68096,
+      "toSample": 71680
+    },
+    {
+      "word": "thời",
+      "fromSample": 72448,
+      "toSample": 77312
+    },
+    {
+      "word": "gian",
+      "fromSample": 78080,
+      "toSample": 81920
+    },
+    {
+      "word": "của",
+      "fromSample": 82688,
+      "toSample": 85248
+    },
+    {
+      "word": "bạn",
+      "fromSample": 85760,
+      "toSample": 89344
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

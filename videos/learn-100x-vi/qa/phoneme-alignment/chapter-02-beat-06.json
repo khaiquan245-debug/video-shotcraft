@@ -1,0 +1,24 @@
+{
+  "key": "99f2bb2e556caad194a565043288b9bedfb3c395d531a40340a2563eeb9a9cd4",
+  "text": "Rồi hóa học.",
+  "sampleRate": 22050,
+  "seconds": 0.6501587301587302,
+  "words": [
+    {
+      "word": "rồi",
+      "fromSample": 1280,
+      "toSample": 5888
+    },
+    {
+      "word": "hóa",
+      "fromSample": 6400,
+      "toSample": 9984
+    },
+    {
+      "word": "học",
+      "fromSample": 10496,
+      "toSample": 13312
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

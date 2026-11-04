@@ -1,0 +1,39 @@
+{
+  "key": "461f0a124ffa2d69fc5ba122dd033efdad79e6d3cb22935fc6be679a8a1fad70",
+  "text": "Xây dựng chiến lược kinh doanh.",
+  "sampleRate": 22050,
+  "seconds": 1.3815873015873017,
+  "words": [
+    {
+      "word": "xây",
+      "fromSample": 512,
+      "toSample": 4608
+    },
+    {
+      "word": "dựng",
+      "fromSample": 5376,
+      "toSample": 10240
+    },
+    {
+      "word": "chiến",
+      "fromSample": 11008,
+      "toSample": 15360
+    },
+    {
+      "word": "lược",
+      "fromSample": 16128,
+      "toSample": 20224
+    },
+    {
+      "word": "kinh",
+      "fromSample": 20992,
+      "toSample": 24320
+    },
+    {
+      "word": "doanh",
+      "fromSample": 24832,
+      "toSample": 29440
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,59 @@
+{
+  "key": "97fd52d3472264aac9cb8336b8ce3d82d1137e59f206a3aed23d768f51e136e3",
+  "text": "Nhưng các khám phá khoa học vẫn cần bằng chứng.",
+  "sampleRate": 22050,
+  "seconds": 2.345215419501134,
+  "words": [
+    {
+      "word": "nhưng",
+      "fromSample": 768,
+      "toSample": 3584
+    },
+    {
+      "word": "các",
+      "fromSample": 4352,
+      "toSample": 8448
+    },
+    {
+      "word": "khám",
+      "fromSample": 8960,
+      "toSample": 13312
+    },
+    {
+      "word": "phá",
+      "fromSample": 14592,
+      "toSample": 18944
+    },
+    {
+      "word": "khoa",
+      "fromSample": 20480,
+      "toSample": 23808
+    },
+    {
+      "word": "học",
+      "fromSample": 24832,
+      "toSample": 29696
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 30720,
+      "toSample": 35072
+    },
+    {
+      "word": "cần",
+      "fromSample": 36352,
+      "toSample": 40960
+    },
+    {
+      "word": "bằng",
+      "fromSample": 41728,
+      "toSample": 44800
+    },
+    {
+      "word": "chứng",
+      "fromSample": 45312,
+      "toSample": 50176
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,144 @@
+{
+  "key": "c9676bb83c56749025ca7cf585394b9688c8c76cceeeee768ee5a23620c6124b",
+  "text": "Thầy giáo đang giải thích một bài toán phức tạp. Bình thường, có lẽ bạn phải luyện tập hàng giờ mới hiểu. Nhưng hôm nay thì sao?",
+  "sampleRate": 22050,
+  "seconds": 6.025578231292517,
+  "words": [
+    {
+      "word": "thầy",
+      "fromSample": 512,
+      "toSample": 3840
+    },
+    {
+      "word": "giáo",
+      "fromSample": 4608,
+      "toSample": 9728
+    },
+    {
+      "word": "đang",
+      "fromSample": 10496,
+      "toSample": 14336
+    },
+    {
+      "word": "giải",
+      "fromSample": 15104,
+      "toSample": 19968
+    },
+    {
+      "word": "thích",
+      "fromSample": 20992,
+      "toSample": 25088
+    },
+    {
+      "word": "một",
+      "fromSample": 26112,
+      "toSample": 29440
+    },
+    {
+      "word": "bài",
+      "fromSample": 30208,
+      "toSample": 33536
+    },
+    {
+      "word": "toán",
+      "fromSample": 34048,
+      "toSample": 38912
+    },
+    {
+      "word": "phức",
+      "fromSample": 39680,
+      "toSample": 42240
+    },
+    {
+      "word": "tạp",
+      "fromSample": 42752,
+      "toSample": 46336
+    },
+    {
+      "word": "bình",
+      "fromSample": 48128,
+      "toSample": 51456
+    },
+    {
+      "word": "thường",
+      "fromSample": 52224,
+      "toSample": 58880
+    },
+    {
+      "word": "có",
+      "fromSample": 61440,
+      "toSample": 65280
+    },
+    {
+      "word": "lẽ",
+      "fromSample": 66304,
+      "toSample": 69632
+    },
+    {
+      "word": "bạn",
+      "fromSample": 70912,
+      "toSample": 74496
+    },
+    {
+      "word": "phải",
+      "fromSample": 75008,
+      "toSample": 78336
+    },
+    {
+      "word": "luyện",
+      "fromSample": 78848,
+      "toSample": 83456
+    },
+    {
+      "word": "tập",
+      "fromSample": 83968,
+      "toSample": 88576
+    },
+    {
+      "word": "hàng",
+      "fromSample": 89088,
+      "toSample": 93952
+    },
+    {
+      "word": "giờ",
+      "fromSample": 94720,
+      "toSample": 99328
+    },
+    {
+      "word": "mới",
+      "fromSample": 99840,
+      "toSample": 103424
+    },
+    {
+      "word": "hiểu",
+      "fromSample": 104192,
+      "toSample": 108032
+    },
+    {
+      "word": "nhưng",
+      "fromSample": 110080,
+      "toSample": 112896
+    },
+    {
+      "word": "hôm",
+      "fromSample": 114176,
+      "toSample": 116992
+    },
+    {
+      "word": "nay",
+      "fromSample": 117760,
+      "toSample": 120832
+    },
+    {
+      "word": "thì",
+      "fromSample": 121856,
+      "toSample": 125696
+    },
+    {
+      "word": "sao",
+      "fromSample": 126720,
+      "toSample": 131840
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

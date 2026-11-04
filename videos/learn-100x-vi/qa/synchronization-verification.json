@@ -1,0 +1,18 @@
+{
+  "frames": 16166,
+  "seconds": 538.8666666666667,
+  "chapters": 10,
+  "narrativeBeats": 171,
+  "nativeAlignedAudioFiles": 171,
+  "spokenSyllableTokens": 2364,
+  "shots": 146,
+  "captionGroups": 370,
+  "unknownPhonemes": 0,
+  "allWrittenWordsPreserved": true,
+  "captionWordOrderExact": true,
+  "noShotGaps": true,
+  "noCaptionOverlap": true,
+  "audioFrameGridExact": true,
+  "alignmentSource": "Same-inference VITS phoneme sample durations; word boundaries quantized to 30fps",
+  "perceptualLimits": "Technical checks do not imply human listening approval or exact lip synchronization"
+}

@@ -1,0 +1,19 @@
+{
+  "key": "c4738b3bdc974ac8582ec48ba2584911759e54186150490886d0b1f919bc0070",
+  "text": "Thời gian.",
+  "sampleRate": 22050,
+  "seconds": 0.4295691609977324,
+  "words": [
+    {
+      "word": "thời",
+      "fromSample": 512,
+      "toSample": 3840
+    },
+    {
+      "word": "gian",
+      "fromSample": 4608,
+      "toSample": 8704
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

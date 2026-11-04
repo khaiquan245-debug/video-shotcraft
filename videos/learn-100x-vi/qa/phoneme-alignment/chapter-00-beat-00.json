@@ -1,0 +1,114 @@
+{
+  "key": "bcbda52c2a106a541ac2fd925803a746f30a37291ef5bf67618902f406e88d96",
+  "text": "Hãy tưởng tượng, sáng mai thức dậy, bạn phát hiện bộ não của mình đã có một khả năng phi thường.",
+  "sampleRate": 22050,
+  "seconds": 4.632380952380952,
+  "words": [
+    {
+      "word": "hãy",
+      "fromSample": 512,
+      "toSample": 3840
+    },
+    {
+      "word": "tưởng",
+      "fromSample": 4608,
+      "toSample": 8960
+    },
+    {
+      "word": "tượng",
+      "fromSample": 9472,
+      "toSample": 15360
+    },
+    {
+      "word": "sáng",
+      "fromSample": 17152,
+      "toSample": 21504
+    },
+    {
+      "word": "mai",
+      "fromSample": 22272,
+      "toSample": 26368
+    },
+    {
+      "word": "thức",
+      "fromSample": 27136,
+      "toSample": 30464
+    },
+    {
+      "word": "dậy",
+      "fromSample": 31488,
+      "toSample": 36864
+    },
+    {
+      "word": "bạn",
+      "fromSample": 41472,
+      "toSample": 45056
+    },
+    {
+      "word": "phát",
+      "fromSample": 45568,
+      "toSample": 49920
+    },
+    {
+      "word": "hiện",
+      "fromSample": 50432,
+      "toSample": 55040
+    },
+    {
+      "word": "bộ",
+      "fromSample": 56064,
+      "toSample": 59648
+    },
+    {
+      "word": "não",
+      "fromSample": 60672,
+      "toSample": 65792
+    },
+    {
+      "word": "của",
+      "fromSample": 66560,
+      "toSample": 69632
+    },
+    {
+      "word": "mình",
+      "fromSample": 70400,
+      "toSample": 75008
+    },
+    {
+      "word": "đã",
+      "fromSample": 75776,
+      "toSample": 78592
+    },
+    {
+      "word": "có",
+      "fromSample": 79360,
+      "toSample": 81920
+    },
+    {
+      "word": "một",
+      "fromSample": 82432,
+      "toSample": 85504
+    },
+    {
+      "word": "khả",
+      "fromSample": 86016,
+      "toSample": 89600
+    },
+    {
+      "word": "năng",
+      "fromSample": 90368,
+      "toSample": 92928
+    },
+    {
+      "word": "phi",
+      "fromSample": 93440,
+      "toSample": 95744
+    },
+    {
+      "word": "thường",
+      "fromSample": 96256,
+      "toSample": 100864
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,29 @@
+{
+  "key": "27f67ee91517486044b9527c9fb49c453521cda375f29de3518f41049a3d9ea2",
+  "text": "Trí tuệ nhân tạo.",
+  "sampleRate": 22050,
+  "seconds": 0.8243083900226758,
+  "words": [
+    {
+      "word": "trí",
+      "fromSample": 512,
+      "toSample": 3072
+    },
+    {
+      "word": "tuệ",
+      "fromSample": 3840,
+      "toSample": 8192
+    },
+    {
+      "word": "nhân",
+      "fromSample": 8704,
+      "toSample": 12288
+    },
+    {
+      "word": "tạo",
+      "fromSample": 12800,
+      "toSample": 17408
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,124 @@
+{
+  "key": "28b2ea4e69aa89e3a71b7b0cd2ff63944e78d4dd49b467514d4def623a2cfaae",
+  "text": "Trong một năm ấy, bạn đã tiếp thu lượng kiến thức mà trước kia có thể cần cả một thế kỷ học tập.",
+  "sampleRate": 22050,
+  "seconds": 4.911020408163266,
+  "words": [
+    {
+      "word": "trong",
+      "fromSample": 512,
+      "toSample": 3072
+    },
+    {
+      "word": "một",
+      "fromSample": 3584,
+      "toSample": 7680
+    },
+    {
+      "word": "năm",
+      "fromSample": 8192,
+      "toSample": 11520
+    },
+    {
+      "word": "ấy",
+      "fromSample": 12800,
+      "toSample": 18432
+    },
+    {
+      "word": "bạn",
+      "fromSample": 22272,
+      "toSample": 27392
+    },
+    {
+      "word": "đã",
+      "fromSample": 27904,
+      "toSample": 31744
+    },
+    {
+      "word": "tiếp",
+      "fromSample": 32256,
+      "toSample": 36096
+    },
+    {
+      "word": "thu",
+      "fromSample": 36608,
+      "toSample": 39680
+    },
+    {
+      "word": "lượng",
+      "fromSample": 40192,
+      "toSample": 45568
+    },
+    {
+      "word": "kiến",
+      "fromSample": 46336,
+      "toSample": 50688
+    },
+    {
+      "word": "thức",
+      "fromSample": 51456,
+      "toSample": 55552
+    },
+    {
+      "word": "mà",
+      "fromSample": 56064,
+      "toSample": 59904
+    },
+    {
+      "word": "trước",
+      "fromSample": 60672,
+      "toSample": 64512
+    },
+    {
+      "word": "kia",
+      "fromSample": 65024,
+      "toSample": 69120
+    },
+    {
+      "word": "có",
+      "fromSample": 69888,
+      "toSample": 72448
+    },
+    {
+      "word": "thể",
+      "fromSample": 72960,
+      "toSample": 77312
+    },
+    {
+      "word": "cần",
+      "fromSample": 78336,
+      "toSample": 82176
+    },
+    {
+      "word": "cả",
+      "fromSample": 83712,
+      "toSample": 87296
+    },
+    {
+      "word": "một",
+      "fromSample": 88064,
+      "toSample": 92160
+    },
+    {
+      "word": "thế",
+      "fromSample": 92928,
+      "toSample": 96256
+    },
+    {
+      "word": "kỷ",
+      "fromSample": 97536,
+      "toSample": 100352
+    },
+    {
+      "word": "học",
+      "fromSample": 101120,
+      "toSample": 103936
+    },
+    {
+      "word": "tập",
+      "fromSample": 104448,
+      "toSample": 107520
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

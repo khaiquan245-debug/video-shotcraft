@@ -1,0 +1,64 @@
+{
+  "key": "ababf4a54cf5d111b01b5bfecf61fec9201f14eac2e157f639ed481eea3e96b2",
+  "text": "Những căn bệnh vẫn chưa có cách điều trị hiệu quả.",
+  "sampleRate": 22050,
+  "seconds": 2.2871655328798184,
+  "words": [
+    {
+      "word": "những",
+      "fromSample": 512,
+      "toSample": 4352
+    },
+    {
+      "word": "căn",
+      "fromSample": 5376,
+      "toSample": 8448
+    },
+    {
+      "word": "bệnh",
+      "fromSample": 9216,
+      "toSample": 13568
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 14848,
+      "toSample": 18688
+    },
+    {
+      "word": "chưa",
+      "fromSample": 19456,
+      "toSample": 23296
+    },
+    {
+      "word": "có",
+      "fromSample": 24064,
+      "toSample": 26880
+    },
+    {
+      "word": "cách",
+      "fromSample": 27904,
+      "toSample": 31488
+    },
+    {
+      "word": "điều",
+      "fromSample": 32256,
+      "toSample": 36096
+    },
+    {
+      "word": "trị",
+      "fromSample": 36608,
+      "toSample": 39936
+    },
+    {
+      "word": "hiệu",
+      "fromSample": 40960,
+      "toSample": 44544
+    },
+    {
+      "word": "quả",
+      "fromSample": 45312,
+      "toSample": 49664
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

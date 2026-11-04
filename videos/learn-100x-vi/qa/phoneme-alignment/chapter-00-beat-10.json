@@ -1,0 +1,69 @@
+{
+  "key": "02d42f4618efa8a33896cd7d4c0d3ee85b259a35809d4e6d2d0a7a6f3752778b",
+  "text": "Và điều gì sẽ xảy ra khi cả thế giới biết chuyện?",
+  "sampleRate": 22050,
+  "seconds": 2.4380952380952383,
+  "words": [
+    {
+      "word": "và",
+      "fromSample": 512,
+      "toSample": 3584
+    },
+    {
+      "word": "điều",
+      "fromSample": 4096,
+      "toSample": 7680
+    },
+    {
+      "word": "gì",
+      "fromSample": 8448,
+      "toSample": 12288
+    },
+    {
+      "word": "sẽ",
+      "fromSample": 12800,
+      "toSample": 16640
+    },
+    {
+      "word": "xảy",
+      "fromSample": 17664,
+      "toSample": 22016
+    },
+    {
+      "word": "ra",
+      "fromSample": 23040,
+      "toSample": 25856
+    },
+    {
+      "word": "khi",
+      "fromSample": 26880,
+      "toSample": 29184
+    },
+    {
+      "word": "cả",
+      "fromSample": 30208,
+      "toSample": 33536
+    },
+    {
+      "word": "thế",
+      "fromSample": 34560,
+      "toSample": 38400
+    },
+    {
+      "word": "giới",
+      "fromSample": 38912,
+      "toSample": 43520
+    },
+    {
+      "word": "biết",
+      "fromSample": 44032,
+      "toSample": 47872
+    },
+    {
+      "word": "chuyện",
+      "fromSample": 48384,
+      "toSample": 52992
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

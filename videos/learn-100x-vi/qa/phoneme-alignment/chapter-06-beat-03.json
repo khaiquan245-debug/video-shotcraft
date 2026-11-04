@@ -1,0 +1,74 @@
+{
+  "key": "6985699e5190c6bd1d5d904d3d9b2200a9d9e5054e71f633502ea4aae4857c65",
+  "text": "Rồi một ngày, video về khả năng của bạn lan truyền trên mạng.",
+  "sampleRate": 22050,
+  "seconds": 2.7631746031746034,
+  "words": [
+    {
+      "word": "rồi",
+      "fromSample": 1280,
+      "toSample": 5120
+    },
+    {
+      "word": "một",
+      "fromSample": 5632,
+      "toSample": 8704
+    },
+    {
+      "word": "ngày",
+      "fromSample": 9216,
+      "toSample": 13824
+    },
+    {
+      "word": "video",
+      "fromSample": 16896,
+      "toSample": 22272
+    },
+    {
+      "word": "về",
+      "fromSample": 23296,
+      "toSample": 26624
+    },
+    {
+      "word": "khả",
+      "fromSample": 27648,
+      "toSample": 31488
+    },
+    {
+      "word": "năng",
+      "fromSample": 32256,
+      "toSample": 35328
+    },
+    {
+      "word": "của",
+      "fromSample": 36096,
+      "toSample": 39680
+    },
+    {
+      "word": "bạn",
+      "fromSample": 40192,
+      "toSample": 44032
+    },
+    {
+      "word": "lan",
+      "fromSample": 44800,
+      "toSample": 47872
+    },
+    {
+      "word": "truyền",
+      "fromSample": 48384,
+      "toSample": 52736
+    },
+    {
+      "word": "trên",
+      "fromSample": 53504,
+      "toSample": 56576
+    },
+    {
+      "word": "mạng",
+      "fromSample": 57088,
+      "toSample": 60160
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,39 @@
+{
+  "key": "c003925d30f053f85174008a1876c583cd809408f377aa829077bba49bc7621f",
+  "text": "Học cách lựa chọn sản phẩm.",
+  "sampleRate": 22050,
+  "seconds": 1.3931972789115645,
+  "words": [
+    {
+      "word": "học",
+      "fromSample": 768,
+      "toSample": 4608
+    },
+    {
+      "word": "cách",
+      "fromSample": 5120,
+      "toSample": 8960
+    },
+    {
+      "word": "lựa",
+      "fromSample": 9728,
+      "toSample": 13824
+    },
+    {
+      "word": "chọn",
+      "fromSample": 14592,
+      "toSample": 19200
+    },
+    {
+      "word": "sản",
+      "fromSample": 20224,
+      "toSample": 24320
+    },
+    {
+      "word": "phẩm",
+      "fromSample": 24832,
+      "toSample": 29696
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

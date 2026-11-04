@@ -1,0 +1,89 @@
+{
+  "key": "938780997ca1039b235a0f908ef25e8e38747159316976c198806f78887e3271",
+  "text": "Hay sẽ thử làm điều gì đó mà chỉ riêng tiền bạc không thể thực hiện?",
+  "sampleRate": 22050,
+  "seconds": 3.239183673469388,
+  "words": [
+    {
+      "word": "hay",
+      "fromSample": 512,
+      "toSample": 3584
+    },
+    {
+      "word": "sẽ",
+      "fromSample": 4096,
+      "toSample": 7168
+    },
+    {
+      "word": "thử",
+      "fromSample": 8192,
+      "toSample": 11008
+    },
+    {
+      "word": "làm",
+      "fromSample": 11776,
+      "toSample": 16128
+    },
+    {
+      "word": "điều",
+      "fromSample": 16896,
+      "toSample": 21248
+    },
+    {
+      "word": "gì",
+      "fromSample": 22272,
+      "toSample": 25344
+    },
+    {
+      "word": "đó",
+      "fromSample": 26112,
+      "toSample": 30208
+    },
+    {
+      "word": "mà",
+      "fromSample": 30720,
+      "toSample": 34304
+    },
+    {
+      "word": "chỉ",
+      "fromSample": 34816,
+      "toSample": 38912
+    },
+    {
+      "word": "riêng",
+      "fromSample": 39936,
+      "toSample": 44288
+    },
+    {
+      "word": "tiền",
+      "fromSample": 45056,
+      "toSample": 49664
+    },
+    {
+      "word": "bạc",
+      "fromSample": 50688,
+      "toSample": 54528
+    },
+    {
+      "word": "không",
+      "fromSample": 55040,
+      "toSample": 58368
+    },
+    {
+      "word": "thể",
+      "fromSample": 59136,
+      "toSample": 63232
+    },
+    {
+      "word": "thực",
+      "fromSample": 63744,
+      "toSample": 66560
+    },
+    {
+      "word": "hiện",
+      "fromSample": 67328,
+      "toSample": 70656
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

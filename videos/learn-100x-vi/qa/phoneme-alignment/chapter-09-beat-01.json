@@ -1,0 +1,44 @@
+{
+  "key": "90faa93de7353faa1b5da536b4d82c84bff0b00c91bfd892851d2ec5e85ae6b0",
+  "text": "Khám phá nhiều con đường nghề nghiệp.",
+  "sampleRate": 22050,
+  "seconds": 1.509297052154195,
+  "words": [
+    {
+      "word": "khám",
+      "fromSample": 512,
+      "toSample": 5120
+    },
+    {
+      "word": "phá",
+      "fromSample": 5632,
+      "toSample": 11264
+    },
+    {
+      "word": "nhiều",
+      "fromSample": 12288,
+      "toSample": 17408
+    },
+    {
+      "word": "con",
+      "fromSample": 18432,
+      "toSample": 20736
+    },
+    {
+      "word": "đường",
+      "fromSample": 21504,
+      "toSample": 25088
+    },
+    {
+      "word": "nghề",
+      "fromSample": 25600,
+      "toSample": 28416
+    },
+    {
+      "word": "nghiệp",
+      "fromSample": 29184,
+      "toSample": 32512
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

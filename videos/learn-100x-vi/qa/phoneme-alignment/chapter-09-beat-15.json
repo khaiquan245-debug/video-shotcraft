@@ -1,0 +1,89 @@
+{
+  "key": "d57ebab7ebc174e3de9967a6f5b3af44b92a12330f2481cff7f9199f5deb1d19",
+  "text": "Cuối cùng, có lẽ câu hỏi quan trọng nhất không phải là bạn biết bao nhiêu.",
+  "sampleRate": 22050,
+  "seconds": 3.633922902494331,
+  "words": [
+    {
+      "word": "cuối",
+      "fromSample": 512,
+      "toSample": 4864
+    },
+    {
+      "word": "cùng",
+      "fromSample": 5632,
+      "toSample": 11776
+    },
+    {
+      "word": "có",
+      "fromSample": 14080,
+      "toSample": 17920
+    },
+    {
+      "word": "lẽ",
+      "fromSample": 18688,
+      "toSample": 22528
+    },
+    {
+      "word": "câu",
+      "fromSample": 23808,
+      "toSample": 28160
+    },
+    {
+      "word": "hỏi",
+      "fromSample": 28928,
+      "toSample": 33792
+    },
+    {
+      "word": "quan",
+      "fromSample": 35072,
+      "toSample": 38400
+    },
+    {
+      "word": "trọng",
+      "fromSample": 39168,
+      "toSample": 43776
+    },
+    {
+      "word": "nhất",
+      "fromSample": 44288,
+      "toSample": 48896
+    },
+    {
+      "word": "không",
+      "fromSample": 49408,
+      "toSample": 52480
+    },
+    {
+      "word": "phải",
+      "fromSample": 53248,
+      "toSample": 57088
+    },
+    {
+      "word": "là",
+      "fromSample": 57600,
+      "toSample": 60928
+    },
+    {
+      "word": "bạn",
+      "fromSample": 61440,
+      "toSample": 65024
+    },
+    {
+      "word": "biết",
+      "fromSample": 65536,
+      "toSample": 69120
+    },
+    {
+      "word": "bao",
+      "fromSample": 69632,
+      "toSample": 72704
+    },
+    {
+      "word": "nhiêu",
+      "fromSample": 73472,
+      "toSample": 78592
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

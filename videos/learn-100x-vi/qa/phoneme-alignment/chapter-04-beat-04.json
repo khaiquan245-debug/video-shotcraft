@@ -1,0 +1,19 @@
+{
+  "key": "d2f7fc4e121a9b2a0abb66862c44050f5c19e50563e2b875025b808bdd5ec830",
+  "text": "Tiếng Pháp.",
+  "sampleRate": 22050,
+  "seconds": 0.3947392290249433,
+  "words": [
+    {
+      "word": "tiếng",
+      "fromSample": 512,
+      "toSample": 4096
+    },
+    {
+      "word": "pháp",
+      "fromSample": 4864,
+      "toSample": 7936
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

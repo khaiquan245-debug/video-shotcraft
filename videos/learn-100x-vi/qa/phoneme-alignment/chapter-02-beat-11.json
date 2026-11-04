@@ -1,0 +1,69 @@
+{
+  "key": "045c19ba2ec7421f12d8779e860d7c911f520bbeb02bc5c144c4d0cb66f29bb0",
+  "text": "Bạn vẫn phải đáp ứng các yêu cầu chính thức của trường.",
+  "sampleRate": 22050,
+  "seconds": 2.5193650793650795,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 512,
+      "toSample": 4096
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 4608,
+      "toSample": 8704
+    },
+    {
+      "word": "phải",
+      "fromSample": 9472,
+      "toSample": 13824
+    },
+    {
+      "word": "đáp",
+      "fromSample": 14336,
+      "toSample": 18688
+    },
+    {
+      "word": "ứng",
+      "fromSample": 19968,
+      "toSample": 23552
+    },
+    {
+      "word": "các",
+      "fromSample": 24064,
+      "toSample": 27904
+    },
+    {
+      "word": "yêu",
+      "fromSample": 28672,
+      "toSample": 32000
+    },
+    {
+      "word": "cầu",
+      "fromSample": 32768,
+      "toSample": 36096
+    },
+    {
+      "word": "chính",
+      "fromSample": 37120,
+      "toSample": 41728
+    },
+    {
+      "word": "thức",
+      "fromSample": 42240,
+      "toSample": 45312
+    },
+    {
+      "word": "của",
+      "fromSample": 46080,
+      "toSample": 48640
+    },
+    {
+      "word": "trường",
+      "fromSample": 49408,
+      "toSample": 54784
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,29 @@
+{
+  "key": "d1e982d411db835e70e1f14318f8d2ea09726940f8776082c5c93908383541cd",
+  "text": "Phát triển ứng dụng.",
+  "sampleRate": 22050,
+  "seconds": 0.8823582766439909,
+  "words": [
+    {
+      "word": "phát",
+      "fromSample": 512,
+      "toSample": 4096
+    },
+    {
+      "word": "triển",
+      "fromSample": 4608,
+      "toSample": 8960
+    },
+    {
+      "word": "ứng",
+      "fromSample": 9728,
+      "toSample": 13056
+    },
+    {
+      "word": "dụng",
+      "fromSample": 14080,
+      "toSample": 18432
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,89 @@
+{
+  "key": "31344af980996f3cad4c0764c08d407c71f6c827c64fade07a25f7194d75ad49",
+  "text": "Bạn thử những ý tưởng khác nhau, phân tích kết quả rồi điều chỉnh chiến lược.",
+  "sampleRate": 22050,
+  "seconds": 3.5294331065759637,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 1024,
+      "toSample": 4864
+    },
+    {
+      "word": "thử",
+      "fromSample": 5376,
+      "toSample": 8960
+    },
+    {
+      "word": "những",
+      "fromSample": 9728,
+      "toSample": 12800
+    },
+    {
+      "word": "ý",
+      "fromSample": 13312,
+      "toSample": 16128
+    },
+    {
+      "word": "tưởng",
+      "fromSample": 16640,
+      "toSample": 22784
+    },
+    {
+      "word": "khác",
+      "fromSample": 23296,
+      "toSample": 27648
+    },
+    {
+      "word": "nhau",
+      "fromSample": 28672,
+      "toSample": 33280
+    },
+    {
+      "word": "phân",
+      "fromSample": 36096,
+      "toSample": 39680
+    },
+    {
+      "word": "tích",
+      "fromSample": 40192,
+      "toSample": 44800
+    },
+    {
+      "word": "kết",
+      "fromSample": 45312,
+      "toSample": 49152
+    },
+    {
+      "word": "quả",
+      "fromSample": 49920,
+      "toSample": 53760
+    },
+    {
+      "word": "rồi",
+      "fromSample": 55296,
+      "toSample": 58624
+    },
+    {
+      "word": "điều",
+      "fromSample": 59392,
+      "toSample": 63232
+    },
+    {
+      "word": "chỉnh",
+      "fromSample": 64000,
+      "toSample": 68096
+    },
+    {
+      "word": "chiến",
+      "fromSample": 68864,
+      "toSample": 72704
+    },
+    {
+      "word": "lược",
+      "fromSample": 73216,
+      "toSample": 77056
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

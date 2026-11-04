@@ -1,0 +1,89 @@
+{
+  "key": "53ca1def85c5136349240f4a56955acd588473ce76e76a61b729e20213507968",
+  "text": "Bởi nếu sáng mai thức dậy, bạn có khả năng học nhanh gấp một trăm lần,",
+  "sampleRate": 22050,
+  "seconds": 3.6687528344671203,
+  "words": [
+    {
+      "word": "bởi",
+      "fromSample": 768,
+      "toSample": 5888
+    },
+    {
+      "word": "nếu",
+      "fromSample": 6656,
+      "toSample": 9984
+    },
+    {
+      "word": "sáng",
+      "fromSample": 11008,
+      "toSample": 14848
+    },
+    {
+      "word": "mai",
+      "fromSample": 15616,
+      "toSample": 19456
+    },
+    {
+      "word": "thức",
+      "fromSample": 20224,
+      "toSample": 23808
+    },
+    {
+      "word": "dậy",
+      "fromSample": 24320,
+      "toSample": 30976
+    },
+    {
+      "word": "bạn",
+      "fromSample": 33792,
+      "toSample": 38400
+    },
+    {
+      "word": "có",
+      "fromSample": 38912,
+      "toSample": 41472
+    },
+    {
+      "word": "khả",
+      "fromSample": 42240,
+      "toSample": 46336
+    },
+    {
+      "word": "năng",
+      "fromSample": 46848,
+      "toSample": 49920
+    },
+    {
+      "word": "học",
+      "fromSample": 50944,
+      "toSample": 55040
+    },
+    {
+      "word": "nhanh",
+      "fromSample": 56064,
+      "toSample": 59392
+    },
+    {
+      "word": "gấp",
+      "fromSample": 59904,
+      "toSample": 63232
+    },
+    {
+      "word": "một",
+      "fromSample": 64000,
+      "toSample": 67840
+    },
+    {
+      "word": "trăm",
+      "fromSample": 68608,
+      "toSample": 72192
+    },
+    {
+      "word": "lần",
+      "fromSample": 73216,
+      "toSample": 77568
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,134 @@
+{
+  "key": "3aaa21968b2d2e5f68353232bfd62aedf6d868dc60d0ed027494c31264f1deea",
+  "text": "Nhưng nếu sử dụng khả năng ấy một cách khôn ngoan, bạn sẽ có một lợi thế mà gần như chẳng ai khác có được.",
+  "sampleRate": 22050,
+  "seconds": 5.131609977324263,
+  "words": [
+    {
+      "word": "nhưng",
+      "fromSample": 768,
+      "toSample": 3328
+    },
+    {
+      "word": "nếu",
+      "fromSample": 4096,
+      "toSample": 7424
+    },
+    {
+      "word": "sử",
+      "fromSample": 8192,
+      "toSample": 12288
+    },
+    {
+      "word": "dụng",
+      "fromSample": 13312,
+      "toSample": 17664
+    },
+    {
+      "word": "khả",
+      "fromSample": 18176,
+      "toSample": 21504
+    },
+    {
+      "word": "năng",
+      "fromSample": 22272,
+      "toSample": 25856
+    },
+    {
+      "word": "ấy",
+      "fromSample": 26368,
+      "toSample": 29184
+    },
+    {
+      "word": "một",
+      "fromSample": 30208,
+      "toSample": 33280
+    },
+    {
+      "word": "cách",
+      "fromSample": 33792,
+      "toSample": 38144
+    },
+    {
+      "word": "khôn",
+      "fromSample": 38656,
+      "toSample": 41216
+    },
+    {
+      "word": "ngoan",
+      "fromSample": 41984,
+      "toSample": 48640
+    },
+    {
+      "word": "bạn",
+      "fromSample": 52224,
+      "toSample": 56832
+    },
+    {
+      "word": "sẽ",
+      "fromSample": 57600,
+      "toSample": 60672
+    },
+    {
+      "word": "có",
+      "fromSample": 61440,
+      "toSample": 64000
+    },
+    {
+      "word": "một",
+      "fromSample": 64768,
+      "toSample": 68096
+    },
+    {
+      "word": "lợi",
+      "fromSample": 68608,
+      "toSample": 72448
+    },
+    {
+      "word": "thế",
+      "fromSample": 73216,
+      "toSample": 77568
+    },
+    {
+      "word": "mà",
+      "fromSample": 78848,
+      "toSample": 82432
+    },
+    {
+      "word": "gần",
+      "fromSample": 83200,
+      "toSample": 86528
+    },
+    {
+      "word": "như",
+      "fromSample": 87296,
+      "toSample": 89856
+    },
+    {
+      "word": "chẳng",
+      "fromSample": 90624,
+      "toSample": 95232
+    },
+    {
+      "word": "ai",
+      "fromSample": 96000,
+      "toSample": 99072
+    },
+    {
+      "word": "khác",
+      "fromSample": 100096,
+      "toSample": 104704
+    },
+    {
+      "word": "có",
+      "fromSample": 105472,
+      "toSample": 107776
+    },
+    {
+      "word": "được",
+      "fromSample": 108288,
+      "toSample": 112384
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

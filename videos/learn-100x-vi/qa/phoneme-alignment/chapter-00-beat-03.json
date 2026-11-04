@@ -1,0 +1,124 @@
+{
+  "key": "feadb1b44348024cfe4da4e4f52867828737dc1a1fea4309ea765c6ea40a7298",
+  "text": "Một môn học thường phải mất nhiều tháng mới thành thạo? Bạn có thể tiếp thu kiến thức ấy chỉ trong vài ngày.",
+  "sampleRate": 22050,
+  "seconds": 4.655600907029479,
+  "words": [
+    {
+      "word": "một",
+      "fromSample": 512,
+      "toSample": 3584
+    },
+    {
+      "word": "môn",
+      "fromSample": 4096,
+      "toSample": 6912
+    },
+    {
+      "word": "học",
+      "fromSample": 7680,
+      "toSample": 11520
+    },
+    {
+      "word": "thường",
+      "fromSample": 12032,
+      "toSample": 17408
+    },
+    {
+      "word": "phải",
+      "fromSample": 17920,
+      "toSample": 22272
+    },
+    {
+      "word": "mất",
+      "fromSample": 22784,
+      "toSample": 27648
+    },
+    {
+      "word": "nhiều",
+      "fromSample": 28160,
+      "toSample": 32256
+    },
+    {
+      "word": "tháng",
+      "fromSample": 33280,
+      "toSample": 37632
+    },
+    {
+      "word": "mới",
+      "fromSample": 38400,
+      "toSample": 42240
+    },
+    {
+      "word": "thành",
+      "fromSample": 42752,
+      "toSample": 46080
+    },
+    {
+      "word": "thạo",
+      "fromSample": 46592,
+      "toSample": 50176
+    },
+    {
+      "word": "bạn",
+      "fromSample": 51712,
+      "toSample": 55040
+    },
+    {
+      "word": "có",
+      "fromSample": 55552,
+      "toSample": 57856
+    },
+    {
+      "word": "thể",
+      "fromSample": 58624,
+      "toSample": 62208
+    },
+    {
+      "word": "tiếp",
+      "fromSample": 62976,
+      "toSample": 67072
+    },
+    {
+      "word": "thu",
+      "fromSample": 67584,
+      "toSample": 69888
+    },
+    {
+      "word": "kiến",
+      "fromSample": 70656,
+      "toSample": 75264
+    },
+    {
+      "word": "thức",
+      "fromSample": 76032,
+      "toSample": 79872
+    },
+    {
+      "word": "ấy",
+      "fromSample": 80640,
+      "toSample": 84480
+    },
+    {
+      "word": "chỉ",
+      "fromSample": 85504,
+      "toSample": 89344
+    },
+    {
+      "word": "trong",
+      "fromSample": 89856,
+      "toSample": 93440
+    },
+    {
+      "word": "vài",
+      "fromSample": 93952,
+      "toSample": 97280
+    },
+    {
+      "word": "ngày",
+      "fromSample": 97792,
+      "toSample": 101888
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

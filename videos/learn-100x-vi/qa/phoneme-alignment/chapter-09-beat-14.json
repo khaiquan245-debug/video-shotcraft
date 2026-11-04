@@ -1,0 +1,64 @@
+{
+  "key": "7ab39c5f3966fc9b848d37ad50f236de8ebb2bfd38a12be461119abf98656434",
+  "text": "Nhưng bạn không thể sống một trăm cuộc đời khác nhau.",
+  "sampleRate": 22050,
+  "seconds": 2.2291156462585033,
+  "words": [
+    {
+      "word": "nhưng",
+      "fromSample": 512,
+      "toSample": 3584
+    },
+    {
+      "word": "bạn",
+      "fromSample": 4352,
+      "toSample": 7936
+    },
+    {
+      "word": "không",
+      "fromSample": 8448,
+      "toSample": 11776
+    },
+    {
+      "word": "thể",
+      "fromSample": 12544,
+      "toSample": 16128
+    },
+    {
+      "word": "sống",
+      "fromSample": 17664,
+      "toSample": 20992
+    },
+    {
+      "word": "một",
+      "fromSample": 21760,
+      "toSample": 25088
+    },
+    {
+      "word": "trăm",
+      "fromSample": 25600,
+      "toSample": 29696
+    },
+    {
+      "word": "cuộc",
+      "fromSample": 30464,
+      "toSample": 33792
+    },
+    {
+      "word": "đời",
+      "fromSample": 34560,
+      "toSample": 38400
+    },
+    {
+      "word": "khác",
+      "fromSample": 38912,
+      "toSample": 42496
+    },
+    {
+      "word": "nhau",
+      "fromSample": 43264,
+      "toSample": 47616
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

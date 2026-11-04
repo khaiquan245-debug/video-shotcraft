@@ -1,0 +1,49 @@
+{
+  "key": "9186d4de6f2786f56b8d208fb941abdf1b17d66067145a2ed059dab899c79ec9",
+  "text": "Rồi bạn thử học các kỹ năng khác.",
+  "sampleRate": 22050,
+  "seconds": 1.555736961451247,
+  "words": [
+    {
+      "word": "rồi",
+      "fromSample": 768,
+      "toSample": 4864
+    },
+    {
+      "word": "bạn",
+      "fromSample": 5376,
+      "toSample": 9216
+    },
+    {
+      "word": "thử",
+      "fromSample": 10240,
+      "toSample": 14336
+    },
+    {
+      "word": "học",
+      "fromSample": 15360,
+      "toSample": 18176
+    },
+    {
+      "word": "các",
+      "fromSample": 18688,
+      "toSample": 21760
+    },
+    {
+      "word": "kỹ",
+      "fromSample": 22528,
+      "toSample": 25344
+    },
+    {
+      "word": "năng",
+      "fromSample": 26368,
+      "toSample": 29440
+    },
+    {
+      "word": "khác",
+      "fromSample": 30208,
+      "toSample": 33536
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

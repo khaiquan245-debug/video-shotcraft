@@ -1,0 +1,19 @@
+{
+  "key": "19573d5c82ed6abcd361ff8116954bb4b1d98115019038ea280261b9234b5c7f",
+  "text": "Cổ phiếu.",
+  "sampleRate": 22050,
+  "seconds": 0.5108390022675737,
+  "words": [
+    {
+      "word": "cổ",
+      "fromSample": 512,
+      "toSample": 3328
+    },
+    {
+      "word": "phiếu",
+      "fromSample": 4096,
+      "toSample": 9984
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,89 @@
+{
+  "key": "335ad3078607bd68e30b4a734b097af5bda774f2507ddd69103fc02ae086f422",
+  "text": "Trong khi mọi người vẫn đang ghi chép, bạn đã chuyển sang học chương tiếp theo.",
+  "sampleRate": 22050,
+  "seconds": 3.4017233560090703,
+  "words": [
+    {
+      "word": "trong",
+      "fromSample": 512,
+      "toSample": 4096
+    },
+    {
+      "word": "khi",
+      "fromSample": 4864,
+      "toSample": 7680
+    },
+    {
+      "word": "mọi",
+      "fromSample": 8448,
+      "toSample": 12544
+    },
+    {
+      "word": "người",
+      "fromSample": 13312,
+      "toSample": 17408
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 18176,
+      "toSample": 22016
+    },
+    {
+      "word": "đang",
+      "fromSample": 22528,
+      "toSample": 25600
+    },
+    {
+      "word": "ghi",
+      "fromSample": 26112,
+      "toSample": 29184
+    },
+    {
+      "word": "chép",
+      "fromSample": 30208,
+      "toSample": 34816
+    },
+    {
+      "word": "bạn",
+      "fromSample": 36864,
+      "toSample": 41216
+    },
+    {
+      "word": "đã",
+      "fromSample": 41728,
+      "toSample": 44800
+    },
+    {
+      "word": "chuyển",
+      "fromSample": 45568,
+      "toSample": 50432
+    },
+    {
+      "word": "sang",
+      "fromSample": 51200,
+      "toSample": 55040
+    },
+    {
+      "word": "học",
+      "fromSample": 56064,
+      "toSample": 59136
+    },
+    {
+      "word": "chương",
+      "fromSample": 59648,
+      "toSample": 63744
+    },
+    {
+      "word": "tiếp",
+      "fromSample": 64256,
+      "toSample": 67840
+    },
+    {
+      "word": "theo",
+      "fromSample": 68352,
+      "toSample": 73216
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

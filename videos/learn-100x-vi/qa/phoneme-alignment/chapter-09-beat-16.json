@@ -1,0 +1,79 @@
+{
+  "key": "4ffa77a73568222b08086862f932915bb57baeb48aa5b1214df4771c7401b8f0",
+  "text": "Mà là bạn chọn làm gì với tất cả những điều mình đã học.",
+  "sampleRate": 22050,
+  "seconds": 2.7747845804988662,
+  "words": [
+    {
+      "word": "mà",
+      "fromSample": 1792,
+      "toSample": 4864
+    },
+    {
+      "word": "là",
+      "fromSample": 5888,
+      "toSample": 8448
+    },
+    {
+      "word": "bạn",
+      "fromSample": 8960,
+      "toSample": 12544
+    },
+    {
+      "word": "chọn",
+      "fromSample": 13056,
+      "toSample": 17152
+    },
+    {
+      "word": "làm",
+      "fromSample": 17920,
+      "toSample": 21504
+    },
+    {
+      "word": "gì",
+      "fromSample": 22528,
+      "toSample": 26368
+    },
+    {
+      "word": "với",
+      "fromSample": 26880,
+      "toSample": 30208
+    },
+    {
+      "word": "tất",
+      "fromSample": 30720,
+      "toSample": 35072
+    },
+    {
+      "word": "cả",
+      "fromSample": 35840,
+      "toSample": 40192
+    },
+    {
+      "word": "những",
+      "fromSample": 41728,
+      "toSample": 45056
+    },
+    {
+      "word": "điều",
+      "fromSample": 45568,
+      "toSample": 49408
+    },
+    {
+      "word": "mình",
+      "fromSample": 49920,
+      "toSample": 53760
+    },
+    {
+      "word": "đã",
+      "fromSample": 54272,
+      "toSample": 57344
+    },
+    {
+      "word": "học",
+      "fromSample": 57856,
+      "toSample": 60416
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

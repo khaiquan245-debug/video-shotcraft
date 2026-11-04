@@ -1,0 +1,10 @@
+{
+  "encodedNarrativeBeatFrames": 171,
+  "encodedEndingEvidenceFrames": 3,
+  "audioOffsetSamples": 0,
+  "audioOffsetMilliseconds": 0.0,
+  "audioOffsetFramesAt30fps": 0.0,
+  "first12SecondsCorrelationWithIntendedMix": 0.9999922977670915,
+  "method": "FFT cross-correlation of decoded final AAC against intended 48kHz master; plus actual encoded frames for all 171 narrative beats",
+  "movieSha256": "aae600a454ce0f4a0441a3fcd812c4ef9d6675fc0403d4916d043921a729900e"
+}

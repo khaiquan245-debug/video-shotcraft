@@ -1,0 +1,69 @@
+{
+  "key": "433d7d48a451bf686a8bd36361992f91cf7606423aca0b0e47abe64b1f761e0b",
+  "text": "vẫn sẽ tiếp tục già đi, giống như tất cả mọi người.",
+  "sampleRate": 22050,
+  "seconds": 2.5658049886621317,
+  "words": [
+    {
+      "word": "vẫn",
+      "fromSample": 768,
+      "toSample": 4864
+    },
+    {
+      "word": "sẽ",
+      "fromSample": 5632,
+      "toSample": 8704
+    },
+    {
+      "word": "tiếp",
+      "fromSample": 9216,
+      "toSample": 12800
+    },
+    {
+      "word": "tục",
+      "fromSample": 13312,
+      "toSample": 17152
+    },
+    {
+      "word": "già",
+      "fromSample": 17920,
+      "toSample": 21760
+    },
+    {
+      "word": "đi",
+      "fromSample": 22784,
+      "toSample": 25600
+    },
+    {
+      "word": "giống",
+      "fromSample": 27392,
+      "toSample": 32256
+    },
+    {
+      "word": "như",
+      "fromSample": 33024,
+      "toSample": 35072
+    },
+    {
+      "word": "tất",
+      "fromSample": 35840,
+      "toSample": 39680
+    },
+    {
+      "word": "cả",
+      "fromSample": 40192,
+      "toSample": 44032
+    },
+    {
+      "word": "mọi",
+      "fromSample": 45568,
+      "toSample": 49408
+    },
+    {
+      "word": "người",
+      "fromSample": 49920,
+      "toSample": 55040
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,29 @@
+{
+  "key": "897b76487cf99b93dad56a732ce82848eb2f2604441f5d3d2f8641b3a841a4d2",
+  "text": "Chơi đàn dương cầm.",
+  "sampleRate": 22050,
+  "seconds": 0.8010884353741496,
+  "words": [
+    {
+      "word": "chơi",
+      "fromSample": 512,
+      "toSample": 3584
+    },
+    {
+      "word": "đàn",
+      "fromSample": 4096,
+      "toSample": 7168
+    },
+    {
+      "word": "dương",
+      "fromSample": 7680,
+      "toSample": 11008
+    },
+    {
+      "word": "cầm",
+      "fromSample": 12032,
+      "toSample": 16384
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,219 @@
+{
+  "key": "763ac184217e5b9d68676e78d53e6ee3e3d6f2f367fff91f512c15f4512f2235",
+  "text": "Nhưng bạn đã nhận ra một điều quan trọng. Việc học không còn là trở ngại lớn nhất nữa. Và điều đó khiến bạn nảy ra một ý tưởng. Tại sao chỉ dùng khả năng này để có điểm số tốt hơn?",
+  "sampleRate": 22050,
+  "seconds": 8.753922902494331,
+  "words": [
+    {
+      "word": "nhưng",
+      "fromSample": 512,
+      "toSample": 3328
+    },
+    {
+      "word": "bạn",
+      "fromSample": 4096,
+      "toSample": 7936
+    },
+    {
+      "word": "đã",
+      "fromSample": 8448,
+      "toSample": 12800
+    },
+    {
+      "word": "nhận",
+      "fromSample": 13568,
+      "toSample": 18176
+    },
+    {
+      "word": "ra",
+      "fromSample": 19456,
+      "toSample": 22784
+    },
+    {
+      "word": "một",
+      "fromSample": 24064,
+      "toSample": 27136
+    },
+    {
+      "word": "điều",
+      "fromSample": 27648,
+      "toSample": 31232
+    },
+    {
+      "word": "quan",
+      "fromSample": 32000,
+      "toSample": 35072
+    },
+    {
+      "word": "trọng",
+      "fromSample": 35584,
+      "toSample": 38656
+    },
+    {
+      "word": "việc",
+      "fromSample": 39936,
+      "toSample": 43776
+    },
+    {
+      "word": "học",
+      "fromSample": 44288,
+      "toSample": 47360
+    },
+    {
+      "word": "không",
+      "fromSample": 47872,
+      "toSample": 50944
+    },
+    {
+      "word": "còn",
+      "fromSample": 52480,
+      "toSample": 56320
+    },
+    {
+      "word": "là",
+      "fromSample": 56832,
+      "toSample": 59392
+    },
+    {
+      "word": "trở",
+      "fromSample": 60160,
+      "toSample": 65024
+    },
+    {
+      "word": "ngại",
+      "fromSample": 66048,
+      "toSample": 69888
+    },
+    {
+      "word": "lớn",
+      "fromSample": 71424,
+      "toSample": 75264
+    },
+    {
+      "word": "nhất",
+      "fromSample": 75776,
+      "toSample": 78848
+    },
+    {
+      "word": "nữa",
+      "fromSample": 79616,
+      "toSample": 84224
+    },
+    {
+      "word": "và",
+      "fromSample": 86528,
+      "toSample": 89344
+    },
+    {
+      "word": "điều",
+      "fromSample": 89856,
+      "toSample": 92928
+    },
+    {
+      "word": "đó",
+      "fromSample": 93440,
+      "toSample": 98304
+    },
+    {
+      "word": "khiến",
+      "fromSample": 99840,
+      "toSample": 105472
+    },
+    {
+      "word": "bạn",
+      "fromSample": 105984,
+      "toSample": 109824
+    },
+    {
+      "word": "nảy",
+      "fromSample": 110336,
+      "toSample": 115456
+    },
+    {
+      "word": "ra",
+      "fromSample": 116224,
+      "toSample": 120064
+    },
+    {
+      "word": "một",
+      "fromSample": 120576,
+      "toSample": 124160
+    },
+    {
+      "word": "ý",
+      "fromSample": 124672,
+      "toSample": 126720
+    },
+    {
+      "word": "tưởng",
+      "fromSample": 127232,
+      "toSample": 131840
+    },
+    {
+      "word": "tại",
+      "fromSample": 133120,
+      "toSample": 136704
+    },
+    {
+      "word": "sao",
+      "fromSample": 137472,
+      "toSample": 141824
+    },
+    {
+      "word": "chỉ",
+      "fromSample": 142592,
+      "toSample": 146688
+    },
+    {
+      "word": "dùng",
+      "fromSample": 147456,
+      "toSample": 152832
+    },
+    {
+      "word": "khả",
+      "fromSample": 153856,
+      "toSample": 157696
+    },
+    {
+      "word": "năng",
+      "fromSample": 158464,
+      "toSample": 161536
+    },
+    {
+      "word": "này",
+      "fromSample": 162304,
+      "toSample": 166912
+    },
+    {
+      "word": "để",
+      "fromSample": 167936,
+      "toSample": 170496
+    },
+    {
+      "word": "có",
+      "fromSample": 171264,
+      "toSample": 173312
+    },
+    {
+      "word": "điểm",
+      "fromSample": 174080,
+      "toSample": 177920
+    },
+    {
+      "word": "số",
+      "fromSample": 178944,
+      "toSample": 183296
+    },
+    {
+      "word": "tốt",
+      "fromSample": 183808,
+      "toSample": 187648
+    },
+    {
+      "word": "hơn",
+      "fromSample": 188160,
+      "toSample": 192000
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,189 @@
+{
+  "key": "9dd8471e21d40fb94ec1e4dd975af89eafafb39751df0b3523472cc3772cefbd",
+  "text": "Giờ đây, bạn có thể đọc các nghiên cứu trên khắp thế giới. Hiểu thông tin bằng ngôn ngữ gốc. Và giao tiếp với những người mà trước kia bạn chưa từng có thể trò chuyện.",
+  "sampleRate": 22050,
+  "seconds": 7.4071655328798185,
+  "words": [
+    {
+      "word": "giờ",
+      "fromSample": 1280,
+      "toSample": 4608
+    },
+    {
+      "word": "đây",
+      "fromSample": 5376,
+      "toSample": 9728
+    },
+    {
+      "word": "bạn",
+      "fromSample": 12032,
+      "toSample": 16640
+    },
+    {
+      "word": "có",
+      "fromSample": 17408,
+      "toSample": 20224
+    },
+    {
+      "word": "thể",
+      "fromSample": 20992,
+      "toSample": 24576
+    },
+    {
+      "word": "đọc",
+      "fromSample": 25600,
+      "toSample": 28928
+    },
+    {
+      "word": "các",
+      "fromSample": 29440,
+      "toSample": 33280
+    },
+    {
+      "word": "nghiên",
+      "fromSample": 34048,
+      "toSample": 38144
+    },
+    {
+      "word": "cứu",
+      "fromSample": 38656,
+      "toSample": 42496
+    },
+    {
+      "word": "trên",
+      "fromSample": 43264,
+      "toSample": 47872
+    },
+    {
+      "word": "khắp",
+      "fromSample": 48640,
+      "toSample": 51968
+    },
+    {
+      "word": "thế",
+      "fromSample": 52480,
+      "toSample": 55296
+    },
+    {
+      "word": "giới",
+      "fromSample": 56064,
+      "toSample": 61696
+    },
+    {
+      "word": "hiểu",
+      "fromSample": 63488,
+      "toSample": 66816
+    },
+    {
+      "word": "thông",
+      "fromSample": 67584,
+      "toSample": 70912
+    },
+    {
+      "word": "tin",
+      "fromSample": 71680,
+      "toSample": 76288
+    },
+    {
+      "word": "bằng",
+      "fromSample": 77312,
+      "toSample": 81664
+    },
+    {
+      "word": "ngôn",
+      "fromSample": 82176,
+      "toSample": 85504
+    },
+    {
+      "word": "ngữ",
+      "fromSample": 86272,
+      "toSample": 89088
+    },
+    {
+      "word": "gốc",
+      "fromSample": 90368,
+      "toSample": 93440
+    },
+    {
+      "word": "và",
+      "fromSample": 94976,
+      "toSample": 98560
+    },
+    {
+      "word": "giao",
+      "fromSample": 99072,
+      "toSample": 102144
+    },
+    {
+      "word": "tiếp",
+      "fromSample": 102912,
+      "toSample": 107264
+    },
+    {
+      "word": "với",
+      "fromSample": 107776,
+      "toSample": 111104
+    },
+    {
+      "word": "những",
+      "fromSample": 111616,
+      "toSample": 114944
+    },
+    {
+      "word": "người",
+      "fromSample": 115712,
+      "toSample": 119808
+    },
+    {
+      "word": "mà",
+      "fromSample": 120576,
+      "toSample": 123392
+    },
+    {
+      "word": "trước",
+      "fromSample": 123904,
+      "toSample": 127488
+    },
+    {
+      "word": "kia",
+      "fromSample": 128256,
+      "toSample": 131072
+    },
+    {
+      "word": "bạn",
+      "fromSample": 131840,
+      "toSample": 135168
+    },
+    {
+      "word": "chưa",
+      "fromSample": 135680,
+      "toSample": 138496
+    },
+    {
+      "word": "từng",
+      "fromSample": 139520,
+      "toSample": 143872
+    },
+    {
+      "word": "có",
+      "fromSample": 144640,
+      "toSample": 147200
+    },
+    {
+      "word": "thể",
+      "fromSample": 147968,
+      "toSample": 151552
+    },
+    {
+      "word": "trò",
+      "fromSample": 152576,
+      "toSample": 156672
+    },
+    {
+      "word": "chuyện",
+      "fromSample": 157440,
+      "toSample": 162560
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

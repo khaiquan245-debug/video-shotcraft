@@ -1,0 +1,124 @@
+{
+  "key": "9ffc43963b2f3a5fcac54b8973880fc0dfd6c3b687509923da2797d7961e2014",
+  "text": "Nhưng dù sở hữu bộ não phi thường, bạn vẫn không thể biết chắc ngày mai một cổ phiếu sẽ tăng hay giảm.",
+  "sampleRate": 22050,
+  "seconds": 5.027120181405896,
+  "words": [
+    {
+      "word": "nhưng",
+      "fromSample": 512,
+      "toSample": 4608
+    },
+    {
+      "word": "dù",
+      "fromSample": 5632,
+      "toSample": 8960
+    },
+    {
+      "word": "sở",
+      "fromSample": 10240,
+      "toSample": 14080
+    },
+    {
+      "word": "hữu",
+      "fromSample": 15104,
+      "toSample": 18944
+    },
+    {
+      "word": "bộ",
+      "fromSample": 19712,
+      "toSample": 23040
+    },
+    {
+      "word": "não",
+      "fromSample": 23808,
+      "toSample": 27648
+    },
+    {
+      "word": "phi",
+      "fromSample": 28672,
+      "toSample": 31232
+    },
+    {
+      "word": "thường",
+      "fromSample": 32256,
+      "toSample": 38400
+    },
+    {
+      "word": "bạn",
+      "fromSample": 42496,
+      "toSample": 47616
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 48128,
+      "toSample": 51456
+    },
+    {
+      "word": "không",
+      "fromSample": 52480,
+      "toSample": 56064
+    },
+    {
+      "word": "thể",
+      "fromSample": 57088,
+      "toSample": 60672
+    },
+    {
+      "word": "biết",
+      "fromSample": 61440,
+      "toSample": 65280
+    },
+    {
+      "word": "chắc",
+      "fromSample": 65792,
+      "toSample": 69632
+    },
+    {
+      "word": "ngày",
+      "fromSample": 70656,
+      "toSample": 74752
+    },
+    {
+      "word": "mai",
+      "fromSample": 75264,
+      "toSample": 78592
+    },
+    {
+      "word": "một",
+      "fromSample": 79104,
+      "toSample": 82432
+    },
+    {
+      "word": "cổ",
+      "fromSample": 83200,
+      "toSample": 86784
+    },
+    {
+      "word": "phiếu",
+      "fromSample": 87552,
+      "toSample": 92672
+    },
+    {
+      "word": "sẽ",
+      "fromSample": 93440,
+      "toSample": 96768
+    },
+    {
+      "word": "tăng",
+      "fromSample": 98048,
+      "toSample": 101376
+    },
+    {
+      "word": "hay",
+      "fromSample": 101888,
+      "toSample": 105216
+    },
+    {
+      "word": "giảm",
+      "fromSample": 105728,
+      "toSample": 109824
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

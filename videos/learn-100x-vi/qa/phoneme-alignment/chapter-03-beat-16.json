@@ -1,0 +1,39 @@
+{
+  "key": "bd94d165167c285ef3503adb1b853de2272c3f2f1aa760b2bbdef8cdb6bb39ba",
+  "text": "Giá bán có quá cao không?",
+  "sampleRate": 22050,
+  "seconds": 1.3815873015873017,
+  "words": [
+    {
+      "word": "giá",
+      "fromSample": 768,
+      "toSample": 5120
+    },
+    {
+      "word": "bán",
+      "fromSample": 5632,
+      "toSample": 10240
+    },
+    {
+      "word": "có",
+      "fromSample": 11264,
+      "toSample": 13568
+    },
+    {
+      "word": "quá",
+      "fromSample": 14592,
+      "toSample": 19968
+    },
+    {
+      "word": "cao",
+      "fromSample": 20736,
+      "toSample": 24576
+    },
+    {
+      "word": "không",
+      "fromSample": 25088,
+      "toSample": 29184
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

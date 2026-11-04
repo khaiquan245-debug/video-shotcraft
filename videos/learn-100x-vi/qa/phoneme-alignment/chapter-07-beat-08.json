@@ -1,0 +1,19 @@
+{
+  "key": "d61b0f3211a6e94e3a67ef103b897efef1613ad8632c25b3ec564502659ff9e6",
+  "text": "Hóa học.",
+  "sampleRate": 22050,
+  "seconds": 0.3831292517006803,
+  "words": [
+    {
+      "word": "hóa",
+      "fromSample": 1280,
+      "toSample": 4608
+    },
+    {
+      "word": "học",
+      "fromSample": 5120,
+      "toSample": 7680
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

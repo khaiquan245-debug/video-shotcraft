@@ -1,0 +1,79 @@
+{
+  "key": "4a62f467b3f551337816d42a121201e5034c0e6f2519dce1bd9d81123f5af5bc",
+  "text": "Bạn có thể hiểu và ghi nhớ thông tin nhanh gấp một trăm lần.",
+  "sampleRate": 22050,
+  "seconds": 2.5658049886621317,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 768,
+      "toSample": 4352
+    },
+    {
+      "word": "có",
+      "fromSample": 4864,
+      "toSample": 7168
+    },
+    {
+      "word": "thể",
+      "fromSample": 7936,
+      "toSample": 11008
+    },
+    {
+      "word": "hiểu",
+      "fromSample": 11520,
+      "toSample": 17152
+    },
+    {
+      "word": "và",
+      "fromSample": 17664,
+      "toSample": 20736
+    },
+    {
+      "word": "ghi",
+      "fromSample": 21760,
+      "toSample": 23552
+    },
+    {
+      "word": "nhớ",
+      "fromSample": 24320,
+      "toSample": 27648
+    },
+    {
+      "word": "thông",
+      "fromSample": 28416,
+      "toSample": 31488
+    },
+    {
+      "word": "tin",
+      "fromSample": 32000,
+      "toSample": 35584
+    },
+    {
+      "word": "nhanh",
+      "fromSample": 36096,
+      "toSample": 39680
+    },
+    {
+      "word": "gấp",
+      "fromSample": 40192,
+      "toSample": 43008
+    },
+    {
+      "word": "một",
+      "fromSample": 43776,
+      "toSample": 46848
+    },
+    {
+      "word": "trăm",
+      "fromSample": 47360,
+      "toSample": 50688
+    },
+    {
+      "word": "lần",
+      "fromSample": 51200,
+      "toSample": 55296
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

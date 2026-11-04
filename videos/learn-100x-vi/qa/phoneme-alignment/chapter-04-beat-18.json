@@ -1,0 +1,99 @@
+{
+  "key": "73d99549192b2c9f57f34636249183484f04a58c9bd8f679802e9a4bc0de8b0e",
+  "text": "Lần đầu tiên, bạn nhận ra, không phải thứ gì cũng có thể tăng tốc một trăm lần.",
+  "sampleRate": 22050,
+  "seconds": 4.063492063492063,
+  "words": [
+    {
+      "word": "lần",
+      "fromSample": 512,
+      "toSample": 4608
+    },
+    {
+      "word": "đầu",
+      "fromSample": 5120,
+      "toSample": 8704
+    },
+    {
+      "word": "tiên",
+      "fromSample": 9728,
+      "toSample": 16384
+    },
+    {
+      "word": "bạn",
+      "fromSample": 21248,
+      "toSample": 27392
+    },
+    {
+      "word": "nhận",
+      "fromSample": 27904,
+      "toSample": 32256
+    },
+    {
+      "word": "ra",
+      "fromSample": 33024,
+      "toSample": 37120
+    },
+    {
+      "word": "không",
+      "fromSample": 39168,
+      "toSample": 42496
+    },
+    {
+      "word": "phải",
+      "fromSample": 43008,
+      "toSample": 47104
+    },
+    {
+      "word": "thứ",
+      "fromSample": 48128,
+      "toSample": 51456
+    },
+    {
+      "word": "gì",
+      "fromSample": 52224,
+      "toSample": 55296
+    },
+    {
+      "word": "cũng",
+      "fromSample": 56320,
+      "toSample": 59648
+    },
+    {
+      "word": "có",
+      "fromSample": 60160,
+      "toSample": 62976
+    },
+    {
+      "word": "thể",
+      "fromSample": 63744,
+      "toSample": 67840
+    },
+    {
+      "word": "tăng",
+      "fromSample": 68608,
+      "toSample": 72192
+    },
+    {
+      "word": "tốc",
+      "fromSample": 72704,
+      "toSample": 76544
+    },
+    {
+      "word": "một",
+      "fromSample": 77568,
+      "toSample": 80640
+    },
+    {
+      "word": "trăm",
+      "fromSample": 81152,
+      "toSample": 84480
+    },
+    {
+      "word": "lần",
+      "fromSample": 85248,
+      "toSample": 88832
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

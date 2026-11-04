@@ -1,0 +1,64 @@
+{
+  "key": "e7a1e6fbd04f90bd5ac797bfc474dc48e35b55ef69526fdd474f38549f3a184c",
+  "text": "Bóng đá. Bạn gần như hiểu lý thuyết ngay lập tức.",
+  "sampleRate": 22050,
+  "seconds": 2.345215419501134,
+  "words": [
+    {
+      "word": "bóng",
+      "fromSample": 512,
+      "toSample": 3328
+    },
+    {
+      "word": "đá",
+      "fromSample": 3840,
+      "toSample": 8192
+    },
+    {
+      "word": "bạn",
+      "fromSample": 11520,
+      "toSample": 15872
+    },
+    {
+      "word": "gần",
+      "fromSample": 16896,
+      "toSample": 20992
+    },
+    {
+      "word": "như",
+      "fromSample": 21760,
+      "toSample": 24064
+    },
+    {
+      "word": "hiểu",
+      "fromSample": 24576,
+      "toSample": 29184
+    },
+    {
+      "word": "lý",
+      "fromSample": 29952,
+      "toSample": 33280
+    },
+    {
+      "word": "thuyết",
+      "fromSample": 34560,
+      "toSample": 39168
+    },
+    {
+      "word": "ngay",
+      "fromSample": 39936,
+      "toSample": 43008
+    },
+    {
+      "word": "lập",
+      "fromSample": 44032,
+      "toSample": 46848
+    },
+    {
+      "word": "tức",
+      "fromSample": 47360,
+      "toSample": 50944
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,59 @@
+{
+  "key": "b426d9c1b82661bb573d94a8ca78bbd483e73780cd761c33dbf0811c3b25abbb",
+  "text": "Nhưng cơ thể của bạn vẫn hoàn toàn bình thường.",
+  "sampleRate": 22050,
+  "seconds": 2.159455782312925,
+  "words": [
+    {
+      "word": "nhưng",
+      "fromSample": 512,
+      "toSample": 3840
+    },
+    {
+      "word": "cơ",
+      "fromSample": 4608,
+      "toSample": 7424
+    },
+    {
+      "word": "thể",
+      "fromSample": 8192,
+      "toSample": 12288
+    },
+    {
+      "word": "của",
+      "fromSample": 12800,
+      "toSample": 15872
+    },
+    {
+      "word": "bạn",
+      "fromSample": 16384,
+      "toSample": 20224
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 21248,
+      "toSample": 24832
+    },
+    {
+      "word": "hoàn",
+      "fromSample": 26112,
+      "toSample": 31232
+    },
+    {
+      "word": "toàn",
+      "fromSample": 31744,
+      "toSample": 37376
+    },
+    {
+      "word": "bình",
+      "fromSample": 37888,
+      "toSample": 40960
+    },
+    {
+      "word": "thường",
+      "fromSample": 41472,
+      "toSample": 46848
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

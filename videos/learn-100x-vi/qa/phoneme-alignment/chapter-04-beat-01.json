@@ -1,0 +1,39 @@
+{
+  "key": "c2a6e2b689d449daf5eb1624e26b98bdfc7a3dabc8f95010b42b4e82fc7f3ee8",
+  "text": "Bạn bắt đầu với tiếng Anh.",
+  "sampleRate": 22050,
+  "seconds": 1.242267573696145,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 1280,
+      "toSample": 4608
+    },
+    {
+      "word": "bắt",
+      "fromSample": 5120,
+      "toSample": 8704
+    },
+    {
+      "word": "đầu",
+      "fromSample": 9472,
+      "toSample": 13056
+    },
+    {
+      "word": "với",
+      "fromSample": 13568,
+      "toSample": 17408
+    },
+    {
+      "word": "tiếng",
+      "fromSample": 17920,
+      "toSample": 22528
+    },
+    {
+      "word": "anh",
+      "fromSample": 23296,
+      "toSample": 26368
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

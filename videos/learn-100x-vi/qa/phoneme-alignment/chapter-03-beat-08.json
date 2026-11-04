@@ -1,0 +1,44 @@
+{
+  "key": "50c2627beaf6626274c336628c3a4f3ad4ec5cd7b4c19f9e7a99cbca0e1004b3",
+  "text": "Đầu tiên, bạn nghiên cứu thị trường.",
+  "sampleRate": 22050,
+  "seconds": 1.7763265306122449,
+  "words": [
+    {
+      "word": "đầu",
+      "fromSample": 768,
+      "toSample": 5120
+    },
+    {
+      "word": "tiên",
+      "fromSample": 5888,
+      "toSample": 11520
+    },
+    {
+      "word": "bạn",
+      "fromSample": 14080,
+      "toSample": 17920
+    },
+    {
+      "word": "nghiên",
+      "fromSample": 18688,
+      "toSample": 22528
+    },
+    {
+      "word": "cứu",
+      "fromSample": 23808,
+      "toSample": 28672
+    },
+    {
+      "word": "thị",
+      "fromSample": 29440,
+      "toSample": 32256
+    },
+    {
+      "word": "trường",
+      "fromSample": 32768,
+      "toSample": 38144
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

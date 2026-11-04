@@ -1,0 +1,64 @@
+{
+  "key": "70da6e797b564f5f6aeafe2d7b8e055b92194ba36ef910941dcc25a88ff6af4e",
+  "text": "Vì vậy, bạn quyết định mở một cửa hàng trực tuyến.",
+  "sampleRate": 22050,
+  "seconds": 2.4380952380952383,
+  "words": [
+    {
+      "word": "vì",
+      "fromSample": 768,
+      "toSample": 3072
+    },
+    {
+      "word": "vậy",
+      "fromSample": 3584,
+      "toSample": 8192
+    },
+    {
+      "word": "bạn",
+      "fromSample": 11264,
+      "toSample": 15104
+    },
+    {
+      "word": "quyết",
+      "fromSample": 16128,
+      "toSample": 20224
+    },
+    {
+      "word": "định",
+      "fromSample": 20736,
+      "toSample": 24576
+    },
+    {
+      "word": "mở",
+      "fromSample": 25088,
+      "toSample": 28928
+    },
+    {
+      "word": "một",
+      "fromSample": 29696,
+      "toSample": 33280
+    },
+    {
+      "word": "cửa",
+      "fromSample": 33792,
+      "toSample": 37632
+    },
+    {
+      "word": "hàng",
+      "fromSample": 38400,
+      "toSample": 42496
+    },
+    {
+      "word": "trực",
+      "fromSample": 43520,
+      "toSample": 46848
+    },
+    {
+      "word": "tuyến",
+      "fromSample": 47360,
+      "toSample": 52736
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

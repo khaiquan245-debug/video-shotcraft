@@ -1,0 +1,74 @@
+{
+  "key": "718b9e3b3547d29ac7cc6e91d1bc36ee116c2cb4d838cf4258ebd45feb6080e2",
+  "text": "Hãy bắt đầu bằng một ngày bình thường. Bạn đang ngồi trong lớp.",
+  "sampleRate": 22050,
+  "seconds": 2.461315192743764,
+  "words": [
+    {
+      "word": "hãy",
+      "fromSample": 512,
+      "toSample": 3584
+    },
+    {
+      "word": "bắt",
+      "fromSample": 4096,
+      "toSample": 7424
+    },
+    {
+      "word": "đầu",
+      "fromSample": 7936,
+      "toSample": 11008
+    },
+    {
+      "word": "bằng",
+      "fromSample": 11776,
+      "toSample": 14592
+    },
+    {
+      "word": "một",
+      "fromSample": 15104,
+      "toSample": 18176
+    },
+    {
+      "word": "ngày",
+      "fromSample": 18688,
+      "toSample": 21504
+    },
+    {
+      "word": "bình",
+      "fromSample": 22272,
+      "toSample": 25600
+    },
+    {
+      "word": "thường",
+      "fromSample": 26112,
+      "toSample": 30720
+    },
+    {
+      "word": "bạn",
+      "fromSample": 33280,
+      "toSample": 37120
+    },
+    {
+      "word": "đang",
+      "fromSample": 37632,
+      "toSample": 41728
+    },
+    {
+      "word": "ngồi",
+      "fromSample": 42240,
+      "toSample": 45824
+    },
+    {
+      "word": "trong",
+      "fromSample": 46592,
+      "toSample": 49920
+    },
+    {
+      "word": "lớp",
+      "fromSample": 50432,
+      "toSample": 53504
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

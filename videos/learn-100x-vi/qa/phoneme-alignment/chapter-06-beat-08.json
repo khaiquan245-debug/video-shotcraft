@@ -1,0 +1,29 @@
+{
+  "key": "c97c63637a7cb5373ae34e80fde341cf699399213a402bf4a6c59e58a9b7c33f",
+  "text": "Các quỹ đầu tư.",
+  "sampleRate": 22050,
+  "seconds": 0.7430385487528345,
+  "words": [
+    {
+      "word": "các",
+      "fromSample": 512,
+      "toSample": 3584
+    },
+    {
+      "word": "quỹ",
+      "fromSample": 4096,
+      "toSample": 6912
+    },
+    {
+      "word": "đầu",
+      "fromSample": 7424,
+      "toSample": 10752
+    },
+    {
+      "word": "tư",
+      "fromSample": 11264,
+      "toSample": 15360
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

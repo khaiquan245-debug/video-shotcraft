@@ -1,0 +1,19 @@
+{
+  "key": "4e0a4acc7e4eedecc68215875e820affe499733be3c33608d8c78779795b2010",
+  "text": "Lập trình.",
+  "sampleRate": 22050,
+  "seconds": 0.5108390022675737,
+  "words": [
+    {
+      "word": "lập",
+      "fromSample": 768,
+      "toSample": 3840
+    },
+    {
+      "word": "trình",
+      "fromSample": 4864,
+      "toSample": 9728
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

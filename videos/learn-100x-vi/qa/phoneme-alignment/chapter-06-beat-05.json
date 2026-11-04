@@ -1,0 +1,104 @@
+{
+  "key": "4cb33f14337a3973c413343f5bf3b03aebf89d21f2499816dffbd09cfe463448",
+  "text": "Nhưng sau khi các chuyên gia kiểm chứng độc lập những gì bạn làm được, mọi thứ thay đổi.",
+  "sampleRate": 22050,
+  "seconds": 4.179591836734694,
+  "words": [
+    {
+      "word": "nhưng",
+      "fromSample": 768,
+      "toSample": 3584
+    },
+    {
+      "word": "sau",
+      "fromSample": 4864,
+      "toSample": 7936
+    },
+    {
+      "word": "khi",
+      "fromSample": 8960,
+      "toSample": 12288
+    },
+    {
+      "word": "các",
+      "fromSample": 13312,
+      "toSample": 16640
+    },
+    {
+      "word": "chuyên",
+      "fromSample": 17152,
+      "toSample": 20992
+    },
+    {
+      "word": "gia",
+      "fromSample": 21760,
+      "toSample": 25088
+    },
+    {
+      "word": "kiểm",
+      "fromSample": 26368,
+      "toSample": 30976
+    },
+    {
+      "word": "chứng",
+      "fromSample": 31744,
+      "toSample": 36096
+    },
+    {
+      "word": "độc",
+      "fromSample": 36608,
+      "toSample": 40192
+    },
+    {
+      "word": "lập",
+      "fromSample": 40704,
+      "toSample": 45312
+    },
+    {
+      "word": "những",
+      "fromSample": 46336,
+      "toSample": 49408
+    },
+    {
+      "word": "gì",
+      "fromSample": 50688,
+      "toSample": 54784
+    },
+    {
+      "word": "bạn",
+      "fromSample": 55808,
+      "toSample": 59136
+    },
+    {
+      "word": "làm",
+      "fromSample": 59904,
+      "toSample": 64000
+    },
+    {
+      "word": "được",
+      "fromSample": 64512,
+      "toSample": 69888
+    },
+    {
+      "word": "mọi",
+      "fromSample": 73728,
+      "toSample": 78848
+    },
+    {
+      "word": "thứ",
+      "fromSample": 79616,
+      "toSample": 83200
+    },
+    {
+      "word": "thay",
+      "fromSample": 83712,
+      "toSample": 86784
+    },
+    {
+      "word": "đổi",
+      "fromSample": 87296,
+      "toSample": 91136
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

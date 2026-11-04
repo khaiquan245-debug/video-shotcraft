@@ -1,0 +1,74 @@
+{
+  "key": "e13b32f17aa5ddd4663812f565b0e33629d7ec746aa68aafba7f5dff71406bc9",
+  "text": "Ngoại ngữ. Bỗng nhiên, việc học trở nên dễ dàng đến khó tin.",
+  "sampleRate": 22050,
+  "seconds": 2.9605442176870747,
+  "words": [
+    {
+      "word": "ngoại",
+      "fromSample": 512,
+      "toSample": 4352
+    },
+    {
+      "word": "ngữ",
+      "fromSample": 5120,
+      "toSample": 8192
+    },
+    {
+      "word": "bỗng",
+      "fromSample": 9728,
+      "toSample": 13568
+    },
+    {
+      "word": "nhiên",
+      "fromSample": 14080,
+      "toSample": 18944
+    },
+    {
+      "word": "việc",
+      "fromSample": 20992,
+      "toSample": 25856
+    },
+    {
+      "word": "học",
+      "fromSample": 26624,
+      "toSample": 29184
+    },
+    {
+      "word": "trở",
+      "fromSample": 29952,
+      "toSample": 34816
+    },
+    {
+      "word": "nên",
+      "fromSample": 36096,
+      "toSample": 40192
+    },
+    {
+      "word": "dễ",
+      "fromSample": 41728,
+      "toSample": 45056
+    },
+    {
+      "word": "dàng",
+      "fromSample": 46336,
+      "toSample": 50688
+    },
+    {
+      "word": "đến",
+      "fromSample": 51456,
+      "toSample": 55296
+    },
+    {
+      "word": "khó",
+      "fromSample": 56064,
+      "toSample": 58880
+    },
+    {
+      "word": "tin",
+      "fromSample": 59648,
+      "toSample": 64256
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

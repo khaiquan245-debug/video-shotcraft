@@ -1,0 +1,44 @@
+{
+  "key": "42ff961f40a7f0a988cd7db1618c965bbe56a247f14961a376af4b9c1a6ca0f5",
+  "text": "Tiếp theo là thiết kế trang web.",
+  "sampleRate": 22050,
+  "seconds": 1.4048072562358276,
+  "words": [
+    {
+      "word": "tiếp",
+      "fromSample": 512,
+      "toSample": 4096
+    },
+    {
+      "word": "theo",
+      "fromSample": 4608,
+      "toSample": 8448
+    },
+    {
+      "word": "là",
+      "fromSample": 8960,
+      "toSample": 12032
+    },
+    {
+      "word": "thiết",
+      "fromSample": 12800,
+      "toSample": 16896
+    },
+    {
+      "word": "kế",
+      "fromSample": 17920,
+      "toSample": 21248
+    },
+    {
+      "word": "trang",
+      "fromSample": 21760,
+      "toSample": 25600
+    },
+    {
+      "word": "web",
+      "fromSample": 26112,
+      "toSample": 29952
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

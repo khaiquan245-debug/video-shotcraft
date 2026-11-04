@@ -1,0 +1,29 @@
+{
+  "key": "e96b64a5e117dacdada310971851959c56fbc458f463676f180198e212aa7d4d",
+  "text": "Một năm trôi qua.",
+  "sampleRate": 22050,
+  "seconds": 0.7546485260770975,
+  "words": [
+    {
+      "word": "một",
+      "fromSample": 512,
+      "toSample": 3584
+    },
+    {
+      "word": "năm",
+      "fromSample": 4096,
+      "toSample": 7168
+    },
+    {
+      "word": "trôi",
+      "fromSample": 7936,
+      "toSample": 10752
+    },
+    {
+      "word": "qua",
+      "fromSample": 11264,
+      "toSample": 15872
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

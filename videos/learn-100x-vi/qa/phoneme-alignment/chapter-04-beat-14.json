@@ -1,0 +1,54 @@
+{
+  "key": "8b294c81d2ffac0a9ba45e6343de6340073d0af3eb9d6c4bbe50637cf3ccc3a8",
+  "text": "những ngón tay của bạn vẫn đánh sai nốt.",
+  "sampleRate": 22050,
+  "seconds": 1.9040362811791383,
+  "words": [
+    {
+      "word": "những",
+      "fromSample": 512,
+      "toSample": 4096
+    },
+    {
+      "word": "ngón",
+      "fromSample": 4608,
+      "toSample": 8960
+    },
+    {
+      "word": "tay",
+      "fromSample": 9728,
+      "toSample": 13824
+    },
+    {
+      "word": "của",
+      "fromSample": 14848,
+      "toSample": 17920
+    },
+    {
+      "word": "bạn",
+      "fromSample": 18432,
+      "toSample": 22784
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 23552,
+      "toSample": 27904
+    },
+    {
+      "word": "đánh",
+      "fromSample": 28416,
+      "toSample": 32512
+    },
+    {
+      "word": "sai",
+      "fromSample": 33280,
+      "toSample": 36608
+    },
+    {
+      "word": "nốt",
+      "fromSample": 37376,
+      "toSample": 40704
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

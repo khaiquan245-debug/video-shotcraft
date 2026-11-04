@@ -1,0 +1,49 @@
+{
+  "key": "2da1c8cb95e2643a94168ab76d926c55053b5fedde7843cd68ccb393bffcc348",
+  "text": "Thế là bạn bắt đầu tìm nguyên nhân.",
+  "sampleRate": 22050,
+  "seconds": 1.5905668934240362,
+  "words": [
+    {
+      "word": "thế",
+      "fromSample": 512,
+      "toSample": 3072
+    },
+    {
+      "word": "là",
+      "fromSample": 3840,
+      "toSample": 6912
+    },
+    {
+      "word": "bạn",
+      "fromSample": 7680,
+      "toSample": 11008
+    },
+    {
+      "word": "bắt",
+      "fromSample": 11776,
+      "toSample": 15360
+    },
+    {
+      "word": "đầu",
+      "fromSample": 15872,
+      "toSample": 19712
+    },
+    {
+      "word": "tìm",
+      "fromSample": 20480,
+      "toSample": 24064
+    },
+    {
+      "word": "nguyên",
+      "fromSample": 24832,
+      "toSample": 28928
+    },
+    {
+      "word": "nhân",
+      "fromSample": 29440,
+      "toSample": 33280
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

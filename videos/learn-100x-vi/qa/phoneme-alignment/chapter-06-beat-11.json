@@ -1,0 +1,189 @@
+{
+  "key": "78215b90c278a125efabdd3219c0fa46c2dc40a47046e45b48164c31b0f2e584",
+  "text": "Ai cũng muốn làm việc với bạn. Bởi bạn có thể tiếp thu kiến thức trong nhiều lĩnh vực trong một thời gian ngắn đến khó tin. Bạn có thể trở nên vô cùng giàu có.",
+  "sampleRate": 22050,
+  "seconds": 7.163356009070295,
+  "words": [
+    {
+      "word": "ai",
+      "fromSample": 512,
+      "toSample": 3072
+    },
+    {
+      "word": "cũng",
+      "fromSample": 3584,
+      "toSample": 6400
+    },
+    {
+      "word": "muốn",
+      "fromSample": 6912,
+      "toSample": 11264
+    },
+    {
+      "word": "làm",
+      "fromSample": 12032,
+      "toSample": 15872
+    },
+    {
+      "word": "việc",
+      "fromSample": 16384,
+      "toSample": 20224
+    },
+    {
+      "word": "với",
+      "fromSample": 20992,
+      "toSample": 24064
+    },
+    {
+      "word": "bạn",
+      "fromSample": 24576,
+      "toSample": 27904
+    },
+    {
+      "word": "bởi",
+      "fromSample": 29184,
+      "toSample": 33536
+    },
+    {
+      "word": "bạn",
+      "fromSample": 34048,
+      "toSample": 37632
+    },
+    {
+      "word": "có",
+      "fromSample": 38144,
+      "toSample": 40192
+    },
+    {
+      "word": "thể",
+      "fromSample": 40704,
+      "toSample": 44800
+    },
+    {
+      "word": "tiếp",
+      "fromSample": 45568,
+      "toSample": 50176
+    },
+    {
+      "word": "thu",
+      "fromSample": 50688,
+      "toSample": 52480
+    },
+    {
+      "word": "kiến",
+      "fromSample": 53248,
+      "toSample": 57344
+    },
+    {
+      "word": "thức",
+      "fromSample": 58112,
+      "toSample": 61184
+    },
+    {
+      "word": "trong",
+      "fromSample": 61696,
+      "toSample": 65280
+    },
+    {
+      "word": "nhiều",
+      "fromSample": 66048,
+      "toSample": 69888
+    },
+    {
+      "word": "lĩnh",
+      "fromSample": 70400,
+      "toSample": 74496
+    },
+    {
+      "word": "vực",
+      "fromSample": 75520,
+      "toSample": 78592
+    },
+    {
+      "word": "trong",
+      "fromSample": 79104,
+      "toSample": 81920
+    },
+    {
+      "word": "một",
+      "fromSample": 82688,
+      "toSample": 85760
+    },
+    {
+      "word": "thời",
+      "fromSample": 86272,
+      "toSample": 91136
+    },
+    {
+      "word": "gian",
+      "fromSample": 91648,
+      "toSample": 94976
+    },
+    {
+      "word": "ngắn",
+      "fromSample": 95744,
+      "toSample": 100352
+    },
+    {
+      "word": "đến",
+      "fromSample": 101376,
+      "toSample": 105728
+    },
+    {
+      "word": "khó",
+      "fromSample": 106496,
+      "toSample": 109312
+    },
+    {
+      "word": "tin",
+      "fromSample": 109824,
+      "toSample": 114176
+    },
+    {
+      "word": "bạn",
+      "fromSample": 116224,
+      "toSample": 120064
+    },
+    {
+      "word": "có",
+      "fromSample": 121088,
+      "toSample": 123392
+    },
+    {
+      "word": "thể",
+      "fromSample": 123904,
+      "toSample": 127744
+    },
+    {
+      "word": "trở",
+      "fromSample": 128768,
+      "toSample": 133376
+    },
+    {
+      "word": "nên",
+      "fromSample": 134400,
+      "toSample": 137728
+    },
+    {
+      "word": "vô",
+      "fromSample": 138752,
+      "toSample": 140800
+    },
+    {
+      "word": "cùng",
+      "fromSample": 142080,
+      "toSample": 145664
+    },
+    {
+      "word": "giàu",
+      "fromSample": 146688,
+      "toSample": 150016
+    },
+    {
+      "word": "có",
+      "fromSample": 150784,
+      "toSample": 155904
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

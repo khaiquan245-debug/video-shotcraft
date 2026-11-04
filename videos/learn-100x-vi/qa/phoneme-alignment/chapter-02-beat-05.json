@@ -1,0 +1,34 @@
+{
+  "key": "7296be2dfc3001def1499fdd3a92906ce123d83551861065bbb56d74e1c2763f",
+  "text": "Bạn chuyển sang vật lý.",
+  "sampleRate": 22050,
+  "seconds": 1.1493877551020408,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 512,
+      "toSample": 3840
+    },
+    {
+      "word": "chuyển",
+      "fromSample": 4352,
+      "toSample": 9472
+    },
+    {
+      "word": "sang",
+      "fromSample": 10240,
+      "toSample": 13824
+    },
+    {
+      "word": "vật",
+      "fromSample": 14592,
+      "toSample": 17920
+    },
+    {
+      "word": "lý",
+      "fromSample": 18432,
+      "toSample": 23808
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,104 @@
+{
+  "key": "4deaeb388020648630483a1d2d67804fd3a747f9b61d93fd7f18dd0215f13de3",
+  "text": "Điều mà người khác phải mất một trăm giờ mới hiểu được, bạn chỉ cần học trong một giờ.",
+  "sampleRate": 22050,
+  "seconds": 4.191201814058957,
+  "words": [
+    {
+      "word": "điều",
+      "fromSample": 1024,
+      "toSample": 4352
+    },
+    {
+      "word": "mà",
+      "fromSample": 4864,
+      "toSample": 7680
+    },
+    {
+      "word": "người",
+      "fromSample": 8192,
+      "toSample": 12288
+    },
+    {
+      "word": "khác",
+      "fromSample": 13056,
+      "toSample": 17408
+    },
+    {
+      "word": "phải",
+      "fromSample": 17920,
+      "toSample": 21504
+    },
+    {
+      "word": "mất",
+      "fromSample": 22272,
+      "toSample": 26368
+    },
+    {
+      "word": "một",
+      "fromSample": 27392,
+      "toSample": 31232
+    },
+    {
+      "word": "trăm",
+      "fromSample": 32000,
+      "toSample": 36096
+    },
+    {
+      "word": "giờ",
+      "fromSample": 37120,
+      "toSample": 40960
+    },
+    {
+      "word": "mới",
+      "fromSample": 41472,
+      "toSample": 45568
+    },
+    {
+      "word": "hiểu",
+      "fromSample": 46080,
+      "toSample": 50176
+    },
+    {
+      "word": "được",
+      "fromSample": 50688,
+      "toSample": 55040
+    },
+    {
+      "word": "bạn",
+      "fromSample": 58880,
+      "toSample": 63488
+    },
+    {
+      "word": "chỉ",
+      "fromSample": 64256,
+      "toSample": 68608
+    },
+    {
+      "word": "cần",
+      "fromSample": 69888,
+      "toSample": 73728
+    },
+    {
+      "word": "học",
+      "fromSample": 74240,
+      "toSample": 77824
+    },
+    {
+      "word": "trong",
+      "fromSample": 78848,
+      "toSample": 82176
+    },
+    {
+      "word": "một",
+      "fromSample": 82944,
+      "toSample": 86016
+    },
+    {
+      "word": "giờ",
+      "fromSample": 86528,
+      "toSample": 91136
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

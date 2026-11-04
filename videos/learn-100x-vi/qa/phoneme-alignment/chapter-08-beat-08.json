@@ -1,0 +1,79 @@
+{
+  "key": "8225edb9ef5347d418fbdbf7a8f01b186d06afc5ead3dbb5c1b6d9e98ff5aa28",
+  "text": "bạn nhớ lại những buổi tối ngồi nhìn mãi vào một bài toán khó.",
+  "sampleRate": 22050,
+  "seconds": 3.1346938775510202,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 768,
+      "toSample": 5120
+    },
+    {
+      "word": "nhớ",
+      "fromSample": 5632,
+      "toSample": 8448
+    },
+    {
+      "word": "lại",
+      "fromSample": 8960,
+      "toSample": 12800
+    },
+    {
+      "word": "những",
+      "fromSample": 14336,
+      "toSample": 17408
+    },
+    {
+      "word": "buổi",
+      "fromSample": 18176,
+      "toSample": 22272
+    },
+    {
+      "word": "tối",
+      "fromSample": 22784,
+      "toSample": 27136
+    },
+    {
+      "word": "ngồi",
+      "fromSample": 27648,
+      "toSample": 32000
+    },
+    {
+      "word": "nhìn",
+      "fromSample": 33280,
+      "toSample": 36864
+    },
+    {
+      "word": "mãi",
+      "fromSample": 38144,
+      "toSample": 43776
+    },
+    {
+      "word": "vào",
+      "fromSample": 44544,
+      "toSample": 47872
+    },
+    {
+      "word": "một",
+      "fromSample": 48384,
+      "toSample": 51456
+    },
+    {
+      "word": "bài",
+      "fromSample": 51968,
+      "toSample": 55808
+    },
+    {
+      "word": "toán",
+      "fromSample": 56320,
+      "toSample": 61440
+    },
+    {
+      "word": "khó",
+      "fromSample": 62208,
+      "toSample": 67840
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

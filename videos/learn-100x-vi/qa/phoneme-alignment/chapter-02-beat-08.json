@@ -1,0 +1,139 @@
+{
+  "key": "b05a0f615adc379510555c4709d3e8cdfbc8c7c9a5b9daed2add6b9e32383074",
+  "text": "Và khoa học máy tính. Những kiến thức thường phải mất nhiều năm mới tiếp thu được, giờ chỉ cần một phần nhỏ thời gian đó.",
+  "sampleRate": 22050,
+  "seconds": 5.7817687074829935,
+  "words": [
+    {
+      "word": "và",
+      "fromSample": 768,
+      "toSample": 4608
+    },
+    {
+      "word": "khoa",
+      "fromSample": 5120,
+      "toSample": 8192
+    },
+    {
+      "word": "học",
+      "fromSample": 8960,
+      "toSample": 12288
+    },
+    {
+      "word": "máy",
+      "fromSample": 12800,
+      "toSample": 15616
+    },
+    {
+      "word": "tính",
+      "fromSample": 16640,
+      "toSample": 21248
+    },
+    {
+      "word": "những",
+      "fromSample": 23040,
+      "toSample": 26368
+    },
+    {
+      "word": "kiến",
+      "fromSample": 27392,
+      "toSample": 31744
+    },
+    {
+      "word": "thức",
+      "fromSample": 32256,
+      "toSample": 35328
+    },
+    {
+      "word": "thường",
+      "fromSample": 36096,
+      "toSample": 40960
+    },
+    {
+      "word": "phải",
+      "fromSample": 41728,
+      "toSample": 46080
+    },
+    {
+      "word": "mất",
+      "fromSample": 46848,
+      "toSample": 50944
+    },
+    {
+      "word": "nhiều",
+      "fromSample": 51712,
+      "toSample": 56832
+    },
+    {
+      "word": "năm",
+      "fromSample": 57344,
+      "toSample": 60160
+    },
+    {
+      "word": "mới",
+      "fromSample": 60672,
+      "toSample": 63744
+    },
+    {
+      "word": "tiếp",
+      "fromSample": 64256,
+      "toSample": 68864
+    },
+    {
+      "word": "thu",
+      "fromSample": 69376,
+      "toSample": 72448
+    },
+    {
+      "word": "được",
+      "fromSample": 72960,
+      "toSample": 77824
+    },
+    {
+      "word": "giờ",
+      "fromSample": 80640,
+      "toSample": 85504
+    },
+    {
+      "word": "chỉ",
+      "fromSample": 86784,
+      "toSample": 90880
+    },
+    {
+      "word": "cần",
+      "fromSample": 92160,
+      "toSample": 95232
+    },
+    {
+      "word": "một",
+      "fromSample": 95744,
+      "toSample": 99328
+    },
+    {
+      "word": "phần",
+      "fromSample": 100096,
+      "toSample": 104704
+    },
+    {
+      "word": "nhỏ",
+      "fromSample": 105472,
+      "toSample": 109312
+    },
+    {
+      "word": "thời",
+      "fromSample": 110848,
+      "toSample": 115200
+    },
+    {
+      "word": "gian",
+      "fromSample": 115968,
+      "toSample": 119552
+    },
+    {
+      "word": "đó",
+      "fromSample": 120064,
+      "toSample": 125952
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

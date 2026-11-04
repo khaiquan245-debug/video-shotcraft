@@ -1,0 +1,44 @@
+{
+  "key": "1821bb3baaa7349d721f91308f7dcba9ff36ebb9c610ccea66d9ac3a842d498b",
+  "text": "Nhưng khi ngồi xuống trước cây đàn,",
+  "sampleRate": 22050,
+  "seconds": 1.497687074829932,
+  "words": [
+    {
+      "word": "nhưng",
+      "fromSample": 768,
+      "toSample": 3584
+    },
+    {
+      "word": "khi",
+      "fromSample": 4608,
+      "toSample": 6912
+    },
+    {
+      "word": "ngồi",
+      "fromSample": 7680,
+      "toSample": 11008
+    },
+    {
+      "word": "xuống",
+      "fromSample": 11776,
+      "toSample": 16384
+    },
+    {
+      "word": "trước",
+      "fromSample": 17152,
+      "toSample": 22272
+    },
+    {
+      "word": "cây",
+      "fromSample": 23040,
+      "toSample": 26112
+    },
+    {
+      "word": "đàn",
+      "fromSample": 26624,
+      "toSample": 30720
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

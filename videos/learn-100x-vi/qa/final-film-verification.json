@@ -1,0 +1,45 @@
+{
+  "frames": 16166,
+  "seconds": 538.8666666666667,
+  "chapters": 10,
+  "narrativeBeats": 171,
+  "nativeAlignedAudioFiles": 171,
+  "spokenSyllableTokens": 2364,
+  "shots": 146,
+  "captionGroups": 370,
+  "unknownPhonemes": 0,
+  "allWrittenWordsPreserved": true,
+  "captionWordOrderExact": true,
+  "noShotGaps": true,
+  "noCaptionOverlap": true,
+  "audioFrameGridExact": true,
+  "alignmentSource": "Same-inference VITS phoneme sample durations; word boundaries quantized to 30fps",
+  "perceptualLimits": "Technical checks do not imply human listening approval or exact lip synchronization",
+  "videos": [
+    {
+      "file": "learn-100x-vi.mp4",
+      "bytes": 74508107,
+      "sha256": "aae600a454ce0f4a0441a3fcd812c4ef9d6675fc0403d4916d043921a729900e",
+      "completeDecode": true,
+      "frames": 16166,
+      "decodedAudioPeakDbfs": -2.595543,
+      "noInternalBlackGaps": true,
+      "blackIntervals": []
+    },
+    {
+      "file": "learn-100x-vi-no-music.mp4",
+      "bytes": 74080745,
+      "sha256": "2f712d5681d75b1d74c3ec122540566ba0789617593efe6acfc8b92b1e0ae34d",
+      "completeDecode": true,
+      "frames": 16166,
+      "decodedAudioPeakDbfs": -2.867245,
+      "noInternalBlackGaps": true,
+      "blackIntervals": []
+    }
+  ],
+  "bothVariantsUseIdenticalEncodedPicture": true,
+  "picturePacketHash": "SHA256=ad803e69bdbc2135590bc2f5679a7372fea8f297fb35c91a2b0c590c7941af43",
+  "encodedAudioMatchesIntendedMixes": true,
+  "mainAudioSha256": "94f1ba7ee021bd7da9ce5b415db51919ee52f233eefc6f59c9e8267c077b8adf",
+  "noMusicAudioSha256": "f13c661e636109c3df18164ed6808684ab29cc1363b6ef1bcedad007f823e19e"
+}

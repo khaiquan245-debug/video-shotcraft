@@ -1,0 +1,64 @@
+{
+  "key": "9952555805842c5626f375e2a838cc863091597276edf0baa66305a4abbd7d8a",
+  "text": "Đã lâu lắm rồi bạn không còn cảm thấy như vậy.",
+  "sampleRate": 22050,
+  "seconds": 2.461315192743764,
+  "words": [
+    {
+      "word": "đã",
+      "fromSample": 1024,
+      "toSample": 4352
+    },
+    {
+      "word": "lâu",
+      "fromSample": 5120,
+      "toSample": 8960
+    },
+    {
+      "word": "lắm",
+      "fromSample": 9984,
+      "toSample": 14592
+    },
+    {
+      "word": "rồi",
+      "fromSample": 15360,
+      "toSample": 20480
+    },
+    {
+      "word": "bạn",
+      "fromSample": 20992,
+      "toSample": 25600
+    },
+    {
+      "word": "không",
+      "fromSample": 26368,
+      "toSample": 30464
+    },
+    {
+      "word": "còn",
+      "fromSample": 31744,
+      "toSample": 36096
+    },
+    {
+      "word": "cảm",
+      "fromSample": 37376,
+      "toSample": 41984
+    },
+    {
+      "word": "thấy",
+      "fromSample": 42752,
+      "toSample": 46080
+    },
+    {
+      "word": "như",
+      "fromSample": 46848,
+      "toSample": 49152
+    },
+    {
+      "word": "vậy",
+      "fromSample": 49920,
+      "toSample": 53248
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,139 @@
+{
+  "key": "0d8f372af781a979e5c356ff7e0d95df672a3772ef415306ba9d49a7052ffe36",
+  "text": "Những công việc thường cần chuyên môn của nhiều chuyên gia khác nhau, giờ bạn đều có thể hiểu và tự mình tham gia thực hiện.",
+  "sampleRate": 22050,
+  "seconds": 5.642448979591837,
+  "words": [
+    {
+      "word": "những",
+      "fromSample": 512,
+      "toSample": 4608
+    },
+    {
+      "word": "công",
+      "fromSample": 5120,
+      "toSample": 8448
+    },
+    {
+      "word": "việc",
+      "fromSample": 9216,
+      "toSample": 13056
+    },
+    {
+      "word": "thường",
+      "fromSample": 13568,
+      "toSample": 18944
+    },
+    {
+      "word": "cần",
+      "fromSample": 19968,
+      "toSample": 23552
+    },
+    {
+      "word": "chuyên",
+      "fromSample": 24064,
+      "toSample": 28928
+    },
+    {
+      "word": "môn",
+      "fromSample": 29696,
+      "toSample": 33024
+    },
+    {
+      "word": "của",
+      "fromSample": 33792,
+      "toSample": 37120
+    },
+    {
+      "word": "nhiều",
+      "fromSample": 37888,
+      "toSample": 41984
+    },
+    {
+      "word": "chuyên",
+      "fromSample": 42752,
+      "toSample": 47616
+    },
+    {
+      "word": "gia",
+      "fromSample": 48384,
+      "toSample": 51456
+    },
+    {
+      "word": "khác",
+      "fromSample": 52224,
+      "toSample": 56832
+    },
+    {
+      "word": "nhau",
+      "fromSample": 57600,
+      "toSample": 62208
+    },
+    {
+      "word": "giờ",
+      "fromSample": 64256,
+      "toSample": 68608
+    },
+    {
+      "word": "bạn",
+      "fromSample": 69376,
+      "toSample": 72704
+    },
+    {
+      "word": "đều",
+      "fromSample": 73472,
+      "toSample": 77824
+    },
+    {
+      "word": "có",
+      "fromSample": 78592,
+      "toSample": 80896
+    },
+    {
+      "word": "thể",
+      "fromSample": 81408,
+      "toSample": 85248
+    },
+    {
+      "word": "hiểu",
+      "fromSample": 86016,
+      "toSample": 91648
+    },
+    {
+      "word": "và",
+      "fromSample": 92416,
+      "toSample": 95744
+    },
+    {
+      "word": "tự",
+      "fromSample": 96768,
+      "toSample": 100608
+    },
+    {
+      "word": "mình",
+      "fromSample": 101632,
+      "toSample": 105728
+    },
+    {
+      "word": "tham",
+      "fromSample": 106496,
+      "toSample": 110848
+    },
+    {
+      "word": "gia",
+      "fromSample": 111616,
+      "toSample": 115712
+    },
+    {
+      "word": "thực",
+      "fromSample": 116736,
+      "toSample": 119296
+    },
+    {
+      "word": "hiện",
+      "fromSample": 120320,
+      "toSample": 123392
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

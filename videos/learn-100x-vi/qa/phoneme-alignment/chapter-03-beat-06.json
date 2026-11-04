@@ -1,0 +1,109 @@
+{
+  "key": "888498ddd8ae2f2c50f457321666aca2be769feca82f67c8b49cc14404921da7",
+  "text": "Và quản trị kinh doanh. Chỉ sau vài tuần, bạn đã có nền tảng trong nhiều lĩnh vực chuyên môn.",
+  "sampleRate": 22050,
+  "seconds": 4.342131519274377,
+  "words": [
+    {
+      "word": "và",
+      "fromSample": 512,
+      "toSample": 3072
+    },
+    {
+      "word": "quản",
+      "fromSample": 3840,
+      "toSample": 8448
+    },
+    {
+      "word": "trị",
+      "fromSample": 9216,
+      "toSample": 13312
+    },
+    {
+      "word": "kinh",
+      "fromSample": 14336,
+      "toSample": 17408
+    },
+    {
+      "word": "doanh",
+      "fromSample": 18176,
+      "toSample": 22784
+    },
+    {
+      "word": "chỉ",
+      "fromSample": 24576,
+      "toSample": 27904
+    },
+    {
+      "word": "sau",
+      "fromSample": 28672,
+      "toSample": 31744
+    },
+    {
+      "word": "vài",
+      "fromSample": 32512,
+      "toSample": 36352
+    },
+    {
+      "word": "tuần",
+      "fromSample": 37120,
+      "toSample": 43264
+    },
+    {
+      "word": "bạn",
+      "fromSample": 46592,
+      "toSample": 51200
+    },
+    {
+      "word": "đã",
+      "fromSample": 51712,
+      "toSample": 54528
+    },
+    {
+      "word": "có",
+      "fromSample": 55040,
+      "toSample": 57088
+    },
+    {
+      "word": "nền",
+      "fromSample": 58112,
+      "toSample": 61696
+    },
+    {
+      "word": "tảng",
+      "fromSample": 62464,
+      "toSample": 66816
+    },
+    {
+      "word": "trong",
+      "fromSample": 67840,
+      "toSample": 72192
+    },
+    {
+      "word": "nhiều",
+      "fromSample": 72960,
+      "toSample": 77568
+    },
+    {
+      "word": "lĩnh",
+      "fromSample": 78336,
+      "toSample": 82176
+    },
+    {
+      "word": "vực",
+      "fromSample": 83200,
+      "toSample": 85760
+    },
+    {
+      "word": "chuyên",
+      "fromSample": 86272,
+      "toSample": 89856
+    },
+    {
+      "word": "môn",
+      "fromSample": 90880,
+      "toSample": 94720
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

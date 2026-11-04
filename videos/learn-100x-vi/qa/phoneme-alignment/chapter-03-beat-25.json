@@ -1,0 +1,104 @@
+{
+  "key": "b77fa7d7cdb93c341e1f93db6f58a5d82336b8ec8f0e8da6047247f255a71e71",
+  "text": "Thị trường tài chính. Bạn hiểu những mô hình kinh tế phức tạp trong thời gian ngắn kỷ lục.",
+  "sampleRate": 22050,
+  "seconds": 3.877732426303855,
+  "words": [
+    {
+      "word": "thị",
+      "fromSample": 512,
+      "toSample": 2816
+    },
+    {
+      "word": "trường",
+      "fromSample": 3584,
+      "toSample": 8704
+    },
+    {
+      "word": "tài",
+      "fromSample": 9216,
+      "toSample": 12800
+    },
+    {
+      "word": "chính",
+      "fromSample": 13568,
+      "toSample": 18688
+    },
+    {
+      "word": "bạn",
+      "fromSample": 21248,
+      "toSample": 24832
+    },
+    {
+      "word": "hiểu",
+      "fromSample": 25344,
+      "toSample": 29440
+    },
+    {
+      "word": "những",
+      "fromSample": 30208,
+      "toSample": 33536
+    },
+    {
+      "word": "mô",
+      "fromSample": 34048,
+      "toSample": 36352
+    },
+    {
+      "word": "hình",
+      "fromSample": 37120,
+      "toSample": 41216
+    },
+    {
+      "word": "kinh",
+      "fromSample": 42496,
+      "toSample": 45568
+    },
+    {
+      "word": "tế",
+      "fromSample": 46848,
+      "toSample": 50432
+    },
+    {
+      "word": "phức",
+      "fromSample": 51456,
+      "toSample": 54528
+    },
+    {
+      "word": "tạp",
+      "fromSample": 55040,
+      "toSample": 58880
+    },
+    {
+      "word": "trong",
+      "fromSample": 59392,
+      "toSample": 63232
+    },
+    {
+      "word": "thời",
+      "fromSample": 64000,
+      "toSample": 68096
+    },
+    {
+      "word": "gian",
+      "fromSample": 68864,
+      "toSample": 72192
+    },
+    {
+      "word": "ngắn",
+      "fromSample": 72704,
+      "toSample": 76544
+    },
+    {
+      "word": "kỷ",
+      "fromSample": 77312,
+      "toSample": 79872
+    },
+    {
+      "word": "lục",
+      "fromSample": 80640,
+      "toSample": 83968
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

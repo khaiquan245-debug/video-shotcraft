@@ -1,0 +1,204 @@
+{
+  "key": "b0cf5f4b50093e54136b71a2f8307eca0ec28debfcee6b40bb10089159aaf3df",
+  "text": "Bạn tiếp thu kiến thức từ nhiều ngành khoa học với tốc độ đáng kinh ngạc. Rồi bạn bắt đầu kết nối những ý tưởng mà các nhà nghiên cứu khác có lẽ hiếm khi xem xét cùng nhau.",
+  "sampleRate": 22050,
+  "seconds": 8.092154195011338,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 512,
+      "toSample": 3584
+    },
+    {
+      "word": "tiếp",
+      "fromSample": 4096,
+      "toSample": 8704
+    },
+    {
+      "word": "thu",
+      "fromSample": 9216,
+      "toSample": 11008
+    },
+    {
+      "word": "kiến",
+      "fromSample": 12288,
+      "toSample": 16896
+    },
+    {
+      "word": "thức",
+      "fromSample": 17664,
+      "toSample": 21504
+    },
+    {
+      "word": "từ",
+      "fromSample": 22016,
+      "toSample": 25088
+    },
+    {
+      "word": "nhiều",
+      "fromSample": 25856,
+      "toSample": 30464
+    },
+    {
+      "word": "ngành",
+      "fromSample": 31232,
+      "toSample": 35840
+    },
+    {
+      "word": "khoa",
+      "fromSample": 36608,
+      "toSample": 39936
+    },
+    {
+      "word": "học",
+      "fromSample": 40448,
+      "toSample": 43776
+    },
+    {
+      "word": "với",
+      "fromSample": 44288,
+      "toSample": 48128
+    },
+    {
+      "word": "tốc",
+      "fromSample": 48640,
+      "toSample": 52224
+    },
+    {
+      "word": "độ",
+      "fromSample": 52736,
+      "toSample": 56320
+    },
+    {
+      "word": "đáng",
+      "fromSample": 57344,
+      "toSample": 61952
+    },
+    {
+      "word": "kinh",
+      "fromSample": 63232,
+      "toSample": 66048
+    },
+    {
+      "word": "ngạc",
+      "fromSample": 66560,
+      "toSample": 69632
+    },
+    {
+      "word": "rồi",
+      "fromSample": 71168,
+      "toSample": 75264
+    },
+    {
+      "word": "bạn",
+      "fromSample": 75776,
+      "toSample": 79104
+    },
+    {
+      "word": "bắt",
+      "fromSample": 79616,
+      "toSample": 83200
+    },
+    {
+      "word": "đầu",
+      "fromSample": 83712,
+      "toSample": 87808
+    },
+    {
+      "word": "kết",
+      "fromSample": 88576,
+      "toSample": 92416
+    },
+    {
+      "word": "nối",
+      "fromSample": 92928,
+      "toSample": 98048
+    },
+    {
+      "word": "những",
+      "fromSample": 98816,
+      "toSample": 102656
+    },
+    {
+      "word": "ý",
+      "fromSample": 103168,
+      "toSample": 105984
+    },
+    {
+      "word": "tưởng",
+      "fromSample": 107008,
+      "toSample": 112384
+    },
+    {
+      "word": "mà",
+      "fromSample": 113408,
+      "toSample": 115968
+    },
+    {
+      "word": "các",
+      "fromSample": 116480,
+      "toSample": 120064
+    },
+    {
+      "word": "nhà",
+      "fromSample": 120576,
+      "toSample": 124928
+    },
+    {
+      "word": "nghiên",
+      "fromSample": 125440,
+      "toSample": 128768
+    },
+    {
+      "word": "cứu",
+      "fromSample": 130304,
+      "toSample": 134400
+    },
+    {
+      "word": "khác",
+      "fromSample": 135680,
+      "toSample": 140288
+    },
+    {
+      "word": "có",
+      "fromSample": 141056,
+      "toSample": 143616
+    },
+    {
+      "word": "lẽ",
+      "fromSample": 144384,
+      "toSample": 148224
+    },
+    {
+      "word": "hiếm",
+      "fromSample": 149248,
+      "toSample": 154112
+    },
+    {
+      "word": "khi",
+      "fromSample": 154880,
+      "toSample": 157696
+    },
+    {
+      "word": "xem",
+      "fromSample": 158976,
+      "toSample": 163072
+    },
+    {
+      "word": "xét",
+      "fromSample": 163840,
+      "toSample": 168704
+    },
+    {
+      "word": "cùng",
+      "fromSample": 169728,
+      "toSample": 172544
+    },
+    {
+      "word": "nhau",
+      "fromSample": 173056,
+      "toSample": 176896
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

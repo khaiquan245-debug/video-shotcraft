@@ -1,0 +1,84 @@
+{
+  "key": "de3dcdc70715407b0a38df48b79c3b5ca2799dd717b052ba205b1502ffbdb008",
+  "text": "Chỉ sau một tuần, bạn đã học được một lượng kiến thức đáng kinh ngạc.",
+  "sampleRate": 22050,
+  "seconds": 3.297233560090703,
+  "words": [
+    {
+      "word": "chỉ",
+      "fromSample": 768,
+      "toSample": 4096
+    },
+    {
+      "word": "sau",
+      "fromSample": 4864,
+      "toSample": 8704
+    },
+    {
+      "word": "một",
+      "fromSample": 9472,
+      "toSample": 12544
+    },
+    {
+      "word": "tuần",
+      "fromSample": 13056,
+      "toSample": 19200
+    },
+    {
+      "word": "bạn",
+      "fromSample": 23552,
+      "toSample": 28672
+    },
+    {
+      "word": "đã",
+      "fromSample": 29440,
+      "toSample": 32512
+    },
+    {
+      "word": "học",
+      "fromSample": 33280,
+      "toSample": 36608
+    },
+    {
+      "word": "được",
+      "fromSample": 37120,
+      "toSample": 40704
+    },
+    {
+      "word": "một",
+      "fromSample": 41728,
+      "toSample": 45056
+    },
+    {
+      "word": "lượng",
+      "fromSample": 45568,
+      "toSample": 49664
+    },
+    {
+      "word": "kiến",
+      "fromSample": 50688,
+      "toSample": 54784
+    },
+    {
+      "word": "thức",
+      "fromSample": 55552,
+      "toSample": 59392
+    },
+    {
+      "word": "đáng",
+      "fromSample": 60160,
+      "toSample": 64000
+    },
+    {
+      "word": "kinh",
+      "fromSample": 65024,
+      "toSample": 68352
+    },
+    {
+      "word": "ngạc",
+      "fromSample": 68864,
+      "toSample": 71936
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,39 @@
+{
+  "key": "a6524ed1964733940c82f91ee7b338bda3219f0b0b237345d6daeb7409a58e1e",
+  "text": "Phát minh phải được xác thực.",
+  "sampleRate": 22050,
+  "seconds": 1.242267573696145,
+  "words": [
+    {
+      "word": "phát",
+      "fromSample": 1024,
+      "toSample": 4864
+    },
+    {
+      "word": "minh",
+      "fromSample": 5632,
+      "toSample": 8704
+    },
+    {
+      "word": "phải",
+      "fromSample": 9472,
+      "toSample": 14080
+    },
+    {
+      "word": "được",
+      "fromSample": 15104,
+      "toSample": 18432
+    },
+    {
+      "word": "xác",
+      "fromSample": 19200,
+      "toSample": 22528
+    },
+    {
+      "word": "thực",
+      "fromSample": 23040,
+      "toSample": 26624
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,24 @@
+{
+  "key": "30ffd30520fe9d20906df748f9d240db0c802bf5c64041a0fbb9995b6e89552c",
+  "text": "Viết phần mềm.",
+  "sampleRate": 22050,
+  "seconds": 0.6385487528344671,
+  "words": [
+    {
+      "word": "viết",
+      "fromSample": 512,
+      "toSample": 4096
+    },
+    {
+      "word": "phần",
+      "fromSample": 4608,
+      "toSample": 8192
+    },
+    {
+      "word": "mềm",
+      "fromSample": 8960,
+      "toSample": 13312
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

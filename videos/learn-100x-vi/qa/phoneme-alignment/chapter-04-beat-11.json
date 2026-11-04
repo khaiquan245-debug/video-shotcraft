@@ -1,0 +1,14 @@
+{
+  "key": "af17d5043cb4fad144fdca7edffdf4b2c91d4b078bcf1f8c7e19921588a383ad",
+  "text": "Vẽ.",
+  "sampleRate": 22050,
+  "seconds": 0.2089795918367347,
+  "words": [
+    {
+      "word": "vẽ",
+      "fromSample": 512,
+      "toSample": 3584
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

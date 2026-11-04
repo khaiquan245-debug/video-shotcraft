@@ -1,0 +1,24 @@
+{
+  "key": "dfae1c64e5dbd3828386ba24738af03e04cdab6c5ca3ac48c52a171facddabef",
+  "text": "Kinh tế học.",
+  "sampleRate": 22050,
+  "seconds": 0.5572789115646258,
+  "words": [
+    {
+      "word": "kinh",
+      "fromSample": 2048,
+      "toSample": 4864
+    },
+    {
+      "word": "tế",
+      "fromSample": 5632,
+      "toSample": 8448
+    },
+    {
+      "word": "học",
+      "fromSample": 8960,
+      "toSample": 11520
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

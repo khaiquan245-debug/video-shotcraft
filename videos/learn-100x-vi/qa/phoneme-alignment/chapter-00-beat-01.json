@@ -1,0 +1,89 @@
+{
+  "key": "5f80d930cd8223d5aafb3f0ff1be5809b87d4d34ecd79b9ad222299f29a5932d",
+  "text": "Bạn có thể học bất cứ điều gì nhanh gấp một trăm lần người bình thường.",
+  "sampleRate": 22050,
+  "seconds": 3.320453514739229,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 512,
+      "toSample": 4352
+    },
+    {
+      "word": "có",
+      "fromSample": 5120,
+      "toSample": 7424
+    },
+    {
+      "word": "thể",
+      "fromSample": 8192,
+      "toSample": 12288
+    },
+    {
+      "word": "học",
+      "fromSample": 12800,
+      "toSample": 16384
+    },
+    {
+      "word": "bất",
+      "fromSample": 17152,
+      "toSample": 22016
+    },
+    {
+      "word": "cứ",
+      "fromSample": 22528,
+      "toSample": 25856
+    },
+    {
+      "word": "điều",
+      "fromSample": 26880,
+      "toSample": 31232
+    },
+    {
+      "word": "gì",
+      "fromSample": 31744,
+      "toSample": 35584
+    },
+    {
+      "word": "nhanh",
+      "fromSample": 36608,
+      "toSample": 40192
+    },
+    {
+      "word": "gấp",
+      "fromSample": 40704,
+      "toSample": 44032
+    },
+    {
+      "word": "một",
+      "fromSample": 44800,
+      "toSample": 49152
+    },
+    {
+      "word": "trăm",
+      "fromSample": 49920,
+      "toSample": 53760
+    },
+    {
+      "word": "lần",
+      "fromSample": 54784,
+      "toSample": 58880
+    },
+    {
+      "word": "người",
+      "fromSample": 59904,
+      "toSample": 63232
+    },
+    {
+      "word": "bình",
+      "fromSample": 63744,
+      "toSample": 66816
+    },
+    {
+      "word": "thường",
+      "fromSample": 67584,
+      "toSample": 72448
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

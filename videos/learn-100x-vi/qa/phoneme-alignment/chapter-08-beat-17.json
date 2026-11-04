@@ -1,0 +1,144 @@
+{
+  "key": "df67104069793a21ea5b8186e93e57bea695dc4275bbf778c19b6dd3353f05ee",
+  "text": "Lần đầu tiên, bạn tự hỏi, nếu mọi thứ đều trở nên quá dễ dàng, liệu mình còn biết trân trọng hành trình học hỏi nữa không?",
+  "sampleRate": 22050,
+  "seconds": 7.000816326530612,
+  "words": [
+    {
+      "word": "lần",
+      "fromSample": 768,
+      "toSample": 4608
+    },
+    {
+      "word": "đầu",
+      "fromSample": 5120,
+      "toSample": 8192
+    },
+    {
+      "word": "tiên",
+      "fromSample": 8704,
+      "toSample": 16384
+    },
+    {
+      "word": "bạn",
+      "fromSample": 20480,
+      "toSample": 24832
+    },
+    {
+      "word": "tự",
+      "fromSample": 25856,
+      "toSample": 29696
+    },
+    {
+      "word": "hỏi",
+      "fromSample": 31232,
+      "toSample": 38144
+    },
+    {
+      "word": "nếu",
+      "fromSample": 41472,
+      "toSample": 45312
+    },
+    {
+      "word": "mọi",
+      "fromSample": 46592,
+      "toSample": 51200
+    },
+    {
+      "word": "thứ",
+      "fromSample": 51968,
+      "toSample": 55296
+    },
+    {
+      "word": "đều",
+      "fromSample": 56064,
+      "toSample": 60928
+    },
+    {
+      "word": "trở",
+      "fromSample": 61696,
+      "toSample": 66560
+    },
+    {
+      "word": "nên",
+      "fromSample": 67328,
+      "toSample": 70912
+    },
+    {
+      "word": "quá",
+      "fromSample": 71936,
+      "toSample": 76544
+    },
+    {
+      "word": "dễ",
+      "fromSample": 78080,
+      "toSample": 81408
+    },
+    {
+      "word": "dàng",
+      "fromSample": 82688,
+      "toSample": 89344
+    },
+    {
+      "word": "liệu",
+      "fromSample": 91904,
+      "toSample": 97024
+    },
+    {
+      "word": "mình",
+      "fromSample": 98048,
+      "toSample": 102912
+    },
+    {
+      "word": "còn",
+      "fromSample": 103680,
+      "toSample": 107264
+    },
+    {
+      "word": "biết",
+      "fromSample": 107776,
+      "toSample": 112128
+    },
+    {
+      "word": "trân",
+      "fromSample": 112640,
+      "toSample": 116480
+    },
+    {
+      "word": "trọng",
+      "fromSample": 117248,
+      "toSample": 122112
+    },
+    {
+      "word": "hành",
+      "fromSample": 123136,
+      "toSample": 127232
+    },
+    {
+      "word": "trình",
+      "fromSample": 128256,
+      "toSample": 132608
+    },
+    {
+      "word": "học",
+      "fromSample": 133632,
+      "toSample": 137472
+    },
+    {
+      "word": "hỏi",
+      "fromSample": 138240,
+      "toSample": 142592
+    },
+    {
+      "word": "nữa",
+      "fromSample": 143872,
+      "toSample": 147712
+    },
+    {
+      "word": "không",
+      "fromSample": 148992,
+      "toSample": 152320
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

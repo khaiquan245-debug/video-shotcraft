@@ -1,0 +1,104 @@
+{
+  "key": "e32ca6f211fa6bd190f2e234d4599c07d26176d3d3d0d473fecaa25bb4f397f6",
+  "text": "Bạn có thể học lượng kiến thức của cả một đời người trong một khoảng thời gian cực ngắn.",
+  "sampleRate": 22050,
+  "seconds": 3.924172335600907,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 768,
+      "toSample": 4352
+    },
+    {
+      "word": "có",
+      "fromSample": 4864,
+      "toSample": 7168
+    },
+    {
+      "word": "thể",
+      "fromSample": 7936,
+      "toSample": 12288
+    },
+    {
+      "word": "học",
+      "fromSample": 13056,
+      "toSample": 16896
+    },
+    {
+      "word": "lượng",
+      "fromSample": 17408,
+      "toSample": 21760
+    },
+    {
+      "word": "kiến",
+      "fromSample": 23040,
+      "toSample": 27648
+    },
+    {
+      "word": "thức",
+      "fromSample": 28160,
+      "toSample": 30976
+    },
+    {
+      "word": "của",
+      "fromSample": 31488,
+      "toSample": 34816
+    },
+    {
+      "word": "cả",
+      "fromSample": 36096,
+      "toSample": 39424
+    },
+    {
+      "word": "một",
+      "fromSample": 39936,
+      "toSample": 43264
+    },
+    {
+      "word": "đời",
+      "fromSample": 43776,
+      "toSample": 46848
+    },
+    {
+      "word": "người",
+      "fromSample": 47872,
+      "toSample": 51712
+    },
+    {
+      "word": "trong",
+      "fromSample": 52480,
+      "toSample": 55552
+    },
+    {
+      "word": "một",
+      "fromSample": 56064,
+      "toSample": 59136
+    },
+    {
+      "word": "khoảng",
+      "fromSample": 59648,
+      "toSample": 64000
+    },
+    {
+      "word": "thời",
+      "fromSample": 64768,
+      "toSample": 70400
+    },
+    {
+      "word": "gian",
+      "fromSample": 71168,
+      "toSample": 75008
+    },
+    {
+      "word": "cực",
+      "fromSample": 76032,
+      "toSample": 79872
+    },
+    {
+      "word": "ngắn",
+      "fromSample": 80896,
+      "toSample": 85504
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

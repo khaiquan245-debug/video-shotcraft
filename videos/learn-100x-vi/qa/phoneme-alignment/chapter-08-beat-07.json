@@ -1,0 +1,99 @@
+{
+  "key": "90d0d9f540fcfb9b8f339f5c8ba3fe2da0ee26942c43313401931ead0438bd7b",
+  "text": "đến mức bắt đầu quên cảm giác phải vật lộn để học một điều gì đó. Và rồi,",
+  "sampleRate": 22050,
+  "seconds": 3.900952380952381,
+  "words": [
+    {
+      "word": "đến",
+      "fromSample": 1024,
+      "toSample": 4352
+    },
+    {
+      "word": "mức",
+      "fromSample": 4864,
+      "toSample": 7424
+    },
+    {
+      "word": "bắt",
+      "fromSample": 7936,
+      "toSample": 12032
+    },
+    {
+      "word": "đầu",
+      "fromSample": 12544,
+      "toSample": 16640
+    },
+    {
+      "word": "quên",
+      "fromSample": 17152,
+      "toSample": 20736
+    },
+    {
+      "word": "cảm",
+      "fromSample": 21760,
+      "toSample": 27392
+    },
+    {
+      "word": "giác",
+      "fromSample": 28160,
+      "toSample": 32512
+    },
+    {
+      "word": "phải",
+      "fromSample": 33024,
+      "toSample": 37376
+    },
+    {
+      "word": "vật",
+      "fromSample": 38144,
+      "toSample": 42240
+    },
+    {
+      "word": "lộn",
+      "fromSample": 43008,
+      "toSample": 48640
+    },
+    {
+      "word": "để",
+      "fromSample": 49408,
+      "toSample": 52480
+    },
+    {
+      "word": "học",
+      "fromSample": 53504,
+      "toSample": 57088
+    },
+    {
+      "word": "một",
+      "fromSample": 57856,
+      "toSample": 60928
+    },
+    {
+      "word": "điều",
+      "fromSample": 61440,
+      "toSample": 64768
+    },
+    {
+      "word": "gì",
+      "fromSample": 65280,
+      "toSample": 68352
+    },
+    {
+      "word": "đó",
+      "fromSample": 69120,
+      "toSample": 74496
+    },
+    {
+      "word": "và",
+      "fromSample": 76544,
+      "toSample": 79360
+    },
+    {
+      "word": "rồi",
+      "fromSample": 80384,
+      "toSample": 84736
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

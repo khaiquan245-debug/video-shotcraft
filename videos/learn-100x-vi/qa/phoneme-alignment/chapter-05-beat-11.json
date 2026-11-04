@@ -1,0 +1,99 @@
+{
+  "key": "81f59ca1fa74e5de74deda17a6323e80f3ed26c370b5f507e537fe460dac9440",
+  "text": "Nhưng xây dựng một công ty thành công vẫn cần thời gian. Sản phẩm cần được thử nghiệm.",
+  "sampleRate": 22050,
+  "seconds": 3.8312925170068026,
+  "words": [
+    {
+      "word": "nhưng",
+      "fromSample": 512,
+      "toSample": 4096
+    },
+    {
+      "word": "xây",
+      "fromSample": 4864,
+      "toSample": 8960
+    },
+    {
+      "word": "dựng",
+      "fromSample": 9984,
+      "toSample": 14336
+    },
+    {
+      "word": "một",
+      "fromSample": 15104,
+      "toSample": 18944
+    },
+    {
+      "word": "công",
+      "fromSample": 19712,
+      "toSample": 22784
+    },
+    {
+      "word": "ty",
+      "fromSample": 23552,
+      "toSample": 26112
+    },
+    {
+      "word": "thành",
+      "fromSample": 26624,
+      "toSample": 31232
+    },
+    {
+      "word": "công",
+      "fromSample": 32512,
+      "toSample": 36096
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 36608,
+      "toSample": 40704
+    },
+    {
+      "word": "cần",
+      "fromSample": 41984,
+      "toSample": 45568
+    },
+    {
+      "word": "thời",
+      "fromSample": 46336,
+      "toSample": 50176
+    },
+    {
+      "word": "gian",
+      "fromSample": 50688,
+      "toSample": 55296
+    },
+    {
+      "word": "sản",
+      "fromSample": 57344,
+      "toSample": 61184
+    },
+    {
+      "word": "phẩm",
+      "fromSample": 61952,
+      "toSample": 66048
+    },
+    {
+      "word": "cần",
+      "fromSample": 67328,
+      "toSample": 71168
+    },
+    {
+      "word": "được",
+      "fromSample": 71936,
+      "toSample": 75776
+    },
+    {
+      "word": "thử",
+      "fromSample": 76288,
+      "toSample": 79104
+    },
+    {
+      "word": "nghiệm",
+      "fromSample": 80128,
+      "toSample": 83712
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

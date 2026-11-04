@@ -1,0 +1,29 @@
+{
+  "key": "998f192ed3b7f7fc8fcda8dd874551d064ae96c4c20f5b8b146b2c7faba03718",
+  "text": "Bạn vẫn cần ăn.",
+  "sampleRate": 22050,
+  "seconds": 0.7546485260770975,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 768,
+      "toSample": 4096
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 4864,
+      "toSample": 7680
+    },
+    {
+      "word": "cần",
+      "fromSample": 8192,
+      "toSample": 11520
+    },
+    {
+      "word": "ăn",
+      "fromSample": 12288,
+      "toSample": 15616
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

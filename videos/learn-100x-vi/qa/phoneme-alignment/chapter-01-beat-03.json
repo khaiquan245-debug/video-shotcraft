@@ -1,0 +1,54 @@
+{
+  "key": "5c30bcf05a573748b3fd7794bc5617a78550bbed91d626b39b3e75852923ff31",
+  "text": "Một ngày vẫn chỉ có hai mươi bốn giờ.",
+  "sampleRate": 22050,
+  "seconds": 1.799546485260771,
+  "words": [
+    {
+      "word": "một",
+      "fromSample": 768,
+      "toSample": 3840
+    },
+    {
+      "word": "ngày",
+      "fromSample": 4352,
+      "toSample": 7424
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 8192,
+      "toSample": 12288
+    },
+    {
+      "word": "chỉ",
+      "fromSample": 13056,
+      "toSample": 16640
+    },
+    {
+      "word": "có",
+      "fromSample": 17152,
+      "toSample": 19712
+    },
+    {
+      "word": "hai",
+      "fromSample": 20480,
+      "toSample": 24832
+    },
+    {
+      "word": "mươi",
+      "fromSample": 26112,
+      "toSample": 29184
+    },
+    {
+      "word": "bốn",
+      "fromSample": 29696,
+      "toSample": 33024
+    },
+    {
+      "word": "giờ",
+      "fromSample": 34048,
+      "toSample": 38912
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

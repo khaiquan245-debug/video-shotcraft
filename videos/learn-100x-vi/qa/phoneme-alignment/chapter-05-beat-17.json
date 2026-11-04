@@ -1,0 +1,89 @@
+{
+  "key": "4f44560ea0e1b6fcbfb9557892c19738aef8c3b553cd56cbce7310beb29ca848",
+  "text": "Chỉ có một vấn đề. Một lợi thế phi thường đến vậy rất khó giữ kín.",
+  "sampleRate": 22050,
+  "seconds": 3.215963718820862,
+  "words": [
+    {
+      "word": "chỉ",
+      "fromSample": 768,
+      "toSample": 4096
+    },
+    {
+      "word": "có",
+      "fromSample": 4864,
+      "toSample": 7680
+    },
+    {
+      "word": "một",
+      "fromSample": 8192,
+      "toSample": 11776
+    },
+    {
+      "word": "vấn",
+      "fromSample": 12288,
+      "toSample": 15360
+    },
+    {
+      "word": "đề",
+      "fromSample": 16128,
+      "toSample": 19968
+    },
+    {
+      "word": "một",
+      "fromSample": 21504,
+      "toSample": 24576
+    },
+    {
+      "word": "lợi",
+      "fromSample": 25088,
+      "toSample": 29184
+    },
+    {
+      "word": "thế",
+      "fromSample": 29696,
+      "toSample": 32768
+    },
+    {
+      "word": "phi",
+      "fromSample": 33792,
+      "toSample": 36608
+    },
+    {
+      "word": "thường",
+      "fromSample": 37632,
+      "toSample": 43008
+    },
+    {
+      "word": "đến",
+      "fromSample": 43776,
+      "toSample": 47872
+    },
+    {
+      "word": "vậy",
+      "fromSample": 48640,
+      "toSample": 52736
+    },
+    {
+      "word": "rất",
+      "fromSample": 53504,
+      "toSample": 57088
+    },
+    {
+      "word": "khó",
+      "fromSample": 57600,
+      "toSample": 59648
+    },
+    {
+      "word": "giữ",
+      "fromSample": 60672,
+      "toSample": 63744
+    },
+    {
+      "word": "kín",
+      "fromSample": 64768,
+      "toSample": 69888
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

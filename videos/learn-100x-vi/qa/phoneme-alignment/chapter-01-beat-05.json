@@ -1,0 +1,149 @@
+{
+  "key": "b3b2dfdcb67cadb5de3a6c60cf625b16f73fb43030225ef2b742084f28332ba7",
+  "text": "Những giới hạn này nghe có vẻ nhỏ. Nhưng chính chúng sẽ quyết định siêu năng lực ấy thực sự có thể đưa bạn đi xa đến đâu.",
+  "sampleRate": 22050,
+  "seconds": 5.723718820861678,
+  "words": [
+    {
+      "word": "những",
+      "fromSample": 768,
+      "toSample": 4608
+    },
+    {
+      "word": "giới",
+      "fromSample": 5632,
+      "toSample": 9472
+    },
+    {
+      "word": "hạn",
+      "fromSample": 10240,
+      "toSample": 13824
+    },
+    {
+      "word": "này",
+      "fromSample": 14336,
+      "toSample": 18944
+    },
+    {
+      "word": "nghe",
+      "fromSample": 19712,
+      "toSample": 22272
+    },
+    {
+      "word": "có",
+      "fromSample": 23552,
+      "toSample": 26112
+    },
+    {
+      "word": "vẻ",
+      "fromSample": 27136,
+      "toSample": 30464
+    },
+    {
+      "word": "nhỏ",
+      "fromSample": 31744,
+      "toSample": 36096
+    },
+    {
+      "word": "nhưng",
+      "fromSample": 37632,
+      "toSample": 40960
+    },
+    {
+      "word": "chính",
+      "fromSample": 41472,
+      "toSample": 46080
+    },
+    {
+      "word": "chúng",
+      "fromSample": 46848,
+      "toSample": 51456
+    },
+    {
+      "word": "sẽ",
+      "fromSample": 52224,
+      "toSample": 55296
+    },
+    {
+      "word": "quyết",
+      "fromSample": 56064,
+      "toSample": 60416
+    },
+    {
+      "word": "định",
+      "fromSample": 60928,
+      "toSample": 64512
+    },
+    {
+      "word": "siêu",
+      "fromSample": 65792,
+      "toSample": 70144
+    },
+    {
+      "word": "năng",
+      "fromSample": 70912,
+      "toSample": 73984
+    },
+    {
+      "word": "lực",
+      "fromSample": 74752,
+      "toSample": 78080
+    },
+    {
+      "word": "ấy",
+      "fromSample": 79104,
+      "toSample": 82432
+    },
+    {
+      "word": "thực",
+      "fromSample": 83456,
+      "toSample": 87040
+    },
+    {
+      "word": "sự",
+      "fromSample": 87552,
+      "toSample": 91136
+    },
+    {
+      "word": "có",
+      "fromSample": 92160,
+      "toSample": 94720
+    },
+    {
+      "word": "thể",
+      "fromSample": 95744,
+      "toSample": 99840
+    },
+    {
+      "word": "đưa",
+      "fromSample": 100864,
+      "toSample": 103936
+    },
+    {
+      "word": "bạn",
+      "fromSample": 104448,
+      "toSample": 107776
+    },
+    {
+      "word": "đi",
+      "fromSample": 108288,
+      "toSample": 111104
+    },
+    {
+      "word": "xa",
+      "fromSample": 112128,
+      "toSample": 115968
+    },
+    {
+      "word": "đến",
+      "fromSample": 116992,
+      "toSample": 120320
+    },
+    {
+      "word": "đâu",
+      "fromSample": 120832,
+      "toSample": 124672
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

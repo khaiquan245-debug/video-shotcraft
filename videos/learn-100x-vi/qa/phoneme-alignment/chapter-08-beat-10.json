@@ -1,0 +1,79 @@
+{
+  "key": "57d6a64d5b78c8832fecb5ab7bebcf0aac4d23b7de60760e2a3fd3d4eca0dcd8",
+  "text": "Và niềm vui vỡ òa khi cuối cùng mọi thứ trở nên rõ ràng.",
+  "sampleRate": 22050,
+  "seconds": 3.0650340136054424,
+  "words": [
+    {
+      "word": "và",
+      "fromSample": 512,
+      "toSample": 3328
+    },
+    {
+      "word": "niềm",
+      "fromSample": 3840,
+      "toSample": 7424
+    },
+    {
+      "word": "vui",
+      "fromSample": 8192,
+      "toSample": 11008
+    },
+    {
+      "word": "vỡ",
+      "fromSample": 11776,
+      "toSample": 16128
+    },
+    {
+      "word": "òa",
+      "fromSample": 17152,
+      "toSample": 21248
+    },
+    {
+      "word": "khi",
+      "fromSample": 22016,
+      "toSample": 25088
+    },
+    {
+      "word": "cuối",
+      "fromSample": 26368,
+      "toSample": 30720
+    },
+    {
+      "word": "cùng",
+      "fromSample": 31744,
+      "toSample": 36352
+    },
+    {
+      "word": "mọi",
+      "fromSample": 37376,
+      "toSample": 41728
+    },
+    {
+      "word": "thứ",
+      "fromSample": 43008,
+      "toSample": 46336
+    },
+    {
+      "word": "trở",
+      "fromSample": 47104,
+      "toSample": 51712
+    },
+    {
+      "word": "nên",
+      "fromSample": 52480,
+      "toSample": 56576
+    },
+    {
+      "word": "rõ",
+      "fromSample": 57600,
+      "toSample": 60928
+    },
+    {
+      "word": "ràng",
+      "fromSample": 62208,
+      "toSample": 66816
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

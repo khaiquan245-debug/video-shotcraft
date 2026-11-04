@@ -1,0 +1,64 @@
+{
+  "key": "16e7593a6dc656afb84d08238ef5832ab8837d04eb17a266af0836808a6c6dde",
+  "text": "Không có gì đảm bảo bạn sẽ trở thành triệu phú.",
+  "sampleRate": 22050,
+  "seconds": 2.2523356009070294,
+  "words": [
+    {
+      "word": "không",
+      "fromSample": 512,
+      "toSample": 3840
+    },
+    {
+      "word": "có",
+      "fromSample": 4352,
+      "toSample": 6912
+    },
+    {
+      "word": "gì",
+      "fromSample": 7936,
+      "toSample": 11008
+    },
+    {
+      "word": "đảm",
+      "fromSample": 12032,
+      "toSample": 15360
+    },
+    {
+      "word": "bảo",
+      "fromSample": 16128,
+      "toSample": 19712
+    },
+    {
+      "word": "bạn",
+      "fromSample": 20480,
+      "toSample": 24576
+    },
+    {
+      "word": "sẽ",
+      "fromSample": 25344,
+      "toSample": 28160
+    },
+    {
+      "word": "trở",
+      "fromSample": 29440,
+      "toSample": 33792
+    },
+    {
+      "word": "thành",
+      "fromSample": 34304,
+      "toSample": 38144
+    },
+    {
+      "word": "triệu",
+      "fromSample": 38656,
+      "toSample": 43264
+    },
+    {
+      "word": "phú",
+      "fromSample": 43776,
+      "toSample": 48384
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

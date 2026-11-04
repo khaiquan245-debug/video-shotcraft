@@ -1,0 +1,39 @@
+{
+  "key": "35331bd086c1afad539480e2695d2b64d3575216f783b8c6949d10c38e48845b",
+  "text": "Tìm hiểu hành vi khách hàng.",
+  "sampleRate": 22050,
+  "seconds": 1.253877551020408,
+  "words": [
+    {
+      "word": "tìm",
+      "fromSample": 512,
+      "toSample": 3840
+    },
+    {
+      "word": "hiểu",
+      "fromSample": 4608,
+      "toSample": 8192
+    },
+    {
+      "word": "hành",
+      "fromSample": 8960,
+      "toSample": 14080
+    },
+    {
+      "word": "vi",
+      "fromSample": 15104,
+      "toSample": 17408
+    },
+    {
+      "word": "khách",
+      "fromSample": 17920,
+      "toSample": 21760
+    },
+    {
+      "word": "hàng",
+      "fromSample": 22528,
+      "toSample": 26624
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

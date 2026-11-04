@@ -1,0 +1,99 @@
+{
+  "key": "dc81ce437a8a44ff7bad357ca2e62cf4bf75171dad1fe754a963e4f82373a749",
+  "text": "Cuối cùng, đơn hàng đầu tiên xuất hiện. Rồi thêm một đơn nữa. Và thêm một đơn nữa.",
+  "sampleRate": 22050,
+  "seconds": 3.8312925170068026,
+  "words": [
+    {
+      "word": "cuối",
+      "fromSample": 512,
+      "toSample": 4096
+    },
+    {
+      "word": "cùng",
+      "fromSample": 4864,
+      "toSample": 9984
+    },
+    {
+      "word": "đơn",
+      "fromSample": 12544,
+      "toSample": 16896
+    },
+    {
+      "word": "hàng",
+      "fromSample": 18176,
+      "toSample": 22016
+    },
+    {
+      "word": "đầu",
+      "fromSample": 22784,
+      "toSample": 26368
+    },
+    {
+      "word": "tiên",
+      "fromSample": 27136,
+      "toSample": 30464
+    },
+    {
+      "word": "xuất",
+      "fromSample": 30976,
+      "toSample": 34816
+    },
+    {
+      "word": "hiện",
+      "fromSample": 35328,
+      "toSample": 38656
+    },
+    {
+      "word": "rồi",
+      "fromSample": 40704,
+      "toSample": 44800
+    },
+    {
+      "word": "thêm",
+      "fromSample": 45312,
+      "toSample": 48128
+    },
+    {
+      "word": "một",
+      "fromSample": 48640,
+      "toSample": 51712
+    },
+    {
+      "word": "đơn",
+      "fromSample": 52480,
+      "toSample": 55552
+    },
+    {
+      "word": "nữa",
+      "fromSample": 56320,
+      "toSample": 60928
+    },
+    {
+      "word": "và",
+      "fromSample": 63232,
+      "toSample": 66048
+    },
+    {
+      "word": "thêm",
+      "fromSample": 66816,
+      "toSample": 69888
+    },
+    {
+      "word": "một",
+      "fromSample": 70656,
+      "toSample": 73728
+    },
+    {
+      "word": "đơn",
+      "fromSample": 74240,
+      "toSample": 77312
+    },
+    {
+      "word": "nữa",
+      "fromSample": 77824,
+      "toSample": 83200
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

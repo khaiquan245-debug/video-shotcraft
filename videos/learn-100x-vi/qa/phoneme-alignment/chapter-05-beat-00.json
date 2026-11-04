@@ -1,0 +1,119 @@
+{
+  "key": "bde6b670150cac15699ad603112b117f7b1f3b9bb391a1139cc0ac9349230ab1",
+  "text": "Vài tháng đã trôi qua. Bạn đã tiếp thu lượng kiến thức mà bình thường có thể cần nhiều năm học tập.",
+  "sampleRate": 22050,
+  "seconds": 4.504671201814059,
+  "words": [
+    {
+      "word": "vài",
+      "fromSample": 768,
+      "toSample": 4864
+    },
+    {
+      "word": "tháng",
+      "fromSample": 5632,
+      "toSample": 10752
+    },
+    {
+      "word": "đã",
+      "fromSample": 11264,
+      "toSample": 14848
+    },
+    {
+      "word": "trôi",
+      "fromSample": 15360,
+      "toSample": 18176
+    },
+    {
+      "word": "qua",
+      "fromSample": 18944,
+      "toSample": 23296
+    },
+    {
+      "word": "bạn",
+      "fromSample": 24832,
+      "toSample": 28416
+    },
+    {
+      "word": "đã",
+      "fromSample": 28928,
+      "toSample": 31744
+    },
+    {
+      "word": "tiếp",
+      "fromSample": 32768,
+      "toSample": 37376
+    },
+    {
+      "word": "thu",
+      "fromSample": 37888,
+      "toSample": 40448
+    },
+    {
+      "word": "lượng",
+      "fromSample": 40960,
+      "toSample": 45824
+    },
+    {
+      "word": "kiến",
+      "fromSample": 46848,
+      "toSample": 51456
+    },
+    {
+      "word": "thức",
+      "fromSample": 52224,
+      "toSample": 56576
+    },
+    {
+      "word": "mà",
+      "fromSample": 57088,
+      "toSample": 61184
+    },
+    {
+      "word": "bình",
+      "fromSample": 61696,
+      "toSample": 65024
+    },
+    {
+      "word": "thường",
+      "fromSample": 65792,
+      "toSample": 70912
+    },
+    {
+      "word": "có",
+      "fromSample": 71936,
+      "toSample": 73984
+    },
+    {
+      "word": "thể",
+      "fromSample": 74752,
+      "toSample": 78848
+    },
+    {
+      "word": "cần",
+      "fromSample": 80128,
+      "toSample": 83456
+    },
+    {
+      "word": "nhiều",
+      "fromSample": 84224,
+      "toSample": 88320
+    },
+    {
+      "word": "năm",
+      "fromSample": 88832,
+      "toSample": 91648
+    },
+    {
+      "word": "học",
+      "fromSample": 92160,
+      "toSample": 94976
+    },
+    {
+      "word": "tập",
+      "fromSample": 95488,
+      "toSample": 98560
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

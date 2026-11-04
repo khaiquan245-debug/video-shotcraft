@@ -1,0 +1,164 @@
+{
+  "key": "c2411960d9ae2cf55420beb767f9c787b35cded412d79bf6a0dabdc49643c0d7",
+  "text": "Từ vựng, ngữ pháp và cấu trúc câu bỗng trở nên rất dễ tiếp thu. Những nội dung thường phải học hàng tháng, bạn có thể hiểu chỉ trong vài ngày.",
+  "sampleRate": 22050,
+  "seconds": 6.757006802721088,
+  "words": [
+    {
+      "word": "từ",
+      "fromSample": 512,
+      "toSample": 3072
+    },
+    {
+      "word": "vựng",
+      "fromSample": 3584,
+      "toSample": 7424
+    },
+    {
+      "word": "ngữ",
+      "fromSample": 8704,
+      "toSample": 11520
+    },
+    {
+      "word": "pháp",
+      "fromSample": 12800,
+      "toSample": 17152
+    },
+    {
+      "word": "và",
+      "fromSample": 17920,
+      "toSample": 21248
+    },
+    {
+      "word": "cấu",
+      "fromSample": 22528,
+      "toSample": 25344
+    },
+    {
+      "word": "trúc",
+      "fromSample": 26368,
+      "toSample": 31232
+    },
+    {
+      "word": "câu",
+      "fromSample": 31744,
+      "toSample": 36096
+    },
+    {
+      "word": "bỗng",
+      "fromSample": 36864,
+      "toSample": 40704
+    },
+    {
+      "word": "trở",
+      "fromSample": 41728,
+      "toSample": 46080
+    },
+    {
+      "word": "nên",
+      "fromSample": 47104,
+      "toSample": 50944
+    },
+    {
+      "word": "rất",
+      "fromSample": 51712,
+      "toSample": 55040
+    },
+    {
+      "word": "dễ",
+      "fromSample": 55808,
+      "toSample": 58368
+    },
+    {
+      "word": "tiếp",
+      "fromSample": 58880,
+      "toSample": 62720
+    },
+    {
+      "word": "thu",
+      "fromSample": 63232,
+      "toSample": 66816
+    },
+    {
+      "word": "những",
+      "fromSample": 68608,
+      "toSample": 72192
+    },
+    {
+      "word": "nội",
+      "fromSample": 72704,
+      "toSample": 76544
+    },
+    {
+      "word": "dung",
+      "fromSample": 77568,
+      "toSample": 82176
+    },
+    {
+      "word": "thường",
+      "fromSample": 83456,
+      "toSample": 88576
+    },
+    {
+      "word": "phải",
+      "fromSample": 89344,
+      "toSample": 93184
+    },
+    {
+      "word": "học",
+      "fromSample": 93696,
+      "toSample": 97280
+    },
+    {
+      "word": "hàng",
+      "fromSample": 98048,
+      "toSample": 101888
+    },
+    {
+      "word": "tháng",
+      "fromSample": 102912,
+      "toSample": 109312
+    },
+    {
+      "word": "bạn",
+      "fromSample": 112640,
+      "toSample": 117760
+    },
+    {
+      "word": "có",
+      "fromSample": 118272,
+      "toSample": 120576
+    },
+    {
+      "word": "thể",
+      "fromSample": 121344,
+      "toSample": 125184
+    },
+    {
+      "word": "hiểu",
+      "fromSample": 125952,
+      "toSample": 130304
+    },
+    {
+      "word": "chỉ",
+      "fromSample": 131072,
+      "toSample": 135168
+    },
+    {
+      "word": "trong",
+      "fromSample": 135680,
+      "toSample": 139264
+    },
+    {
+      "word": "vài",
+      "fromSample": 139776,
+      "toSample": 143616
+    },
+    {
+      "word": "ngày",
+      "fromSample": 144128,
+      "toSample": 148224
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,114 @@
+{
+  "key": "67109ab8b151745f1ad1bae1b389a60a316329da1a83871c98b248ef8a38db26",
+  "text": "Và nếu nhân loại chưa khám phá ra điều gì đó, bạn vẫn phải tự mình tìm ra câu trả lời.",
+  "sampleRate": 22050,
+  "seconds": 4.655600907029479,
+  "words": [
+    {
+      "word": "và",
+      "fromSample": 768,
+      "toSample": 3840
+    },
+    {
+      "word": "nếu",
+      "fromSample": 4352,
+      "toSample": 7424
+    },
+    {
+      "word": "nhân",
+      "fromSample": 8448,
+      "toSample": 11264
+    },
+    {
+      "word": "loại",
+      "fromSample": 11776,
+      "toSample": 16128
+    },
+    {
+      "word": "chưa",
+      "fromSample": 16896,
+      "toSample": 19968
+    },
+    {
+      "word": "khám",
+      "fromSample": 20736,
+      "toSample": 25600
+    },
+    {
+      "word": "phá",
+      "fromSample": 26368,
+      "toSample": 30720
+    },
+    {
+      "word": "ra",
+      "fromSample": 31488,
+      "toSample": 34304
+    },
+    {
+      "word": "điều",
+      "fromSample": 35328,
+      "toSample": 38912
+    },
+    {
+      "word": "gì",
+      "fromSample": 39680,
+      "toSample": 42496
+    },
+    {
+      "word": "đó",
+      "fromSample": 43008,
+      "toSample": 48640
+    },
+    {
+      "word": "bạn",
+      "fromSample": 51968,
+      "toSample": 57600
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 58112,
+      "toSample": 61440
+    },
+    {
+      "word": "phải",
+      "fromSample": 61952,
+      "toSample": 67072
+    },
+    {
+      "word": "tự",
+      "fromSample": 68096,
+      "toSample": 71936
+    },
+    {
+      "word": "mình",
+      "fromSample": 72448,
+      "toSample": 77568
+    },
+    {
+      "word": "tìm",
+      "fromSample": 78592,
+      "toSample": 83712
+    },
+    {
+      "word": "ra",
+      "fromSample": 84224,
+      "toSample": 87296
+    },
+    {
+      "word": "câu",
+      "fromSample": 88576,
+      "toSample": 92928
+    },
+    {
+      "word": "trả",
+      "fromSample": 93440,
+      "toSample": 96768
+    },
+    {
+      "word": "lời",
+      "fromSample": 97792,
+      "toSample": 101888
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,44 @@
+{
+  "key": "1303854fc5625c7785679c1dd5eb3495292d3f8ed2ca6809ffac39b0aab8023c",
+  "text": "Bạn vẫn có thể thấy kiệt sức.",
+  "sampleRate": 22050,
+  "seconds": 1.474467120181406,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 1024,
+      "toSample": 4608
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 5376,
+      "toSample": 8960
+    },
+    {
+      "word": "có",
+      "fromSample": 9728,
+      "toSample": 12032
+    },
+    {
+      "word": "thể",
+      "fromSample": 13056,
+      "toSample": 17152
+    },
+    {
+      "word": "thấy",
+      "fromSample": 18432,
+      "toSample": 22528
+    },
+    {
+      "word": "kiệt",
+      "fromSample": 23040,
+      "toSample": 27392
+    },
+    {
+      "word": "sức",
+      "fromSample": 28160,
+      "toSample": 31488
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

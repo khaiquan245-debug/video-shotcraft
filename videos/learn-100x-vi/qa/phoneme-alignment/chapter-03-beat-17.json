@@ -1,0 +1,44 @@
+{
+  "key": "a2cf2c0f2b5ac807e7988ce757e7841ef92796f9b46ff3ea486949df12aa79fd",
+  "text": "Ảnh sản phẩm có quá tệ không?",
+  "sampleRate": 22050,
+  "seconds": 1.555736961451247,
+  "words": [
+    {
+      "word": "ảnh",
+      "fromSample": 512,
+      "toSample": 3584
+    },
+    {
+      "word": "sản",
+      "fromSample": 4608,
+      "toSample": 8704
+    },
+    {
+      "word": "phẩm",
+      "fromSample": 9216,
+      "toSample": 14848
+    },
+    {
+      "word": "có",
+      "fromSample": 15872,
+      "toSample": 19200
+    },
+    {
+      "word": "quá",
+      "fromSample": 19712,
+      "toSample": 24064
+    },
+    {
+      "word": "tệ",
+      "fromSample": 24832,
+      "toSample": 28416
+    },
+    {
+      "word": "không",
+      "fromSample": 29440,
+      "toSample": 32768
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

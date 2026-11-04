@@ -1,0 +1,189 @@
+{
+  "key": "136831419d1965d248bf94f0244002a88bcd287ef8ba11dccb3c7d07ee298778",
+  "text": "Có thể bạn tìm ra một phương pháp điều trị mới đầy triển vọng. Một công nghệ năng lượng hiệu quả hơn. Hoặc một phát minh có thể cải thiện cuộc sống của hàng triệu người.",
+  "sampleRate": 22050,
+  "seconds": 7.3723356009070296,
+  "words": [
+    {
+      "word": "có",
+      "fromSample": 512,
+      "toSample": 3072
+    },
+    {
+      "word": "thể",
+      "fromSample": 3584,
+      "toSample": 7680
+    },
+    {
+      "word": "bạn",
+      "fromSample": 8704,
+      "toSample": 12800
+    },
+    {
+      "word": "tìm",
+      "fromSample": 13312,
+      "toSample": 18432
+    },
+    {
+      "word": "ra",
+      "fromSample": 19456,
+      "toSample": 23040
+    },
+    {
+      "word": "một",
+      "fromSample": 23552,
+      "toSample": 26624
+    },
+    {
+      "word": "phương",
+      "fromSample": 27136,
+      "toSample": 30464
+    },
+    {
+      "word": "pháp",
+      "fromSample": 31232,
+      "toSample": 35840
+    },
+    {
+      "word": "điều",
+      "fromSample": 36352,
+      "toSample": 40192
+    },
+    {
+      "word": "trị",
+      "fromSample": 40704,
+      "toSample": 45568
+    },
+    {
+      "word": "mới",
+      "fromSample": 46336,
+      "toSample": 49920
+    },
+    {
+      "word": "đầy",
+      "fromSample": 50432,
+      "toSample": 54016
+    },
+    {
+      "word": "triển",
+      "fromSample": 54528,
+      "toSample": 58880
+    },
+    {
+      "word": "vọng",
+      "fromSample": 59648,
+      "toSample": 62208
+    },
+    {
+      "word": "một",
+      "fromSample": 63488,
+      "toSample": 66560
+    },
+    {
+      "word": "công",
+      "fromSample": 67072,
+      "toSample": 70400
+    },
+    {
+      "word": "nghệ",
+      "fromSample": 71168,
+      "toSample": 75264
+    },
+    {
+      "word": "năng",
+      "fromSample": 76032,
+      "toSample": 78592
+    },
+    {
+      "word": "lượng",
+      "fromSample": 79360,
+      "toSample": 82944
+    },
+    {
+      "word": "hiệu",
+      "fromSample": 83712,
+      "toSample": 88064
+    },
+    {
+      "word": "quả",
+      "fromSample": 89088,
+      "toSample": 92672
+    },
+    {
+      "word": "hơn",
+      "fromSample": 93696,
+      "toSample": 97792
+    },
+    {
+      "word": "hoặc",
+      "fromSample": 99584,
+      "toSample": 102912
+    },
+    {
+      "word": "một",
+      "fromSample": 103424,
+      "toSample": 106752
+    },
+    {
+      "word": "phát",
+      "fromSample": 107264,
+      "toSample": 111616
+    },
+    {
+      "word": "minh",
+      "fromSample": 112384,
+      "toSample": 115968
+    },
+    {
+      "word": "có",
+      "fromSample": 116480,
+      "toSample": 118528
+    },
+    {
+      "word": "thể",
+      "fromSample": 119296,
+      "toSample": 123392
+    },
+    {
+      "word": "cải",
+      "fromSample": 124160,
+      "toSample": 128256
+    },
+    {
+      "word": "thiện",
+      "fromSample": 129280,
+      "toSample": 133376
+    },
+    {
+      "word": "cuộc",
+      "fromSample": 134144,
+      "toSample": 137472
+    },
+    {
+      "word": "sống",
+      "fromSample": 138240,
+      "toSample": 142592
+    },
+    {
+      "word": "của",
+      "fromSample": 143360,
+      "toSample": 146688
+    },
+    {
+      "word": "hàng",
+      "fromSample": 147200,
+      "toSample": 151296
+    },
+    {
+      "word": "triệu",
+      "fromSample": 151808,
+      "toSample": 155648
+    },
+    {
+      "word": "người",
+      "fromSample": 156160,
+      "toSample": 161536
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

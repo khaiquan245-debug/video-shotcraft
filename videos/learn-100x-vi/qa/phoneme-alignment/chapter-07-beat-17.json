@@ -1,0 +1,74 @@
+{
+  "key": "10cc70ccb756b9ea5af5df4604882b398bf7314dabdbecb2e25527e1c08cfb92",
+  "text": "Bạn có thể học gần như mọi điều nhân loại đã khám phá.",
+  "sampleRate": 22050,
+  "seconds": 2.6354648526077096,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 512,
+      "toSample": 4096
+    },
+    {
+      "word": "có",
+      "fromSample": 4608,
+      "toSample": 6912
+    },
+    {
+      "word": "thể",
+      "fromSample": 7936,
+      "toSample": 11776
+    },
+    {
+      "word": "học",
+      "fromSample": 12288,
+      "toSample": 16128
+    },
+    {
+      "word": "gần",
+      "fromSample": 16896,
+      "toSample": 20480
+    },
+    {
+      "word": "như",
+      "fromSample": 21248,
+      "toSample": 23296
+    },
+    {
+      "word": "mọi",
+      "fromSample": 24320,
+      "toSample": 28160
+    },
+    {
+      "word": "điều",
+      "fromSample": 28672,
+      "toSample": 32512
+    },
+    {
+      "word": "nhân",
+      "fromSample": 33280,
+      "toSample": 36096
+    },
+    {
+      "word": "loại",
+      "fromSample": 36608,
+      "toSample": 41216
+    },
+    {
+      "word": "đã",
+      "fromSample": 41728,
+      "toSample": 45056
+    },
+    {
+      "word": "khám",
+      "fromSample": 45824,
+      "toSample": 50432
+    },
+    {
+      "word": "phá",
+      "fromSample": 50944,
+      "toSample": 57088
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

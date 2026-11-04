@@ -1,0 +1,64 @@
+{
+  "key": "96eb3431435eb3e04831e50addd30700b15dfce5587cd5e561a645c215354258",
+  "text": "Và có những câu hỏi hiện vẫn chưa có lời giải.",
+  "sampleRate": 22050,
+  "seconds": 2.2871655328798184,
+  "words": [
+    {
+      "word": "và",
+      "fromSample": 768,
+      "toSample": 4352
+    },
+    {
+      "word": "có",
+      "fromSample": 5120,
+      "toSample": 7680
+    },
+    {
+      "word": "những",
+      "fromSample": 8960,
+      "toSample": 13056
+    },
+    {
+      "word": "câu",
+      "fromSample": 13824,
+      "toSample": 17408
+    },
+    {
+      "word": "hỏi",
+      "fromSample": 18432,
+      "toSample": 22528
+    },
+    {
+      "word": "hiện",
+      "fromSample": 23296,
+      "toSample": 28160
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 28928,
+      "toSample": 32768
+    },
+    {
+      "word": "chưa",
+      "fromSample": 33536,
+      "toSample": 36352
+    },
+    {
+      "word": "có",
+      "fromSample": 37120,
+      "toSample": 39936
+    },
+    {
+      "word": "lời",
+      "fromSample": 40704,
+      "toSample": 45056
+    },
+    {
+      "word": "giải",
+      "fromSample": 45568,
+      "toSample": 49664
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

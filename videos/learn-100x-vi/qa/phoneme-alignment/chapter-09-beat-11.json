@@ -1,0 +1,39 @@
+{
+  "key": "55fa8bbfabb11f495cbdfa2ea5140e0507e046cae3311e0077277217667ec824",
+  "text": "Và những người bạn yêu thương,",
+  "sampleRate": 22050,
+  "seconds": 1.242267573696145,
+  "words": [
+    {
+      "word": "và",
+      "fromSample": 512,
+      "toSample": 4096
+    },
+    {
+      "word": "những",
+      "fromSample": 4864,
+      "toSample": 7936
+    },
+    {
+      "word": "người",
+      "fromSample": 8448,
+      "toSample": 12032
+    },
+    {
+      "word": "bạn",
+      "fromSample": 12800,
+      "toSample": 16128
+    },
+    {
+      "word": "yêu",
+      "fromSample": 16896,
+      "toSample": 19968
+    },
+    {
+      "word": "thương",
+      "fromSample": 20480,
+      "toSample": 24832
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

@@ -1,0 +1,109 @@
+{
+  "key": "9545e4fe216be1ff710d6681cea7f938f638a05f5dd3e776eccab65d5e250029",
+  "text": "Và vẫn phải đối mặt với những câu hỏi mà không cuốn sách giáo khoa nào có thể trả lời.",
+  "sampleRate": 22050,
+  "seconds": 4.144761904761904,
+  "words": [
+    {
+      "word": "và",
+      "fromSample": 768,
+      "toSample": 3584
+    },
+    {
+      "word": "vẫn",
+      "fromSample": 4096,
+      "toSample": 7936
+    },
+    {
+      "word": "phải",
+      "fromSample": 8448,
+      "toSample": 13056
+    },
+    {
+      "word": "đối",
+      "fromSample": 13568,
+      "toSample": 17152
+    },
+    {
+      "word": "mặt",
+      "fromSample": 17664,
+      "toSample": 20992
+    },
+    {
+      "word": "với",
+      "fromSample": 21504,
+      "toSample": 24576
+    },
+    {
+      "word": "những",
+      "fromSample": 25088,
+      "toSample": 28160
+    },
+    {
+      "word": "câu",
+      "fromSample": 29184,
+      "toSample": 32768
+    },
+    {
+      "word": "hỏi",
+      "fromSample": 34048,
+      "toSample": 38656
+    },
+    {
+      "word": "mà",
+      "fromSample": 39936,
+      "toSample": 43776
+    },
+    {
+      "word": "không",
+      "fromSample": 44800,
+      "toSample": 48128
+    },
+    {
+      "word": "cuốn",
+      "fromSample": 48896,
+      "toSample": 52992
+    },
+    {
+      "word": "sách",
+      "fromSample": 53760,
+      "toSample": 58624
+    },
+    {
+      "word": "giáo",
+      "fromSample": 59136,
+      "toSample": 64000
+    },
+    {
+      "word": "khoa",
+      "fromSample": 64768,
+      "toSample": 68096
+    },
+    {
+      "word": "nào",
+      "fromSample": 68608,
+      "toSample": 72704
+    },
+    {
+      "word": "có",
+      "fromSample": 73216,
+      "toSample": 75776
+    },
+    {
+      "word": "thể",
+      "fromSample": 76544,
+      "toSample": 80128
+    },
+    {
+      "word": "trả",
+      "fromSample": 80896,
+      "toSample": 84736
+    },
+    {
+      "word": "lời",
+      "fromSample": 85504,
+      "toSample": 90624
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

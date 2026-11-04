@@ -1,0 +1,114 @@
+{
+  "key": "52848008bd64e4f29034e1cdbd2fbf44e9ceedd29601c96f496052539c415276",
+  "text": "Bạn tìm ra một vấn đề đang ảnh hưởng tới hàng triệu người. Sau đó, bạn học cách giải quyết nó.",
+  "sampleRate": 22050,
+  "seconds": 4.876190476190477,
+  "words": [
+    {
+      "word": "bạn",
+      "fromSample": 768,
+      "toSample": 4352
+    },
+    {
+      "word": "tìm",
+      "fromSample": 5120,
+      "toSample": 10752
+    },
+    {
+      "word": "ra",
+      "fromSample": 11264,
+      "toSample": 14336
+    },
+    {
+      "word": "một",
+      "fromSample": 15616,
+      "toSample": 19200
+    },
+    {
+      "word": "vấn",
+      "fromSample": 20224,
+      "toSample": 24320
+    },
+    {
+      "word": "đề",
+      "fromSample": 25088,
+      "toSample": 28672
+    },
+    {
+      "word": "đang",
+      "fromSample": 29440,
+      "toSample": 32256
+    },
+    {
+      "word": "ảnh",
+      "fromSample": 33024,
+      "toSample": 36608
+    },
+    {
+      "word": "hưởng",
+      "fromSample": 37376,
+      "toSample": 41728
+    },
+    {
+      "word": "tới",
+      "fromSample": 42240,
+      "toSample": 45824
+    },
+    {
+      "word": "hàng",
+      "fromSample": 46336,
+      "toSample": 49920
+    },
+    {
+      "word": "triệu",
+      "fromSample": 50432,
+      "toSample": 54016
+    },
+    {
+      "word": "người",
+      "fromSample": 54528,
+      "toSample": 59904
+    },
+    {
+      "word": "sau",
+      "fromSample": 61440,
+      "toSample": 65024
+    },
+    {
+      "word": "đó",
+      "fromSample": 66048,
+      "toSample": 72704
+    },
+    {
+      "word": "bạn",
+      "fromSample": 75776,
+      "toSample": 80384
+    },
+    {
+      "word": "học",
+      "fromSample": 81408,
+      "toSample": 85760
+    },
+    {
+      "word": "cách",
+      "fromSample": 86528,
+      "toSample": 90624
+    },
+    {
+      "word": "giải",
+      "fromSample": 91136,
+      "toSample": 94976
+    },
+    {
+      "word": "quyết",
+      "fromSample": 96000,
+      "toSample": 100352
+    },
+    {
+      "word": "nó",
+      "fromSample": 100864,
+      "toSample": 106240
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}

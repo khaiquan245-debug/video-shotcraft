@@ -1,0 +1,34 @@
+{
+  "key": "53b528646664c20fb9834e2b09992904a39c8a1a92a5347f625db53a9c20a3d2",
+  "text": "Các công ty công nghệ.",
+  "sampleRate": 22050,
+  "seconds": 0.8126984126984127,
+  "words": [
+    {
+      "word": "các",
+      "fromSample": 512,
+      "toSample": 3584
+    },
+    {
+      "word": "công",
+      "fromSample": 4096,
+      "toSample": 6656
+    },
+    {
+      "word": "ty",
+      "fromSample": 7424,
+      "toSample": 9984
+    },
+    {
+      "word": "công",
+      "fromSample": 10752,
+      "toSample": 13312
+    },
+    {
+      "word": "nghệ",
+      "fromSample": 13824,
+      "toSample": 17152
+    }
+  ],
+  "timingMethod": "VITS phoneme durations from the same synthesis forward pass"
+}
