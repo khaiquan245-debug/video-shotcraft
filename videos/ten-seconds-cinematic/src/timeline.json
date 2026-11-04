@@ -1,0 +1,6565 @@
+[
+  {
+    "id": 0,
+    "title": "What could ten seconds change?",
+    "label": "THE QUESTION",
+    "from": 0,
+    "duration": 625,
+    "text": "What if, right now, you could see exactly what was going to happen in the next 10 seconds? What would you do? Avoid an embarrassing fall? Prevent an accident? Find out what your crush is about to say? Or, use those 10 seconds to change something you might regret for the rest of your life? It sounds like a pretty small superpower. But think about it. Ten seconds can sometimes change everything.",
+    "originalText": "What if, right now\u2026 you could see exactly what was going to happen in the next 10 seconds? What would you do? Avoid an embarrassing fall? Prevent an accident? Find out what your crush is about to say? Or\u2026 use those 10 seconds to change something you might regret for the rest of your life? It sounds like a pretty small superpower. But think about it. Ten seconds can sometimes change everything.",
+    "captions": [
+      {
+        "text": "What if, right now, you could see exactly what was going to",
+        "from": 16,
+        "duration": 81
+      },
+      {
+        "text": "happen in the next 10 seconds? What would you do? Avoid an",
+        "from": 97,
+        "duration": 94
+      },
+      {
+        "text": "embarrassing fall? Prevent an accident? Find out what your crush is about",
+        "from": 191,
+        "duration": 107
+      },
+      {
+        "text": "to say? Or, use those 10 seconds to change something you might",
+        "from": 298,
+        "duration": 109
+      },
+      {
+        "text": "regret for the rest of your life? It sounds like a pretty",
+        "from": 407,
+        "duration": 74
+      },
+      {
+        "text": "small superpower. But think about it. Ten seconds can sometimes change everything.",
+        "from": 481,
+        "duration": 131
+      }
+    ],
+    "speechRate": 1.0,
+    "cadence": "continuous-paragraphs",
+    "words": [
+      {
+        "word": "what",
+        "from": 16,
+        "to": 21
+      },
+      {
+        "word": "if",
+        "from": 21,
+        "to": 35
+      },
+      {
+        "word": "right",
+        "from": 35,
+        "to": 41
+      },
+      {
+        "word": "now",
+        "from": 41,
+        "to": 48
+      },
+      {
+        "word": "you",
+        "from": 48,
+        "to": 52
+      },
+      {
+        "word": "could",
+        "from": 52,
+        "to": 56
+      },
+      {
+        "word": "see",
+        "from": 56,
+        "to": 66
+      },
+      {
+        "word": "exactly",
+        "from": 66,
+        "to": 81
+      },
+      {
+        "word": "what",
+        "from": 81,
+        "to": 86
+      },
+      {
+        "word": "was",
+        "from": 86,
+        "to": 90
+      },
+      {
+        "word": "going",
+        "from": 90,
+        "to": 95
+      },
+      {
+        "word": "to",
+        "from": 95,
+        "to": 97
+      },
+      {
+        "word": "happen",
+        "from": 97,
+        "to": 107
+      },
+      {
+        "word": "in",
+        "from": 107,
+        "to": 110
+      },
+      {
+        "word": "the",
+        "from": 110,
+        "to": 112
+      },
+      {
+        "word": "next",
+        "from": 112,
+        "to": 119
+      },
+      {
+        "word": "ten",
+        "from": 119,
+        "to": 126
+      },
+      {
+        "word": "seconds",
+        "from": 126,
+        "to": 147
+      },
+      {
+        "word": "what",
+        "from": 147,
+        "to": 151
+      },
+      {
+        "word": "would",
+        "from": 151,
+        "to": 154
+      },
+      {
+        "word": "you",
+        "from": 154,
+        "to": 158
+      },
+      {
+        "word": "do",
+        "from": 158,
+        "to": 169
+      },
+      {
+        "word": "avoid",
+        "from": 175,
+        "to": 188
+      },
+      {
+        "word": "an",
+        "from": 188,
+        "to": 191
+      },
+      {
+        "word": "embarrassing",
+        "from": 191,
+        "to": 207
+      },
+      {
+        "word": "fall",
+        "from": 207,
+        "to": 219
+      },
+      {
+        "word": "prevent",
+        "from": 219,
+        "to": 233
+      },
+      {
+        "word": "an",
+        "from": 233,
+        "to": 237
+      },
+      {
+        "word": "accident",
+        "from": 237,
+        "to": 257
+      },
+      {
+        "word": "find",
+        "from": 257,
+        "to": 266
+      },
+      {
+        "word": "out",
+        "from": 266,
+        "to": 270
+      },
+      {
+        "word": "what",
+        "from": 270,
+        "to": 275
+      },
+      {
+        "word": "your",
+        "from": 275,
+        "to": 278
+      },
+      {
+        "word": "crush",
+        "from": 278,
+        "to": 288
+      },
+      {
+        "word": "is",
+        "from": 288,
+        "to": 291
+      },
+      {
+        "word": "about",
+        "from": 291,
+        "to": 298
+      },
+      {
+        "word": "to",
+        "from": 298,
+        "to": 301
+      },
+      {
+        "word": "say",
+        "from": 301,
+        "to": 312
+      },
+      {
+        "word": "or",
+        "from": 321,
+        "to": 332
+      },
+      {
+        "word": "use",
+        "from": 332,
+        "to": 341
+      },
+      {
+        "word": "those",
+        "from": 341,
+        "to": 348
+      },
+      {
+        "word": "ten",
+        "from": 348,
+        "to": 354
+      },
+      {
+        "word": "seconds",
+        "from": 354,
+        "to": 368
+      },
+      {
+        "word": "to",
+        "from": 368,
+        "to": 371
+      },
+      {
+        "word": "change",
+        "from": 371,
+        "to": 383
+      },
+      {
+        "word": "something",
+        "from": 383,
+        "to": 398
+      },
+      {
+        "word": "you",
+        "from": 398,
+        "to": 402
+      },
+      {
+        "word": "might",
+        "from": 402,
+        "to": 407
+      },
+      {
+        "word": "regret",
+        "from": 407,
+        "to": 418
+      },
+      {
+        "word": "for",
+        "from": 418,
+        "to": 422
+      },
+      {
+        "word": "the",
+        "from": 422,
+        "to": 425
+      },
+      {
+        "word": "rest",
+        "from": 425,
+        "to": 434
+      },
+      {
+        "word": "of",
+        "from": 434,
+        "to": 436
+      },
+      {
+        "word": "your",
+        "from": 436,
+        "to": 439
+      },
+      {
+        "word": "life",
+        "from": 439,
+        "to": 456
+      },
+      {
+        "word": "it",
+        "from": 456,
+        "to": 460
+      },
+      {
+        "word": "sounds",
+        "from": 460,
+        "to": 469
+      },
+      {
+        "word": "like",
+        "from": 469,
+        "to": 473
+      },
+      {
+        "word": "a",
+        "from": 473,
+        "to": 474
+      },
+      {
+        "word": "pretty",
+        "from": 474,
+        "to": 481
+      },
+      {
+        "word": "small",
+        "from": 481,
+        "to": 491
+      },
+      {
+        "word": "superpower",
+        "from": 491,
+        "to": 516
+      },
+      {
+        "word": "but",
+        "from": 516,
+        "to": 520
+      },
+      {
+        "word": "think",
+        "from": 520,
+        "to": 525
+      },
+      {
+        "word": "about",
+        "from": 525,
+        "to": 531
+      },
+      {
+        "word": "it",
+        "from": 531,
+        "to": 535
+      },
+      {
+        "word": "ten",
+        "from": 535,
+        "to": 542
+      },
+      {
+        "word": "seconds",
+        "from": 542,
+        "to": 556
+      },
+      {
+        "word": "can",
+        "from": 556,
+        "to": 559
+      },
+      {
+        "word": "sometimes",
+        "from": 559,
+        "to": 573
+      },
+      {
+        "word": "change",
+        "from": 573,
+        "to": 588
+      },
+      {
+        "word": "everything",
+        "from": 588,
+        "to": 609
+      }
+    ],
+    "events": {
+      "examples": 175,
+      "accident": 219,
+      "crush": 257,
+      "meaning": 535
+    }
+  },
+  {
+    "id": 1,
+    "title": "A glimpse. A choice.",
+    "label": "THE RULES",
+    "from": 625,
+    "duration": 705,
+    "text": "The rule is simple. Whenever you focus and blink, you can see exactly 10 seconds into the future. Not a feeling. Not a prediction. You actually see what is about to happen. Then, you return to the present. And you have 10 seconds to decide: let that future happen, or try to change it. At first? You would obviously use this incredible power for the most important things in life. Like, not embarrassing yourself.",
+    "originalText": "The rule is simple. Whenever you focus and blink\u2026 you can see exactly 10 seconds into the future. Not a feeling. Not a prediction. You actually see what is about to happen. Then\u2026 you return to the present. And you have 10 seconds to decide: let that future happen\u2026 or try to change it. At first? You would obviously use this incredible power for the most important things in life. Like\u2026 not embarrassing yourself.",
+    "captions": [
+      {
+        "text": "The rule is simple. Whenever you focus and blink, you can see",
+        "from": 9,
+        "duration": 98
+      },
+      {
+        "text": "exactly 10 seconds into the future. Not a feeling. Not a prediction. You",
+        "from": 107,
+        "duration": 119
+      },
+      {
+        "text": "actually see what is about to happen. Then, you return to the",
+        "from": 226,
+        "duration": 113
+      },
+      {
+        "text": "present. And you have 10 seconds to decide: let that future happen,",
+        "from": 339,
+        "duration": 115
+      },
+      {
+        "text": "or try to change it. At first? You would obviously use this incredible",
+        "from": 460,
+        "duration": 110
+      },
+      {
+        "text": "power for the most important things in life. Like, not embarrassing yourself.",
+        "from": 570,
+        "duration": 121
+      }
+    ],
+    "speechRate": 1.0,
+    "cadence": "continuous-paragraphs",
+    "words": [
+      {
+        "word": "the",
+        "from": 9,
+        "to": 12
+      },
+      {
+        "word": "rule",
+        "from": 12,
+        "to": 20
+      },
+      {
+        "word": "is",
+        "from": 20,
+        "to": 22
+      },
+      {
+        "word": "simple",
+        "from": 22,
+        "to": 37
+      },
+      {
+        "word": "whenever",
+        "from": 41,
+        "to": 50
+      },
+      {
+        "word": "you",
+        "from": 50,
+        "to": 54
+      },
+      {
+        "word": "focus",
+        "from": 54,
+        "to": 70
+      },
+      {
+        "word": "and",
+        "from": 70,
+        "to": 77
+      },
+      {
+        "word": "blink",
+        "from": 77,
+        "to": 89
+      },
+      {
+        "word": "you",
+        "from": 89,
+        "to": 92
+      },
+      {
+        "word": "can",
+        "from": 92,
+        "to": 96
+      },
+      {
+        "word": "see",
+        "from": 96,
+        "to": 107
+      },
+      {
+        "word": "exactly",
+        "from": 107,
+        "to": 123
+      },
+      {
+        "word": "ten",
+        "from": 123,
+        "to": 130
+      },
+      {
+        "word": "seconds",
+        "from": 130,
+        "to": 143
+      },
+      {
+        "word": "into",
+        "from": 143,
+        "to": 150
+      },
+      {
+        "word": "the",
+        "from": 150,
+        "to": 152
+      },
+      {
+        "word": "future",
+        "from": 152,
+        "to": 167
+      },
+      {
+        "word": "not",
+        "from": 167,
+        "to": 171
+      },
+      {
+        "word": "a",
+        "from": 171,
+        "to": 172
+      },
+      {
+        "word": "feeling",
+        "from": 172,
+        "to": 188
+      },
+      {
+        "word": "not",
+        "from": 193,
+        "to": 198
+      },
+      {
+        "word": "a",
+        "from": 198,
+        "to": 199
+      },
+      {
+        "word": "prediction",
+        "from": 199,
+        "to": 221
+      },
+      {
+        "word": "you",
+        "from": 221,
+        "to": 226
+      },
+      {
+        "word": "actually",
+        "from": 226,
+        "to": 237
+      },
+      {
+        "word": "see",
+        "from": 237,
+        "to": 246
+      },
+      {
+        "word": "what",
+        "from": 246,
+        "to": 253
+      },
+      {
+        "word": "is",
+        "from": 253,
+        "to": 256
+      },
+      {
+        "word": "about",
+        "from": 256,
+        "to": 264
+      },
+      {
+        "word": "to",
+        "from": 264,
+        "to": 266
+      },
+      {
+        "word": "happen",
+        "from": 266,
+        "to": 281
+      },
+      {
+        "word": "then",
+        "from": 290,
+        "to": 300
+      },
+      {
+        "word": "you",
+        "from": 321,
+        "to": 325
+      },
+      {
+        "word": "return",
+        "from": 325,
+        "to": 334
+      },
+      {
+        "word": "to",
+        "from": 334,
+        "to": 336
+      },
+      {
+        "word": "the",
+        "from": 336,
+        "to": 339
+      },
+      {
+        "word": "present",
+        "from": 339,
+        "to": 359
+      },
+      {
+        "word": "and",
+        "from": 359,
+        "to": 363
+      },
+      {
+        "word": "you",
+        "from": 363,
+        "to": 365
+      },
+      {
+        "word": "have",
+        "from": 365,
+        "to": 369
+      },
+      {
+        "word": "ten",
+        "from": 369,
+        "to": 376
+      },
+      {
+        "word": "seconds",
+        "from": 376,
+        "to": 389
+      },
+      {
+        "word": "to",
+        "from": 389,
+        "to": 392
+      },
+      {
+        "word": "decide",
+        "from": 392,
+        "to": 409
+      },
+      {
+        "word": "let",
+        "from": 418,
+        "to": 423
+      },
+      {
+        "word": "that",
+        "from": 423,
+        "to": 427
+      },
+      {
+        "word": "future",
+        "from": 427,
+        "to": 437
+      },
+      {
+        "word": "happen",
+        "from": 437,
+        "to": 451
+      },
+      {
+        "word": "or",
+        "from": 460,
+        "to": 463
+      },
+      {
+        "word": "try",
+        "from": 463,
+        "to": 470
+      },
+      {
+        "word": "to",
+        "from": 470,
+        "to": 472
+      },
+      {
+        "word": "change",
+        "from": 472,
+        "to": 482
+      },
+      {
+        "word": "it",
+        "from": 482,
+        "to": 494
+      },
+      {
+        "word": "at",
+        "from": 494,
+        "to": 499
+      },
+      {
+        "word": "first",
+        "from": 499,
+        "to": 517
+      },
+      {
+        "word": "you",
+        "from": 521,
+        "to": 526
+      },
+      {
+        "word": "would",
+        "from": 526,
+        "to": 530
+      },
+      {
+        "word": "obviously",
+        "from": 530,
+        "to": 545
+      },
+      {
+        "word": "use",
+        "from": 545,
+        "to": 553
+      },
+      {
+        "word": "this",
+        "from": 553,
+        "to": 558
+      },
+      {
+        "word": "incredible",
+        "from": 558,
+        "to": 570
+      },
+      {
+        "word": "power",
+        "from": 570,
+        "to": 581
+      },
+      {
+        "word": "for",
+        "from": 581,
+        "to": 585
+      },
+      {
+        "word": "the",
+        "from": 585,
+        "to": 587
+      },
+      {
+        "word": "most",
+        "from": 587,
+        "to": 595
+      },
+      {
+        "word": "important",
+        "from": 595,
+        "to": 608
+      },
+      {
+        "word": "things",
+        "from": 608,
+        "to": 617
+      },
+      {
+        "word": "in",
+        "from": 617,
+        "to": 620
+      },
+      {
+        "word": "life",
+        "from": 620,
+        "to": 632
+      },
+      {
+        "word": "like",
+        "from": 638,
+        "to": 651
+      },
+      {
+        "word": "not",
+        "from": 651,
+        "to": 656
+      },
+      {
+        "word": "embarrassing",
+        "from": 656,
+        "to": 670
+      },
+      {
+        "word": "yourself",
+        "from": 670,
+        "to": 688
+      }
+    ],
+    "events": {
+      "blink": 77,
+      "future": 89,
+      "present": 321,
+      "choice": 460
+    }
+  },
+  {
+    "id": 2,
+    "title": "Dignity: not included",
+    "label": "THE COFFEE",
+    "from": 1330,
+    "duration": 777,
+    "text": "You see yourself trip. And somehow, the entire cup of coffee ends up all over your clothes. Even worse, someone nearby is already holding a phone. No. The internet does not need another meme today. You return to the present. Step slightly to the left. Avoid the crack. Perfect. You smile confidently. Having a superpower feels amazing. Then, you walk straight into a pole. BONK! Apparently, seeing the future still cannot save your dignity.",
+    "originalText": "You see yourself trip. And somehow\u2026 the entire cup of coffee ends up all over your clothes. Even worse\u2026 someone nearby is already holding a phone. No. The internet does not need another meme today. You return to the present. Step slightly to the left. Avoid the crack. Perfect. You smile confidently. Having a superpower feels amazing. Then\u2026 you walk straight into a pole. BONK! Apparently\u2026 seeing the future still cannot save your dignity.",
+    "captions": [
+      {
+        "text": "You see yourself trip. And somehow, the entire cup of coffee ends",
+        "from": 9,
+        "duration": 109
+      },
+      {
+        "text": "up all over your clothes. Even worse, someone nearby is already holding a",
+        "from": 118,
+        "duration": 127
+      },
+      {
+        "text": "phone. No. The internet does not need another meme today. You return",
+        "from": 245,
+        "duration": 121
+      },
+      {
+        "text": "to the present. Step slightly to the left. Avoid the crack. Perfect.",
+        "from": 366,
+        "duration": 122
+      },
+      {
+        "text": "You smile confidently. Having a superpower feels amazing. Then, you walk straight into",
+        "from": 488,
+        "duration": 136
+      },
+      {
+        "text": "a pole. BONK! Apparently, seeing the future still cannot save your dignity.",
+        "from": 624,
+        "duration": 139
+      }
+    ],
+    "speechRate": 1.0,
+    "cadence": "continuous-paragraphs",
+    "events": {
+      "spill": 77,
+      "present": 352,
+      "step": 388,
+      "pole": 624,
+      "bonk": 643
+    },
+    "words": [
+      {
+        "word": "you",
+        "from": 9,
+        "to": 12
+      },
+      {
+        "word": "see",
+        "from": 12,
+        "to": 18
+      },
+      {
+        "word": "yourself",
+        "from": 18,
+        "to": 30
+      },
+      {
+        "word": "trip",
+        "from": 30,
+        "to": 46
+      },
+      {
+        "word": "and",
+        "from": 46,
+        "to": 55
+      },
+      {
+        "word": "somehow",
+        "from": 55,
+        "to": 73
+      },
+      {
+        "word": "the",
+        "from": 73,
+        "to": 77
+      },
+      {
+        "word": "entire",
+        "from": 77,
+        "to": 90
+      },
+      {
+        "word": "cup",
+        "from": 90,
+        "to": 97
+      },
+      {
+        "word": "of",
+        "from": 97,
+        "to": 100
+      },
+      {
+        "word": "coffee",
+        "from": 100,
+        "to": 112
+      },
+      {
+        "word": "ends",
+        "from": 112,
+        "to": 118
+      },
+      {
+        "word": "up",
+        "from": 118,
+        "to": 122
+      },
+      {
+        "word": "all",
+        "from": 122,
+        "to": 131
+      },
+      {
+        "word": "over",
+        "from": 131,
+        "to": 136
+      },
+      {
+        "word": "your",
+        "from": 136,
+        "to": 139
+      },
+      {
+        "word": "clothes",
+        "from": 139,
+        "to": 160
+      },
+      {
+        "word": "even",
+        "from": 160,
+        "to": 167
+      },
+      {
+        "word": "worse",
+        "from": 167,
+        "to": 182
+      },
+      {
+        "word": "someone",
+        "from": 190,
+        "to": 202
+      },
+      {
+        "word": "nearby",
+        "from": 202,
+        "to": 215
+      },
+      {
+        "word": "is",
+        "from": 215,
+        "to": 222
+      },
+      {
+        "word": "already",
+        "from": 222,
+        "to": 233
+      },
+      {
+        "word": "holding",
+        "from": 233,
+        "to": 244
+      },
+      {
+        "word": "a",
+        "from": 244,
+        "to": 245
+      },
+      {
+        "word": "phone",
+        "from": 245,
+        "to": 258
+      },
+      {
+        "word": "no",
+        "from": 267,
+        "to": 279
+      },
+      {
+        "word": "the",
+        "from": 287,
+        "to": 292
+      },
+      {
+        "word": "internet",
+        "from": 292,
+        "to": 302
+      },
+      {
+        "word": "does",
+        "from": 302,
+        "to": 308
+      },
+      {
+        "word": "not",
+        "from": 308,
+        "to": 314
+      },
+      {
+        "word": "need",
+        "from": 314,
+        "to": 319
+      },
+      {
+        "word": "another",
+        "from": 319,
+        "to": 328
+      },
+      {
+        "word": "meme",
+        "from": 328,
+        "to": 336
+      },
+      {
+        "word": "today",
+        "from": 336,
+        "to": 352
+      },
+      {
+        "word": "you",
+        "from": 352,
+        "to": 356
+      },
+      {
+        "word": "return",
+        "from": 356,
+        "to": 366
+      },
+      {
+        "word": "to",
+        "from": 366,
+        "to": 370
+      },
+      {
+        "word": "the",
+        "from": 370,
+        "to": 372
+      },
+      {
+        "word": "present",
+        "from": 372,
+        "to": 388
+      },
+      {
+        "word": "step",
+        "from": 388,
+        "to": 396
+      },
+      {
+        "word": "slightly",
+        "from": 396,
+        "to": 411
+      },
+      {
+        "word": "to",
+        "from": 411,
+        "to": 416
+      },
+      {
+        "word": "the",
+        "from": 416,
+        "to": 418
+      },
+      {
+        "word": "left",
+        "from": 418,
+        "to": 433
+      },
+      {
+        "word": "avoid",
+        "from": 438,
+        "to": 448
+      },
+      {
+        "word": "the",
+        "from": 448,
+        "to": 450
+      },
+      {
+        "word": "crack",
+        "from": 450,
+        "to": 465
+      },
+      {
+        "word": "perfect",
+        "from": 465,
+        "to": 488
+      },
+      {
+        "word": "you",
+        "from": 488,
+        "to": 492
+      },
+      {
+        "word": "smile",
+        "from": 492,
+        "to": 506
+      },
+      {
+        "word": "confidently",
+        "from": 506,
+        "to": 532
+      },
+      {
+        "word": "having",
+        "from": 532,
+        "to": 540
+      },
+      {
+        "word": "a",
+        "from": 540,
+        "to": 541
+      },
+      {
+        "word": "superpower",
+        "from": 541,
+        "to": 559
+      },
+      {
+        "word": "feels",
+        "from": 559,
+        "to": 568
+      },
+      {
+        "word": "amazing",
+        "from": 568,
+        "to": 580
+      },
+      {
+        "word": "then",
+        "from": 580,
+        "to": 594
+      },
+      {
+        "word": "you",
+        "from": 599,
+        "to": 602
+      },
+      {
+        "word": "walk",
+        "from": 602,
+        "to": 609
+      },
+      {
+        "word": "straight",
+        "from": 609,
+        "to": 618
+      },
+      {
+        "word": "into",
+        "from": 618,
+        "to": 624
+      },
+      {
+        "word": "a",
+        "from": 624,
+        "to": 625
+      },
+      {
+        "word": "pole",
+        "from": 625,
+        "to": 643
+      },
+      {
+        "word": "bonk",
+        "from": 643,
+        "to": 660
+      },
+      {
+        "word": "apparently",
+        "from": 675,
+        "to": 690
+      },
+      {
+        "word": "seeing",
+        "from": 690,
+        "to": 698
+      },
+      {
+        "word": "the",
+        "from": 698,
+        "to": 700
+      },
+      {
+        "word": "future",
+        "from": 700,
+        "to": 712
+      },
+      {
+        "word": "still",
+        "from": 712,
+        "to": 718
+      },
+      {
+        "word": "cannot",
+        "from": 718,
+        "to": 729
+      },
+      {
+        "word": "save",
+        "from": 729,
+        "to": 738
+      },
+      {
+        "word": "your",
+        "from": 738,
+        "to": 742
+      },
+      {
+        "word": "dignity",
+        "from": 742,
+        "to": 760
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Emergency meeting mode",
+    "label": "THE MEETING",
+    "from": 2107,
+    "duration": 947,
+    "text": "During a meeting, you suddenly see your boss calling your name. You have exactly 10 seconds. Your brain instantly enters emergency mode. You open the document. Scan the most important line. Ten seconds later, \"What do you think?\" You sit up straight. Stay calm. And give a surprisingly intelligent answer. Everyone nods. Your boss looks impressed. Congratulations. You just used a supernatural ability to look like someone, who was actually paying attention during the meeting. And honestly, that might be one of the best uses of this power.",
+    "originalText": "During a meeting\u2026 you suddenly see your boss calling your name. You have exactly 10 seconds. Your brain instantly enters emergency mode. You open the document. Scan the most important line. Ten seconds later\u2026 \u201cWhat do you think?\u201d You sit up straight. Stay calm. And give a surprisingly intelligent answer. Everyone nods. Your boss looks impressed. Congratulations. You just used a supernatural ability to look like someone\u2026 who was actually paying attention during the meeting. And honestly\u2026 that might be one of the best uses of this power.",
+    "captions": [
+      {
+        "text": "During a meeting, you suddenly see your boss calling your name.",
+        "from": 6,
+        "duration": 103
+      },
+      {
+        "text": "You have exactly 10 seconds. Your brain instantly enters emergency mode.",
+        "from": 113,
+        "duration": 120
+      },
+      {
+        "text": "You open the document. Scan the most important line. Ten seconds",
+        "from": 238,
+        "duration": 102
+      },
+      {
+        "text": "later, \"What do you think?\" You sit up straight. Stay calm.",
+        "from": 340,
+        "duration": 102
+      },
+      {
+        "text": "And give a surprisingly intelligent answer. Everyone nods. Your boss looks",
+        "from": 447,
+        "duration": 124
+      },
+      {
+        "text": "impressed. Congratulations. You just used a supernatural ability to look like",
+        "from": 571,
+        "duration": 149
+      },
+      {
+        "text": "someone, who was actually paying attention during the meeting. And honestly,",
+        "from": 720,
+        "duration": 136
+      },
+      {
+        "text": "that might be one of the best uses of this power.",
+        "from": 856,
+        "duration": 77
+      }
+    ],
+    "speechRate": 1.0,
+    "cadence": "continuous-paragraphs",
+    "words": [
+      {
+        "word": "during",
+        "from": 6,
+        "to": 15
+      },
+      {
+        "word": "a",
+        "from": 15,
+        "to": 16
+      },
+      {
+        "word": "meeting",
+        "from": 16,
+        "to": 28
+      },
+      {
+        "word": "you",
+        "from": 45,
+        "to": 48
+      },
+      {
+        "word": "suddenly",
+        "from": 48,
+        "to": 60
+      },
+      {
+        "word": "see",
+        "from": 60,
+        "to": 67
+      },
+      {
+        "word": "your",
+        "from": 67,
+        "to": 71
+      },
+      {
+        "word": "boss",
+        "from": 71,
+        "to": 83
+      },
+      {
+        "word": "calling",
+        "from": 83,
+        "to": 94
+      },
+      {
+        "word": "your",
+        "from": 94,
+        "to": 97
+      },
+      {
+        "word": "name",
+        "from": 97,
+        "to": 106
+      },
+      {
+        "word": "you",
+        "from": 113,
+        "to": 117
+      },
+      {
+        "word": "have",
+        "from": 117,
+        "to": 122
+      },
+      {
+        "word": "exactly",
+        "from": 122,
+        "to": 136
+      },
+      {
+        "word": "ten",
+        "from": 136,
+        "to": 145
+      },
+      {
+        "word": "seconds",
+        "from": 145,
+        "to": 164
+      },
+      {
+        "word": "your",
+        "from": 164,
+        "to": 169
+      },
+      {
+        "word": "brain",
+        "from": 169,
+        "to": 180
+      },
+      {
+        "word": "instantly",
+        "from": 180,
+        "to": 195
+      },
+      {
+        "word": "enters",
+        "from": 195,
+        "to": 206
+      },
+      {
+        "word": "emergency",
+        "from": 206,
+        "to": 220
+      },
+      {
+        "word": "mode",
+        "from": 220,
+        "to": 230
+      },
+      {
+        "word": "you",
+        "from": 238,
+        "to": 242
+      },
+      {
+        "word": "open",
+        "from": 242,
+        "to": 249
+      },
+      {
+        "word": "the",
+        "from": 249,
+        "to": 251
+      },
+      {
+        "word": "document",
+        "from": 251,
+        "to": 269
+      },
+      {
+        "word": "scan",
+        "from": 269,
+        "to": 284
+      },
+      {
+        "word": "the",
+        "from": 284,
+        "to": 286
+      },
+      {
+        "word": "most",
+        "from": 286,
+        "to": 294
+      },
+      {
+        "word": "important",
+        "from": 294,
+        "to": 307
+      },
+      {
+        "word": "line",
+        "from": 307,
+        "to": 322
+      },
+      {
+        "word": "ten",
+        "from": 322,
+        "to": 328
+      },
+      {
+        "word": "seconds",
+        "from": 328,
+        "to": 340
+      },
+      {
+        "word": "later",
+        "from": 340,
+        "to": 352
+      },
+      {
+        "word": "what",
+        "from": 357,
+        "to": 361
+      },
+      {
+        "word": "do",
+        "from": 361,
+        "to": 363
+      },
+      {
+        "word": "you",
+        "from": 363,
+        "to": 367
+      },
+      {
+        "word": "think",
+        "from": 367,
+        "to": 382
+      },
+      {
+        "word": "you",
+        "from": 390,
+        "to": 393
+      },
+      {
+        "word": "sit",
+        "from": 393,
+        "to": 399
+      },
+      {
+        "word": "up",
+        "from": 399,
+        "to": 403
+      },
+      {
+        "word": "straight",
+        "from": 403,
+        "to": 419
+      },
+      {
+        "word": "stay",
+        "from": 419,
+        "to": 427
+      },
+      {
+        "word": "calm",
+        "from": 427,
+        "to": 439
+      },
+      {
+        "word": "and",
+        "from": 447,
+        "to": 451
+      },
+      {
+        "word": "give",
+        "from": 451,
+        "to": 455
+      },
+      {
+        "word": "a",
+        "from": 455,
+        "to": 456
+      },
+      {
+        "word": "surprisingly",
+        "from": 456,
+        "to": 476
+      },
+      {
+        "word": "intelligent",
+        "from": 476,
+        "to": 492
+      },
+      {
+        "word": "answer",
+        "from": 492,
+        "to": 506
+      },
+      {
+        "word": "everyone",
+        "from": 513,
+        "to": 525
+      },
+      {
+        "word": "nods",
+        "from": 525,
+        "to": 542
+      },
+      {
+        "word": "your",
+        "from": 547,
+        "to": 550
+      },
+      {
+        "word": "boss",
+        "from": 550,
+        "to": 564
+      },
+      {
+        "word": "looks",
+        "from": 564,
+        "to": 571
+      },
+      {
+        "word": "impressed",
+        "from": 571,
+        "to": 594
+      },
+      {
+        "word": "congratulations",
+        "from": 594,
+        "to": 628
+      },
+      {
+        "word": "you",
+        "from": 641,
+        "to": 646
+      },
+      {
+        "word": "just",
+        "from": 646,
+        "to": 654
+      },
+      {
+        "word": "used",
+        "from": 654,
+        "to": 663
+      },
+      {
+        "word": "a",
+        "from": 663,
+        "to": 665
+      },
+      {
+        "word": "supernatural",
+        "from": 665,
+        "to": 688
+      },
+      {
+        "word": "ability",
+        "from": 688,
+        "to": 700
+      },
+      {
+        "word": "to",
+        "from": 700,
+        "to": 705
+      },
+      {
+        "word": "look",
+        "from": 705,
+        "to": 713
+      },
+      {
+        "word": "like",
+        "from": 713,
+        "to": 720
+      },
+      {
+        "word": "someone",
+        "from": 720,
+        "to": 736
+      },
+      {
+        "word": "who",
+        "from": 745,
+        "to": 748
+      },
+      {
+        "word": "was",
+        "from": 748,
+        "to": 754
+      },
+      {
+        "word": "actually",
+        "from": 754,
+        "to": 769
+      },
+      {
+        "word": "paying",
+        "from": 769,
+        "to": 783
+      },
+      {
+        "word": "attention",
+        "from": 783,
+        "to": 800
+      },
+      {
+        "word": "during",
+        "from": 800,
+        "to": 809
+      },
+      {
+        "word": "the",
+        "from": 809,
+        "to": 811
+      },
+      {
+        "word": "meeting",
+        "from": 811,
+        "to": 827
+      },
+      {
+        "word": "and",
+        "from": 827,
+        "to": 838
+      },
+      {
+        "word": "honestly",
+        "from": 838,
+        "to": 856
+      },
+      {
+        "word": "that",
+        "from": 856,
+        "to": 862
+      },
+      {
+        "word": "might",
+        "from": 862,
+        "to": 870
+      },
+      {
+        "word": "be",
+        "from": 870,
+        "to": 875
+      },
+      {
+        "word": "one",
+        "from": 875,
+        "to": 882
+      },
+      {
+        "word": "of",
+        "from": 882,
+        "to": 884
+      },
+      {
+        "word": "the",
+        "from": 884,
+        "to": 886
+      },
+      {
+        "word": "best",
+        "from": 886,
+        "to": 895
+      },
+      {
+        "word": "uses",
+        "from": 895,
+        "to": 906
+      },
+      {
+        "word": "of",
+        "from": 906,
+        "to": 909
+      },
+      {
+        "word": "this",
+        "from": 909,
+        "to": 914
+      },
+      {
+        "word": "power",
+        "from": 914,
+        "to": 930
+      }
+    ],
+    "events": {
+      "boss": 71,
+      "scan": 238,
+      "question": 357,
+      "answer": 451,
+      "impressed": 547
+    }
+  },
+  {
+    "id": 4,
+    "title": "The cat has other plans",
+    "label": "THE CAT",
+    "from": 3054,
+    "duration": 645,
+    "text": "Sometimes the power would help with much smaller things. You see your phone about to fall off the table. The screen hits the floor. Shatters. You return to the present. Calmly reach out your hand. The cat pushes the phone. And, you catch it. Perfect. Your superpower just saved you a few hundred dollars in repairs. But from this point on, things start getting much more serious.",
+    "originalText": "Sometimes the power would help with much smaller things. You see your phone about to fall off the table. The screen hits the floor. Shatters. You return to the present. Calmly reach out your hand. The cat pushes the phone. And\u2026 you catch it. Perfect. Your superpower just saved you a few hundred dollars in repairs. But from this point on\u2026 things start getting much more serious.",
+    "captions": [
+      {
+        "text": "Sometimes the power would help with much smaller things. You see",
+        "from": 6,
+        "duration": 98
+      },
+      {
+        "text": "your phone about to fall off the table. The screen hits",
+        "from": 104,
+        "duration": 79
+      },
+      {
+        "text": "the floor. Shatters. You return to the present. Calmly reach out your",
+        "from": 183,
+        "duration": 113
+      },
+      {
+        "text": "hand. The cat pushes the phone. And, you catch it. Perfect.",
+        "from": 296,
+        "duration": 138
+      },
+      {
+        "text": "Your superpower just saved you a few hundred dollars in repairs.",
+        "from": 434,
+        "duration": 88
+      },
+      {
+        "text": "But from this point on, things start getting much more serious.",
+        "from": 522,
+        "duration": 109
+      }
+    ],
+    "speechRate": 1.0,
+    "cadence": "continuous-paragraphs",
+    "events": {
+      "fall": 107,
+      "impact": 154,
+      "present": 227,
+      "push": 308,
+      "catch": 389
+    },
+    "words": [
+      {
+        "word": "sometimes",
+        "from": 6,
+        "to": 22
+      },
+      {
+        "word": "the",
+        "from": 22,
+        "to": 23
+      },
+      {
+        "word": "power",
+        "from": 23,
+        "to": 33
+      },
+      {
+        "word": "would",
+        "from": 33,
+        "to": 39
+      },
+      {
+        "word": "help",
+        "from": 39,
+        "to": 49
+      },
+      {
+        "word": "with",
+        "from": 49,
+        "to": 53
+      },
+      {
+        "word": "much",
+        "from": 53,
+        "to": 63
+      },
+      {
+        "word": "smaller",
+        "from": 63,
+        "to": 76
+      },
+      {
+        "word": "things",
+        "from": 76,
+        "to": 95
+      },
+      {
+        "word": "you",
+        "from": 95,
+        "to": 98
+      },
+      {
+        "word": "see",
+        "from": 98,
+        "to": 104
+      },
+      {
+        "word": "your",
+        "from": 104,
+        "to": 107
+      },
+      {
+        "word": "phone",
+        "from": 107,
+        "to": 116
+      },
+      {
+        "word": "about",
+        "from": 116,
+        "to": 123
+      },
+      {
+        "word": "to",
+        "from": 123,
+        "to": 125
+      },
+      {
+        "word": "fall",
+        "from": 125,
+        "to": 134
+      },
+      {
+        "word": "off",
+        "from": 134,
+        "to": 138
+      },
+      {
+        "word": "the",
+        "from": 138,
+        "to": 141
+      },
+      {
+        "word": "table",
+        "from": 141,
+        "to": 154
+      },
+      {
+        "word": "the",
+        "from": 154,
+        "to": 165
+      },
+      {
+        "word": "screen",
+        "from": 165,
+        "to": 176
+      },
+      {
+        "word": "hits",
+        "from": 176,
+        "to": 183
+      },
+      {
+        "word": "the",
+        "from": 183,
+        "to": 185
+      },
+      {
+        "word": "floor",
+        "from": 185,
+        "to": 201
+      },
+      {
+        "word": "shatters",
+        "from": 201,
+        "to": 221
+      },
+      {
+        "word": "you",
+        "from": 227,
+        "to": 231
+      },
+      {
+        "word": "return",
+        "from": 231,
+        "to": 241
+      },
+      {
+        "word": "to",
+        "from": 241,
+        "to": 244
+      },
+      {
+        "word": "the",
+        "from": 244,
+        "to": 247
+      },
+      {
+        "word": "present",
+        "from": 247,
+        "to": 263
+      },
+      {
+        "word": "calmly",
+        "from": 269,
+        "to": 280
+      },
+      {
+        "word": "reach",
+        "from": 280,
+        "to": 288
+      },
+      {
+        "word": "out",
+        "from": 288,
+        "to": 292
+      },
+      {
+        "word": "your",
+        "from": 292,
+        "to": 296
+      },
+      {
+        "word": "hand",
+        "from": 296,
+        "to": 308
+      },
+      {
+        "word": "the",
+        "from": 308,
+        "to": 316
+      },
+      {
+        "word": "cat",
+        "from": 316,
+        "to": 325
+      },
+      {
+        "word": "pushes",
+        "from": 325,
+        "to": 336
+      },
+      {
+        "word": "the",
+        "from": 336,
+        "to": 338
+      },
+      {
+        "word": "phone",
+        "from": 338,
+        "to": 350
+      },
+      {
+        "word": "and",
+        "from": 357,
+        "to": 370
+      },
+      {
+        "word": "you",
+        "from": 389,
+        "to": 393
+      },
+      {
+        "word": "catch",
+        "from": 393,
+        "to": 403
+      },
+      {
+        "word": "it",
+        "from": 403,
+        "to": 411
+      },
+      {
+        "word": "perfect",
+        "from": 416,
+        "to": 434
+      },
+      {
+        "word": "your",
+        "from": 434,
+        "to": 439
+      },
+      {
+        "word": "superpower",
+        "from": 439,
+        "to": 460
+      },
+      {
+        "word": "just",
+        "from": 460,
+        "to": 466
+      },
+      {
+        "word": "saved",
+        "from": 466,
+        "to": 475
+      },
+      {
+        "word": "you",
+        "from": 475,
+        "to": 479
+      },
+      {
+        "word": "a",
+        "from": 479,
+        "to": 480
+      },
+      {
+        "word": "few",
+        "from": 480,
+        "to": 485
+      },
+      {
+        "word": "hundred",
+        "from": 485,
+        "to": 492
+      },
+      {
+        "word": "dollars",
+        "from": 492,
+        "to": 504
+      },
+      {
+        "word": "in",
+        "from": 504,
+        "to": 506
+      },
+      {
+        "word": "repairs",
+        "from": 506,
+        "to": 522
+      },
+      {
+        "word": "but",
+        "from": 522,
+        "to": 526
+      },
+      {
+        "word": "from",
+        "from": 526,
+        "to": 533
+      },
+      {
+        "word": "this",
+        "from": 533,
+        "to": 539
+      },
+      {
+        "word": "point",
+        "from": 539,
+        "to": 550
+      },
+      {
+        "word": "on",
+        "from": 550,
+        "to": 562
+      },
+      {
+        "word": "things",
+        "from": 562,
+        "to": 570
+      },
+      {
+        "word": "start",
+        "from": 570,
+        "to": 580
+      },
+      {
+        "word": "getting",
+        "from": 580,
+        "to": 591
+      },
+      {
+        "word": "much",
+        "from": 591,
+        "to": 599
+      },
+      {
+        "word": "more",
+        "from": 599,
+        "to": 604
+      },
+      {
+        "word": "serious",
+        "from": 604,
+        "to": 628
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Ten seconds on the road",
+    "label": "THE CROSSING",
+    "from": 3699,
+    "duration": 818,
+    "text": "You are about to cross the street. The light is green. Everything looks completely normal. Then you blink. And see, a vehicle speeding out from a blind corner. If you keep moving, you are going to collide. You return to the present. And stop. One second. Two seconds. Three. The vehicle actually flies past you. Only a few feet away. And for the first time, you realize something. This power is not just useful for avoiding embarrassing moments. It could save your life. Maybe even someone else's.",
+    "originalText": "You are about to cross the street. The light is green. Everything looks completely normal. Then you blink. And see\u2026 a vehicle speeding out from a blind corner. If you keep moving\u2026 you are going to collide. You return to the present. And stop. One second. Two seconds. Three. The vehicle actually flies past you. Only a few feet away. And for the first time\u2026 you realize something. This power is not just useful for avoiding embarrassing moments. It could save your life. Maybe even someone else\u2019s.",
+    "captions": [
+      {
+        "text": "You are about to cross the street. The light is green. Everything",
+        "from": 6,
+        "duration": 101
+      },
+      {
+        "text": "looks completely normal. Then you blink. And see, a vehicle speeding out from",
+        "from": 107,
+        "duration": 125
+      },
+      {
+        "text": "a blind corner. If you keep moving, you are going to collide.",
+        "from": 232,
+        "duration": 99
+      },
+      {
+        "text": "You return to the present. And stop. One second. Two seconds. Three. The",
+        "from": 331,
+        "duration": 117
+      },
+      {
+        "text": "vehicle actually flies past you. Only a few feet away. And for",
+        "from": 448,
+        "duration": 103
+      },
+      {
+        "text": "the first time, you realize something. This power is not just useful for",
+        "from": 551,
+        "duration": 122
+      },
+      {
+        "text": "avoiding embarrassing moments. It could save your life. Maybe even someone else's.",
+        "from": 673,
+        "duration": 131
+      }
+    ],
+    "speechRate": 1.0,
+    "cadence": "continuous-paragraphs",
+    "events": {
+      "blink": 153,
+      "present": 331,
+      "pass": 448,
+      "realize": 588
+    },
+    "words": [
+      {
+        "word": "you",
+        "from": 6,
+        "to": 11
+      },
+      {
+        "word": "are",
+        "from": 11,
+        "to": 14
+      },
+      {
+        "word": "about",
+        "from": 14,
+        "to": 22
+      },
+      {
+        "word": "to",
+        "from": 22,
+        "to": 24
+      },
+      {
+        "word": "cross",
+        "from": 24,
+        "to": 35
+      },
+      {
+        "word": "the",
+        "from": 35,
+        "to": 37
+      },
+      {
+        "word": "street",
+        "from": 37,
+        "to": 55
+      },
+      {
+        "word": "the",
+        "from": 55,
+        "to": 58
+      },
+      {
+        "word": "light",
+        "from": 58,
+        "to": 69
+      },
+      {
+        "word": "is",
+        "from": 69,
+        "to": 75
+      },
+      {
+        "word": "green",
+        "from": 75,
+        "to": 86
+      },
+      {
+        "word": "everything",
+        "from": 92,
+        "to": 107
+      },
+      {
+        "word": "looks",
+        "from": 107,
+        "to": 115
+      },
+      {
+        "word": "completely",
+        "from": 115,
+        "to": 139
+      },
+      {
+        "word": "normal",
+        "from": 139,
+        "to": 153
+      },
+      {
+        "word": "then",
+        "from": 153,
+        "to": 164
+      },
+      {
+        "word": "you",
+        "from": 164,
+        "to": 167
+      },
+      {
+        "word": "blink",
+        "from": 167,
+        "to": 178
+      },
+      {
+        "word": "and",
+        "from": 184,
+        "to": 188
+      },
+      {
+        "word": "see",
+        "from": 188,
+        "to": 196
+      },
+      {
+        "word": "a",
+        "from": 196,
+        "to": 197
+      },
+      {
+        "word": "vehicle",
+        "from": 197,
+        "to": 209
+      },
+      {
+        "word": "speeding",
+        "from": 209,
+        "to": 222
+      },
+      {
+        "word": "out",
+        "from": 222,
+        "to": 226
+      },
+      {
+        "word": "from",
+        "from": 226,
+        "to": 232
+      },
+      {
+        "word": "a",
+        "from": 232,
+        "to": 233
+      },
+      {
+        "word": "blind",
+        "from": 233,
+        "to": 242
+      },
+      {
+        "word": "corner",
+        "from": 242,
+        "to": 256
+      },
+      {
+        "word": "if",
+        "from": 263,
+        "to": 267
+      },
+      {
+        "word": "you",
+        "from": 267,
+        "to": 270
+      },
+      {
+        "word": "keep",
+        "from": 270,
+        "to": 276
+      },
+      {
+        "word": "moving",
+        "from": 276,
+        "to": 292
+      },
+      {
+        "word": "you",
+        "from": 292,
+        "to": 295
+      },
+      {
+        "word": "are",
+        "from": 295,
+        "to": 298
+      },
+      {
+        "word": "going",
+        "from": 298,
+        "to": 305
+      },
+      {
+        "word": "to",
+        "from": 305,
+        "to": 307
+      },
+      {
+        "word": "collide",
+        "from": 307,
+        "to": 331
+      },
+      {
+        "word": "you",
+        "from": 331,
+        "to": 334
+      },
+      {
+        "word": "return",
+        "from": 334,
+        "to": 345
+      },
+      {
+        "word": "to",
+        "from": 345,
+        "to": 348
+      },
+      {
+        "word": "the",
+        "from": 348,
+        "to": 351
+      },
+      {
+        "word": "present",
+        "from": 351,
+        "to": 366
+      },
+      {
+        "word": "and",
+        "from": 366,
+        "to": 371
+      },
+      {
+        "word": "stop",
+        "from": 371,
+        "to": 390
+      },
+      {
+        "word": "one",
+        "from": 390,
+        "to": 394
+      },
+      {
+        "word": "second",
+        "from": 394,
+        "to": 406
+      },
+      {
+        "word": "two",
+        "from": 406,
+        "to": 412
+      },
+      {
+        "word": "seconds",
+        "from": 412,
+        "to": 431
+      },
+      {
+        "word": "three",
+        "from": 431,
+        "to": 445
+      },
+      {
+        "word": "the",
+        "from": 445,
+        "to": 448
+      },
+      {
+        "word": "vehicle",
+        "from": 448,
+        "to": 460
+      },
+      {
+        "word": "actually",
+        "from": 460,
+        "to": 469
+      },
+      {
+        "word": "flies",
+        "from": 469,
+        "to": 479
+      },
+      {
+        "word": "past",
+        "from": 479,
+        "to": 489
+      },
+      {
+        "word": "you",
+        "from": 489,
+        "to": 494
+      },
+      {
+        "word": "only",
+        "from": 500,
+        "to": 508
+      },
+      {
+        "word": "a",
+        "from": 508,
+        "to": 510
+      },
+      {
+        "word": "few",
+        "from": 510,
+        "to": 516
+      },
+      {
+        "word": "feet",
+        "from": 516,
+        "to": 522
+      },
+      {
+        "word": "away",
+        "from": 522,
+        "to": 535
+      },
+      {
+        "word": "and",
+        "from": 544,
+        "to": 549
+      },
+      {
+        "word": "for",
+        "from": 549,
+        "to": 551
+      },
+      {
+        "word": "the",
+        "from": 551,
+        "to": 554
+      },
+      {
+        "word": "first",
+        "from": 554,
+        "to": 565
+      },
+      {
+        "word": "time",
+        "from": 565,
+        "to": 576
+      },
+      {
+        "word": "you",
+        "from": 588,
+        "to": 593
+      },
+      {
+        "word": "realize",
+        "from": 593,
+        "to": 604
+      },
+      {
+        "word": "something",
+        "from": 604,
+        "to": 618
+      },
+      {
+        "word": "this",
+        "from": 618,
+        "to": 630
+      },
+      {
+        "word": "power",
+        "from": 630,
+        "to": 640
+      },
+      {
+        "word": "is",
+        "from": 640,
+        "to": 643
+      },
+      {
+        "word": "not",
+        "from": 643,
+        "to": 650
+      },
+      {
+        "word": "just",
+        "from": 650,
+        "to": 656
+      },
+      {
+        "word": "useful",
+        "from": 656,
+        "to": 668
+      },
+      {
+        "word": "for",
+        "from": 668,
+        "to": 673
+      },
+      {
+        "word": "avoiding",
+        "from": 673,
+        "to": 685
+      },
+      {
+        "word": "embarrassing",
+        "from": 685,
+        "to": 701
+      },
+      {
+        "word": "moments",
+        "from": 701,
+        "to": 719
+      },
+      {
+        "word": "it",
+        "from": 719,
+        "to": 724
+      },
+      {
+        "word": "could",
+        "from": 724,
+        "to": 729
+      },
+      {
+        "word": "save",
+        "from": 729,
+        "to": 741
+      },
+      {
+        "word": "your",
+        "from": 741,
+        "to": 745
+      },
+      {
+        "word": "life",
+        "from": 745,
+        "to": 760
+      },
+      {
+        "word": "maybe",
+        "from": 760,
+        "to": 769
+      },
+      {
+        "word": "even",
+        "from": 769,
+        "to": 776
+      },
+      {
+        "word": "someone",
+        "from": 776,
+        "to": 783
+      },
+      {
+        "word": "else's",
+        "from": 783,
+        "to": 801
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "The future fights back",
+    "label": "THE GAME",
+    "from": 4517,
+    "duration": 763,
+    "text": "And of course, you would immediately think about sports. During a game, you see your opponent move to the right. Easy. You return to the present, and move right before he even makes his move. But there is a problem. He sees you move. So he changes direction. Left. Wait. That is not what you saw. And that is when you discover the biggest problem with your power. The future is not fixed. The moment you change what you do, the future changes too. Every decision creates a different outcome.",
+    "originalText": "And of course\u2026 you would immediately think about sports. During a game\u2026 you see your opponent move to the right. Easy. You return to the present\u2026 and move right before he even makes his move. But there is a problem. He sees you move. So he changes direction. Left. Wait. That is not what you saw. And that is when you discover the biggest problem with your power. The future is not fixed. The moment you change what you do\u2026 the future changes too. Every decision creates a different outcome.",
+    "captions": [
+      {
+        "text": "And of course, you would immediately think about sports. During a game, you",
+        "from": 8,
+        "duration": 100
+      },
+      {
+        "text": "see your opponent move to the right. Easy. You return to the present,",
+        "from": 108,
+        "duration": 107
+      },
+      {
+        "text": "and move right before he even makes his move. But there is a",
+        "from": 215,
+        "duration": 86
+      },
+      {
+        "text": "problem. He sees you move. So he changes direction. Left. Wait. That",
+        "from": 301,
+        "duration": 128
+      },
+      {
+        "text": "is not what you saw. And that is when you discover the biggest",
+        "from": 429,
+        "duration": 87
+      },
+      {
+        "text": "problem with your power. The future is not fixed. The moment you change",
+        "from": 516,
+        "duration": 112
+      },
+      {
+        "text": "what you do, the future changes too. Every decision creates a different outcome.",
+        "from": 628,
+        "duration": 121
+      }
+    ],
+    "speechRate": 1.0,
+    "cadence": "continuous-paragraphs",
+    "words": [
+      {
+        "word": "and",
+        "from": 8,
+        "to": 13
+      },
+      {
+        "word": "of",
+        "from": 13,
+        "to": 16
+      },
+      {
+        "word": "course",
+        "from": 16,
+        "to": 30
+      },
+      {
+        "word": "you",
+        "from": 30,
+        "to": 33
+      },
+      {
+        "word": "would",
+        "from": 33,
+        "to": 36
+      },
+      {
+        "word": "immediately",
+        "from": 36,
+        "to": 52
+      },
+      {
+        "word": "think",
+        "from": 52,
+        "to": 58
+      },
+      {
+        "word": "about",
+        "from": 58,
+        "to": 64
+      },
+      {
+        "word": "sports",
+        "from": 64,
+        "to": 85
+      },
+      {
+        "word": "during",
+        "from": 85,
+        "to": 94
+      },
+      {
+        "word": "a",
+        "from": 94,
+        "to": 96
+      },
+      {
+        "word": "game",
+        "from": 96,
+        "to": 105
+      },
+      {
+        "word": "you",
+        "from": 105,
+        "to": 108
+      },
+      {
+        "word": "see",
+        "from": 108,
+        "to": 113
+      },
+      {
+        "word": "your",
+        "from": 113,
+        "to": 118
+      },
+      {
+        "word": "opponent",
+        "from": 118,
+        "to": 130
+      },
+      {
+        "word": "move",
+        "from": 130,
+        "to": 135
+      },
+      {
+        "word": "to",
+        "from": 135,
+        "to": 138
+      },
+      {
+        "word": "the",
+        "from": 138,
+        "to": 140
+      },
+      {
+        "word": "right",
+        "from": 140,
+        "to": 154
+      },
+      {
+        "word": "easy",
+        "from": 161,
+        "to": 179
+      },
+      {
+        "word": "you",
+        "from": 179,
+        "to": 183
+      },
+      {
+        "word": "return",
+        "from": 183,
+        "to": 194
+      },
+      {
+        "word": "to",
+        "from": 194,
+        "to": 196
+      },
+      {
+        "word": "the",
+        "from": 196,
+        "to": 199
+      },
+      {
+        "word": "present",
+        "from": 199,
+        "to": 215
+      },
+      {
+        "word": "and",
+        "from": 215,
+        "to": 221
+      },
+      {
+        "word": "move",
+        "from": 221,
+        "to": 229
+      },
+      {
+        "word": "right",
+        "from": 229,
+        "to": 236
+      },
+      {
+        "word": "before",
+        "from": 236,
+        "to": 245
+      },
+      {
+        "word": "he",
+        "from": 245,
+        "to": 251
+      },
+      {
+        "word": "even",
+        "from": 251,
+        "to": 258
+      },
+      {
+        "word": "makes",
+        "from": 258,
+        "to": 266
+      },
+      {
+        "word": "his",
+        "from": 266,
+        "to": 271
+      },
+      {
+        "word": "move",
+        "from": 271,
+        "to": 287
+      },
+      {
+        "word": "but",
+        "from": 287,
+        "to": 291
+      },
+      {
+        "word": "there",
+        "from": 291,
+        "to": 297
+      },
+      {
+        "word": "is",
+        "from": 297,
+        "to": 300
+      },
+      {
+        "word": "a",
+        "from": 300,
+        "to": 301
+      },
+      {
+        "word": "problem",
+        "from": 301,
+        "to": 318
+      },
+      {
+        "word": "he",
+        "from": 318,
+        "to": 324
+      },
+      {
+        "word": "sees",
+        "from": 324,
+        "to": 335
+      },
+      {
+        "word": "you",
+        "from": 335,
+        "to": 337
+      },
+      {
+        "word": "move",
+        "from": 337,
+        "to": 355
+      },
+      {
+        "word": "so",
+        "from": 355,
+        "to": 359
+      },
+      {
+        "word": "he",
+        "from": 359,
+        "to": 363
+      },
+      {
+        "word": "changes",
+        "from": 363,
+        "to": 376
+      },
+      {
+        "word": "direction",
+        "from": 376,
+        "to": 393
+      },
+      {
+        "word": "left",
+        "from": 393,
+        "to": 409
+      },
+      {
+        "word": "wait",
+        "from": 409,
+        "to": 424
+      },
+      {
+        "word": "that",
+        "from": 424,
+        "to": 429
+      },
+      {
+        "word": "is",
+        "from": 429,
+        "to": 434
+      },
+      {
+        "word": "not",
+        "from": 434,
+        "to": 440
+      },
+      {
+        "word": "what",
+        "from": 440,
+        "to": 445
+      },
+      {
+        "word": "you",
+        "from": 445,
+        "to": 447
+      },
+      {
+        "word": "saw",
+        "from": 447,
+        "to": 461
+      },
+      {
+        "word": "and",
+        "from": 461,
+        "to": 467
+      },
+      {
+        "word": "that",
+        "from": 467,
+        "to": 473
+      },
+      {
+        "word": "is",
+        "from": 473,
+        "to": 478
+      },
+      {
+        "word": "when",
+        "from": 478,
+        "to": 482
+      },
+      {
+        "word": "you",
+        "from": 482,
+        "to": 485
+      },
+      {
+        "word": "discover",
+        "from": 485,
+        "to": 499
+      },
+      {
+        "word": "the",
+        "from": 499,
+        "to": 503
+      },
+      {
+        "word": "biggest",
+        "from": 503,
+        "to": 516
+      },
+      {
+        "word": "problem",
+        "from": 516,
+        "to": 529
+      },
+      {
+        "word": "with",
+        "from": 529,
+        "to": 533
+      },
+      {
+        "word": "your",
+        "from": 533,
+        "to": 536
+      },
+      {
+        "word": "power",
+        "from": 536,
+        "to": 558
+      },
+      {
+        "word": "the",
+        "from": 558,
+        "to": 561
+      },
+      {
+        "word": "future",
+        "from": 561,
+        "to": 574
+      },
+      {
+        "word": "is",
+        "from": 574,
+        "to": 579
+      },
+      {
+        "word": "not",
+        "from": 579,
+        "to": 585
+      },
+      {
+        "word": "fixed",
+        "from": 585,
+        "to": 602
+      },
+      {
+        "word": "the",
+        "from": 602,
+        "to": 605
+      },
+      {
+        "word": "moment",
+        "from": 605,
+        "to": 615
+      },
+      {
+        "word": "you",
+        "from": 615,
+        "to": 618
+      },
+      {
+        "word": "change",
+        "from": 618,
+        "to": 628
+      },
+      {
+        "word": "what",
+        "from": 628,
+        "to": 632
+      },
+      {
+        "word": "you",
+        "from": 632,
+        "to": 635
+      },
+      {
+        "word": "do",
+        "from": 635,
+        "to": 648
+      },
+      {
+        "word": "the",
+        "from": 648,
+        "to": 651
+      },
+      {
+        "word": "future",
+        "from": 651,
+        "to": 661
+      },
+      {
+        "word": "changes",
+        "from": 661,
+        "to": 676
+      },
+      {
+        "word": "too",
+        "from": 676,
+        "to": 684
+      },
+      {
+        "word": "every",
+        "from": 690,
+        "to": 696
+      },
+      {
+        "word": "decision",
+        "from": 696,
+        "to": 710
+      },
+      {
+        "word": "creates",
+        "from": 710,
+        "to": 719
+      },
+      {
+        "word": "a",
+        "from": 719,
+        "to": 721
+      },
+      {
+        "word": "different",
+        "from": 721,
+        "to": 730
+      },
+      {
+        "word": "outcome",
+        "from": 730,
+        "to": 746
+      }
+    ],
+    "events": {
+      "right": 118,
+      "present": 179,
+      "move": 215,
+      "left": 393,
+      "fixed": 558
+    }
+  },
+  {
+    "id": 7,
+    "title": "The perfect answer?",
+    "label": "THE INTERVIEW",
+    "from": 5280,
+    "duration": 602,
+    "text": "During a job interview, you see the next question. \"What is your biggest weakness?\" You have 10 seconds to prepare. This time, no awkward silence. No panic. You deliver the perfect answer. The interviewer smiles. But then you look 10 seconds ahead again. And hear him ask: \"Did you prepare that answer beforehand?\" Okay. Maybe this power cannot save you from every interview.",
+    "originalText": "During a job interview\u2026 you see the next question. \u201cWhat is your biggest weakness?\u201d You have 10 seconds to prepare. This time\u2026 no awkward silence. No panic. You deliver the perfect answer. The interviewer smiles. But then you look 10 seconds ahead again. And hear him ask: \u201cDid you prepare that answer beforehand?\u201d \u2026 Okay. Maybe this power cannot save you from every interview.",
+    "captions": [
+      {
+        "text": "During a job interview, you see the next question. \"What",
+        "from": 6,
+        "duration": 82
+      },
+      {
+        "text": "is your biggest weakness?\" You have 10 seconds to prepare. This",
+        "from": 88,
+        "duration": 108
+      },
+      {
+        "text": "time, no awkward silence. No panic. You deliver the perfect answer.",
+        "from": 196,
+        "duration": 124
+      },
+      {
+        "text": "The interviewer smiles. But then you look 10 seconds ahead",
+        "from": 327,
+        "duration": 69
+      },
+      {
+        "text": "again. And hear him ask: \"Did you prepare that answer",
+        "from": 396,
+        "duration": 79
+      },
+      {
+        "text": "beforehand?\" Okay. Maybe this power cannot save you from every interview.",
+        "from": 475,
+        "duration": 114
+      }
+    ],
+    "speechRate": 1.0,
+    "cadence": "continuous-paragraphs",
+    "words": [
+      {
+        "word": "during",
+        "from": 6,
+        "to": 15
+      },
+      {
+        "word": "a",
+        "from": 15,
+        "to": 16
+      },
+      {
+        "word": "job",
+        "from": 16,
+        "to": 25
+      },
+      {
+        "word": "interview",
+        "from": 25,
+        "to": 38
+      },
+      {
+        "word": "you",
+        "from": 43,
+        "to": 46
+      },
+      {
+        "word": "see",
+        "from": 46,
+        "to": 51
+      },
+      {
+        "word": "the",
+        "from": 51,
+        "to": 53
+      },
+      {
+        "word": "next",
+        "from": 53,
+        "to": 59
+      },
+      {
+        "word": "question",
+        "from": 59,
+        "to": 72
+      },
+      {
+        "word": "what",
+        "from": 85,
+        "to": 88
+      },
+      {
+        "word": "is",
+        "from": 88,
+        "to": 91
+      },
+      {
+        "word": "your",
+        "from": 91,
+        "to": 94
+      },
+      {
+        "word": "biggest",
+        "from": 94,
+        "to": 107
+      },
+      {
+        "word": "weakness",
+        "from": 107,
+        "to": 125
+      },
+      {
+        "word": "you",
+        "from": 133,
+        "to": 136
+      },
+      {
+        "word": "have",
+        "from": 136,
+        "to": 140
+      },
+      {
+        "word": "ten",
+        "from": 140,
+        "to": 148
+      },
+      {
+        "word": "seconds",
+        "from": 148,
+        "to": 160
+      },
+      {
+        "word": "to",
+        "from": 160,
+        "to": 162
+      },
+      {
+        "word": "prepare",
+        "from": 162,
+        "to": 178
+      },
+      {
+        "word": "this",
+        "from": 190,
+        "to": 196
+      },
+      {
+        "word": "time",
+        "from": 196,
+        "to": 212
+      },
+      {
+        "word": "no",
+        "from": 212,
+        "to": 218
+      },
+      {
+        "word": "awkward",
+        "from": 218,
+        "to": 230
+      },
+      {
+        "word": "silence",
+        "from": 230,
+        "to": 252
+      },
+      {
+        "word": "no",
+        "from": 252,
+        "to": 257
+      },
+      {
+        "word": "panic",
+        "from": 257,
+        "to": 274
+      },
+      {
+        "word": "you",
+        "from": 274,
+        "to": 278
+      },
+      {
+        "word": "deliver",
+        "from": 278,
+        "to": 289
+      },
+      {
+        "word": "the",
+        "from": 289,
+        "to": 291
+      },
+      {
+        "word": "perfect",
+        "from": 291,
+        "to": 304
+      },
+      {
+        "word": "answer",
+        "from": 304,
+        "to": 317
+      },
+      {
+        "word": "the",
+        "from": 327,
+        "to": 331
+      },
+      {
+        "word": "interviewer",
+        "from": 331,
+        "to": 342
+      },
+      {
+        "word": "smiles",
+        "from": 342,
+        "to": 357
+      },
+      {
+        "word": "but",
+        "from": 357,
+        "to": 361
+      },
+      {
+        "word": "then",
+        "from": 361,
+        "to": 365
+      },
+      {
+        "word": "you",
+        "from": 365,
+        "to": 368
+      },
+      {
+        "word": "look",
+        "from": 368,
+        "to": 373
+      },
+      {
+        "word": "ten",
+        "from": 373,
+        "to": 379
+      },
+      {
+        "word": "seconds",
+        "from": 379,
+        "to": 390
+      },
+      {
+        "word": "ahead",
+        "from": 390,
+        "to": 396
+      },
+      {
+        "word": "again",
+        "from": 396,
+        "to": 406
+      },
+      {
+        "word": "and",
+        "from": 411,
+        "to": 415
+      },
+      {
+        "word": "hear",
+        "from": 415,
+        "to": 421
+      },
+      {
+        "word": "him",
+        "from": 421,
+        "to": 424
+      },
+      {
+        "word": "ask",
+        "from": 424,
+        "to": 441
+      },
+      {
+        "word": "did",
+        "from": 441,
+        "to": 446
+      },
+      {
+        "word": "you",
+        "from": 446,
+        "to": 449
+      },
+      {
+        "word": "prepare",
+        "from": 449,
+        "to": 459
+      },
+      {
+        "word": "that",
+        "from": 459,
+        "to": 466
+      },
+      {
+        "word": "answer",
+        "from": 466,
+        "to": 475
+      },
+      {
+        "word": "beforehand",
+        "from": 475,
+        "to": 499
+      },
+      {
+        "word": "okay",
+        "from": 499,
+        "to": 507
+      },
+      {
+        "word": "maybe",
+        "from": 507,
+        "to": 516
+      },
+      {
+        "word": "this",
+        "from": 516,
+        "to": 520
+      },
+      {
+        "word": "power",
+        "from": 520,
+        "to": 529
+      },
+      {
+        "word": "cannot",
+        "from": 529,
+        "to": 539
+      },
+      {
+        "word": "save",
+        "from": 539,
+        "to": 550
+      },
+      {
+        "word": "you",
+        "from": 550,
+        "to": 554
+      },
+      {
+        "word": "from",
+        "from": 554,
+        "to": 560
+      },
+      {
+        "word": "every",
+        "from": 560,
+        "to": 569
+      },
+      {
+        "word": "interview",
+        "from": 569,
+        "to": 586
+      }
+    ],
+    "events": {
+      "question": 85,
+      "answer": 274,
+      "future": 365,
+      "followup": 441
+    }
+  },
+  {
+    "id": 8,
+    "title": "The courage to hear no",
+    "label": "THE CONFESSION",
+    "from": 5882,
+    "duration": 1321,
+    "text": "But some things are much harder. You are standing in front of someone you have liked for months. The words have been stuck in your head forever. You blink. And see her reaction. \"I'm sorry,\" Your heart drops. Now you have a choice. You could stay silent. Say nothing. Never get rejected. Never feel the pain. But then you start thinking, if you avoid every future you do not like, are you really living? You take a breath. And say it anyway. \"I like you.\" She pauses. Then, \"I'm sorry. I'm just not ready for a relationship.\" Exactly what you saw. But this time, you smile. Because at least now, you have an answer. Some futures do not need to be changed. Sometimes, you just need enough courage to face them.",
+    "originalText": "But some things are much harder. You are standing in front of someone you have liked for months. The words have been stuck in your head forever. You blink. And see her reaction. \u201cI\u2019m sorry\u2026\u201d Your heart drops. Now you have a choice. You could stay silent. Say nothing. Never get rejected. Never feel the pain. But then you start thinking\u2026 if you avoid every future you do not like\u2026 are you really living? You take a breath. And say it anyway. \u201cI like you.\u201d She pauses. Then\u2026 \u201cI\u2019m sorry. I\u2019m just not ready for a relationship.\u201d Exactly what you saw. But this time\u2026 you smile. Because at least now\u2026 you have an answer. Some futures do not need to be changed. Sometimes\u2026 you just need enough courage to face them.",
+    "captions": [
+      {
+        "text": "But some things are much harder. You are standing in front",
+        "from": 6,
+        "duration": 83
+      },
+      {
+        "text": "of someone you have liked for months. The words have been",
+        "from": 89,
+        "duration": 78
+      },
+      {
+        "text": "stuck in your head forever. You blink. And see her reaction. \"I'm",
+        "from": 167,
+        "duration": 112
+      },
+      {
+        "text": "sorry,\" Your heart drops. Now you have a choice. You could",
+        "from": 279,
+        "duration": 91
+      },
+      {
+        "text": "stay silent. Say nothing. Never get rejected. Never feel the pain.",
+        "from": 370,
+        "duration": 109
+      },
+      {
+        "text": "But then you start thinking, if you avoid every future you do",
+        "from": 484,
+        "duration": 84
+      },
+      {
+        "text": "not like, are you really living? You take a breath. And say it",
+        "from": 568,
+        "duration": 127
+      },
+      {
+        "text": "anyway. \"I like you.\" She pauses. Then, \"I'm sorry. I'm just not ready",
+        "from": 695,
+        "duration": 148
+      },
+      {
+        "text": "for a relationship.\" Exactly what you saw. But this time, you smile.",
+        "from": 843,
+        "duration": 235
+      },
+      {
+        "text": "Because at least now, you have an answer. Some futures do not",
+        "from": 1113,
+        "duration": 84
+      },
+      {
+        "text": "need to be changed. Sometimes, you just need enough courage to face them.",
+        "from": 1197,
+        "duration": 108
+      }
+    ],
+    "speechRate": 1.0,
+    "cadence": "continuous-paragraphs",
+    "events": {
+      "visionSorry": 275,
+      "breath": 646,
+      "confess": 718,
+      "response": 821
+    },
+    "words": [
+      {
+        "word": "but",
+        "from": 6,
+        "to": 14
+      },
+      {
+        "word": "some",
+        "from": 14,
+        "to": 20
+      },
+      {
+        "word": "things",
+        "from": 20,
+        "to": 29
+      },
+      {
+        "word": "are",
+        "from": 29,
+        "to": 31
+      },
+      {
+        "word": "much",
+        "from": 31,
+        "to": 41
+      },
+      {
+        "word": "harder",
+        "from": 41,
+        "to": 56
+      },
+      {
+        "word": "you",
+        "from": 62,
+        "to": 64
+      },
+      {
+        "word": "are",
+        "from": 64,
+        "to": 67
+      },
+      {
+        "word": "standing",
+        "from": 67,
+        "to": 80
+      },
+      {
+        "word": "in",
+        "from": 80,
+        "to": 82
+      },
+      {
+        "word": "front",
+        "from": 82,
+        "to": 89
+      },
+      {
+        "word": "of",
+        "from": 89,
+        "to": 91
+      },
+      {
+        "word": "someone",
+        "from": 91,
+        "to": 98
+      },
+      {
+        "word": "you",
+        "from": 98,
+        "to": 102
+      },
+      {
+        "word": "have",
+        "from": 102,
+        "to": 108
+      },
+      {
+        "word": "liked",
+        "from": 108,
+        "to": 117
+      },
+      {
+        "word": "for",
+        "from": 117,
+        "to": 122
+      },
+      {
+        "word": "months",
+        "from": 122,
+        "to": 141
+      },
+      {
+        "word": "the",
+        "from": 141,
+        "to": 149
+      },
+      {
+        "word": "words",
+        "from": 149,
+        "to": 159
+      },
+      {
+        "word": "have",
+        "from": 159,
+        "to": 163
+      },
+      {
+        "word": "been",
+        "from": 163,
+        "to": 167
+      },
+      {
+        "word": "stuck",
+        "from": 167,
+        "to": 177
+      },
+      {
+        "word": "in",
+        "from": 177,
+        "to": 179
+      },
+      {
+        "word": "your",
+        "from": 179,
+        "to": 183
+      },
+      {
+        "word": "head",
+        "from": 183,
+        "to": 192
+      },
+      {
+        "word": "forever",
+        "from": 192,
+        "to": 211
+      },
+      {
+        "word": "you",
+        "from": 216,
+        "to": 219
+      },
+      {
+        "word": "blink",
+        "from": 219,
+        "to": 232
+      },
+      {
+        "word": "and",
+        "from": 237,
+        "to": 241
+      },
+      {
+        "word": "see",
+        "from": 241,
+        "to": 247
+      },
+      {
+        "word": "her",
+        "from": 247,
+        "to": 250
+      },
+      {
+        "word": "reaction",
+        "from": 250,
+        "to": 268
+      },
+      {
+        "word": "i'm",
+        "from": 275,
+        "to": 279
+      },
+      {
+        "word": "sorry",
+        "from": 279,
+        "to": 293
+      },
+      {
+        "word": "your",
+        "from": 299,
+        "to": 303
+      },
+      {
+        "word": "heart",
+        "from": 303,
+        "to": 308
+      },
+      {
+        "word": "drops",
+        "from": 308,
+        "to": 321
+      },
+      {
+        "word": "now",
+        "from": 327,
+        "to": 331
+      },
+      {
+        "word": "you",
+        "from": 331,
+        "to": 334
+      },
+      {
+        "word": "have",
+        "from": 334,
+        "to": 338
+      },
+      {
+        "word": "a",
+        "from": 338,
+        "to": 339
+      },
+      {
+        "word": "choice",
+        "from": 339,
+        "to": 356
+      },
+      {
+        "word": "you",
+        "from": 363,
+        "to": 366
+      },
+      {
+        "word": "could",
+        "from": 366,
+        "to": 370
+      },
+      {
+        "word": "stay",
+        "from": 370,
+        "to": 377
+      },
+      {
+        "word": "silent",
+        "from": 377,
+        "to": 395
+      },
+      {
+        "word": "say",
+        "from": 395,
+        "to": 400
+      },
+      {
+        "word": "nothing",
+        "from": 400,
+        "to": 413
+      },
+      {
+        "word": "never",
+        "from": 413,
+        "to": 420
+      },
+      {
+        "word": "get",
+        "from": 420,
+        "to": 424
+      },
+      {
+        "word": "rejected",
+        "from": 424,
+        "to": 439
+      },
+      {
+        "word": "never",
+        "from": 444,
+        "to": 451
+      },
+      {
+        "word": "feel",
+        "from": 451,
+        "to": 458
+      },
+      {
+        "word": "the",
+        "from": 458,
+        "to": 460
+      },
+      {
+        "word": "pain",
+        "from": 460,
+        "to": 476
+      },
+      {
+        "word": "but",
+        "from": 484,
+        "to": 491
+      },
+      {
+        "word": "then",
+        "from": 491,
+        "to": 495
+      },
+      {
+        "word": "you",
+        "from": 495,
+        "to": 497
+      },
+      {
+        "word": "start",
+        "from": 497,
+        "to": 504
+      },
+      {
+        "word": "thinking",
+        "from": 504,
+        "to": 519
+      },
+      {
+        "word": "if",
+        "from": 526,
+        "to": 531
+      },
+      {
+        "word": "you",
+        "from": 531,
+        "to": 535
+      },
+      {
+        "word": "avoid",
+        "from": 535,
+        "to": 543
+      },
+      {
+        "word": "every",
+        "from": 543,
+        "to": 549
+      },
+      {
+        "word": "future",
+        "from": 549,
+        "to": 560
+      },
+      {
+        "word": "you",
+        "from": 560,
+        "to": 565
+      },
+      {
+        "word": "do",
+        "from": 565,
+        "to": 568
+      },
+      {
+        "word": "not",
+        "from": 568,
+        "to": 574
+      },
+      {
+        "word": "like",
+        "from": 574,
+        "to": 585
+      },
+      {
+        "word": "are",
+        "from": 612,
+        "to": 615
+      },
+      {
+        "word": "you",
+        "from": 615,
+        "to": 619
+      },
+      {
+        "word": "really",
+        "from": 619,
+        "to": 626
+      },
+      {
+        "word": "living",
+        "from": 626,
+        "to": 646
+      },
+      {
+        "word": "you",
+        "from": 646,
+        "to": 650
+      },
+      {
+        "word": "take",
+        "from": 650,
+        "to": 657
+      },
+      {
+        "word": "a",
+        "from": 657,
+        "to": 658
+      },
+      {
+        "word": "breath",
+        "from": 658,
+        "to": 678
+      },
+      {
+        "word": "and",
+        "from": 678,
+        "to": 683
+      },
+      {
+        "word": "say",
+        "from": 683,
+        "to": 692
+      },
+      {
+        "word": "it",
+        "from": 692,
+        "to": 695
+      },
+      {
+        "word": "anyway",
+        "from": 695,
+        "to": 710
+      },
+      {
+        "word": "i",
+        "from": 718,
+        "to": 721
+      },
+      {
+        "word": "like",
+        "from": 721,
+        "to": 728
+      },
+      {
+        "word": "you",
+        "from": 728,
+        "to": 733
+      },
+      {
+        "word": "she",
+        "from": 739,
+        "to": 744
+      },
+      {
+        "word": "pauses",
+        "from": 744,
+        "to": 761
+      },
+      {
+        "word": "then",
+        "from": 774,
+        "to": 781
+      },
+      {
+        "word": "i'm",
+        "from": 797,
+        "to": 801
+      },
+      {
+        "word": "sorry",
+        "from": 801,
+        "to": 813
+      },
+      {
+        "word": "i'm",
+        "from": 821,
+        "to": 826
+      },
+      {
+        "word": "just",
+        "from": 826,
+        "to": 831
+      },
+      {
+        "word": "not",
+        "from": 831,
+        "to": 836
+      },
+      {
+        "word": "ready",
+        "from": 836,
+        "to": 843
+      },
+      {
+        "word": "for",
+        "from": 843,
+        "to": 849
+      },
+      {
+        "word": "a",
+        "from": 849,
+        "to": 850
+      },
+      {
+        "word": "relationship",
+        "from": 850,
+        "to": 874
+      },
+      {
+        "word": "exactly",
+        "from": 881,
+        "to": 896
+      },
+      {
+        "word": "what",
+        "from": 896,
+        "to": 900
+      },
+      {
+        "word": "you",
+        "from": 900,
+        "to": 903
+      },
+      {
+        "word": "saw",
+        "from": 903,
+        "to": 916
+      },
+      {
+        "word": "but",
+        "from": 969,
+        "to": 974
+      },
+      {
+        "word": "this",
+        "from": 974,
+        "to": 983
+      },
+      {
+        "word": "time",
+        "from": 983,
+        "to": 994
+      },
+      {
+        "word": "you",
+        "from": 1060,
+        "to": 1062
+      },
+      {
+        "word": "smile",
+        "from": 1062,
+        "to": 1075
+      },
+      {
+        "word": "because",
+        "from": 1113,
+        "to": 1122
+      },
+      {
+        "word": "at",
+        "from": 1122,
+        "to": 1124
+      },
+      {
+        "word": "least",
+        "from": 1124,
+        "to": 1132
+      },
+      {
+        "word": "now",
+        "from": 1132,
+        "to": 1139
+      },
+      {
+        "word": "you",
+        "from": 1139,
+        "to": 1143
+      },
+      {
+        "word": "have",
+        "from": 1143,
+        "to": 1147
+      },
+      {
+        "word": "an",
+        "from": 1147,
+        "to": 1150
+      },
+      {
+        "word": "answer",
+        "from": 1150,
+        "to": 1166
+      },
+      {
+        "word": "some",
+        "from": 1166,
+        "to": 1174
+      },
+      {
+        "word": "futures",
+        "from": 1174,
+        "to": 1189
+      },
+      {
+        "word": "do",
+        "from": 1189,
+        "to": 1192
+      },
+      {
+        "word": "not",
+        "from": 1192,
+        "to": 1197
+      },
+      {
+        "word": "need",
+        "from": 1197,
+        "to": 1203
+      },
+      {
+        "word": "to",
+        "from": 1203,
+        "to": 1205
+      },
+      {
+        "word": "be",
+        "from": 1205,
+        "to": 1208
+      },
+      {
+        "word": "changed",
+        "from": 1208,
+        "to": 1230
+      },
+      {
+        "word": "sometimes",
+        "from": 1230,
+        "to": 1247
+      },
+      {
+        "word": "you",
+        "from": 1247,
+        "to": 1249
+      },
+      {
+        "word": "just",
+        "from": 1249,
+        "to": 1255
+      },
+      {
+        "word": "need",
+        "from": 1255,
+        "to": 1259
+      },
+      {
+        "word": "enough",
+        "from": 1259,
+        "to": 1267
+      },
+      {
+        "word": "courage",
+        "from": 1267,
+        "to": 1278
+      },
+      {
+        "word": "to",
+        "from": 1278,
+        "to": 1280
+      },
+      {
+        "word": "face",
+        "from": 1280,
+        "to": 1289
+      },
+      {
+        "word": "them",
+        "from": 1289,
+        "to": 1302
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "The call you almost missed",
+    "label": "THE PHONE CALL",
+    "from": 7203,
+    "duration": 2096,
+    "text": "Then one day, those 10 seconds really change you. Your phone starts ringing. It is your mom. You are busy. You think: \"I'll call her back later.\" Your finger moves toward the decline button. But out of habit, you look 10 seconds into the future. You see yourself rejecting the call. Walking forward. And behind you, an elderly man steps into the road. A truck is coming straight toward him. You return to the present. You do not think. You run. Grab the man. Pull him backward. The truck flies past. Missing both of you by inches. You are breathing hard. The man does not even understand what just happened. You just saved someone's life. Then, your phone vibrates again. Your mom is still calling. You answer. \"Mom?\" There is a brief silence. Then she simply asks: \"Did you eat yet?\" That is it. No emergency. No terrible news. No dramatic final words. Just an ordinary question. The kind of question you might ignore every day. You laugh. \"Yeah, Mom. I already ate.\" You talk for a few minutes. Nothing dramatic happens. But suddenly, you realize something. You spent the entire day staring 10 seconds into the future, and nearly ignored someone who was with you, right now.",
+    "originalText": "Then one day\u2026 those 10 seconds really change you. Your phone starts ringing. It is your mom. You are busy. You think: \u201cI\u2019ll call her back later.\u201d Your finger moves toward the decline button. But out of habit\u2026 you look 10 seconds into the future. You see yourself rejecting the call. Walking forward. And behind you\u2026 an elderly man steps into the road. A truck is coming straight toward him. You return to the present. You do not think. You run. Grab the man. Pull him backward. The truck flies past. Missing both of you by inches. You are breathing hard. The man does not even understand what just happened. You just saved someone\u2019s life. Then\u2026 your phone vibrates again. Your mom is still calling. You answer. \u201cMom?\u201d There is a brief silence. Then she simply asks: \u201cDid you eat yet?\u201d That is it. No emergency. No terrible news. No dramatic final words. Just an ordinary question. The kind of question you might ignore every day. You laugh. \u201cYeah, Mom. I already ate.\u201d You talk for a few minutes. Nothing dramatic happens. But suddenly\u2026 you realize something. You spent the entire day staring 10 seconds into the future\u2026 and nearly ignored someone who was with you\u2026 right now.",
+    "captions": [
+      {
+        "text": "Then one day, those 10 seconds really change you. Your phone starts ringing.",
+        "from": 6,
+        "duration": 121
+      },
+      {
+        "text": "It is your mom. You are busy. You think: \"I'll call her",
+        "from": 132,
+        "duration": 84
+      },
+      {
+        "text": "back later.\" Your finger moves toward the decline button. But out of habit,",
+        "from": 216,
+        "duration": 138
+      },
+      {
+        "text": "you look 10 seconds into the future. You see yourself rejecting the",
+        "from": 354,
+        "duration": 102
+      },
+      {
+        "text": "call. Walking forward. And behind you, an elderly man steps into the road.",
+        "from": 456,
+        "duration": 141
+      },
+      {
+        "text": "A truck is coming straight toward him. You return to the",
+        "from": 603,
+        "duration": 77
+      },
+      {
+        "text": "present. You do not think. You run. Grab the man. Pull him",
+        "from": 680,
+        "duration": 101
+      },
+      {
+        "text": "backward. The truck flies past. Missing both of you by inches.",
+        "from": 781,
+        "duration": 113
+      },
+      {
+        "text": "You are breathing hard. The man does not even understand what just",
+        "from": 900,
+        "duration": 103
+      },
+      {
+        "text": "happened. You just saved someone's life. Then, your phone vibrates again.",
+        "from": 1003,
+        "duration": 123
+      },
+      {
+        "text": "Your mom is still calling. You answer. \"Mom?\" There is a brief",
+        "from": 1138,
+        "duration": 142
+      },
+      {
+        "text": "silence. Then she simply asks: \"Did you eat yet?\" That is it.",
+        "from": 1280,
+        "duration": 143
+      },
+      {
+        "text": "No emergency. No terrible news. No dramatic final words. Just an",
+        "from": 1423,
+        "duration": 135
+      },
+      {
+        "text": "ordinary question. The kind of question you might ignore every day. You",
+        "from": 1558,
+        "duration": 97
+      },
+      {
+        "text": "laugh. \"Yeah, Mom. I already ate.\" You talk for a few minutes.",
+        "from": 1655,
+        "duration": 116
+      },
+      {
+        "text": "Nothing dramatic happens. But suddenly, you realize something. You spent",
+        "from": 1779,
+        "duration": 127
+      },
+      {
+        "text": "the entire day staring 10 seconds into the future,",
+        "from": 1906,
+        "duration": 78
+      },
+      {
+        "text": "and nearly ignored someone who was with you, right now.",
+        "from": 1988,
+        "duration": 93
+      }
+    ],
+    "speechRate": 1.0,
+    "cadence": "continuous-paragraphs",
+    "events": {
+      "ring": 91,
+      "elder": 530,
+      "future": 354,
+      "present": 660,
+      "run": 729,
+      "grab": 749,
+      "pull": 768,
+      "truck": 795,
+      "answer": 1179,
+      "momQuestion": 1376,
+      "momReply": 1675
+    },
+    "words": [
+      {
+        "word": "then",
+        "from": 6,
+        "to": 12
+      },
+      {
+        "word": "one",
+        "from": 12,
+        "to": 20
+      },
+      {
+        "word": "day",
+        "from": 20,
+        "to": 34
+      },
+      {
+        "word": "those",
+        "from": 34,
+        "to": 40
+      },
+      {
+        "word": "ten",
+        "from": 40,
+        "to": 47
+      },
+      {
+        "word": "seconds",
+        "from": 47,
+        "to": 60
+      },
+      {
+        "word": "really",
+        "from": 60,
+        "to": 68
+      },
+      {
+        "word": "change",
+        "from": 68,
+        "to": 79
+      },
+      {
+        "word": "you",
+        "from": 79,
+        "to": 84
+      },
+      {
+        "word": "your",
+        "from": 91,
+        "to": 94
+      },
+      {
+        "word": "phone",
+        "from": 94,
+        "to": 102
+      },
+      {
+        "word": "starts",
+        "from": 102,
+        "to": 110
+      },
+      {
+        "word": "ringing",
+        "from": 110,
+        "to": 124
+      },
+      {
+        "word": "it",
+        "from": 132,
+        "to": 136
+      },
+      {
+        "word": "is",
+        "from": 136,
+        "to": 140
+      },
+      {
+        "word": "your",
+        "from": 140,
+        "to": 142
+      },
+      {
+        "word": "mom",
+        "from": 142,
+        "to": 152
+      },
+      {
+        "word": "you",
+        "from": 161,
+        "to": 165
+      },
+      {
+        "word": "are",
+        "from": 165,
+        "to": 168
+      },
+      {
+        "word": "busy",
+        "from": 168,
+        "to": 184
+      },
+      {
+        "word": "you",
+        "from": 184,
+        "to": 188
+      },
+      {
+        "word": "think",
+        "from": 188,
+        "to": 203
+      },
+      {
+        "word": "i'll",
+        "from": 203,
+        "to": 206
+      },
+      {
+        "word": "call",
+        "from": 206,
+        "to": 212
+      },
+      {
+        "word": "her",
+        "from": 212,
+        "to": 216
+      },
+      {
+        "word": "back",
+        "from": 216,
+        "to": 225
+      },
+      {
+        "word": "later",
+        "from": 225,
+        "to": 236
+      },
+      {
+        "word": "your",
+        "from": 260,
+        "to": 264
+      },
+      {
+        "word": "finger",
+        "from": 264,
+        "to": 273
+      },
+      {
+        "word": "moves",
+        "from": 273,
+        "to": 283
+      },
+      {
+        "word": "toward",
+        "from": 283,
+        "to": 292
+      },
+      {
+        "word": "the",
+        "from": 292,
+        "to": 294
+      },
+      {
+        "word": "decline",
+        "from": 294,
+        "to": 307
+      },
+      {
+        "word": "button",
+        "from": 307,
+        "to": 318
+      },
+      {
+        "word": "but",
+        "from": 318,
+        "to": 329
+      },
+      {
+        "word": "out",
+        "from": 329,
+        "to": 335
+      },
+      {
+        "word": "of",
+        "from": 335,
+        "to": 338
+      },
+      {
+        "word": "habit",
+        "from": 338,
+        "to": 354
+      },
+      {
+        "word": "you",
+        "from": 354,
+        "to": 358
+      },
+      {
+        "word": "look",
+        "from": 358,
+        "to": 363
+      },
+      {
+        "word": "ten",
+        "from": 363,
+        "to": 372
+      },
+      {
+        "word": "seconds",
+        "from": 372,
+        "to": 390
+      },
+      {
+        "word": "into",
+        "from": 390,
+        "to": 396
+      },
+      {
+        "word": "the",
+        "from": 396,
+        "to": 399
+      },
+      {
+        "word": "future",
+        "from": 399,
+        "to": 419
+      },
+      {
+        "word": "you",
+        "from": 419,
+        "to": 421
+      },
+      {
+        "word": "see",
+        "from": 421,
+        "to": 426
+      },
+      {
+        "word": "yourself",
+        "from": 426,
+        "to": 439
+      },
+      {
+        "word": "rejecting",
+        "from": 439,
+        "to": 454
+      },
+      {
+        "word": "the",
+        "from": 454,
+        "to": 456
+      },
+      {
+        "word": "call",
+        "from": 456,
+        "to": 473
+      },
+      {
+        "word": "walking",
+        "from": 473,
+        "to": 484
+      },
+      {
+        "word": "forward",
+        "from": 484,
+        "to": 506
+      },
+      {
+        "word": "and",
+        "from": 506,
+        "to": 510
+      },
+      {
+        "word": "behind",
+        "from": 510,
+        "to": 520
+      },
+      {
+        "word": "you",
+        "from": 520,
+        "to": 530
+      },
+      {
+        "word": "an",
+        "from": 530,
+        "to": 535
+      },
+      {
+        "word": "elderly",
+        "from": 535,
+        "to": 548
+      },
+      {
+        "word": "man",
+        "from": 548,
+        "to": 558
+      },
+      {
+        "word": "steps",
+        "from": 558,
+        "to": 570
+      },
+      {
+        "word": "into",
+        "from": 570,
+        "to": 575
+      },
+      {
+        "word": "the",
+        "from": 575,
+        "to": 578
+      },
+      {
+        "word": "road",
+        "from": 578,
+        "to": 594
+      },
+      {
+        "word": "a",
+        "from": 603,
+        "to": 606
+      },
+      {
+        "word": "truck",
+        "from": 606,
+        "to": 616
+      },
+      {
+        "word": "is",
+        "from": 616,
+        "to": 619
+      },
+      {
+        "word": "coming",
+        "from": 619,
+        "to": 626
+      },
+      {
+        "word": "straight",
+        "from": 626,
+        "to": 636
+      },
+      {
+        "word": "toward",
+        "from": 636,
+        "to": 643
+      },
+      {
+        "word": "him",
+        "from": 643,
+        "to": 651
+      },
+      {
+        "word": "you",
+        "from": 660,
+        "to": 663
+      },
+      {
+        "word": "return",
+        "from": 663,
+        "to": 674
+      },
+      {
+        "word": "to",
+        "from": 674,
+        "to": 677
+      },
+      {
+        "word": "the",
+        "from": 677,
+        "to": 680
+      },
+      {
+        "word": "present",
+        "from": 680,
+        "to": 698
+      },
+      {
+        "word": "you",
+        "from": 698,
+        "to": 702
+      },
+      {
+        "word": "do",
+        "from": 702,
+        "to": 706
+      },
+      {
+        "word": "not",
+        "from": 706,
+        "to": 713
+      },
+      {
+        "word": "think",
+        "from": 713,
+        "to": 729
+      },
+      {
+        "word": "you",
+        "from": 729,
+        "to": 734
+      },
+      {
+        "word": "run",
+        "from": 734,
+        "to": 742
+      },
+      {
+        "word": "grab",
+        "from": 749,
+        "to": 757
+      },
+      {
+        "word": "the",
+        "from": 757,
+        "to": 759
+      },
+      {
+        "word": "man",
+        "from": 759,
+        "to": 768
+      },
+      {
+        "word": "pull",
+        "from": 768,
+        "to": 779
+      },
+      {
+        "word": "him",
+        "from": 779,
+        "to": 781
+      },
+      {
+        "word": "backward",
+        "from": 781,
+        "to": 795
+      },
+      {
+        "word": "the",
+        "from": 795,
+        "to": 803
+      },
+      {
+        "word": "truck",
+        "from": 803,
+        "to": 812
+      },
+      {
+        "word": "flies",
+        "from": 812,
+        "to": 822
+      },
+      {
+        "word": "past",
+        "from": 822,
+        "to": 842
+      },
+      {
+        "word": "missing",
+        "from": 842,
+        "to": 851
+      },
+      {
+        "word": "both",
+        "from": 851,
+        "to": 858
+      },
+      {
+        "word": "of",
+        "from": 858,
+        "to": 861
+      },
+      {
+        "word": "you",
+        "from": 861,
+        "to": 866
+      },
+      {
+        "word": "by",
+        "from": 866,
+        "to": 872
+      },
+      {
+        "word": "inches",
+        "from": 872,
+        "to": 891
+      },
+      {
+        "word": "you",
+        "from": 900,
+        "to": 904
+      },
+      {
+        "word": "are",
+        "from": 904,
+        "to": 907
+      },
+      {
+        "word": "breathing",
+        "from": 907,
+        "to": 919
+      },
+      {
+        "word": "hard",
+        "from": 919,
+        "to": 932
+      },
+      {
+        "word": "the",
+        "from": 948,
+        "to": 950
+      },
+      {
+        "word": "man",
+        "from": 950,
+        "to": 957
+      },
+      {
+        "word": "does",
+        "from": 957,
+        "to": 962
+      },
+      {
+        "word": "not",
+        "from": 962,
+        "to": 967
+      },
+      {
+        "word": "even",
+        "from": 967,
+        "to": 973
+      },
+      {
+        "word": "understand",
+        "from": 973,
+        "to": 992
+      },
+      {
+        "word": "what",
+        "from": 992,
+        "to": 996
+      },
+      {
+        "word": "just",
+        "from": 996,
+        "to": 1003
+      },
+      {
+        "word": "happened",
+        "from": 1003,
+        "to": 1025
+      },
+      {
+        "word": "you",
+        "from": 1025,
+        "to": 1029
+      },
+      {
+        "word": "just",
+        "from": 1029,
+        "to": 1035
+      },
+      {
+        "word": "saved",
+        "from": 1035,
+        "to": 1043
+      },
+      {
+        "word": "someone's",
+        "from": 1043,
+        "to": 1053
+      },
+      {
+        "word": "life",
+        "from": 1053,
+        "to": 1064
+      },
+      {
+        "word": "then",
+        "from": 1064,
+        "to": 1082
+      },
+      {
+        "word": "your",
+        "from": 1082,
+        "to": 1085
+      },
+      {
+        "word": "phone",
+        "from": 1085,
+        "to": 1095
+      },
+      {
+        "word": "vibrates",
+        "from": 1095,
+        "to": 1109
+      },
+      {
+        "word": "again",
+        "from": 1109,
+        "to": 1123
+      },
+      {
+        "word": "your",
+        "from": 1138,
+        "to": 1143
+      },
+      {
+        "word": "mom",
+        "from": 1143,
+        "to": 1151
+      },
+      {
+        "word": "is",
+        "from": 1151,
+        "to": 1153
+      },
+      {
+        "word": "still",
+        "from": 1153,
+        "to": 1160
+      },
+      {
+        "word": "calling",
+        "from": 1160,
+        "to": 1179
+      },
+      {
+        "word": "you",
+        "from": 1179,
+        "to": 1185
+      },
+      {
+        "word": "answer",
+        "from": 1185,
+        "to": 1198
+      },
+      {
+        "word": "mom",
+        "from": 1204,
+        "to": 1215
+      },
+      {
+        "word": "there",
+        "from": 1266,
+        "to": 1270
+      },
+      {
+        "word": "is",
+        "from": 1270,
+        "to": 1273
+      },
+      {
+        "word": "a",
+        "from": 1273,
+        "to": 1273
+      },
+      {
+        "word": "brief",
+        "from": 1273,
+        "to": 1280
+      },
+      {
+        "word": "silence",
+        "from": 1280,
+        "to": 1299
+      },
+      {
+        "word": "then",
+        "from": 1299,
+        "to": 1309
+      },
+      {
+        "word": "she",
+        "from": 1309,
+        "to": 1313
+      },
+      {
+        "word": "simply",
+        "from": 1313,
+        "to": 1324
+      },
+      {
+        "word": "asks",
+        "from": 1324,
+        "to": 1341
+      },
+      {
+        "word": "did",
+        "from": 1376,
+        "to": 1380
+      },
+      {
+        "word": "you",
+        "from": 1380,
+        "to": 1384
+      },
+      {
+        "word": "eat",
+        "from": 1384,
+        "to": 1391
+      },
+      {
+        "word": "yet",
+        "from": 1391,
+        "to": 1405
+      },
+      {
+        "word": "that",
+        "from": 1405,
+        "to": 1410
+      },
+      {
+        "word": "is",
+        "from": 1410,
+        "to": 1415
+      },
+      {
+        "word": "it",
+        "from": 1415,
+        "to": 1423
+      },
+      {
+        "word": "no",
+        "from": 1423,
+        "to": 1428
+      },
+      {
+        "word": "emergency",
+        "from": 1428,
+        "to": 1442
+      },
+      {
+        "word": "no",
+        "from": 1442,
+        "to": 1447
+      },
+      {
+        "word": "terrible",
+        "from": 1447,
+        "to": 1462
+      },
+      {
+        "word": "news",
+        "from": 1462,
+        "to": 1477
+      },
+      {
+        "word": "no",
+        "from": 1483,
+        "to": 1487
+      },
+      {
+        "word": "dramatic",
+        "from": 1487,
+        "to": 1501
+      },
+      {
+        "word": "final",
+        "from": 1501,
+        "to": 1511
+      },
+      {
+        "word": "words",
+        "from": 1511,
+        "to": 1528
+      },
+      {
+        "word": "just",
+        "from": 1546,
+        "to": 1555
+      },
+      {
+        "word": "an",
+        "from": 1555,
+        "to": 1558
+      },
+      {
+        "word": "ordinary",
+        "from": 1558,
+        "to": 1570
+      },
+      {
+        "word": "question",
+        "from": 1570,
+        "to": 1584
+      },
+      {
+        "word": "the",
+        "from": 1590,
+        "to": 1593
+      },
+      {
+        "word": "kind",
+        "from": 1593,
+        "to": 1599
+      },
+      {
+        "word": "of",
+        "from": 1599,
+        "to": 1601
+      },
+      {
+        "word": "question",
+        "from": 1601,
+        "to": 1612
+      },
+      {
+        "word": "you",
+        "from": 1612,
+        "to": 1614
+      },
+      {
+        "word": "might",
+        "from": 1614,
+        "to": 1619
+      },
+      {
+        "word": "ignore",
+        "from": 1619,
+        "to": 1629
+      },
+      {
+        "word": "every",
+        "from": 1629,
+        "to": 1635
+      },
+      {
+        "word": "day",
+        "from": 1635,
+        "to": 1643
+      },
+      {
+        "word": "you",
+        "from": 1651,
+        "to": 1655
+      },
+      {
+        "word": "laugh",
+        "from": 1655,
+        "to": 1668
+      },
+      {
+        "word": "yeah",
+        "from": 1675,
+        "to": 1679
+      },
+      {
+        "word": "mom",
+        "from": 1679,
+        "to": 1696
+      },
+      {
+        "word": "i",
+        "from": 1696,
+        "to": 1702
+      },
+      {
+        "word": "already",
+        "from": 1702,
+        "to": 1712
+      },
+      {
+        "word": "ate",
+        "from": 1712,
+        "to": 1721
+      },
+      {
+        "word": "you",
+        "from": 1729,
+        "to": 1732
+      },
+      {
+        "word": "talk",
+        "from": 1732,
+        "to": 1739
+      },
+      {
+        "word": "for",
+        "from": 1739,
+        "to": 1744
+      },
+      {
+        "word": "a",
+        "from": 1744,
+        "to": 1745
+      },
+      {
+        "word": "few",
+        "from": 1745,
+        "to": 1751
+      },
+      {
+        "word": "minutes",
+        "from": 1751,
+        "to": 1768
+      },
+      {
+        "word": "nothing",
+        "from": 1779,
+        "to": 1790
+      },
+      {
+        "word": "dramatic",
+        "from": 1790,
+        "to": 1802
+      },
+      {
+        "word": "happens",
+        "from": 1802,
+        "to": 1817
+      },
+      {
+        "word": "but",
+        "from": 1828,
+        "to": 1832
+      },
+      {
+        "word": "suddenly",
+        "from": 1832,
+        "to": 1847
+      },
+      {
+        "word": "you",
+        "from": 1853,
+        "to": 1856
+      },
+      {
+        "word": "realize",
+        "from": 1856,
+        "to": 1868
+      },
+      {
+        "word": "something",
+        "from": 1868,
+        "to": 1883
+      },
+      {
+        "word": "you",
+        "from": 1896,
+        "to": 1899
+      },
+      {
+        "word": "spent",
+        "from": 1899,
+        "to": 1906
+      },
+      {
+        "word": "the",
+        "from": 1906,
+        "to": 1909
+      },
+      {
+        "word": "entire",
+        "from": 1909,
+        "to": 1922
+      },
+      {
+        "word": "day",
+        "from": 1922,
+        "to": 1927
+      },
+      {
+        "word": "staring",
+        "from": 1927,
+        "to": 1939
+      },
+      {
+        "word": "ten",
+        "from": 1939,
+        "to": 1948
+      },
+      {
+        "word": "seconds",
+        "from": 1948,
+        "to": 1961
+      },
+      {
+        "word": "into",
+        "from": 1961,
+        "to": 1965
+      },
+      {
+        "word": "the",
+        "from": 1965,
+        "to": 1968
+      },
+      {
+        "word": "future",
+        "from": 1968,
+        "to": 1981
+      },
+      {
+        "word": "and",
+        "from": 1988,
+        "to": 1994
+      },
+      {
+        "word": "nearly",
+        "from": 1994,
+        "to": 2005
+      },
+      {
+        "word": "ignored",
+        "from": 2005,
+        "to": 2018
+      },
+      {
+        "word": "someone",
+        "from": 2018,
+        "to": 2028
+      },
+      {
+        "word": "who",
+        "from": 2028,
+        "to": 2032
+      },
+      {
+        "word": "was",
+        "from": 2032,
+        "to": 2036
+      },
+      {
+        "word": "with",
+        "from": 2036,
+        "to": 2042
+      },
+      {
+        "word": "you",
+        "from": 2042,
+        "to": 2048
+      },
+      {
+        "word": "right",
+        "from": 2055,
+        "to": 2063
+      },
+      {
+        "word": "now",
+        "from": 2063,
+        "to": 2078
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "You still cannot see everything",
+    "label": "THE TWIST",
+    "from": 9299,
+    "duration": 622,
+    "text": "You thought the greatest part of your power, was knowing what would happen next. But it was not. Because even if you can see 10 seconds ahead, you still do not know what happens in 10 minutes. Tomorrow. Next year. Or when the last time you see someone, will actually be. And maybe, that is exactly what gives life its meaning.",
+    "originalText": "You thought the greatest part of your power\u2026 was knowing what would happen next. But it was not. Because even if you can see 10 seconds ahead\u2026 you still do not know what happens in 10 minutes. Tomorrow. Next year. Or when the last time you see someone\u2026 will actually be. And maybe\u2026 that is exactly what gives life its meaning.",
+    "captions": [
+      {
+        "text": "You thought the greatest part of your power, was knowing what would",
+        "from": 10,
+        "duration": 85
+      },
+      {
+        "text": "happen next. But it was not. Because even if you can see",
+        "from": 95,
+        "duration": 124
+      },
+      {
+        "text": "10 seconds ahead, you still do not know what happens in 10 minutes.",
+        "from": 219,
+        "duration": 137
+      },
+      {
+        "text": "Tomorrow. Next year. Or when the last time you see someone, will",
+        "from": 356,
+        "duration": 126
+      },
+      {
+        "text": "actually be. And maybe, that is exactly what gives life its meaning.",
+        "from": 482,
+        "duration": 125
+      }
+    ],
+    "speechRate": 1.0,
+    "cadence": "continuous-paragraphs",
+    "words": [
+      {
+        "word": "you",
+        "from": 10,
+        "to": 16
+      },
+      {
+        "word": "thought",
+        "from": 16,
+        "to": 23
+      },
+      {
+        "word": "the",
+        "from": 23,
+        "to": 25
+      },
+      {
+        "word": "greatest",
+        "from": 25,
+        "to": 36
+      },
+      {
+        "word": "part",
+        "from": 36,
+        "to": 43
+      },
+      {
+        "word": "of",
+        "from": 43,
+        "to": 46
+      },
+      {
+        "word": "your",
+        "from": 46,
+        "to": 49
+      },
+      {
+        "word": "power",
+        "from": 49,
+        "to": 63
+      },
+      {
+        "word": "was",
+        "from": 71,
+        "to": 77
+      },
+      {
+        "word": "knowing",
+        "from": 77,
+        "to": 88
+      },
+      {
+        "word": "what",
+        "from": 88,
+        "to": 92
+      },
+      {
+        "word": "would",
+        "from": 92,
+        "to": 95
+      },
+      {
+        "word": "happen",
+        "from": 95,
+        "to": 106
+      },
+      {
+        "word": "next",
+        "from": 106,
+        "to": 122
+      },
+      {
+        "word": "but",
+        "from": 122,
+        "to": 131
+      },
+      {
+        "word": "it",
+        "from": 131,
+        "to": 133
+      },
+      {
+        "word": "was",
+        "from": 133,
+        "to": 141
+      },
+      {
+        "word": "not",
+        "from": 141,
+        "to": 165
+      },
+      {
+        "word": "because",
+        "from": 165,
+        "to": 186
+      },
+      {
+        "word": "even",
+        "from": 186,
+        "to": 196
+      },
+      {
+        "word": "if",
+        "from": 196,
+        "to": 200
+      },
+      {
+        "word": "you",
+        "from": 200,
+        "to": 204
+      },
+      {
+        "word": "can",
+        "from": 204,
+        "to": 210
+      },
+      {
+        "word": "see",
+        "from": 210,
+        "to": 219
+      },
+      {
+        "word": "ten",
+        "from": 219,
+        "to": 227
+      },
+      {
+        "word": "seconds",
+        "from": 227,
+        "to": 242
+      },
+      {
+        "word": "ahead",
+        "from": 242,
+        "to": 258
+      },
+      {
+        "word": "you",
+        "from": 268,
+        "to": 272
+      },
+      {
+        "word": "still",
+        "from": 272,
+        "to": 284
+      },
+      {
+        "word": "do",
+        "from": 284,
+        "to": 291
+      },
+      {
+        "word": "not",
+        "from": 291,
+        "to": 298
+      },
+      {
+        "word": "know",
+        "from": 298,
+        "to": 304
+      },
+      {
+        "word": "what",
+        "from": 304,
+        "to": 309
+      },
+      {
+        "word": "happens",
+        "from": 309,
+        "to": 325
+      },
+      {
+        "word": "in",
+        "from": 325,
+        "to": 328
+      },
+      {
+        "word": "ten",
+        "from": 328,
+        "to": 335
+      },
+      {
+        "word": "minutes",
+        "from": 335,
+        "to": 353
+      },
+      {
+        "word": "tomorrow",
+        "from": 356,
+        "to": 379
+      },
+      {
+        "word": "next",
+        "from": 379,
+        "to": 392
+      },
+      {
+        "word": "year",
+        "from": 392,
+        "to": 404
+      },
+      {
+        "word": "or",
+        "from": 411,
+        "to": 414
+      },
+      {
+        "word": "when",
+        "from": 414,
+        "to": 422
+      },
+      {
+        "word": "the",
+        "from": 422,
+        "to": 424
+      },
+      {
+        "word": "last",
+        "from": 424,
+        "to": 436
+      },
+      {
+        "word": "time",
+        "from": 436,
+        "to": 445
+      },
+      {
+        "word": "you",
+        "from": 445,
+        "to": 448
+      },
+      {
+        "word": "see",
+        "from": 448,
+        "to": 455
+      },
+      {
+        "word": "someone",
+        "from": 455,
+        "to": 471
+      },
+      {
+        "word": "will",
+        "from": 477,
+        "to": 482
+      },
+      {
+        "word": "actually",
+        "from": 482,
+        "to": 497
+      },
+      {
+        "word": "be",
+        "from": 497,
+        "to": 510
+      },
+      {
+        "word": "and",
+        "from": 510,
+        "to": 520
+      },
+      {
+        "word": "maybe",
+        "from": 520,
+        "to": 534
+      },
+      {
+        "word": "that",
+        "from": 534,
+        "to": 543
+      },
+      {
+        "word": "is",
+        "from": 543,
+        "to": 547
+      },
+      {
+        "word": "exactly",
+        "from": 547,
+        "to": 561
+      },
+      {
+        "word": "what",
+        "from": 561,
+        "to": 568
+      },
+      {
+        "word": "gives",
+        "from": 568,
+        "to": 576
+      },
+      {
+        "word": "life",
+        "from": 576,
+        "to": 583
+      },
+      {
+        "word": "its",
+        "from": 583,
+        "to": 588
+      },
+      {
+        "word": "meaning",
+        "from": 588,
+        "to": 604
+      }
+    ],
+    "events": {
+      "minutes": 325,
+      "tomorrow": 356,
+      "year": 379
+    }
+  },
+  {
+    "id": 11,
+    "title": "The ten seconds you have now",
+    "label": "RIGHT NOW",
+    "from": 9921,
+    "duration": 1312,
+    "text": "Of course, seeing 10 seconds into the future is only a thought experiment. It is not something we can actually do. In real life, there is no rewind button. No warning screen. No countdown telling us that an important moment is about to happen. But maybe, we do not need one. You can still look before crossing the street. You can still say what you really feel. You can call your parents. Apologize to someone. Thank someone. Hold someone you love for a little longer. And sometimes, small decisions like those are enough to change the future. You do not need to see 10 seconds ahead to live a better life. You just need to stop wasting, the 10 seconds you have right now. \"The future can wait. This moment can't.\" If you really could see 10 seconds into the future, what would you use it for?",
+    "originalText": "Of course\u2026 seeing 10 seconds into the future is only a thought experiment. It is not something we can actually do. In real life\u2026 there is no rewind button. No warning screen. No countdown telling us that an important moment is about to happen. But maybe\u2026 we do not need one. You can still look before crossing the street. You can still say what you really feel. You can call your parents. Apologize to someone. Thank someone. Hold someone you love for a little longer. And sometimes\u2026 small decisions like those are enough to change the future. You do not need to see 10 seconds ahead to live a better life. You just need to stop wasting\u2026 the 10 seconds you have right now. \u201cThe future can wait. This moment can\u2019t.\u201d If you really could see 10 seconds into the future\u2026 what would you use it for?",
+    "captions": [
+      {
+        "text": "Of course, seeing 10 seconds into the future is only a thought",
+        "from": 8,
+        "duration": 82
+      },
+      {
+        "text": "experiment. It is not something we can actually do. In real life,",
+        "from": 90,
+        "duration": 117
+      },
+      {
+        "text": "there is no rewind button. No warning screen. No countdown telling",
+        "from": 207,
+        "duration": 106
+      },
+      {
+        "text": "us that an important moment is about to happen. But maybe, we",
+        "from": 313,
+        "duration": 96
+      },
+      {
+        "text": "do not need one. You can still look before crossing the street.",
+        "from": 409,
+        "duration": 99
+      },
+      {
+        "text": "You can still say what you really feel. You can call your parents.",
+        "from": 515,
+        "duration": 90
+      },
+      {
+        "text": "Apologize to someone. Thank someone. Hold someone you love for a little longer.",
+        "from": 606,
+        "duration": 120
+      },
+      {
+        "text": "And sometimes, small decisions like those are enough to change the future. You",
+        "from": 729,
+        "duration": 128
+      },
+      {
+        "text": "do not need to see 10 seconds ahead to live a better life.",
+        "from": 857,
+        "duration": 93
+      },
+      {
+        "text": "You just need to stop wasting, the 10 seconds you have right now.",
+        "from": 950,
+        "duration": 94
+      },
+      {
+        "text": "\"The future can wait. This moment can't.\" If you really could see",
+        "from": 1053,
+        "duration": 113
+      },
+      {
+        "text": "10 seconds into the future, what would you use it for?",
+        "from": 1166,
+        "duration": 81
+      }
+    ],
+    "speechRate": 1.0,
+    "cadence": "continuous-paragraphs",
+    "words": [
+      {
+        "word": "of",
+        "from": 8,
+        "to": 12
+      },
+      {
+        "word": "course",
+        "from": 12,
+        "to": 21
+      },
+      {
+        "word": "seeing",
+        "from": 21,
+        "to": 32
+      },
+      {
+        "word": "ten",
+        "from": 32,
+        "to": 39
+      },
+      {
+        "word": "seconds",
+        "from": 39,
+        "to": 51
+      },
+      {
+        "word": "into",
+        "from": 51,
+        "to": 56
+      },
+      {
+        "word": "the",
+        "from": 56,
+        "to": 58
+      },
+      {
+        "word": "future",
+        "from": 58,
+        "to": 70
+      },
+      {
+        "word": "is",
+        "from": 70,
+        "to": 74
+      },
+      {
+        "word": "only",
+        "from": 74,
+        "to": 80
+      },
+      {
+        "word": "a",
+        "from": 80,
+        "to": 81
+      },
+      {
+        "word": "thought",
+        "from": 81,
+        "to": 90
+      },
+      {
+        "word": "experiment",
+        "from": 90,
+        "to": 113
+      },
+      {
+        "word": "it",
+        "from": 113,
+        "to": 117
+      },
+      {
+        "word": "is",
+        "from": 117,
+        "to": 122
+      },
+      {
+        "word": "not",
+        "from": 122,
+        "to": 131
+      },
+      {
+        "word": "something",
+        "from": 131,
+        "to": 142
+      },
+      {
+        "word": "we",
+        "from": 142,
+        "to": 146
+      },
+      {
+        "word": "can",
+        "from": 146,
+        "to": 150
+      },
+      {
+        "word": "actually",
+        "from": 150,
+        "to": 166
+      },
+      {
+        "word": "do",
+        "from": 166,
+        "to": 177
+      },
+      {
+        "word": "in",
+        "from": 183,
+        "to": 187
+      },
+      {
+        "word": "real",
+        "from": 187,
+        "to": 196
+      },
+      {
+        "word": "life",
+        "from": 196,
+        "to": 207
+      },
+      {
+        "word": "there",
+        "from": 207,
+        "to": 213
+      },
+      {
+        "word": "is",
+        "from": 213,
+        "to": 216
+      },
+      {
+        "word": "no",
+        "from": 216,
+        "to": 220
+      },
+      {
+        "word": "rewind",
+        "from": 220,
+        "to": 235
+      },
+      {
+        "word": "button",
+        "from": 235,
+        "to": 246
+      },
+      {
+        "word": "no",
+        "from": 253,
+        "to": 258
+      },
+      {
+        "word": "warning",
+        "from": 258,
+        "to": 267
+      },
+      {
+        "word": "screen",
+        "from": 267,
+        "to": 284
+      },
+      {
+        "word": "no",
+        "from": 284,
+        "to": 289
+      },
+      {
+        "word": "countdown",
+        "from": 289,
+        "to": 304
+      },
+      {
+        "word": "telling",
+        "from": 304,
+        "to": 313
+      },
+      {
+        "word": "us",
+        "from": 313,
+        "to": 317
+      },
+      {
+        "word": "that",
+        "from": 317,
+        "to": 321
+      },
+      {
+        "word": "an",
+        "from": 321,
+        "to": 323
+      },
+      {
+        "word": "important",
+        "from": 323,
+        "to": 338
+      },
+      {
+        "word": "moment",
+        "from": 338,
+        "to": 350
+      },
+      {
+        "word": "is",
+        "from": 350,
+        "to": 354
+      },
+      {
+        "word": "about",
+        "from": 354,
+        "to": 363
+      },
+      {
+        "word": "to",
+        "from": 363,
+        "to": 365
+      },
+      {
+        "word": "happen",
+        "from": 365,
+        "to": 383
+      },
+      {
+        "word": "but",
+        "from": 383,
+        "to": 390
+      },
+      {
+        "word": "maybe",
+        "from": 390,
+        "to": 405
+      },
+      {
+        "word": "we",
+        "from": 405,
+        "to": 409
+      },
+      {
+        "word": "do",
+        "from": 409,
+        "to": 413
+      },
+      {
+        "word": "not",
+        "from": 413,
+        "to": 421
+      },
+      {
+        "word": "need",
+        "from": 421,
+        "to": 427
+      },
+      {
+        "word": "one",
+        "from": 427,
+        "to": 435
+      },
+      {
+        "word": "you",
+        "from": 446,
+        "to": 448
+      },
+      {
+        "word": "can",
+        "from": 448,
+        "to": 452
+      },
+      {
+        "word": "still",
+        "from": 452,
+        "to": 461
+      },
+      {
+        "word": "look",
+        "from": 461,
+        "to": 467
+      },
+      {
+        "word": "before",
+        "from": 467,
+        "to": 476
+      },
+      {
+        "word": "crossing",
+        "from": 476,
+        "to": 487
+      },
+      {
+        "word": "the",
+        "from": 487,
+        "to": 489
+      },
+      {
+        "word": "street",
+        "from": 489,
+        "to": 505
+      },
+      {
+        "word": "you",
+        "from": 515,
+        "to": 519
+      },
+      {
+        "word": "can",
+        "from": 519,
+        "to": 523
+      },
+      {
+        "word": "still",
+        "from": 523,
+        "to": 531
+      },
+      {
+        "word": "say",
+        "from": 531,
+        "to": 536
+      },
+      {
+        "word": "what",
+        "from": 536,
+        "to": 541
+      },
+      {
+        "word": "you",
+        "from": 541,
+        "to": 544
+      },
+      {
+        "word": "really",
+        "from": 544,
+        "to": 552
+      },
+      {
+        "word": "feel",
+        "from": 552,
+        "to": 568
+      },
+      {
+        "word": "you",
+        "from": 568,
+        "to": 571
+      },
+      {
+        "word": "can",
+        "from": 571,
+        "to": 575
+      },
+      {
+        "word": "call",
+        "from": 575,
+        "to": 581
+      },
+      {
+        "word": "your",
+        "from": 581,
+        "to": 585
+      },
+      {
+        "word": "parents",
+        "from": 585,
+        "to": 602
+      },
+      {
+        "word": "apologize",
+        "from": 606,
+        "to": 624
+      },
+      {
+        "word": "to",
+        "from": 624,
+        "to": 626
+      },
+      {
+        "word": "someone",
+        "from": 626,
+        "to": 638
+      },
+      {
+        "word": "thank",
+        "from": 644,
+        "to": 650
+      },
+      {
+        "word": "someone",
+        "from": 650,
+        "to": 667
+      },
+      {
+        "word": "hold",
+        "from": 667,
+        "to": 673
+      },
+      {
+        "word": "someone",
+        "from": 673,
+        "to": 684
+      },
+      {
+        "word": "you",
+        "from": 684,
+        "to": 688
+      },
+      {
+        "word": "love",
+        "from": 688,
+        "to": 695
+      },
+      {
+        "word": "for",
+        "from": 695,
+        "to": 701
+      },
+      {
+        "word": "a",
+        "from": 701,
+        "to": 702
+      },
+      {
+        "word": "little",
+        "from": 702,
+        "to": 709
+      },
+      {
+        "word": "longer",
+        "from": 709,
+        "to": 723
+      },
+      {
+        "word": "and",
+        "from": 729,
+        "to": 734
+      },
+      {
+        "word": "sometimes",
+        "from": 734,
+        "to": 760
+      },
+      {
+        "word": "small",
+        "from": 760,
+        "to": 774
+      },
+      {
+        "word": "decisions",
+        "from": 774,
+        "to": 790
+      },
+      {
+        "word": "like",
+        "from": 790,
+        "to": 796
+      },
+      {
+        "word": "those",
+        "from": 796,
+        "to": 804
+      },
+      {
+        "word": "are",
+        "from": 804,
+        "to": 806
+      },
+      {
+        "word": "enough",
+        "from": 806,
+        "to": 813
+      },
+      {
+        "word": "to",
+        "from": 813,
+        "to": 817
+      },
+      {
+        "word": "change",
+        "from": 817,
+        "to": 830
+      },
+      {
+        "word": "the",
+        "from": 830,
+        "to": 832
+      },
+      {
+        "word": "future",
+        "from": 832,
+        "to": 847
+      },
+      {
+        "word": "you",
+        "from": 854,
+        "to": 857
+      },
+      {
+        "word": "do",
+        "from": 857,
+        "to": 860
+      },
+      {
+        "word": "not",
+        "from": 860,
+        "to": 866
+      },
+      {
+        "word": "need",
+        "from": 866,
+        "to": 874
+      },
+      {
+        "word": "to",
+        "from": 874,
+        "to": 877
+      },
+      {
+        "word": "see",
+        "from": 877,
+        "to": 883
+      },
+      {
+        "word": "ten",
+        "from": 883,
+        "to": 891
+      },
+      {
+        "word": "seconds",
+        "from": 891,
+        "to": 902
+      },
+      {
+        "word": "ahead",
+        "from": 902,
+        "to": 913
+      },
+      {
+        "word": "to",
+        "from": 913,
+        "to": 916
+      },
+      {
+        "word": "live",
+        "from": 916,
+        "to": 922
+      },
+      {
+        "word": "a",
+        "from": 922,
+        "to": 924
+      },
+      {
+        "word": "better",
+        "from": 924,
+        "to": 931
+      },
+      {
+        "word": "life",
+        "from": 931,
+        "to": 950
+      },
+      {
+        "word": "you",
+        "from": 950,
+        "to": 954
+      },
+      {
+        "word": "just",
+        "from": 954,
+        "to": 960
+      },
+      {
+        "word": "need",
+        "from": 960,
+        "to": 964
+      },
+      {
+        "word": "to",
+        "from": 964,
+        "to": 966
+      },
+      {
+        "word": "stop",
+        "from": 966,
+        "to": 976
+      },
+      {
+        "word": "wasting",
+        "from": 976,
+        "to": 990
+      },
+      {
+        "word": "the",
+        "from": 990,
+        "to": 994
+      },
+      {
+        "word": "ten",
+        "from": 994,
+        "to": 1001
+      },
+      {
+        "word": "seconds",
+        "from": 1001,
+        "to": 1012
+      },
+      {
+        "word": "you",
+        "from": 1012,
+        "to": 1015
+      },
+      {
+        "word": "have",
+        "from": 1015,
+        "to": 1022
+      },
+      {
+        "word": "right",
+        "from": 1022,
+        "to": 1027
+      },
+      {
+        "word": "now",
+        "from": 1027,
+        "to": 1041
+      },
+      {
+        "word": "the",
+        "from": 1053,
+        "to": 1055
+      },
+      {
+        "word": "future",
+        "from": 1055,
+        "to": 1068
+      },
+      {
+        "word": "can",
+        "from": 1068,
+        "to": 1074
+      },
+      {
+        "word": "wait",
+        "from": 1074,
+        "to": 1087
+      },
+      {
+        "word": "this",
+        "from": 1098,
+        "to": 1104
+      },
+      {
+        "word": "moment",
+        "from": 1104,
+        "to": 1113
+      },
+      {
+        "word": "can't",
+        "from": 1113,
+        "to": 1126
+      },
+      {
+        "word": "if",
+        "from": 1138,
+        "to": 1142
+      },
+      {
+        "word": "you",
+        "from": 1142,
+        "to": 1147
+      },
+      {
+        "word": "really",
+        "from": 1147,
+        "to": 1155
+      },
+      {
+        "word": "could",
+        "from": 1155,
+        "to": 1160
+      },
+      {
+        "word": "see",
+        "from": 1160,
+        "to": 1166
+      },
+      {
+        "word": "ten",
+        "from": 1166,
+        "to": 1174
+      },
+      {
+        "word": "seconds",
+        "from": 1174,
+        "to": 1186
+      },
+      {
+        "word": "into",
+        "from": 1186,
+        "to": 1190
+      },
+      {
+        "word": "the",
+        "from": 1190,
+        "to": 1193
+      },
+      {
+        "word": "future",
+        "from": 1193,
+        "to": 1206
+      },
+      {
+        "word": "what",
+        "from": 1206,
+        "to": 1213
+      },
+      {
+        "word": "would",
+        "from": 1213,
+        "to": 1217
+      },
+      {
+        "word": "you",
+        "from": 1217,
+        "to": 1222
+      },
+      {
+        "word": "use",
+        "from": 1222,
+        "to": 1227
+      },
+      {
+        "word": "it",
+        "from": 1227,
+        "to": 1230
+      },
+      {
+        "word": "for",
+        "from": 1230,
+        "to": 1244
+      }
+    ],
+    "events": {
+      "street": 461,
+      "feelings": 531,
+      "parents": 568,
+      "closing": 1053,
+      "question": 1138
+    }
+  }
+]

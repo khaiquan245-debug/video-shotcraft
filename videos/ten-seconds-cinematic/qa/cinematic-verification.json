@@ -1,0 +1,33 @@
+{
+  "frames": 11233,
+  "fps": 30,
+  "seconds": 374.43333333333334,
+  "chapters": 12,
+  "shots": 89,
+  "shortCaptions": 262,
+  "scriptWords": 1162,
+  "scriptPreserved": true,
+  "captionBounds": "passed",
+  "fullStoryboardCoverage": "passed",
+  "approvedEncodedAudio": "SHA256=856bf00a565d26ce4fd14ef9b59ab45a9f8c3cf2966428d249caadde787a86a0",
+  "exports": {
+    "ten-seconds-cinematic.mp4": {
+      "fullDecode": "passed",
+      "videoHash": "SHA256=4bcdb02afdc84cc02c5d1652ea58b08876290feb85e95cdc017873fb01dd4f6e",
+      "audioHash": "SHA256=856bf00a565d26ce4fd14ef9b59ab45a9f8c3cf2966428d249caadde787a86a0",
+      "peakDBFS": -1.9,
+      "sha256": "bccb0f5a5b1b894ab5a765721c9bb7c0ef2ceca6d66fbbdbe306d409411d925f",
+      "bytes": 46150892
+    },
+    "ten-seconds-cinematic-no-music.mp4": {
+      "fullDecode": "passed",
+      "videoHash": "SHA256=4bcdb02afdc84cc02c5d1652ea58b08876290feb85e95cdc017873fb01dd4f6e",
+      "audioHash": "SHA256=b607562dfa32fdfcb239f49741cf81c0480c32ad6014de408443a927c7ae90f2",
+      "peakDBFS": -1.9,
+      "sha256": "aa1a98f6766b3f8436fed63079965055cdb7f097b8df6ab2a7b6241db114f74e",
+      "bytes": 45957617
+    }
+  },
+  "approvedVoiceAndMusicBitIdentical": true,
+  "samePictureVariants": true
+}

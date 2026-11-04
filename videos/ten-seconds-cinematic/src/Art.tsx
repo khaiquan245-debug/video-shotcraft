@@ -1,0 +1,57 @@
+import React from 'react';
+export const C={ink:'#101b2b',navy:'#223449',teal:'#78d6cf',cream:'#f5eddb',coral:'#ef7868',gold:'#e9b68a',dim:'#8295a3'};
+export const Person:React.FC<{x:number;y:number;s?:number;pose?:string;face?:string;color?:string;flip?:boolean;phase?:number;elder?:boolean}>=({x,y,s=1,pose='stand',face='calm',color=C.teal,flip=false,phase=0,elder=false})=>{
+ const walk=pose==='walk'||pose==='run';const a=walk?Math.sin(phase)*24:0;const bend=pose==='fall'?65:pose==='save'?-20:0;const outfit=color===C.teal?'#29455f':color;const edge='#172333';
+ const arm=pose==='save'||pose==='rescue'?'M-29 -193 L-69 -159 L-112 -176 M29 -193 L73 -174 L115 -183':pose==='phone'?'M-30 -191 L-45 -153 L-63 -212 M30 -191 L50 -146 L70 -155':pose==='point'?'M-29 -193L-43 -137 M29 -193L73 -203L118 -203':`M-29 -193L${-46-a} -147L${-49-a} -116 M29 -193L${46+a} -147L${49+a} -116`;
+ const hands=pose==='save'||pose==='rescue'?[[-112,-176],[115,-183]]:pose==='phone'?[[-63,-212],[70,-155]]:pose==='point'?[[-43,-137],[118,-203]]:[[-49-a,-116],[49+a,-116]];
+ return <g transform={`translate(${x} ${y}) scale(${flip?-s:s} ${s}) rotate(${bend})`} strokeLinecap="round" strokeLinejoin="round">
+ <ellipse cx="0" cy="8" rx="57" ry="12" fill="#172333" opacity=".16"/>
+ <path d={`M-17 -100 L${-20+a} -47 L${-30-a} 0 M17 -100 L${20-a} -48 L${30+a} 0`} fill="none" stroke={edge} strokeWidth="23"/>
+ <path d={`M${-35-a} 0h33 M${15+a} 0h33`} stroke={edge} strokeWidth="17"/>
+ <path d={`M${-35-a} -1h33 M${15+a} -1h33`} stroke="#e5e8e4" strokeWidth="11"/>
+ <path d={`M${-31-a} -6l5 5m4 -5l5 5 M${19+a} -6l5 5m4 -5l5 5`} stroke="#78919b" strokeWidth="2"/>
+ <path d={arm} fill="none" stroke={edge} strokeWidth="24"/><path d={arm} fill="none" stroke={outfit} strokeWidth="17"/>
+ {hands.map(([hx,hy],i)=><ellipse key={i} cx={hx} cy={hy} rx="11" ry="8" fill="#fffef5" stroke={edge} strokeWidth="2.5"/>)}
+ <path d="M-29 -205Q-44 -225 -18 -231H18Q44 -225 29 -205" fill={outfit} stroke={edge} strokeWidth="3"/>
+ <path d="M-29 -205 Q0 -215 29 -205 L38 -106 Q0 -96 -38 -106Z" fill={outfit} stroke={edge} strokeWidth="3.5"/>
+ <path d="M-11 -207L-9 -176 M11 -207L9 -176" stroke="#c8d7d7" strokeWidth="2.5"/>
+ <path d="M-20 -143h40l8 23h-56Z" fill="none" stroke={edge} strokeWidth="3"/>
+ <path d="M-34 -114q34 8 68 0" fill="none" stroke="#587287" strokeWidth="3"/>
+ <path d="M-10 -220v-15h23v15" fill="#fffef5" stroke={edge} strokeWidth="3"/>
+ <ellipse cy="-261" rx="44" ry="49" fill="#fffef5" stroke={edge} strokeWidth="3.5"/>
+ <path d={elder?'M-44 -268Q-50 -312 -7 -317Q42 -324 47 -278L36 -276L29 -297L8 -301L-20 -293L-35 -273Z':'M-45 -278L-55 -291L-37 -290L-47 -309L-24 -303L-21 -325L-5 -313L8 -332L15 -310L37 -322L35 -302L57 -300L39 -285L47 -275L28 -281L20 -292L9 -283L0 -291L-12 -280L-27 -285L-38 -269Z'} fill={elder?'#a8b0b5':edge} stroke={edge} strokeWidth="2"/>
+ <path d="M-26 -275l16 -2M10 -277l16 2" stroke={edge} strokeWidth="3"/>
+ {face==='blink'?<path d="M-21 -260h10 M11 -260h10" stroke={edge} strokeWidth="3"/>:<><ellipse cx="-15" cy="-261" rx="3.5" ry="8" fill={edge}/><ellipse cx="16" cy="-261" rx="3.5" ry="8" fill={edge}/></>}
+ <path d={face==='sad'?'M-10 -237q10 -9 20 0':face==='shock'?'M-5 -244q10 -7 10 4q-6 9 -10 -4':'M-10 -244q10 12 20 0'} fill="none" stroke={edge} strokeWidth="2.8"/>
+ {pose==='phone'&&<rect x="-77" y="-231" width="19" height="38" rx="4" fill={edge} stroke="#fffef5" strokeWidth="2"/>}
+ </g>;
+};
+export const Skyline:React.FC<{warm?:boolean;night?:boolean}>=({warm=false,night=false})=><g>
+ <defs><linearGradient id="city-sky" x2="0" y2="1"><stop stopColor={night?'#0b132b':warm?'#644864':'#5f778d'}/><stop offset=".65" stopColor={night?'#253758':warm?'#efb082':'#bdc7bf'}/><stop offset="1" stopColor={night?'#45506a':'#f2d5ad'}/></linearGradient><linearGradient id="city-road" x2="0" y2="1"><stop stopColor={night?'#263444':'#7d7b78'}/><stop offset="1" stopColor={night?'#121d30':'#454d57'}/></linearGradient><radialGradient id="sun-halo"><stop stopColor={warm?'#ffe2a7':'#9fbdce'} stopOpacity=".7"/><stop offset="1" stopColor="#efd39a" stopOpacity="0"/></radialGradient></defs>
+ <rect width="1600" height="760" fill="url(#city-sky)"/><circle cx="1190" cy={night?140:220} r="320" fill="url(#sun-halo)"/><circle cx="1190" cy={night?140:220} r={night?40:67} fill={night?'#e1e7f4':'#ffe4b3'}/>
+ {[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14].map(i=><rect key={i} x={i*125-60} y={280+(i*37)%100} width={70+(i*13)%55} height="330" fill={night?'#273752':'#8d9b9c'} opacity=".65"/>)}
+ {[0,1,2,3,4,5,6,7,8,9].map(i=><g key={i}><path d={`M${i*190-100} ${215+(i*79)%120}l135 -20v420h-135Z`} fill={night?'#19283f':['#667b82','#89958b','#9b8e85'][i%3]}/><path d={`M${i*190+35} ${195+(i*79)%120}l32 34v406h-32Z`} fill={night?'#111e34':'#5c7076'}/>{[0,1,2,3,4].map(j=><g key={j}><rect x={i*190-80} y={250+(i*79)%120+j*52} width="27" height="32" fill={night?(j%3===0?'#dcbd83':'#35556d'):'#bfc8bd'}/><rect x={i*190-27} y={250+(i*79)%120+j*52} width="27" height="32" fill={night?'#d1b585':'#d8d8c2'} opacity=".75"/></g>)}<path d={`M${i*190-98} 560h132v40h-132Z`} fill={night?'#314451':'#4d6566'}/></g>)}
+ <path d="M0 570h1600v190H0Z" fill="url(#city-road)"/><path d="M0 570h1600v65H0Z" fill={night?'#39414a':'#aaa496'}/><path d="M0 630h1600M0 636h1600" stroke={night?'#77818b':'#d9cfb6'} strokeWidth="3"/>{[0,1,2,3,4,5,6,7,8,9,10,11,12].map(i=><path key={i} d={`M${i*140} 570l${i*18-110} 65`} stroke={night?'#202d3b':'#807e76'} strokeWidth="2"/>)}
+ <path d="M0 705h210m180 0h210m180 0h210m180 0h210m180 0h100" stroke="#d6c7a4" strokeWidth="4" opacity=".55"/>
+ {[140,1480].map(x=><g key={x}><path d={`M${x} 590V200q0 -35 42 -35h22`} stroke={night?'#0e1728':'#3d505b'} strokeWidth="10" fill="none"/><path d={`M${x+43} 163h40l-8 15h-24Z`} fill={night?'#ffe3a8':'#344653'}/>{night&&<path d={`M${x+48} 180l-130 410h280l-120 -410Z`} fill="#f0d19b" opacity=".045"/>}</g>)}
+ <path d="M0 83Q600 180 1600 60M0 120Q700 215 1600 100" stroke={night?'#10192b':'#4e5862'} strokeWidth="3" opacity=".65"/>
+ </g>;
+export const Cup:React.FC<{x:number;y:number;angle?:number}>=({x,y,angle=0})=><g transform={`translate(${x} ${y}) rotate(${angle})`}><path d="M-21 -35h42L15 22h-30Z" fill={C.cream}/><rect x="-26" y="-42" width="52" height="10" rx="4" fill={C.ink}/><path d="M-19 -15h38v19h-38Z" fill={C.coral}/></g>;
+export const Phone:React.FC<{x:number;y:number;s?:number;angle?:number;calling?:boolean}>=({x,y,s=1,angle=0,calling=false})=><g transform={`translate(${x} ${y}) scale(${s}) rotate(${angle})`}><rect x="-75" y="-132" width="150" height="264" rx="22" fill={C.ink} stroke={C.dim} strokeWidth="4"/><rect x="-66" y="-115" width="132" height="230" rx="13" fill={calling?'#31495a':'#76bdb8'}/><rect x="-24" y="-122" width="48" height="8" rx="4" fill={C.ink}/>{calling?<><circle cy="-50" r="30" fill={C.gold}/><text y="10" textAnchor="middle" fill={C.cream} fontSize="20" fontFamily="sans-serif">MOM</text><text y="35" textAnchor="middle" fill={C.cream} fontSize="12" fontFamily="sans-serif">calling…</text><circle cx="-32" cy="79" r="18" fill={C.coral}/><circle cx="32" cy="79" r="18" fill={C.teal}/><path d="M-40 79h16M26 83l12 -9" stroke={C.cream} strokeWidth="4"/></>:<><circle cy="-20" r="29" fill={C.cream} opacity=".65"/><path d="M-40 45h80M-40 63h55" stroke={C.cream} strokeWidth="6"/></>}</g>;
+export const Car:React.FC<{x:number;y:number;truck?:boolean;sy?:number;flip?:boolean}>=({x,y,truck=false,sy=1,flip=false})=><g transform={`translate(${x} ${y}) scale(${flip?-1:1} ${sy})`}><path d={truck?'M-160 -142h210v112h-210Z M50 -103h72l55 60v55H50Z':'M-160 -63l45 -62H20l74 59 56 13v66h-310Z'} fill={C.coral}/><path d={truck?'M62 -90h50l36 43H62Z':'M-101 -111H9l49 44h-186Z'} fill="#263d51"/><circle cx="-100" cy="12" r="31" fill={C.ink}/><circle cx="100" cy="12" r="31" fill={C.ink}/><circle cx="-100" cy="12" r="13" fill={C.dim}/><circle cx="100" cy="12" r="13" fill={C.dim}/><path d="M142 -32h16" stroke={C.cream} strokeWidth="12"/></g>;
+export const Room:React.FC<{office?:boolean}>=({office=false})=><g>
+ <defs><linearGradient id="room-wall" x2="0" y2="1"><stop stopColor={office?'#59626a':'#7c6d66'}/><stop offset="1" stopColor={office?'#84908e':'#ac9680'}/></linearGradient><linearGradient id="room-floor" x2="0" y2="1"><stop stopColor="#716257"/><stop offset="1" stopColor="#302e32"/></linearGradient><linearGradient id="window-sky" x2="0" y2="1"><stop stopColor="#7d8ea5"/><stop offset="1" stopColor="#f2c799"/></linearGradient></defs>
+ <rect width="1600" height="760" fill="url(#room-wall)"/><path d="M0 0h1600l-110 65H115Z" fill="#30363e"/><path d="M0 0l115 65v490L0 620Z" fill="#3c4247" opacity=".55"/><path d="M1600 0l-110 65v490l110 65Z" fill="#26313b" opacity=".35"/>
+ <rect x="170" y="105" width="410" height="360" rx="3" fill="#263341"/><rect x="185" y="120" width="380" height="330" fill="url(#window-sky)"/>{[0,1,2,3,4,5].map(i=><rect key={i} x={190+i*68} y={330-(i*29)%100} width="53" height="120" fill="#576373" opacity=".6"/>)}<path d="M375 115v340M180 280h390" stroke="#3a4148" strokeWidth="12"/><path d="M155 465h440" stroke="#d0b493" strokeWidth="12"/>
+ <path d="M190 450l600 110 500 200H420Z" fill="#ffe0ad" opacity=".065"/><path d="M375 450l760 110 450 200h-240Z" fill="#ffe0ad" opacity=".04"/>
+ <rect x="960" y="130" width="430" height="270" rx="4" fill="#333c42" stroke="#a9957f" strokeWidth="7"/>{office?<><path d="M1000 340h340M1000 170v170" stroke="#8da5a0" strokeWidth="3"/><path d="M1010 320l60 -50 65 15 70 -95 115 40" stroke={C.teal} strokeWidth="8" fill="none"/>{[0,1,2,3].map(i=><rect key={i} x={1020+i*80} y={300-i*22} width="30" height={30+i*22} fill="#a8bfad" opacity=".25"/>)}</>:<><circle cx="1175" cy="235" r="68" fill="#dcb28c"/><path d="M990 365l130 -150 90 90 75 -55 75 115Z" fill="#658c82"/></>}
+ <path d="M0 555h1600v205H0Z" fill="url(#room-floor)"/><path d="M0 555h1600" stroke="#d0bca1" strokeWidth="8"/>{[0,1,2,3,4,5,6,7,8,9].map(i=><path key={i} d={`M${i*180} 555l${i*80-300} 205M0 ${585+i*32}h1600`} stroke="#252b32" strokeWidth="2" opacity=".4"/>)}
+ <path d="M665 140h200M665 145h200" stroke="#2e363e" strokeWidth="10"/>{[0,1,2,3,4,5].map(i=><rect key={i} x={675+i*27} y={90+(i*7)%20} width="20" height={50-(i*7)%20} fill={['#ad8c68','#789b99','#7e6f82'][i%3]}/>)}
+ <circle cx="770" cy="270" r="47" fill="#decdb4" stroke="#3d454d" strokeWidth="8"/><path d="M770 238v33l23 10" stroke="#34404b" strokeWidth="5" fill="none"/>
+ <path d="M1430 575V410M1430 480q-90 -45 -77 -100q65 4 77 100M1430 510q94 -55 78 -110q-64 8 -78 110" fill="#3e625b" stroke="#3e625b" strokeWidth="8"/><path d="M1380 550h100l-18 95h-64Z" fill="#ab7864"/>
+ <path d="M800 0v55" stroke="#252c35" strokeWidth="4"/><path d="M760 55h80l28 45H732Z" fill="#bc9d79"/><ellipse cx="800" cy="100" rx="68" ry="8" fill="#f4dcac"/>
+ </g>;
+export const Balloon:React.FC<{x:number;y:number;text:string;w?:number}>=({x,y,text,w=400})=>{
+ const lines:string[]=[];const limit=Math.max(12,Math.floor((w-40)/15.5));let line='';for(const word of text.split(' ')){if(line&&(line+' '+word).length>limit){lines.push(line);line=word;}else line+=(line?' ':'')+word;}if(line)lines.push(line);const h=Math.max(92,lines.length*38+28);
+ return <g transform={`translate(${x} ${y})`}><rect width={w} height={h} rx="18" fill={C.cream}/><path d={`M38 ${h}l-12 28 55 -28`} fill={C.cream}/>{lines.map((s,i)=><text key={i} x={w/2} y={(lines.length===1?58:48)+i*38} fontFamily="Arial,sans-serif" fontSize="30" textAnchor="middle" fill={C.ink}>{s}</text>)}</g>;
+};

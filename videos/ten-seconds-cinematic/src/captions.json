@@ -1,0 +1,8170 @@
+[
+  {
+    "id": 0,
+    "chapter": 0,
+    "from": 16,
+    "duration": 40,
+    "text": "What if, right now, you could",
+    "words": [
+      {
+        "word": "what",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "if",
+        "from": 5,
+        "to": 19
+      },
+      {
+        "word": "right",
+        "from": 19,
+        "to": 25
+      },
+      {
+        "word": "now",
+        "from": 25,
+        "to": 32
+      },
+      {
+        "word": "you",
+        "from": 32,
+        "to": 36
+      },
+      {
+        "word": "could",
+        "from": 36,
+        "to": 40
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "chapter": 0,
+    "from": 56,
+    "duration": 41,
+    "text": "see exactly what was going to",
+    "words": [
+      {
+        "word": "see",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "word": "exactly",
+        "from": 10,
+        "to": 25
+      },
+      {
+        "word": "what",
+        "from": 25,
+        "to": 30
+      },
+      {
+        "word": "was",
+        "from": 30,
+        "to": 34
+      },
+      {
+        "word": "going",
+        "from": 34,
+        "to": 39
+      },
+      {
+        "word": "to",
+        "from": 39,
+        "to": 41
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chapter": 0,
+    "from": 97,
+    "duration": 50,
+    "text": "happen in the next 10 seconds?",
+    "words": [
+      {
+        "word": "happen",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "word": "in",
+        "from": 10,
+        "to": 13
+      },
+      {
+        "word": "the",
+        "from": 13,
+        "to": 15
+      },
+      {
+        "word": "next",
+        "from": 15,
+        "to": 22
+      },
+      {
+        "word": "ten",
+        "from": 22,
+        "to": 29
+      },
+      {
+        "word": "seconds",
+        "from": 29,
+        "to": 50
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chapter": 0,
+    "from": 147,
+    "duration": 25,
+    "text": "What would you do?",
+    "words": [
+      {
+        "word": "what",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "would",
+        "from": 4,
+        "to": 7
+      },
+      {
+        "word": "you",
+        "from": 7,
+        "to": 11
+      },
+      {
+        "word": "do",
+        "from": 11,
+        "to": 22
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chapter": 0,
+    "from": 175,
+    "duration": 44,
+    "text": "Avoid an embarrassing fall?",
+    "words": [
+      {
+        "word": "avoid",
+        "from": 0,
+        "to": 13
+      },
+      {
+        "word": "an",
+        "from": 13,
+        "to": 16
+      },
+      {
+        "word": "embarrassing",
+        "from": 16,
+        "to": 32
+      },
+      {
+        "word": "fall",
+        "from": 32,
+        "to": 44
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chapter": 0,
+    "from": 219,
+    "duration": 38,
+    "text": "Prevent an accident?",
+    "words": [
+      {
+        "word": "prevent",
+        "from": 0,
+        "to": 14
+      },
+      {
+        "word": "an",
+        "from": 14,
+        "to": 18
+      },
+      {
+        "word": "accident",
+        "from": 18,
+        "to": 38
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chapter": 0,
+    "from": 257,
+    "duration": 34,
+    "text": "Find out what your crush is",
+    "words": [
+      {
+        "word": "find",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "word": "out",
+        "from": 9,
+        "to": 13
+      },
+      {
+        "word": "what",
+        "from": 13,
+        "to": 18
+      },
+      {
+        "word": "your",
+        "from": 18,
+        "to": 21
+      },
+      {
+        "word": "crush",
+        "from": 21,
+        "to": 31
+      },
+      {
+        "word": "is",
+        "from": 31,
+        "to": 34
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "chapter": 0,
+    "from": 291,
+    "duration": 24,
+    "text": "about to say?",
+    "words": [
+      {
+        "word": "about",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "word": "to",
+        "from": 7,
+        "to": 10
+      },
+      {
+        "word": "say",
+        "from": 10,
+        "to": 21
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "chapter": 0,
+    "from": 321,
+    "duration": 50,
+    "text": "Or, use those 10 seconds to",
+    "words": [
+      {
+        "word": "or",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "word": "use",
+        "from": 11,
+        "to": 20
+      },
+      {
+        "word": "those",
+        "from": 20,
+        "to": 27
+      },
+      {
+        "word": "ten",
+        "from": 27,
+        "to": 33
+      },
+      {
+        "word": "seconds",
+        "from": 33,
+        "to": 47
+      },
+      {
+        "word": "to",
+        "from": 47,
+        "to": 50
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "chapter": 0,
+    "from": 371,
+    "duration": 47,
+    "text": "change something you might regret",
+    "words": [
+      {
+        "word": "change",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "word": "something",
+        "from": 12,
+        "to": 27
+      },
+      {
+        "word": "you",
+        "from": 27,
+        "to": 31
+      },
+      {
+        "word": "might",
+        "from": 31,
+        "to": 36
+      },
+      {
+        "word": "regret",
+        "from": 36,
+        "to": 47
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "chapter": 0,
+    "from": 418,
+    "duration": 38,
+    "text": "for the rest of your life?",
+    "words": [
+      {
+        "word": "for",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "the",
+        "from": 4,
+        "to": 7
+      },
+      {
+        "word": "rest",
+        "from": 7,
+        "to": 16
+      },
+      {
+        "word": "of",
+        "from": 16,
+        "to": 18
+      },
+      {
+        "word": "your",
+        "from": 18,
+        "to": 21
+      },
+      {
+        "word": "life",
+        "from": 21,
+        "to": 38
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "chapter": 0,
+    "from": 456,
+    "duration": 35,
+    "text": "It sounds like a pretty small",
+    "words": [
+      {
+        "word": "it",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "sounds",
+        "from": 4,
+        "to": 13
+      },
+      {
+        "word": "like",
+        "from": 13,
+        "to": 17
+      },
+      {
+        "word": "a",
+        "from": 17,
+        "to": 18
+      },
+      {
+        "word": "pretty",
+        "from": 18,
+        "to": 25
+      },
+      {
+        "word": "small",
+        "from": 25,
+        "to": 35
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "chapter": 0,
+    "from": 491,
+    "duration": 44,
+    "text": "superpower. But think about it.",
+    "words": [
+      {
+        "word": "superpower",
+        "from": 0,
+        "to": 25
+      },
+      {
+        "word": "but",
+        "from": 25,
+        "to": 29
+      },
+      {
+        "word": "think",
+        "from": 29,
+        "to": 34
+      },
+      {
+        "word": "about",
+        "from": 34,
+        "to": 40
+      },
+      {
+        "word": "it",
+        "from": 40,
+        "to": 44
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "chapter": 0,
+    "from": 535,
+    "duration": 53,
+    "text": "Ten seconds can sometimes change",
+    "words": [
+      {
+        "word": "ten",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "word": "seconds",
+        "from": 7,
+        "to": 21
+      },
+      {
+        "word": "can",
+        "from": 21,
+        "to": 24
+      },
+      {
+        "word": "sometimes",
+        "from": 24,
+        "to": 38
+      },
+      {
+        "word": "change",
+        "from": 38,
+        "to": 53
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "chapter": 0,
+    "from": 588,
+    "duration": 24,
+    "text": "everything.",
+    "words": [
+      {
+        "word": "everything",
+        "from": 0,
+        "to": 21
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "chapter": 1,
+    "from": 634,
+    "duration": 31,
+    "text": "The rule is simple.",
+    "words": [
+      {
+        "word": "the",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "rule",
+        "from": 3,
+        "to": 11
+      },
+      {
+        "word": "is",
+        "from": 11,
+        "to": 13
+      },
+      {
+        "word": "simple",
+        "from": 13,
+        "to": 28
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "chapter": 1,
+    "from": 666,
+    "duration": 51,
+    "text": "Whenever you focus and blink, you",
+    "words": [
+      {
+        "word": "whenever",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "word": "you",
+        "from": 9,
+        "to": 13
+      },
+      {
+        "word": "focus",
+        "from": 13,
+        "to": 29
+      },
+      {
+        "word": "and",
+        "from": 29,
+        "to": 36
+      },
+      {
+        "word": "blink",
+        "from": 36,
+        "to": 48
+      },
+      {
+        "word": "you",
+        "from": 48,
+        "to": 51
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "chapter": 1,
+    "from": 717,
+    "duration": 58,
+    "text": "can see exactly 10 seconds into",
+    "words": [
+      {
+        "word": "can",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "see",
+        "from": 4,
+        "to": 15
+      },
+      {
+        "word": "exactly",
+        "from": 15,
+        "to": 31
+      },
+      {
+        "word": "ten",
+        "from": 31,
+        "to": 38
+      },
+      {
+        "word": "seconds",
+        "from": 38,
+        "to": 51
+      },
+      {
+        "word": "into",
+        "from": 51,
+        "to": 58
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "chapter": 1,
+    "from": 775,
+    "duration": 17,
+    "text": "the future.",
+    "words": [
+      {
+        "word": "the",
+        "from": 0,
+        "to": 2
+      },
+      {
+        "word": "future",
+        "from": 2,
+        "to": 17
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "chapter": 1,
+    "from": 792,
+    "duration": 24,
+    "text": "Not a feeling.",
+    "words": [
+      {
+        "word": "not",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "a",
+        "from": 4,
+        "to": 5
+      },
+      {
+        "word": "feeling",
+        "from": 5,
+        "to": 21
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "chapter": 1,
+    "from": 818,
+    "duration": 28,
+    "text": "Not a prediction.",
+    "words": [
+      {
+        "word": "not",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "a",
+        "from": 5,
+        "to": 6
+      },
+      {
+        "word": "prediction",
+        "from": 6,
+        "to": 28
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "chapter": 1,
+    "from": 846,
+    "duration": 43,
+    "text": "You actually see what is about",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "actually",
+        "from": 5,
+        "to": 16
+      },
+      {
+        "word": "see",
+        "from": 16,
+        "to": 25
+      },
+      {
+        "word": "what",
+        "from": 25,
+        "to": 32
+      },
+      {
+        "word": "is",
+        "from": 32,
+        "to": 35
+      },
+      {
+        "word": "about",
+        "from": 35,
+        "to": 43
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "chapter": 1,
+    "from": 889,
+    "duration": 20,
+    "text": "to happen.",
+    "words": [
+      {
+        "word": "to",
+        "from": 0,
+        "to": 2
+      },
+      {
+        "word": "happen",
+        "from": 2,
+        "to": 17
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "chapter": 1,
+    "from": 915,
+    "duration": 69,
+    "text": "Then, you return to the present.",
+    "words": [
+      {
+        "word": "then",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "word": "you",
+        "from": 31,
+        "to": 35
+      },
+      {
+        "word": "return",
+        "from": 35,
+        "to": 44
+      },
+      {
+        "word": "to",
+        "from": 44,
+        "to": 46
+      },
+      {
+        "word": "the",
+        "from": 46,
+        "to": 49
+      },
+      {
+        "word": "present",
+        "from": 49,
+        "to": 69
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "chapter": 1,
+    "from": 984,
+    "duration": 33,
+    "text": "And you have 10 seconds to",
+    "words": [
+      {
+        "word": "and",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "you",
+        "from": 4,
+        "to": 6
+      },
+      {
+        "word": "have",
+        "from": 6,
+        "to": 10
+      },
+      {
+        "word": "ten",
+        "from": 10,
+        "to": 17
+      },
+      {
+        "word": "seconds",
+        "from": 17,
+        "to": 30
+      },
+      {
+        "word": "to",
+        "from": 30,
+        "to": 33
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "chapter": 1,
+    "from": 1017,
+    "duration": 71,
+    "text": "decide: let that future happen, or",
+    "words": [
+      {
+        "word": "decide",
+        "from": 0,
+        "to": 17
+      },
+      {
+        "word": "let",
+        "from": 26,
+        "to": 31
+      },
+      {
+        "word": "that",
+        "from": 31,
+        "to": 35
+      },
+      {
+        "word": "future",
+        "from": 35,
+        "to": 45
+      },
+      {
+        "word": "happen",
+        "from": 45,
+        "to": 59
+      },
+      {
+        "word": "or",
+        "from": 68,
+        "to": 71
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "chapter": 1,
+    "from": 1088,
+    "duration": 31,
+    "text": "try to change it.",
+    "words": [
+      {
+        "word": "try",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "word": "to",
+        "from": 7,
+        "to": 9
+      },
+      {
+        "word": "change",
+        "from": 9,
+        "to": 19
+      },
+      {
+        "word": "it",
+        "from": 19,
+        "to": 31
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "chapter": 1,
+    "from": 1119,
+    "duration": 26,
+    "text": "At first?",
+    "words": [
+      {
+        "word": "at",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "first",
+        "from": 5,
+        "to": 23
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "chapter": 1,
+    "from": 1146,
+    "duration": 37,
+    "text": "You would obviously use this",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "would",
+        "from": 5,
+        "to": 9
+      },
+      {
+        "word": "obviously",
+        "from": 9,
+        "to": 24
+      },
+      {
+        "word": "use",
+        "from": 24,
+        "to": 32
+      },
+      {
+        "word": "this",
+        "from": 32,
+        "to": 37
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "chapter": 1,
+    "from": 1183,
+    "duration": 37,
+    "text": "incredible power for the most",
+    "words": [
+      {
+        "word": "incredible",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "word": "power",
+        "from": 12,
+        "to": 23
+      },
+      {
+        "word": "for",
+        "from": 23,
+        "to": 27
+      },
+      {
+        "word": "the",
+        "from": 27,
+        "to": 29
+      },
+      {
+        "word": "most",
+        "from": 29,
+        "to": 37
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "chapter": 1,
+    "from": 1220,
+    "duration": 40,
+    "text": "important things in life.",
+    "words": [
+      {
+        "word": "important",
+        "from": 0,
+        "to": 13
+      },
+      {
+        "word": "things",
+        "from": 13,
+        "to": 22
+      },
+      {
+        "word": "in",
+        "from": 22,
+        "to": 25
+      },
+      {
+        "word": "life",
+        "from": 25,
+        "to": 37
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "chapter": 1,
+    "from": 1263,
+    "duration": 53,
+    "text": "Like, not embarrassing yourself.",
+    "words": [
+      {
+        "word": "like",
+        "from": 0,
+        "to": 13
+      },
+      {
+        "word": "not",
+        "from": 13,
+        "to": 18
+      },
+      {
+        "word": "embarrassing",
+        "from": 18,
+        "to": 32
+      },
+      {
+        "word": "yourself",
+        "from": 32,
+        "to": 50
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "chapter": 2,
+    "from": 1339,
+    "duration": 37,
+    "text": "You see yourself trip.",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "see",
+        "from": 3,
+        "to": 9
+      },
+      {
+        "word": "yourself",
+        "from": 9,
+        "to": 21
+      },
+      {
+        "word": "trip",
+        "from": 21,
+        "to": 37
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "chapter": 2,
+    "from": 1376,
+    "duration": 54,
+    "text": "And somehow, the entire cup of",
+    "words": [
+      {
+        "word": "and",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "word": "somehow",
+        "from": 9,
+        "to": 27
+      },
+      {
+        "word": "the",
+        "from": 27,
+        "to": 31
+      },
+      {
+        "word": "entire",
+        "from": 31,
+        "to": 44
+      },
+      {
+        "word": "cup",
+        "from": 44,
+        "to": 51
+      },
+      {
+        "word": "of",
+        "from": 51,
+        "to": 54
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "chapter": 2,
+    "from": 1430,
+    "duration": 39,
+    "text": "coffee ends up all over your",
+    "words": [
+      {
+        "word": "coffee",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "word": "ends",
+        "from": 12,
+        "to": 18
+      },
+      {
+        "word": "up",
+        "from": 18,
+        "to": 22
+      },
+      {
+        "word": "all",
+        "from": 22,
+        "to": 31
+      },
+      {
+        "word": "over",
+        "from": 31,
+        "to": 36
+      },
+      {
+        "word": "your",
+        "from": 36,
+        "to": 39
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "chapter": 2,
+    "from": 1469,
+    "duration": 63,
+    "text": "clothes. Even worse, someone",
+    "words": [
+      {
+        "word": "clothes",
+        "from": 0,
+        "to": 21
+      },
+      {
+        "word": "even",
+        "from": 21,
+        "to": 28
+      },
+      {
+        "word": "worse",
+        "from": 28,
+        "to": 43
+      },
+      {
+        "word": "someone",
+        "from": 51,
+        "to": 63
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "chapter": 2,
+    "from": 1532,
+    "duration": 59,
+    "text": "nearby is already holding a phone.",
+    "words": [
+      {
+        "word": "nearby",
+        "from": 0,
+        "to": 13
+      },
+      {
+        "word": "is",
+        "from": 13,
+        "to": 20
+      },
+      {
+        "word": "already",
+        "from": 20,
+        "to": 31
+      },
+      {
+        "word": "holding",
+        "from": 31,
+        "to": 42
+      },
+      {
+        "word": "a",
+        "from": 42,
+        "to": 43
+      },
+      {
+        "word": "phone",
+        "from": 43,
+        "to": 56
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "chapter": 2,
+    "from": 1597,
+    "duration": 52,
+    "text": "No. The internet does not need",
+    "words": [
+      {
+        "word": "no",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "word": "the",
+        "from": 20,
+        "to": 25
+      },
+      {
+        "word": "internet",
+        "from": 25,
+        "to": 35
+      },
+      {
+        "word": "does",
+        "from": 35,
+        "to": 41
+      },
+      {
+        "word": "not",
+        "from": 41,
+        "to": 47
+      },
+      {
+        "word": "need",
+        "from": 47,
+        "to": 52
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "chapter": 2,
+    "from": 1649,
+    "duration": 33,
+    "text": "another meme today.",
+    "words": [
+      {
+        "word": "another",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "word": "meme",
+        "from": 9,
+        "to": 17
+      },
+      {
+        "word": "today",
+        "from": 17,
+        "to": 33
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "chapter": 2,
+    "from": 1682,
+    "duration": 36,
+    "text": "You return to the present.",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "return",
+        "from": 4,
+        "to": 14
+      },
+      {
+        "word": "to",
+        "from": 14,
+        "to": 18
+      },
+      {
+        "word": "the",
+        "from": 18,
+        "to": 20
+      },
+      {
+        "word": "present",
+        "from": 20,
+        "to": 36
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "chapter": 2,
+    "from": 1718,
+    "duration": 48,
+    "text": "Step slightly to the left.",
+    "words": [
+      {
+        "word": "step",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "word": "slightly",
+        "from": 8,
+        "to": 23
+      },
+      {
+        "word": "to",
+        "from": 23,
+        "to": 28
+      },
+      {
+        "word": "the",
+        "from": 28,
+        "to": 30
+      },
+      {
+        "word": "left",
+        "from": 30,
+        "to": 45
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "chapter": 2,
+    "from": 1768,
+    "duration": 27,
+    "text": "Avoid the crack.",
+    "words": [
+      {
+        "word": "avoid",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "word": "the",
+        "from": 10,
+        "to": 12
+      },
+      {
+        "word": "crack",
+        "from": 12,
+        "to": 27
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "chapter": 2,
+    "from": 1795,
+    "duration": 67,
+    "text": "Perfect. You smile confidently.",
+    "words": [
+      {
+        "word": "perfect",
+        "from": 0,
+        "to": 23
+      },
+      {
+        "word": "you",
+        "from": 23,
+        "to": 27
+      },
+      {
+        "word": "smile",
+        "from": 27,
+        "to": 41
+      },
+      {
+        "word": "confidently",
+        "from": 41,
+        "to": 67
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "chapter": 2,
+    "from": 1862,
+    "duration": 48,
+    "text": "Having a superpower feels amazing.",
+    "words": [
+      {
+        "word": "having",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "word": "a",
+        "from": 8,
+        "to": 9
+      },
+      {
+        "word": "superpower",
+        "from": 9,
+        "to": 27
+      },
+      {
+        "word": "feels",
+        "from": 27,
+        "to": 36
+      },
+      {
+        "word": "amazing",
+        "from": 36,
+        "to": 48
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "chapter": 2,
+    "from": 1910,
+    "duration": 45,
+    "text": "Then, you walk straight into a",
+    "words": [
+      {
+        "word": "then",
+        "from": 0,
+        "to": 14
+      },
+      {
+        "word": "you",
+        "from": 19,
+        "to": 22
+      },
+      {
+        "word": "walk",
+        "from": 22,
+        "to": 29
+      },
+      {
+        "word": "straight",
+        "from": 29,
+        "to": 38
+      },
+      {
+        "word": "into",
+        "from": 38,
+        "to": 44
+      },
+      {
+        "word": "a",
+        "from": 44,
+        "to": 45
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "chapter": 2,
+    "from": 1955,
+    "duration": 38,
+    "text": "pole. BONK!",
+    "words": [
+      {
+        "word": "pole",
+        "from": 0,
+        "to": 18
+      },
+      {
+        "word": "bonk",
+        "from": 18,
+        "to": 35
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "chapter": 2,
+    "from": 2005,
+    "duration": 37,
+    "text": "Apparently, seeing the future",
+    "words": [
+      {
+        "word": "apparently",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "word": "seeing",
+        "from": 15,
+        "to": 23
+      },
+      {
+        "word": "the",
+        "from": 23,
+        "to": 25
+      },
+      {
+        "word": "future",
+        "from": 25,
+        "to": 37
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "chapter": 2,
+    "from": 2042,
+    "duration": 51,
+    "text": "still cannot save your dignity.",
+    "words": [
+      {
+        "word": "still",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "word": "cannot",
+        "from": 6,
+        "to": 17
+      },
+      {
+        "word": "save",
+        "from": 17,
+        "to": 26
+      },
+      {
+        "word": "your",
+        "from": 26,
+        "to": 30
+      },
+      {
+        "word": "dignity",
+        "from": 30,
+        "to": 48
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "chapter": 3,
+    "from": 2113,
+    "duration": 61,
+    "text": "During a meeting, you suddenly see",
+    "words": [
+      {
+        "word": "during",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "word": "a",
+        "from": 9,
+        "to": 10
+      },
+      {
+        "word": "meeting",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "word": "you",
+        "from": 39,
+        "to": 42
+      },
+      {
+        "word": "suddenly",
+        "from": 42,
+        "to": 54
+      },
+      {
+        "word": "see",
+        "from": 54,
+        "to": 61
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "chapter": 3,
+    "from": 2174,
+    "duration": 42,
+    "text": "your boss calling your name.",
+    "words": [
+      {
+        "word": "your",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "boss",
+        "from": 4,
+        "to": 16
+      },
+      {
+        "word": "calling",
+        "from": 16,
+        "to": 27
+      },
+      {
+        "word": "your",
+        "from": 27,
+        "to": 30
+      },
+      {
+        "word": "name",
+        "from": 30,
+        "to": 39
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "chapter": 3,
+    "from": 2220,
+    "duration": 51,
+    "text": "You have exactly 10 seconds.",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "have",
+        "from": 4,
+        "to": 9
+      },
+      {
+        "word": "exactly",
+        "from": 9,
+        "to": 23
+      },
+      {
+        "word": "ten",
+        "from": 23,
+        "to": 32
+      },
+      {
+        "word": "seconds",
+        "from": 32,
+        "to": 51
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "chapter": 3,
+    "from": 2271,
+    "duration": 42,
+    "text": "Your brain instantly enters",
+    "words": [
+      {
+        "word": "your",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "brain",
+        "from": 5,
+        "to": 16
+      },
+      {
+        "word": "instantly",
+        "from": 16,
+        "to": 31
+      },
+      {
+        "word": "enters",
+        "from": 31,
+        "to": 42
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "chapter": 3,
+    "from": 2313,
+    "duration": 27,
+    "text": "emergency mode.",
+    "words": [
+      {
+        "word": "emergency",
+        "from": 0,
+        "to": 14
+      },
+      {
+        "word": "mode",
+        "from": 14,
+        "to": 24
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "chapter": 3,
+    "from": 2345,
+    "duration": 31,
+    "text": "You open the document.",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "open",
+        "from": 4,
+        "to": 11
+      },
+      {
+        "word": "the",
+        "from": 11,
+        "to": 13
+      },
+      {
+        "word": "document",
+        "from": 13,
+        "to": 31
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "chapter": 3,
+    "from": 2376,
+    "duration": 53,
+    "text": "Scan the most important line.",
+    "words": [
+      {
+        "word": "scan",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "word": "the",
+        "from": 15,
+        "to": 17
+      },
+      {
+        "word": "most",
+        "from": 17,
+        "to": 25
+      },
+      {
+        "word": "important",
+        "from": 25,
+        "to": 38
+      },
+      {
+        "word": "line",
+        "from": 38,
+        "to": 53
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "chapter": 3,
+    "from": 2429,
+    "duration": 45,
+    "text": "Ten seconds later, \"What do you",
+    "words": [
+      {
+        "word": "ten",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "word": "seconds",
+        "from": 6,
+        "to": 18
+      },
+      {
+        "word": "later",
+        "from": 18,
+        "to": 30
+      },
+      {
+        "word": "what",
+        "from": 35,
+        "to": 39
+      },
+      {
+        "word": "do",
+        "from": 39,
+        "to": 41
+      },
+      {
+        "word": "you",
+        "from": 41,
+        "to": 45
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "chapter": 3,
+    "from": 2474,
+    "duration": 52,
+    "text": "think?\" You sit up straight.",
+    "words": [
+      {
+        "word": "think",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "word": "you",
+        "from": 23,
+        "to": 26
+      },
+      {
+        "word": "sit",
+        "from": 26,
+        "to": 32
+      },
+      {
+        "word": "up",
+        "from": 32,
+        "to": 36
+      },
+      {
+        "word": "straight",
+        "from": 36,
+        "to": 52
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "chapter": 3,
+    "from": 2526,
+    "duration": 23,
+    "text": "Stay calm.",
+    "words": [
+      {
+        "word": "stay",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "word": "calm",
+        "from": 8,
+        "to": 20
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "chapter": 3,
+    "from": 2554,
+    "duration": 29,
+    "text": "And give a surprisingly",
+    "words": [
+      {
+        "word": "and",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "give",
+        "from": 4,
+        "to": 8
+      },
+      {
+        "word": "a",
+        "from": 8,
+        "to": 9
+      },
+      {
+        "word": "surprisingly",
+        "from": 9,
+        "to": 29
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "chapter": 3,
+    "from": 2583,
+    "duration": 33,
+    "text": "intelligent answer.",
+    "words": [
+      {
+        "word": "intelligent",
+        "from": 0,
+        "to": 16
+      },
+      {
+        "word": "answer",
+        "from": 16,
+        "to": 30
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "chapter": 3,
+    "from": 2620,
+    "duration": 32,
+    "text": "Everyone nods.",
+    "words": [
+      {
+        "word": "everyone",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "word": "nods",
+        "from": 12,
+        "to": 29
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "chapter": 3,
+    "from": 2654,
+    "duration": 47,
+    "text": "Your boss looks impressed.",
+    "words": [
+      {
+        "word": "your",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "boss",
+        "from": 3,
+        "to": 17
+      },
+      {
+        "word": "looks",
+        "from": 17,
+        "to": 24
+      },
+      {
+        "word": "impressed",
+        "from": 24,
+        "to": 47
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "chapter": 3,
+    "from": 2701,
+    "duration": 71,
+    "text": "Congratulations. You just used a",
+    "words": [
+      {
+        "word": "congratulations",
+        "from": 0,
+        "to": 34
+      },
+      {
+        "word": "you",
+        "from": 47,
+        "to": 52
+      },
+      {
+        "word": "just",
+        "from": 52,
+        "to": 60
+      },
+      {
+        "word": "used",
+        "from": 60,
+        "to": 69
+      },
+      {
+        "word": "a",
+        "from": 69,
+        "to": 71
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "chapter": 3,
+    "from": 2772,
+    "duration": 55,
+    "text": "supernatural ability to look like",
+    "words": [
+      {
+        "word": "supernatural",
+        "from": 0,
+        "to": 23
+      },
+      {
+        "word": "ability",
+        "from": 23,
+        "to": 35
+      },
+      {
+        "word": "to",
+        "from": 35,
+        "to": 40
+      },
+      {
+        "word": "look",
+        "from": 40,
+        "to": 48
+      },
+      {
+        "word": "like",
+        "from": 48,
+        "to": 55
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "chapter": 3,
+    "from": 2827,
+    "duration": 63,
+    "text": "someone, who was actually paying",
+    "words": [
+      {
+        "word": "someone",
+        "from": 0,
+        "to": 16
+      },
+      {
+        "word": "who",
+        "from": 25,
+        "to": 28
+      },
+      {
+        "word": "was",
+        "from": 28,
+        "to": 34
+      },
+      {
+        "word": "actually",
+        "from": 34,
+        "to": 49
+      },
+      {
+        "word": "paying",
+        "from": 49,
+        "to": 63
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "chapter": 3,
+    "from": 2890,
+    "duration": 44,
+    "text": "attention during the meeting.",
+    "words": [
+      {
+        "word": "attention",
+        "from": 0,
+        "to": 17
+      },
+      {
+        "word": "during",
+        "from": 17,
+        "to": 26
+      },
+      {
+        "word": "the",
+        "from": 26,
+        "to": 28
+      },
+      {
+        "word": "meeting",
+        "from": 28,
+        "to": 44
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "chapter": 3,
+    "from": 2934,
+    "duration": 55,
+    "text": "And honestly, that might be one",
+    "words": [
+      {
+        "word": "and",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "word": "honestly",
+        "from": 11,
+        "to": 29
+      },
+      {
+        "word": "that",
+        "from": 29,
+        "to": 35
+      },
+      {
+        "word": "might",
+        "from": 35,
+        "to": 43
+      },
+      {
+        "word": "be",
+        "from": 43,
+        "to": 48
+      },
+      {
+        "word": "one",
+        "from": 48,
+        "to": 55
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "chapter": 3,
+    "from": 2989,
+    "duration": 32,
+    "text": "of the best uses of this",
+    "words": [
+      {
+        "word": "of",
+        "from": 0,
+        "to": 2
+      },
+      {
+        "word": "the",
+        "from": 2,
+        "to": 4
+      },
+      {
+        "word": "best",
+        "from": 4,
+        "to": 13
+      },
+      {
+        "word": "uses",
+        "from": 13,
+        "to": 24
+      },
+      {
+        "word": "of",
+        "from": 24,
+        "to": 27
+      },
+      {
+        "word": "this",
+        "from": 27,
+        "to": 32
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "chapter": 3,
+    "from": 3021,
+    "duration": 19,
+    "text": "power.",
+    "words": [
+      {
+        "word": "power",
+        "from": 0,
+        "to": 16
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "chapter": 4,
+    "from": 3060,
+    "duration": 43,
+    "text": "Sometimes the power would help",
+    "words": [
+      {
+        "word": "sometimes",
+        "from": 0,
+        "to": 16
+      },
+      {
+        "word": "the",
+        "from": 16,
+        "to": 17
+      },
+      {
+        "word": "power",
+        "from": 17,
+        "to": 27
+      },
+      {
+        "word": "would",
+        "from": 27,
+        "to": 33
+      },
+      {
+        "word": "help",
+        "from": 33,
+        "to": 43
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "chapter": 4,
+    "from": 3103,
+    "duration": 46,
+    "text": "with much smaller things.",
+    "words": [
+      {
+        "word": "with",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "much",
+        "from": 4,
+        "to": 14
+      },
+      {
+        "word": "smaller",
+        "from": 14,
+        "to": 27
+      },
+      {
+        "word": "things",
+        "from": 27,
+        "to": 46
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "chapter": 4,
+    "from": 3149,
+    "duration": 30,
+    "text": "You see your phone about to",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "see",
+        "from": 3,
+        "to": 9
+      },
+      {
+        "word": "your",
+        "from": 9,
+        "to": 12
+      },
+      {
+        "word": "phone",
+        "from": 12,
+        "to": 21
+      },
+      {
+        "word": "about",
+        "from": 21,
+        "to": 28
+      },
+      {
+        "word": "to",
+        "from": 28,
+        "to": 30
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "chapter": 4,
+    "from": 3179,
+    "duration": 29,
+    "text": "fall off the table.",
+    "words": [
+      {
+        "word": "fall",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "word": "off",
+        "from": 9,
+        "to": 13
+      },
+      {
+        "word": "the",
+        "from": 13,
+        "to": 16
+      },
+      {
+        "word": "table",
+        "from": 16,
+        "to": 29
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "chapter": 4,
+    "from": 3208,
+    "duration": 47,
+    "text": "The screen hits the floor.",
+    "words": [
+      {
+        "word": "the",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "word": "screen",
+        "from": 11,
+        "to": 22
+      },
+      {
+        "word": "hits",
+        "from": 22,
+        "to": 29
+      },
+      {
+        "word": "the",
+        "from": 29,
+        "to": 31
+      },
+      {
+        "word": "floor",
+        "from": 31,
+        "to": 47
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "chapter": 4,
+    "from": 3255,
+    "duration": 46,
+    "text": "Shatters. You return to the",
+    "words": [
+      {
+        "word": "shatters",
+        "from": 0,
+        "to": 20
+      },
+      {
+        "word": "you",
+        "from": 26,
+        "to": 30
+      },
+      {
+        "word": "return",
+        "from": 30,
+        "to": 40
+      },
+      {
+        "word": "to",
+        "from": 40,
+        "to": 43
+      },
+      {
+        "word": "the",
+        "from": 43,
+        "to": 46
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "chapter": 4,
+    "from": 3301,
+    "duration": 49,
+    "text": "present. Calmly reach out your",
+    "words": [
+      {
+        "word": "present",
+        "from": 0,
+        "to": 16
+      },
+      {
+        "word": "calmly",
+        "from": 22,
+        "to": 33
+      },
+      {
+        "word": "reach",
+        "from": 33,
+        "to": 41
+      },
+      {
+        "word": "out",
+        "from": 41,
+        "to": 45
+      },
+      {
+        "word": "your",
+        "from": 45,
+        "to": 49
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "chapter": 4,
+    "from": 3350,
+    "duration": 57,
+    "text": "hand. The cat pushes the phone.",
+    "words": [
+      {
+        "word": "hand",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "word": "the",
+        "from": 12,
+        "to": 20
+      },
+      {
+        "word": "cat",
+        "from": 20,
+        "to": 29
+      },
+      {
+        "word": "pushes",
+        "from": 29,
+        "to": 40
+      },
+      {
+        "word": "the",
+        "from": 40,
+        "to": 42
+      },
+      {
+        "word": "phone",
+        "from": 42,
+        "to": 54
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "chapter": 4,
+    "from": 3411,
+    "duration": 57,
+    "text": "And, you catch it.",
+    "words": [
+      {
+        "word": "and",
+        "from": 0,
+        "to": 13
+      },
+      {
+        "word": "you",
+        "from": 32,
+        "to": 36
+      },
+      {
+        "word": "catch",
+        "from": 36,
+        "to": 46
+      },
+      {
+        "word": "it",
+        "from": 46,
+        "to": 54
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "chapter": 4,
+    "from": 3470,
+    "duration": 50,
+    "text": "Perfect. Your superpower just",
+    "words": [
+      {
+        "word": "perfect",
+        "from": 0,
+        "to": 18
+      },
+      {
+        "word": "your",
+        "from": 18,
+        "to": 23
+      },
+      {
+        "word": "superpower",
+        "from": 23,
+        "to": 44
+      },
+      {
+        "word": "just",
+        "from": 44,
+        "to": 50
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "chapter": 4,
+    "from": 3520,
+    "duration": 38,
+    "text": "saved you a few hundred dollars",
+    "words": [
+      {
+        "word": "saved",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "word": "you",
+        "from": 9,
+        "to": 13
+      },
+      {
+        "word": "a",
+        "from": 13,
+        "to": 14
+      },
+      {
+        "word": "few",
+        "from": 14,
+        "to": 19
+      },
+      {
+        "word": "hundred",
+        "from": 19,
+        "to": 26
+      },
+      {
+        "word": "dollars",
+        "from": 26,
+        "to": 38
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "chapter": 4,
+    "from": 3558,
+    "duration": 18,
+    "text": "in repairs.",
+    "words": [
+      {
+        "word": "in",
+        "from": 0,
+        "to": 2
+      },
+      {
+        "word": "repairs",
+        "from": 2,
+        "to": 18
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "chapter": 4,
+    "from": 3576,
+    "duration": 48,
+    "text": "But from this point on, things",
+    "words": [
+      {
+        "word": "but",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "from",
+        "from": 4,
+        "to": 11
+      },
+      {
+        "word": "this",
+        "from": 11,
+        "to": 17
+      },
+      {
+        "word": "point",
+        "from": 17,
+        "to": 28
+      },
+      {
+        "word": "on",
+        "from": 28,
+        "to": 40
+      },
+      {
+        "word": "things",
+        "from": 40,
+        "to": 48
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "chapter": 4,
+    "from": 3624,
+    "duration": 61,
+    "text": "start getting much more serious.",
+    "words": [
+      {
+        "word": "start",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "word": "getting",
+        "from": 10,
+        "to": 21
+      },
+      {
+        "word": "much",
+        "from": 21,
+        "to": 29
+      },
+      {
+        "word": "more",
+        "from": 29,
+        "to": 34
+      },
+      {
+        "word": "serious",
+        "from": 34,
+        "to": 58
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "chapter": 5,
+    "from": 3705,
+    "duration": 31,
+    "text": "You are about to cross the",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "are",
+        "from": 5,
+        "to": 8
+      },
+      {
+        "word": "about",
+        "from": 8,
+        "to": 16
+      },
+      {
+        "word": "to",
+        "from": 16,
+        "to": 18
+      },
+      {
+        "word": "cross",
+        "from": 18,
+        "to": 29
+      },
+      {
+        "word": "the",
+        "from": 29,
+        "to": 31
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "chapter": 5,
+    "from": 3736,
+    "duration": 52,
+    "text": "street. The light is green.",
+    "words": [
+      {
+        "word": "street",
+        "from": 0,
+        "to": 18
+      },
+      {
+        "word": "the",
+        "from": 18,
+        "to": 21
+      },
+      {
+        "word": "light",
+        "from": 21,
+        "to": 32
+      },
+      {
+        "word": "is",
+        "from": 32,
+        "to": 38
+      },
+      {
+        "word": "green",
+        "from": 38,
+        "to": 49
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "chapter": 5,
+    "from": 3791,
+    "duration": 61,
+    "text": "Everything looks completely normal.",
+    "words": [
+      {
+        "word": "everything",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "word": "looks",
+        "from": 15,
+        "to": 23
+      },
+      {
+        "word": "completely",
+        "from": 23,
+        "to": 47
+      },
+      {
+        "word": "normal",
+        "from": 47,
+        "to": 61
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "chapter": 5,
+    "from": 3852,
+    "duration": 28,
+    "text": "Then you blink.",
+    "words": [
+      {
+        "word": "then",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "word": "you",
+        "from": 11,
+        "to": 14
+      },
+      {
+        "word": "blink",
+        "from": 14,
+        "to": 25
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "chapter": 5,
+    "from": 3883,
+    "duration": 42,
+    "text": "And see, a vehicle speeding out",
+    "words": [
+      {
+        "word": "and",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "see",
+        "from": 4,
+        "to": 12
+      },
+      {
+        "word": "a",
+        "from": 12,
+        "to": 13
+      },
+      {
+        "word": "vehicle",
+        "from": 13,
+        "to": 25
+      },
+      {
+        "word": "speeding",
+        "from": 25,
+        "to": 38
+      },
+      {
+        "word": "out",
+        "from": 38,
+        "to": 42
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "chapter": 5,
+    "from": 3925,
+    "duration": 33,
+    "text": "from a blind corner.",
+    "words": [
+      {
+        "word": "from",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "word": "a",
+        "from": 6,
+        "to": 7
+      },
+      {
+        "word": "blind",
+        "from": 7,
+        "to": 16
+      },
+      {
+        "word": "corner",
+        "from": 16,
+        "to": 30
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "chapter": 5,
+    "from": 3962,
+    "duration": 35,
+    "text": "If you keep moving, you are",
+    "words": [
+      {
+        "word": "if",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "you",
+        "from": 4,
+        "to": 7
+      },
+      {
+        "word": "keep",
+        "from": 7,
+        "to": 13
+      },
+      {
+        "word": "moving",
+        "from": 13,
+        "to": 29
+      },
+      {
+        "word": "you",
+        "from": 29,
+        "to": 32
+      },
+      {
+        "word": "are",
+        "from": 32,
+        "to": 35
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "chapter": 5,
+    "from": 3997,
+    "duration": 33,
+    "text": "going to collide.",
+    "words": [
+      {
+        "word": "going",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "word": "to",
+        "from": 7,
+        "to": 9
+      },
+      {
+        "word": "collide",
+        "from": 9,
+        "to": 33
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "chapter": 5,
+    "from": 4030,
+    "duration": 35,
+    "text": "You return to the present.",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "return",
+        "from": 3,
+        "to": 14
+      },
+      {
+        "word": "to",
+        "from": 14,
+        "to": 17
+      },
+      {
+        "word": "the",
+        "from": 17,
+        "to": 20
+      },
+      {
+        "word": "present",
+        "from": 20,
+        "to": 35
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "chapter": 5,
+    "from": 4065,
+    "duration": 24,
+    "text": "And stop.",
+    "words": [
+      {
+        "word": "and",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "stop",
+        "from": 5,
+        "to": 24
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "chapter": 5,
+    "from": 4089,
+    "duration": 16,
+    "text": "One second.",
+    "words": [
+      {
+        "word": "one",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "second",
+        "from": 4,
+        "to": 16
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "chapter": 5,
+    "from": 4105,
+    "duration": 25,
+    "text": "Two seconds.",
+    "words": [
+      {
+        "word": "two",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "word": "seconds",
+        "from": 6,
+        "to": 25
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "chapter": 5,
+    "from": 4130,
+    "duration": 48,
+    "text": "Three. The vehicle actually flies",
+    "words": [
+      {
+        "word": "three",
+        "from": 0,
+        "to": 14
+      },
+      {
+        "word": "the",
+        "from": 14,
+        "to": 17
+      },
+      {
+        "word": "vehicle",
+        "from": 17,
+        "to": 29
+      },
+      {
+        "word": "actually",
+        "from": 29,
+        "to": 38
+      },
+      {
+        "word": "flies",
+        "from": 38,
+        "to": 48
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "chapter": 5,
+    "from": 4178,
+    "duration": 18,
+    "text": "past you.",
+    "words": [
+      {
+        "word": "past",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "word": "you",
+        "from": 10,
+        "to": 15
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "chapter": 5,
+    "from": 4199,
+    "duration": 38,
+    "text": "Only a few feet away.",
+    "words": [
+      {
+        "word": "only",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "word": "a",
+        "from": 8,
+        "to": 10
+      },
+      {
+        "word": "few",
+        "from": 10,
+        "to": 16
+      },
+      {
+        "word": "feet",
+        "from": 16,
+        "to": 22
+      },
+      {
+        "word": "away",
+        "from": 22,
+        "to": 35
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "chapter": 5,
+    "from": 4243,
+    "duration": 49,
+    "text": "And for the first time, you",
+    "words": [
+      {
+        "word": "and",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "for",
+        "from": 5,
+        "to": 7
+      },
+      {
+        "word": "the",
+        "from": 7,
+        "to": 10
+      },
+      {
+        "word": "first",
+        "from": 10,
+        "to": 21
+      },
+      {
+        "word": "time",
+        "from": 21,
+        "to": 32
+      },
+      {
+        "word": "you",
+        "from": 44,
+        "to": 49
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "chapter": 5,
+    "from": 4292,
+    "duration": 25,
+    "text": "realize something.",
+    "words": [
+      {
+        "word": "realize",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "word": "something",
+        "from": 11,
+        "to": 25
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "chapter": 5,
+    "from": 4317,
+    "duration": 50,
+    "text": "This power is not just useful",
+    "words": [
+      {
+        "word": "this",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "word": "power",
+        "from": 12,
+        "to": 22
+      },
+      {
+        "word": "is",
+        "from": 22,
+        "to": 25
+      },
+      {
+        "word": "not",
+        "from": 25,
+        "to": 32
+      },
+      {
+        "word": "just",
+        "from": 32,
+        "to": 38
+      },
+      {
+        "word": "useful",
+        "from": 38,
+        "to": 50
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "chapter": 5,
+    "from": 4367,
+    "duration": 51,
+    "text": "for avoiding embarrassing moments.",
+    "words": [
+      {
+        "word": "for",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "avoiding",
+        "from": 5,
+        "to": 17
+      },
+      {
+        "word": "embarrassing",
+        "from": 17,
+        "to": 33
+      },
+      {
+        "word": "moments",
+        "from": 33,
+        "to": 51
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "chapter": 5,
+    "from": 4418,
+    "duration": 41,
+    "text": "It could save your life.",
+    "words": [
+      {
+        "word": "it",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "could",
+        "from": 5,
+        "to": 10
+      },
+      {
+        "word": "save",
+        "from": 10,
+        "to": 22
+      },
+      {
+        "word": "your",
+        "from": 22,
+        "to": 26
+      },
+      {
+        "word": "life",
+        "from": 26,
+        "to": 41
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "chapter": 5,
+    "from": 4459,
+    "duration": 44,
+    "text": "Maybe even someone else's.",
+    "words": [
+      {
+        "word": "maybe",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "word": "even",
+        "from": 9,
+        "to": 16
+      },
+      {
+        "word": "someone",
+        "from": 16,
+        "to": 23
+      },
+      {
+        "word": "else's",
+        "from": 23,
+        "to": 41
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "chapter": 6,
+    "from": 4525,
+    "duration": 28,
+    "text": "And of course, you would",
+    "words": [
+      {
+        "word": "and",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "of",
+        "from": 5,
+        "to": 8
+      },
+      {
+        "word": "course",
+        "from": 8,
+        "to": 22
+      },
+      {
+        "word": "you",
+        "from": 22,
+        "to": 25
+      },
+      {
+        "word": "would",
+        "from": 25,
+        "to": 28
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "chapter": 6,
+    "from": 4553,
+    "duration": 49,
+    "text": "immediately think about sports.",
+    "words": [
+      {
+        "word": "immediately",
+        "from": 0,
+        "to": 16
+      },
+      {
+        "word": "think",
+        "from": 16,
+        "to": 22
+      },
+      {
+        "word": "about",
+        "from": 22,
+        "to": 28
+      },
+      {
+        "word": "sports",
+        "from": 28,
+        "to": 49
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "chapter": 6,
+    "from": 4602,
+    "duration": 33,
+    "text": "During a game, you see your",
+    "words": [
+      {
+        "word": "during",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "word": "a",
+        "from": 9,
+        "to": 11
+      },
+      {
+        "word": "game",
+        "from": 11,
+        "to": 20
+      },
+      {
+        "word": "you",
+        "from": 20,
+        "to": 23
+      },
+      {
+        "word": "see",
+        "from": 23,
+        "to": 28
+      },
+      {
+        "word": "your",
+        "from": 28,
+        "to": 33
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "chapter": 6,
+    "from": 4635,
+    "duration": 39,
+    "text": "opponent move to the right.",
+    "words": [
+      {
+        "word": "opponent",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "word": "move",
+        "from": 12,
+        "to": 17
+      },
+      {
+        "word": "to",
+        "from": 17,
+        "to": 20
+      },
+      {
+        "word": "the",
+        "from": 20,
+        "to": 22
+      },
+      {
+        "word": "right",
+        "from": 22,
+        "to": 36
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "chapter": 6,
+    "from": 4678,
+    "duration": 54,
+    "text": "Easy. You return to the present,",
+    "words": [
+      {
+        "word": "easy",
+        "from": 0,
+        "to": 18
+      },
+      {
+        "word": "you",
+        "from": 18,
+        "to": 22
+      },
+      {
+        "word": "return",
+        "from": 22,
+        "to": 33
+      },
+      {
+        "word": "to",
+        "from": 33,
+        "to": 35
+      },
+      {
+        "word": "the",
+        "from": 35,
+        "to": 38
+      },
+      {
+        "word": "present",
+        "from": 38,
+        "to": 54
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "chapter": 6,
+    "from": 4732,
+    "duration": 43,
+    "text": "and move right before he even",
+    "words": [
+      {
+        "word": "and",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "word": "move",
+        "from": 6,
+        "to": 14
+      },
+      {
+        "word": "right",
+        "from": 14,
+        "to": 21
+      },
+      {
+        "word": "before",
+        "from": 21,
+        "to": 30
+      },
+      {
+        "word": "he",
+        "from": 30,
+        "to": 36
+      },
+      {
+        "word": "even",
+        "from": 36,
+        "to": 43
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "chapter": 6,
+    "from": 4775,
+    "duration": 29,
+    "text": "makes his move.",
+    "words": [
+      {
+        "word": "makes",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "word": "his",
+        "from": 8,
+        "to": 13
+      },
+      {
+        "word": "move",
+        "from": 13,
+        "to": 29
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "chapter": 6,
+    "from": 4804,
+    "duration": 31,
+    "text": "But there is a problem.",
+    "words": [
+      {
+        "word": "but",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "there",
+        "from": 4,
+        "to": 10
+      },
+      {
+        "word": "is",
+        "from": 10,
+        "to": 13
+      },
+      {
+        "word": "a",
+        "from": 13,
+        "to": 14
+      },
+      {
+        "word": "problem",
+        "from": 14,
+        "to": 31
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "chapter": 6,
+    "from": 4835,
+    "duration": 37,
+    "text": "He sees you move.",
+    "words": [
+      {
+        "word": "he",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "word": "sees",
+        "from": 6,
+        "to": 17
+      },
+      {
+        "word": "you",
+        "from": 17,
+        "to": 19
+      },
+      {
+        "word": "move",
+        "from": 19,
+        "to": 37
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "chapter": 6,
+    "from": 4872,
+    "duration": 38,
+    "text": "So he changes direction.",
+    "words": [
+      {
+        "word": "so",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "he",
+        "from": 4,
+        "to": 8
+      },
+      {
+        "word": "changes",
+        "from": 8,
+        "to": 21
+      },
+      {
+        "word": "direction",
+        "from": 21,
+        "to": 38
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "chapter": 6,
+    "from": 4910,
+    "duration": 31,
+    "text": "Left. Wait.",
+    "words": [
+      {
+        "word": "left",
+        "from": 0,
+        "to": 16
+      },
+      {
+        "word": "wait",
+        "from": 16,
+        "to": 31
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "chapter": 6,
+    "from": 4941,
+    "duration": 37,
+    "text": "That is not what you saw.",
+    "words": [
+      {
+        "word": "that",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "is",
+        "from": 5,
+        "to": 10
+      },
+      {
+        "word": "not",
+        "from": 10,
+        "to": 16
+      },
+      {
+        "word": "what",
+        "from": 16,
+        "to": 21
+      },
+      {
+        "word": "you",
+        "from": 21,
+        "to": 23
+      },
+      {
+        "word": "saw",
+        "from": 23,
+        "to": 37
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "chapter": 6,
+    "from": 4978,
+    "duration": 38,
+    "text": "And that is when you discover",
+    "words": [
+      {
+        "word": "and",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "word": "that",
+        "from": 6,
+        "to": 12
+      },
+      {
+        "word": "is",
+        "from": 12,
+        "to": 17
+      },
+      {
+        "word": "when",
+        "from": 17,
+        "to": 21
+      },
+      {
+        "word": "you",
+        "from": 21,
+        "to": 24
+      },
+      {
+        "word": "discover",
+        "from": 24,
+        "to": 38
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "chapter": 6,
+    "from": 5016,
+    "duration": 37,
+    "text": "the biggest problem with your",
+    "words": [
+      {
+        "word": "the",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "biggest",
+        "from": 4,
+        "to": 17
+      },
+      {
+        "word": "problem",
+        "from": 17,
+        "to": 30
+      },
+      {
+        "word": "with",
+        "from": 30,
+        "to": 34
+      },
+      {
+        "word": "your",
+        "from": 34,
+        "to": 37
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "chapter": 6,
+    "from": 5053,
+    "duration": 66,
+    "text": "power. The future is not fixed.",
+    "words": [
+      {
+        "word": "power",
+        "from": 0,
+        "to": 22
+      },
+      {
+        "word": "the",
+        "from": 22,
+        "to": 25
+      },
+      {
+        "word": "future",
+        "from": 25,
+        "to": 38
+      },
+      {
+        "word": "is",
+        "from": 38,
+        "to": 43
+      },
+      {
+        "word": "not",
+        "from": 43,
+        "to": 49
+      },
+      {
+        "word": "fixed",
+        "from": 49,
+        "to": 66
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "chapter": 6,
+    "from": 5119,
+    "duration": 33,
+    "text": "The moment you change what you",
+    "words": [
+      {
+        "word": "the",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "moment",
+        "from": 3,
+        "to": 13
+      },
+      {
+        "word": "you",
+        "from": 13,
+        "to": 16
+      },
+      {
+        "word": "change",
+        "from": 16,
+        "to": 26
+      },
+      {
+        "word": "what",
+        "from": 26,
+        "to": 30
+      },
+      {
+        "word": "you",
+        "from": 30,
+        "to": 33
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "chapter": 6,
+    "from": 5152,
+    "duration": 52,
+    "text": "do, the future changes too.",
+    "words": [
+      {
+        "word": "do",
+        "from": 0,
+        "to": 13
+      },
+      {
+        "word": "the",
+        "from": 13,
+        "to": 16
+      },
+      {
+        "word": "future",
+        "from": 16,
+        "to": 26
+      },
+      {
+        "word": "changes",
+        "from": 26,
+        "to": 41
+      },
+      {
+        "word": "too",
+        "from": 41,
+        "to": 49
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "chapter": 6,
+    "from": 5207,
+    "duration": 40,
+    "text": "Every decision creates a different",
+    "words": [
+      {
+        "word": "every",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "word": "decision",
+        "from": 6,
+        "to": 20
+      },
+      {
+        "word": "creates",
+        "from": 20,
+        "to": 29
+      },
+      {
+        "word": "a",
+        "from": 29,
+        "to": 31
+      },
+      {
+        "word": "different",
+        "from": 31,
+        "to": 40
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "chapter": 6,
+    "from": 5247,
+    "duration": 19,
+    "text": "outcome.",
+    "words": [
+      {
+        "word": "outcome",
+        "from": 0,
+        "to": 16
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "chapter": 7,
+    "from": 5286,
+    "duration": 45,
+    "text": "During a job interview, you see",
+    "words": [
+      {
+        "word": "during",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "word": "a",
+        "from": 9,
+        "to": 10
+      },
+      {
+        "word": "job",
+        "from": 10,
+        "to": 19
+      },
+      {
+        "word": "interview",
+        "from": 19,
+        "to": 32
+      },
+      {
+        "word": "you",
+        "from": 37,
+        "to": 40
+      },
+      {
+        "word": "see",
+        "from": 40,
+        "to": 45
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "chapter": 7,
+    "from": 5331,
+    "duration": 24,
+    "text": "the next question. \"",
+    "words": [
+      {
+        "word": "the",
+        "from": 0,
+        "to": 2
+      },
+      {
+        "word": "next",
+        "from": 2,
+        "to": 8
+      },
+      {
+        "word": "question",
+        "from": 8,
+        "to": 21
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "chapter": 7,
+    "from": 5365,
+    "duration": 43,
+    "text": "What is your biggest weakness?\"",
+    "words": [
+      {
+        "word": "what",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "is",
+        "from": 3,
+        "to": 6
+      },
+      {
+        "word": "your",
+        "from": 6,
+        "to": 9
+      },
+      {
+        "word": "biggest",
+        "from": 9,
+        "to": 22
+      },
+      {
+        "word": "weakness",
+        "from": 22,
+        "to": 40
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "chapter": 7,
+    "from": 5413,
+    "duration": 48,
+    "text": "You have 10 seconds to prepare.",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "have",
+        "from": 3,
+        "to": 7
+      },
+      {
+        "word": "ten",
+        "from": 7,
+        "to": 15
+      },
+      {
+        "word": "seconds",
+        "from": 15,
+        "to": 27
+      },
+      {
+        "word": "to",
+        "from": 27,
+        "to": 29
+      },
+      {
+        "word": "prepare",
+        "from": 29,
+        "to": 45
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "chapter": 7,
+    "from": 5470,
+    "duration": 62,
+    "text": "This time, no awkward silence.",
+    "words": [
+      {
+        "word": "this",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "word": "time",
+        "from": 6,
+        "to": 22
+      },
+      {
+        "word": "no",
+        "from": 22,
+        "to": 28
+      },
+      {
+        "word": "awkward",
+        "from": 28,
+        "to": 40
+      },
+      {
+        "word": "silence",
+        "from": 40,
+        "to": 62
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "chapter": 7,
+    "from": 5532,
+    "duration": 22,
+    "text": "No panic.",
+    "words": [
+      {
+        "word": "no",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "panic",
+        "from": 5,
+        "to": 22
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "chapter": 7,
+    "from": 5554,
+    "duration": 46,
+    "text": "You deliver the perfect answer.",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "deliver",
+        "from": 4,
+        "to": 15
+      },
+      {
+        "word": "the",
+        "from": 15,
+        "to": 17
+      },
+      {
+        "word": "perfect",
+        "from": 17,
+        "to": 30
+      },
+      {
+        "word": "answer",
+        "from": 30,
+        "to": 43
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "chapter": 7,
+    "from": 5607,
+    "duration": 30,
+    "text": "The interviewer smiles.",
+    "words": [
+      {
+        "word": "the",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "interviewer",
+        "from": 4,
+        "to": 15
+      },
+      {
+        "word": "smiles",
+        "from": 15,
+        "to": 30
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "chapter": 7,
+    "from": 5637,
+    "duration": 33,
+    "text": "But then you look 10 seconds",
+    "words": [
+      {
+        "word": "but",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "then",
+        "from": 4,
+        "to": 8
+      },
+      {
+        "word": "you",
+        "from": 8,
+        "to": 11
+      },
+      {
+        "word": "look",
+        "from": 11,
+        "to": 16
+      },
+      {
+        "word": "ten",
+        "from": 16,
+        "to": 22
+      },
+      {
+        "word": "seconds",
+        "from": 22,
+        "to": 33
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "chapter": 7,
+    "from": 5670,
+    "duration": 19,
+    "text": "ahead again.",
+    "words": [
+      {
+        "word": "ahead",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "word": "again",
+        "from": 6,
+        "to": 16
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "chapter": 7,
+    "from": 5691,
+    "duration": 38,
+    "text": "And hear him ask: \"Did you",
+    "words": [
+      {
+        "word": "and",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "hear",
+        "from": 4,
+        "to": 10
+      },
+      {
+        "word": "him",
+        "from": 10,
+        "to": 13
+      },
+      {
+        "word": "ask",
+        "from": 13,
+        "to": 30
+      },
+      {
+        "word": "did",
+        "from": 30,
+        "to": 35
+      },
+      {
+        "word": "you",
+        "from": 35,
+        "to": 38
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "chapter": 7,
+    "from": 5729,
+    "duration": 50,
+    "text": "prepare that answer beforehand?\"",
+    "words": [
+      {
+        "word": "prepare",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "word": "that",
+        "from": 10,
+        "to": 17
+      },
+      {
+        "word": "answer",
+        "from": 17,
+        "to": 26
+      },
+      {
+        "word": "beforehand",
+        "from": 26,
+        "to": 50
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "chapter": 7,
+    "from": 5779,
+    "duration": 51,
+    "text": "Okay. Maybe this power cannot save",
+    "words": [
+      {
+        "word": "okay",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "word": "maybe",
+        "from": 8,
+        "to": 17
+      },
+      {
+        "word": "this",
+        "from": 17,
+        "to": 21
+      },
+      {
+        "word": "power",
+        "from": 21,
+        "to": 30
+      },
+      {
+        "word": "cannot",
+        "from": 30,
+        "to": 40
+      },
+      {
+        "word": "save",
+        "from": 40,
+        "to": 51
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "chapter": 7,
+    "from": 5830,
+    "duration": 39,
+    "text": "you from every interview.",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "from",
+        "from": 4,
+        "to": 10
+      },
+      {
+        "word": "every",
+        "from": 10,
+        "to": 19
+      },
+      {
+        "word": "interview",
+        "from": 19,
+        "to": 36
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "chapter": 8,
+    "from": 5888,
+    "duration": 53,
+    "text": "But some things are much harder.",
+    "words": [
+      {
+        "word": "but",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "word": "some",
+        "from": 8,
+        "to": 14
+      },
+      {
+        "word": "things",
+        "from": 14,
+        "to": 23
+      },
+      {
+        "word": "are",
+        "from": 23,
+        "to": 25
+      },
+      {
+        "word": "much",
+        "from": 25,
+        "to": 35
+      },
+      {
+        "word": "harder",
+        "from": 35,
+        "to": 50
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "chapter": 8,
+    "from": 5944,
+    "duration": 29,
+    "text": "You are standing in front of",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 2
+      },
+      {
+        "word": "are",
+        "from": 2,
+        "to": 5
+      },
+      {
+        "word": "standing",
+        "from": 5,
+        "to": 18
+      },
+      {
+        "word": "in",
+        "from": 18,
+        "to": 20
+      },
+      {
+        "word": "front",
+        "from": 20,
+        "to": 27
+      },
+      {
+        "word": "of",
+        "from": 27,
+        "to": 29
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "chapter": 8,
+    "from": 5973,
+    "duration": 50,
+    "text": "someone you have liked for months.",
+    "words": [
+      {
+        "word": "someone",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "word": "you",
+        "from": 7,
+        "to": 11
+      },
+      {
+        "word": "have",
+        "from": 11,
+        "to": 17
+      },
+      {
+        "word": "liked",
+        "from": 17,
+        "to": 26
+      },
+      {
+        "word": "for",
+        "from": 26,
+        "to": 31
+      },
+      {
+        "word": "months",
+        "from": 31,
+        "to": 50
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "chapter": 8,
+    "from": 6023,
+    "duration": 38,
+    "text": "The words have been stuck in",
+    "words": [
+      {
+        "word": "the",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "word": "words",
+        "from": 8,
+        "to": 18
+      },
+      {
+        "word": "have",
+        "from": 18,
+        "to": 22
+      },
+      {
+        "word": "been",
+        "from": 22,
+        "to": 26
+      },
+      {
+        "word": "stuck",
+        "from": 26,
+        "to": 36
+      },
+      {
+        "word": "in",
+        "from": 36,
+        "to": 38
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "chapter": 8,
+    "from": 6061,
+    "duration": 35,
+    "text": "your head forever.",
+    "words": [
+      {
+        "word": "your",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "head",
+        "from": 4,
+        "to": 13
+      },
+      {
+        "word": "forever",
+        "from": 13,
+        "to": 32
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "chapter": 8,
+    "from": 6098,
+    "duration": 19,
+    "text": "You blink.",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "blink",
+        "from": 3,
+        "to": 16
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "chapter": 8,
+    "from": 6119,
+    "duration": 34,
+    "text": "And see her reaction. \"",
+    "words": [
+      {
+        "word": "and",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "see",
+        "from": 4,
+        "to": 10
+      },
+      {
+        "word": "her",
+        "from": 10,
+        "to": 13
+      },
+      {
+        "word": "reaction",
+        "from": 13,
+        "to": 31
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "chapter": 8,
+    "from": 6157,
+    "duration": 49,
+    "text": "I'm sorry,\" Your heart drops.",
+    "words": [
+      {
+        "word": "i'm",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "sorry",
+        "from": 4,
+        "to": 18
+      },
+      {
+        "word": "your",
+        "from": 24,
+        "to": 28
+      },
+      {
+        "word": "heart",
+        "from": 28,
+        "to": 33
+      },
+      {
+        "word": "drops",
+        "from": 33,
+        "to": 46
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "chapter": 8,
+    "from": 6209,
+    "duration": 32,
+    "text": "Now you have a choice.",
+    "words": [
+      {
+        "word": "now",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "you",
+        "from": 4,
+        "to": 7
+      },
+      {
+        "word": "have",
+        "from": 7,
+        "to": 11
+      },
+      {
+        "word": "a",
+        "from": 11,
+        "to": 12
+      },
+      {
+        "word": "choice",
+        "from": 12,
+        "to": 29
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "chapter": 8,
+    "from": 6245,
+    "duration": 32,
+    "text": "You could stay silent.",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "could",
+        "from": 3,
+        "to": 7
+      },
+      {
+        "word": "stay",
+        "from": 7,
+        "to": 14
+      },
+      {
+        "word": "silent",
+        "from": 14,
+        "to": 32
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "chapter": 8,
+    "from": 6277,
+    "duration": 18,
+    "text": "Say nothing.",
+    "words": [
+      {
+        "word": "say",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "nothing",
+        "from": 5,
+        "to": 18
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "chapter": 8,
+    "from": 6295,
+    "duration": 29,
+    "text": "Never get rejected.",
+    "words": [
+      {
+        "word": "never",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "word": "get",
+        "from": 7,
+        "to": 11
+      },
+      {
+        "word": "rejected",
+        "from": 11,
+        "to": 26
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "chapter": 8,
+    "from": 6326,
+    "duration": 35,
+    "text": "Never feel the pain.",
+    "words": [
+      {
+        "word": "never",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "word": "feel",
+        "from": 7,
+        "to": 14
+      },
+      {
+        "word": "the",
+        "from": 14,
+        "to": 16
+      },
+      {
+        "word": "pain",
+        "from": 16,
+        "to": 32
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "chapter": 8,
+    "from": 6366,
+    "duration": 47,
+    "text": "But then you start thinking, if",
+    "words": [
+      {
+        "word": "but",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "word": "then",
+        "from": 7,
+        "to": 11
+      },
+      {
+        "word": "you",
+        "from": 11,
+        "to": 13
+      },
+      {
+        "word": "start",
+        "from": 13,
+        "to": 20
+      },
+      {
+        "word": "thinking",
+        "from": 20,
+        "to": 35
+      },
+      {
+        "word": "if",
+        "from": 42,
+        "to": 47
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "chapter": 8,
+    "from": 6413,
+    "duration": 37,
+    "text": "you avoid every future you do",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "avoid",
+        "from": 4,
+        "to": 12
+      },
+      {
+        "word": "every",
+        "from": 12,
+        "to": 18
+      },
+      {
+        "word": "future",
+        "from": 18,
+        "to": 29
+      },
+      {
+        "word": "you",
+        "from": 29,
+        "to": 34
+      },
+      {
+        "word": "do",
+        "from": 34,
+        "to": 37
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "chapter": 8,
+    "from": 6450,
+    "duration": 78,
+    "text": "not like, are you really living?",
+    "words": [
+      {
+        "word": "not",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "word": "like",
+        "from": 6,
+        "to": 17
+      },
+      {
+        "word": "are",
+        "from": 44,
+        "to": 47
+      },
+      {
+        "word": "you",
+        "from": 47,
+        "to": 51
+      },
+      {
+        "word": "really",
+        "from": 51,
+        "to": 58
+      },
+      {
+        "word": "living",
+        "from": 58,
+        "to": 78
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "chapter": 8,
+    "from": 6528,
+    "duration": 32,
+    "text": "You take a breath.",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "take",
+        "from": 4,
+        "to": 11
+      },
+      {
+        "word": "a",
+        "from": 11,
+        "to": 12
+      },
+      {
+        "word": "breath",
+        "from": 12,
+        "to": 32
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "chapter": 8,
+    "from": 6560,
+    "duration": 35,
+    "text": "And say it anyway. \"",
+    "words": [
+      {
+        "word": "and",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "say",
+        "from": 5,
+        "to": 14
+      },
+      {
+        "word": "it",
+        "from": 14,
+        "to": 17
+      },
+      {
+        "word": "anyway",
+        "from": 17,
+        "to": 32
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "chapter": 8,
+    "from": 6600,
+    "duration": 18,
+    "text": "I like you.\"",
+    "words": [
+      {
+        "word": "i",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "like",
+        "from": 3,
+        "to": 10
+      },
+      {
+        "word": "you",
+        "from": 10,
+        "to": 15
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "chapter": 8,
+    "from": 6621,
+    "duration": 25,
+    "text": "She pauses.",
+    "words": [
+      {
+        "word": "she",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "pauses",
+        "from": 5,
+        "to": 22
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "chapter": 8,
+    "from": 6656,
+    "duration": 42,
+    "text": "Then, \"I'm sorry.",
+    "words": [
+      {
+        "word": "then",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "word": "i'm",
+        "from": 23,
+        "to": 27
+      },
+      {
+        "word": "sorry",
+        "from": 27,
+        "to": 39
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "chapter": 8,
+    "from": 6703,
+    "duration": 29,
+    "text": "I'm just not ready for a",
+    "words": [
+      {
+        "word": "i'm",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "just",
+        "from": 5,
+        "to": 10
+      },
+      {
+        "word": "not",
+        "from": 10,
+        "to": 15
+      },
+      {
+        "word": "ready",
+        "from": 15,
+        "to": 22
+      },
+      {
+        "word": "for",
+        "from": 22,
+        "to": 28
+      },
+      {
+        "word": "a",
+        "from": 28,
+        "to": 29
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "chapter": 8,
+    "from": 6732,
+    "duration": 53,
+    "text": "relationship.\" Exactly what you",
+    "words": [
+      {
+        "word": "relationship",
+        "from": 0,
+        "to": 24
+      },
+      {
+        "word": "exactly",
+        "from": 31,
+        "to": 46
+      },
+      {
+        "word": "what",
+        "from": 46,
+        "to": 50
+      },
+      {
+        "word": "you",
+        "from": 50,
+        "to": 53
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "chapter": 8,
+    "from": 6785,
+    "duration": 175,
+    "text": "saw. But this time, you smile.",
+    "words": [
+      {
+        "word": "saw",
+        "from": 0,
+        "to": 13
+      },
+      {
+        "word": "but",
+        "from": 66,
+        "to": 71
+      },
+      {
+        "word": "this",
+        "from": 71,
+        "to": 80
+      },
+      {
+        "word": "time",
+        "from": 80,
+        "to": 91
+      },
+      {
+        "word": "you",
+        "from": 157,
+        "to": 159
+      },
+      {
+        "word": "smile",
+        "from": 159,
+        "to": 172
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "chapter": 8,
+    "from": 6995,
+    "duration": 34,
+    "text": "Because at least now, you have",
+    "words": [
+      {
+        "word": "because",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "word": "at",
+        "from": 9,
+        "to": 11
+      },
+      {
+        "word": "least",
+        "from": 11,
+        "to": 19
+      },
+      {
+        "word": "now",
+        "from": 19,
+        "to": 26
+      },
+      {
+        "word": "you",
+        "from": 26,
+        "to": 30
+      },
+      {
+        "word": "have",
+        "from": 30,
+        "to": 34
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "chapter": 8,
+    "from": 7029,
+    "duration": 19,
+    "text": "an answer.",
+    "words": [
+      {
+        "word": "an",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "answer",
+        "from": 3,
+        "to": 19
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "chapter": 8,
+    "from": 7048,
+    "duration": 39,
+    "text": "Some futures do not need to",
+    "words": [
+      {
+        "word": "some",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "word": "futures",
+        "from": 8,
+        "to": 23
+      },
+      {
+        "word": "do",
+        "from": 23,
+        "to": 26
+      },
+      {
+        "word": "not",
+        "from": 26,
+        "to": 31
+      },
+      {
+        "word": "need",
+        "from": 31,
+        "to": 37
+      },
+      {
+        "word": "to",
+        "from": 37,
+        "to": 39
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "chapter": 8,
+    "from": 7087,
+    "duration": 25,
+    "text": "be changed.",
+    "words": [
+      {
+        "word": "be",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "changed",
+        "from": 3,
+        "to": 25
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "chapter": 8,
+    "from": 7112,
+    "duration": 37,
+    "text": "Sometimes, you just need enough",
+    "words": [
+      {
+        "word": "sometimes",
+        "from": 0,
+        "to": 17
+      },
+      {
+        "word": "you",
+        "from": 17,
+        "to": 19
+      },
+      {
+        "word": "just",
+        "from": 19,
+        "to": 25
+      },
+      {
+        "word": "need",
+        "from": 25,
+        "to": 29
+      },
+      {
+        "word": "enough",
+        "from": 29,
+        "to": 37
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "chapter": 8,
+    "from": 7149,
+    "duration": 38,
+    "text": "courage to face them.",
+    "words": [
+      {
+        "word": "courage",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "word": "to",
+        "from": 11,
+        "to": 13
+      },
+      {
+        "word": "face",
+        "from": 13,
+        "to": 22
+      },
+      {
+        "word": "them",
+        "from": 22,
+        "to": 35
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "chapter": 9,
+    "from": 7209,
+    "duration": 54,
+    "text": "Then one day, those 10 seconds",
+    "words": [
+      {
+        "word": "then",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "word": "one",
+        "from": 6,
+        "to": 14
+      },
+      {
+        "word": "day",
+        "from": 14,
+        "to": 28
+      },
+      {
+        "word": "those",
+        "from": 28,
+        "to": 34
+      },
+      {
+        "word": "ten",
+        "from": 34,
+        "to": 41
+      },
+      {
+        "word": "seconds",
+        "from": 41,
+        "to": 54
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "chapter": 9,
+    "from": 7263,
+    "duration": 27,
+    "text": "really change you.",
+    "words": [
+      {
+        "word": "really",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "word": "change",
+        "from": 8,
+        "to": 19
+      },
+      {
+        "word": "you",
+        "from": 19,
+        "to": 24
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "chapter": 9,
+    "from": 7294,
+    "duration": 36,
+    "text": "Your phone starts ringing.",
+    "words": [
+      {
+        "word": "your",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "phone",
+        "from": 3,
+        "to": 11
+      },
+      {
+        "word": "starts",
+        "from": 11,
+        "to": 19
+      },
+      {
+        "word": "ringing",
+        "from": 19,
+        "to": 33
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "chapter": 9,
+    "from": 7335,
+    "duration": 23,
+    "text": "It is your mom.",
+    "words": [
+      {
+        "word": "it",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "is",
+        "from": 4,
+        "to": 8
+      },
+      {
+        "word": "your",
+        "from": 8,
+        "to": 10
+      },
+      {
+        "word": "mom",
+        "from": 10,
+        "to": 20
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "chapter": 9,
+    "from": 7364,
+    "duration": 23,
+    "text": "You are busy.",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "are",
+        "from": 4,
+        "to": 7
+      },
+      {
+        "word": "busy",
+        "from": 7,
+        "to": 23
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "chapter": 9,
+    "from": 7387,
+    "duration": 41,
+    "text": "You think: \"I'll call her back",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "think",
+        "from": 4,
+        "to": 19
+      },
+      {
+        "word": "i'll",
+        "from": 19,
+        "to": 22
+      },
+      {
+        "word": "call",
+        "from": 22,
+        "to": 28
+      },
+      {
+        "word": "her",
+        "from": 28,
+        "to": 32
+      },
+      {
+        "word": "back",
+        "from": 32,
+        "to": 41
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "chapter": 9,
+    "from": 7428,
+    "duration": 67,
+    "text": "later.\" Your finger moves toward",
+    "words": [
+      {
+        "word": "later",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "word": "your",
+        "from": 35,
+        "to": 39
+      },
+      {
+        "word": "finger",
+        "from": 39,
+        "to": 48
+      },
+      {
+        "word": "moves",
+        "from": 48,
+        "to": 58
+      },
+      {
+        "word": "toward",
+        "from": 58,
+        "to": 67
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "chapter": 9,
+    "from": 7495,
+    "duration": 26,
+    "text": "the decline button.",
+    "words": [
+      {
+        "word": "the",
+        "from": 0,
+        "to": 2
+      },
+      {
+        "word": "decline",
+        "from": 2,
+        "to": 15
+      },
+      {
+        "word": "button",
+        "from": 15,
+        "to": 26
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "chapter": 9,
+    "from": 7521,
+    "duration": 45,
+    "text": "But out of habit, you look",
+    "words": [
+      {
+        "word": "but",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "word": "out",
+        "from": 11,
+        "to": 17
+      },
+      {
+        "word": "of",
+        "from": 17,
+        "to": 20
+      },
+      {
+        "word": "habit",
+        "from": 20,
+        "to": 36
+      },
+      {
+        "word": "you",
+        "from": 36,
+        "to": 40
+      },
+      {
+        "word": "look",
+        "from": 40,
+        "to": 45
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "chapter": 9,
+    "from": 7566,
+    "duration": 56,
+    "text": "10 seconds into the future.",
+    "words": [
+      {
+        "word": "ten",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "word": "seconds",
+        "from": 9,
+        "to": 27
+      },
+      {
+        "word": "into",
+        "from": 27,
+        "to": 33
+      },
+      {
+        "word": "the",
+        "from": 33,
+        "to": 36
+      },
+      {
+        "word": "future",
+        "from": 36,
+        "to": 56
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "chapter": 9,
+    "from": 7622,
+    "duration": 37,
+    "text": "You see yourself rejecting the",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 2
+      },
+      {
+        "word": "see",
+        "from": 2,
+        "to": 7
+      },
+      {
+        "word": "yourself",
+        "from": 7,
+        "to": 20
+      },
+      {
+        "word": "rejecting",
+        "from": 20,
+        "to": 35
+      },
+      {
+        "word": "the",
+        "from": 35,
+        "to": 37
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "chapter": 9,
+    "from": 7659,
+    "duration": 50,
+    "text": "call. Walking forward.",
+    "words": [
+      {
+        "word": "call",
+        "from": 0,
+        "to": 17
+      },
+      {
+        "word": "walking",
+        "from": 17,
+        "to": 28
+      },
+      {
+        "word": "forward",
+        "from": 28,
+        "to": 50
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "chapter": 9,
+    "from": 7709,
+    "duration": 52,
+    "text": "And behind you, an elderly man",
+    "words": [
+      {
+        "word": "and",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "behind",
+        "from": 4,
+        "to": 14
+      },
+      {
+        "word": "you",
+        "from": 14,
+        "to": 24
+      },
+      {
+        "word": "an",
+        "from": 24,
+        "to": 29
+      },
+      {
+        "word": "elderly",
+        "from": 29,
+        "to": 42
+      },
+      {
+        "word": "man",
+        "from": 42,
+        "to": 52
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "chapter": 9,
+    "from": 7761,
+    "duration": 39,
+    "text": "steps into the road.",
+    "words": [
+      {
+        "word": "steps",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "word": "into",
+        "from": 12,
+        "to": 17
+      },
+      {
+        "word": "the",
+        "from": 17,
+        "to": 20
+      },
+      {
+        "word": "road",
+        "from": 20,
+        "to": 36
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "chapter": 9,
+    "from": 7806,
+    "duration": 40,
+    "text": "A truck is coming straight toward",
+    "words": [
+      {
+        "word": "a",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "truck",
+        "from": 3,
+        "to": 13
+      },
+      {
+        "word": "is",
+        "from": 13,
+        "to": 16
+      },
+      {
+        "word": "coming",
+        "from": 16,
+        "to": 23
+      },
+      {
+        "word": "straight",
+        "from": 23,
+        "to": 33
+      },
+      {
+        "word": "toward",
+        "from": 33,
+        "to": 40
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "chapter": 9,
+    "from": 7846,
+    "duration": 55,
+    "text": "him. You return to the present.",
+    "words": [
+      {
+        "word": "him",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "word": "you",
+        "from": 17,
+        "to": 20
+      },
+      {
+        "word": "return",
+        "from": 20,
+        "to": 31
+      },
+      {
+        "word": "to",
+        "from": 31,
+        "to": 34
+      },
+      {
+        "word": "the",
+        "from": 34,
+        "to": 37
+      },
+      {
+        "word": "present",
+        "from": 37,
+        "to": 55
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "chapter": 9,
+    "from": 7901,
+    "duration": 31,
+    "text": "You do not think.",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "do",
+        "from": 4,
+        "to": 8
+      },
+      {
+        "word": "not",
+        "from": 8,
+        "to": 15
+      },
+      {
+        "word": "think",
+        "from": 15,
+        "to": 31
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "chapter": 9,
+    "from": 7932,
+    "duration": 16,
+    "text": "You run.",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "run",
+        "from": 5,
+        "to": 13
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "chapter": 9,
+    "from": 7952,
+    "duration": 19,
+    "text": "Grab the man.",
+    "words": [
+      {
+        "word": "grab",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "word": "the",
+        "from": 8,
+        "to": 10
+      },
+      {
+        "word": "man",
+        "from": 10,
+        "to": 19
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "chapter": 9,
+    "from": 7971,
+    "duration": 27,
+    "text": "Pull him backward.",
+    "words": [
+      {
+        "word": "pull",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "word": "him",
+        "from": 11,
+        "to": 13
+      },
+      {
+        "word": "backward",
+        "from": 13,
+        "to": 27
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "chapter": 9,
+    "from": 7998,
+    "duration": 47,
+    "text": "The truck flies past.",
+    "words": [
+      {
+        "word": "the",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "word": "truck",
+        "from": 8,
+        "to": 17
+      },
+      {
+        "word": "flies",
+        "from": 17,
+        "to": 27
+      },
+      {
+        "word": "past",
+        "from": 27,
+        "to": 47
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "chapter": 9,
+    "from": 8045,
+    "duration": 52,
+    "text": "Missing both of you by inches.",
+    "words": [
+      {
+        "word": "missing",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "word": "both",
+        "from": 9,
+        "to": 16
+      },
+      {
+        "word": "of",
+        "from": 16,
+        "to": 19
+      },
+      {
+        "word": "you",
+        "from": 19,
+        "to": 24
+      },
+      {
+        "word": "by",
+        "from": 24,
+        "to": 30
+      },
+      {
+        "word": "inches",
+        "from": 30,
+        "to": 49
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "chapter": 9,
+    "from": 8103,
+    "duration": 35,
+    "text": "You are breathing hard.",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "are",
+        "from": 4,
+        "to": 7
+      },
+      {
+        "word": "breathing",
+        "from": 7,
+        "to": 19
+      },
+      {
+        "word": "hard",
+        "from": 19,
+        "to": 32
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "chapter": 9,
+    "from": 8151,
+    "duration": 44,
+    "text": "The man does not even understand",
+    "words": [
+      {
+        "word": "the",
+        "from": 0,
+        "to": 2
+      },
+      {
+        "word": "man",
+        "from": 2,
+        "to": 9
+      },
+      {
+        "word": "does",
+        "from": 9,
+        "to": 14
+      },
+      {
+        "word": "not",
+        "from": 14,
+        "to": 19
+      },
+      {
+        "word": "even",
+        "from": 19,
+        "to": 25
+      },
+      {
+        "word": "understand",
+        "from": 25,
+        "to": 44
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "chapter": 9,
+    "from": 8195,
+    "duration": 33,
+    "text": "what just happened.",
+    "words": [
+      {
+        "word": "what",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "just",
+        "from": 4,
+        "to": 11
+      },
+      {
+        "word": "happened",
+        "from": 11,
+        "to": 33
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "chapter": 9,
+    "from": 8228,
+    "duration": 39,
+    "text": "You just saved someone's life.",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "just",
+        "from": 4,
+        "to": 10
+      },
+      {
+        "word": "saved",
+        "from": 10,
+        "to": 18
+      },
+      {
+        "word": "someone's",
+        "from": 18,
+        "to": 28
+      },
+      {
+        "word": "life",
+        "from": 28,
+        "to": 39
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "chapter": 9,
+    "from": 8267,
+    "duration": 62,
+    "text": "Then, your phone vibrates again.",
+    "words": [
+      {
+        "word": "then",
+        "from": 0,
+        "to": 18
+      },
+      {
+        "word": "your",
+        "from": 18,
+        "to": 21
+      },
+      {
+        "word": "phone",
+        "from": 21,
+        "to": 31
+      },
+      {
+        "word": "vibrates",
+        "from": 31,
+        "to": 45
+      },
+      {
+        "word": "again",
+        "from": 45,
+        "to": 59
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "chapter": 9,
+    "from": 8341,
+    "duration": 41,
+    "text": "Your mom is still calling.",
+    "words": [
+      {
+        "word": "your",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "mom",
+        "from": 5,
+        "to": 13
+      },
+      {
+        "word": "is",
+        "from": 13,
+        "to": 15
+      },
+      {
+        "word": "still",
+        "from": 15,
+        "to": 22
+      },
+      {
+        "word": "calling",
+        "from": 22,
+        "to": 41
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "chapter": 9,
+    "from": 8382,
+    "duration": 22,
+    "text": "You answer. \"",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "word": "answer",
+        "from": 6,
+        "to": 19
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "chapter": 9,
+    "from": 8407,
+    "duration": 95,
+    "text": "Mom?\" There is a brief silence.",
+    "words": [
+      {
+        "word": "mom",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "word": "there",
+        "from": 62,
+        "to": 66
+      },
+      {
+        "word": "is",
+        "from": 66,
+        "to": 69
+      },
+      {
+        "word": "a",
+        "from": 69,
+        "to": 69
+      },
+      {
+        "word": "brief",
+        "from": 69,
+        "to": 76
+      },
+      {
+        "word": "silence",
+        "from": 76,
+        "to": 95
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "chapter": 9,
+    "from": 8502,
+    "duration": 85,
+    "text": "Then she simply asks: \"Did you",
+    "words": [
+      {
+        "word": "then",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "word": "she",
+        "from": 10,
+        "to": 14
+      },
+      {
+        "word": "simply",
+        "from": 14,
+        "to": 25
+      },
+      {
+        "word": "asks",
+        "from": 25,
+        "to": 42
+      },
+      {
+        "word": "did",
+        "from": 77,
+        "to": 81
+      },
+      {
+        "word": "you",
+        "from": 81,
+        "to": 85
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "chapter": 9,
+    "from": 8587,
+    "duration": 21,
+    "text": "eat yet?\"",
+    "words": [
+      {
+        "word": "eat",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "word": "yet",
+        "from": 7,
+        "to": 21
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "chapter": 9,
+    "from": 8608,
+    "duration": 18,
+    "text": "That is it.",
+    "words": [
+      {
+        "word": "that",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "is",
+        "from": 5,
+        "to": 10
+      },
+      {
+        "word": "it",
+        "from": 10,
+        "to": 18
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "chapter": 9,
+    "from": 8626,
+    "duration": 19,
+    "text": "No emergency.",
+    "words": [
+      {
+        "word": "no",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "emergency",
+        "from": 5,
+        "to": 19
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "chapter": 9,
+    "from": 8645,
+    "duration": 38,
+    "text": "No terrible news.",
+    "words": [
+      {
+        "word": "no",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "terrible",
+        "from": 5,
+        "to": 20
+      },
+      {
+        "word": "news",
+        "from": 20,
+        "to": 35
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "chapter": 9,
+    "from": 8686,
+    "duration": 48,
+    "text": "No dramatic final words.",
+    "words": [
+      {
+        "word": "no",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "dramatic",
+        "from": 4,
+        "to": 18
+      },
+      {
+        "word": "final",
+        "from": 18,
+        "to": 28
+      },
+      {
+        "word": "words",
+        "from": 28,
+        "to": 45
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "chapter": 9,
+    "from": 8749,
+    "duration": 41,
+    "text": "Just an ordinary question.",
+    "words": [
+      {
+        "word": "just",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "word": "an",
+        "from": 9,
+        "to": 12
+      },
+      {
+        "word": "ordinary",
+        "from": 12,
+        "to": 24
+      },
+      {
+        "word": "question",
+        "from": 24,
+        "to": 38
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "chapter": 9,
+    "from": 8793,
+    "duration": 29,
+    "text": "The kind of question you might",
+    "words": [
+      {
+        "word": "the",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "kind",
+        "from": 3,
+        "to": 9
+      },
+      {
+        "word": "of",
+        "from": 9,
+        "to": 11
+      },
+      {
+        "word": "question",
+        "from": 11,
+        "to": 22
+      },
+      {
+        "word": "you",
+        "from": 22,
+        "to": 24
+      },
+      {
+        "word": "might",
+        "from": 24,
+        "to": 29
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "chapter": 9,
+    "from": 8822,
+    "duration": 27,
+    "text": "ignore every day.",
+    "words": [
+      {
+        "word": "ignore",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "word": "every",
+        "from": 10,
+        "to": 16
+      },
+      {
+        "word": "day",
+        "from": 16,
+        "to": 24
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "chapter": 9,
+    "from": 8854,
+    "duration": 20,
+    "text": "You laugh. \"",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "laugh",
+        "from": 4,
+        "to": 17
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "chapter": 9,
+    "from": 8878,
+    "duration": 21,
+    "text": "Yeah, Mom.",
+    "words": [
+      {
+        "word": "yeah",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "mom",
+        "from": 4,
+        "to": 21
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "chapter": 9,
+    "from": 8899,
+    "duration": 28,
+    "text": "I already ate.\"",
+    "words": [
+      {
+        "word": "i",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "word": "already",
+        "from": 6,
+        "to": 16
+      },
+      {
+        "word": "ate",
+        "from": 16,
+        "to": 25
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "chapter": 9,
+    "from": 8932,
+    "duration": 42,
+    "text": "You talk for a few minutes.",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "talk",
+        "from": 3,
+        "to": 10
+      },
+      {
+        "word": "for",
+        "from": 10,
+        "to": 15
+      },
+      {
+        "word": "a",
+        "from": 15,
+        "to": 16
+      },
+      {
+        "word": "few",
+        "from": 16,
+        "to": 22
+      },
+      {
+        "word": "minutes",
+        "from": 22,
+        "to": 39
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "chapter": 9,
+    "from": 8982,
+    "duration": 41,
+    "text": "Nothing dramatic happens.",
+    "words": [
+      {
+        "word": "nothing",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "word": "dramatic",
+        "from": 11,
+        "to": 23
+      },
+      {
+        "word": "happens",
+        "from": 23,
+        "to": 38
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "chapter": 9,
+    "from": 9031,
+    "duration": 40,
+    "text": "But suddenly, you realize",
+    "words": [
+      {
+        "word": "but",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "suddenly",
+        "from": 4,
+        "to": 19
+      },
+      {
+        "word": "you",
+        "from": 25,
+        "to": 28
+      },
+      {
+        "word": "realize",
+        "from": 28,
+        "to": 40
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "chapter": 9,
+    "from": 9071,
+    "duration": 54,
+    "text": "something. You spent the entire",
+    "words": [
+      {
+        "word": "something",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "word": "you",
+        "from": 28,
+        "to": 31
+      },
+      {
+        "word": "spent",
+        "from": 31,
+        "to": 38
+      },
+      {
+        "word": "the",
+        "from": 38,
+        "to": 41
+      },
+      {
+        "word": "entire",
+        "from": 41,
+        "to": 54
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "chapter": 9,
+    "from": 9125,
+    "duration": 46,
+    "text": "day staring 10 seconds into the",
+    "words": [
+      {
+        "word": "day",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "staring",
+        "from": 5,
+        "to": 17
+      },
+      {
+        "word": "ten",
+        "from": 17,
+        "to": 26
+      },
+      {
+        "word": "seconds",
+        "from": 26,
+        "to": 39
+      },
+      {
+        "word": "into",
+        "from": 39,
+        "to": 43
+      },
+      {
+        "word": "the",
+        "from": 43,
+        "to": 46
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "chapter": 9,
+    "from": 9171,
+    "duration": 60,
+    "text": "future, and nearly ignored someone",
+    "words": [
+      {
+        "word": "future",
+        "from": 0,
+        "to": 13
+      },
+      {
+        "word": "and",
+        "from": 20,
+        "to": 26
+      },
+      {
+        "word": "nearly",
+        "from": 26,
+        "to": 37
+      },
+      {
+        "word": "ignored",
+        "from": 37,
+        "to": 50
+      },
+      {
+        "word": "someone",
+        "from": 50,
+        "to": 60
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "chapter": 9,
+    "from": 9231,
+    "duration": 53,
+    "text": "who was with you, right now.",
+    "words": [
+      {
+        "word": "who",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "was",
+        "from": 4,
+        "to": 8
+      },
+      {
+        "word": "with",
+        "from": 8,
+        "to": 14
+      },
+      {
+        "word": "you",
+        "from": 14,
+        "to": 20
+      },
+      {
+        "word": "right",
+        "from": 27,
+        "to": 35
+      },
+      {
+        "word": "now",
+        "from": 35,
+        "to": 50
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "chapter": 10,
+    "from": 9309,
+    "duration": 36,
+    "text": "You thought the greatest part of",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "word": "thought",
+        "from": 6,
+        "to": 13
+      },
+      {
+        "word": "the",
+        "from": 13,
+        "to": 15
+      },
+      {
+        "word": "greatest",
+        "from": 15,
+        "to": 26
+      },
+      {
+        "word": "part",
+        "from": 26,
+        "to": 33
+      },
+      {
+        "word": "of",
+        "from": 33,
+        "to": 36
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "chapter": 10,
+    "from": 9345,
+    "duration": 49,
+    "text": "your power, was knowing what would",
+    "words": [
+      {
+        "word": "your",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "power",
+        "from": 3,
+        "to": 17
+      },
+      {
+        "word": "was",
+        "from": 25,
+        "to": 31
+      },
+      {
+        "word": "knowing",
+        "from": 31,
+        "to": 42
+      },
+      {
+        "word": "what",
+        "from": 42,
+        "to": 46
+      },
+      {
+        "word": "would",
+        "from": 46,
+        "to": 49
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "chapter": 10,
+    "from": 9394,
+    "duration": 27,
+    "text": "happen next.",
+    "words": [
+      {
+        "word": "happen",
+        "from": 0,
+        "to": 11
+      },
+      {
+        "word": "next",
+        "from": 11,
+        "to": 27
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "chapter": 10,
+    "from": 9421,
+    "duration": 43,
+    "text": "But it was not.",
+    "words": [
+      {
+        "word": "but",
+        "from": 0,
+        "to": 9
+      },
+      {
+        "word": "it",
+        "from": 9,
+        "to": 11
+      },
+      {
+        "word": "was",
+        "from": 11,
+        "to": 19
+      },
+      {
+        "word": "not",
+        "from": 19,
+        "to": 43
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "chapter": 10,
+    "from": 9464,
+    "duration": 54,
+    "text": "Because even if you can see",
+    "words": [
+      {
+        "word": "because",
+        "from": 0,
+        "to": 21
+      },
+      {
+        "word": "even",
+        "from": 21,
+        "to": 31
+      },
+      {
+        "word": "if",
+        "from": 31,
+        "to": 35
+      },
+      {
+        "word": "you",
+        "from": 35,
+        "to": 39
+      },
+      {
+        "word": "can",
+        "from": 39,
+        "to": 45
+      },
+      {
+        "word": "see",
+        "from": 45,
+        "to": 54
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "chapter": 10,
+    "from": 9518,
+    "duration": 72,
+    "text": "10 seconds ahead, you still do",
+    "words": [
+      {
+        "word": "ten",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "word": "seconds",
+        "from": 8,
+        "to": 23
+      },
+      {
+        "word": "ahead",
+        "from": 23,
+        "to": 39
+      },
+      {
+        "word": "you",
+        "from": 49,
+        "to": 53
+      },
+      {
+        "word": "still",
+        "from": 53,
+        "to": 65
+      },
+      {
+        "word": "do",
+        "from": 65,
+        "to": 72
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "chapter": 10,
+    "from": 9590,
+    "duration": 44,
+    "text": "not know what happens in 10",
+    "words": [
+      {
+        "word": "not",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "word": "know",
+        "from": 7,
+        "to": 13
+      },
+      {
+        "word": "what",
+        "from": 13,
+        "to": 18
+      },
+      {
+        "word": "happens",
+        "from": 18,
+        "to": 34
+      },
+      {
+        "word": "in",
+        "from": 34,
+        "to": 37
+      },
+      {
+        "word": "ten",
+        "from": 37,
+        "to": 44
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "chapter": 10,
+    "from": 9634,
+    "duration": 44,
+    "text": "minutes. Tomorrow.",
+    "words": [
+      {
+        "word": "minutes",
+        "from": 0,
+        "to": 18
+      },
+      {
+        "word": "tomorrow",
+        "from": 21,
+        "to": 44
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "chapter": 10,
+    "from": 9678,
+    "duration": 28,
+    "text": "Next year.",
+    "words": [
+      {
+        "word": "next",
+        "from": 0,
+        "to": 13
+      },
+      {
+        "word": "year",
+        "from": 13,
+        "to": 25
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "chapter": 10,
+    "from": 9710,
+    "duration": 37,
+    "text": "Or when the last time you",
+    "words": [
+      {
+        "word": "or",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "when",
+        "from": 3,
+        "to": 11
+      },
+      {
+        "word": "the",
+        "from": 11,
+        "to": 13
+      },
+      {
+        "word": "last",
+        "from": 13,
+        "to": 25
+      },
+      {
+        "word": "time",
+        "from": 25,
+        "to": 34
+      },
+      {
+        "word": "you",
+        "from": 34,
+        "to": 37
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "chapter": 10,
+    "from": 9747,
+    "duration": 62,
+    "text": "see someone, will actually be.",
+    "words": [
+      {
+        "word": "see",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "word": "someone",
+        "from": 7,
+        "to": 23
+      },
+      {
+        "word": "will",
+        "from": 29,
+        "to": 34
+      },
+      {
+        "word": "actually",
+        "from": 34,
+        "to": 49
+      },
+      {
+        "word": "be",
+        "from": 49,
+        "to": 62
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "chapter": 10,
+    "from": 9809,
+    "duration": 58,
+    "text": "And maybe, that is exactly what",
+    "words": [
+      {
+        "word": "and",
+        "from": 0,
+        "to": 10
+      },
+      {
+        "word": "maybe",
+        "from": 10,
+        "to": 24
+      },
+      {
+        "word": "that",
+        "from": 24,
+        "to": 33
+      },
+      {
+        "word": "is",
+        "from": 33,
+        "to": 37
+      },
+      {
+        "word": "exactly",
+        "from": 37,
+        "to": 51
+      },
+      {
+        "word": "what",
+        "from": 51,
+        "to": 58
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "chapter": 10,
+    "from": 9867,
+    "duration": 39,
+    "text": "gives life its meaning.",
+    "words": [
+      {
+        "word": "gives",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "word": "life",
+        "from": 8,
+        "to": 15
+      },
+      {
+        "word": "its",
+        "from": 15,
+        "to": 20
+      },
+      {
+        "word": "meaning",
+        "from": 20,
+        "to": 36
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "chapter": 11,
+    "from": 9929,
+    "duration": 48,
+    "text": "Of course, seeing 10 seconds into",
+    "words": [
+      {
+        "word": "of",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "course",
+        "from": 4,
+        "to": 13
+      },
+      {
+        "word": "seeing",
+        "from": 13,
+        "to": 24
+      },
+      {
+        "word": "ten",
+        "from": 24,
+        "to": 31
+      },
+      {
+        "word": "seconds",
+        "from": 31,
+        "to": 43
+      },
+      {
+        "word": "into",
+        "from": 43,
+        "to": 48
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "chapter": 11,
+    "from": 9977,
+    "duration": 34,
+    "text": "the future is only a thought",
+    "words": [
+      {
+        "word": "the",
+        "from": 0,
+        "to": 2
+      },
+      {
+        "word": "future",
+        "from": 2,
+        "to": 14
+      },
+      {
+        "word": "is",
+        "from": 14,
+        "to": 18
+      },
+      {
+        "word": "only",
+        "from": 18,
+        "to": 24
+      },
+      {
+        "word": "a",
+        "from": 24,
+        "to": 25
+      },
+      {
+        "word": "thought",
+        "from": 25,
+        "to": 34
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "chapter": 11,
+    "from": 10011,
+    "duration": 56,
+    "text": "experiment. It is not something we",
+    "words": [
+      {
+        "word": "experiment",
+        "from": 0,
+        "to": 23
+      },
+      {
+        "word": "it",
+        "from": 23,
+        "to": 27
+      },
+      {
+        "word": "is",
+        "from": 27,
+        "to": 32
+      },
+      {
+        "word": "not",
+        "from": 32,
+        "to": 41
+      },
+      {
+        "word": "something",
+        "from": 41,
+        "to": 52
+      },
+      {
+        "word": "we",
+        "from": 52,
+        "to": 56
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "chapter": 11,
+    "from": 10067,
+    "duration": 34,
+    "text": "can actually do.",
+    "words": [
+      {
+        "word": "can",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "actually",
+        "from": 4,
+        "to": 20
+      },
+      {
+        "word": "do",
+        "from": 20,
+        "to": 31
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "chapter": 11,
+    "from": 10104,
+    "duration": 37,
+    "text": "In real life, there is no",
+    "words": [
+      {
+        "word": "in",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "real",
+        "from": 4,
+        "to": 13
+      },
+      {
+        "word": "life",
+        "from": 13,
+        "to": 24
+      },
+      {
+        "word": "there",
+        "from": 24,
+        "to": 30
+      },
+      {
+        "word": "is",
+        "from": 30,
+        "to": 33
+      },
+      {
+        "word": "no",
+        "from": 33,
+        "to": 37
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "chapter": 11,
+    "from": 10141,
+    "duration": 29,
+    "text": "rewind button.",
+    "words": [
+      {
+        "word": "rewind",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "word": "button",
+        "from": 15,
+        "to": 26
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "chapter": 11,
+    "from": 10174,
+    "duration": 31,
+    "text": "No warning screen.",
+    "words": [
+      {
+        "word": "no",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "warning",
+        "from": 5,
+        "to": 14
+      },
+      {
+        "word": "screen",
+        "from": 14,
+        "to": 31
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "chapter": 11,
+    "from": 10205,
+    "duration": 39,
+    "text": "No countdown telling us that an",
+    "words": [
+      {
+        "word": "no",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "countdown",
+        "from": 5,
+        "to": 20
+      },
+      {
+        "word": "telling",
+        "from": 20,
+        "to": 29
+      },
+      {
+        "word": "us",
+        "from": 29,
+        "to": 33
+      },
+      {
+        "word": "that",
+        "from": 33,
+        "to": 37
+      },
+      {
+        "word": "an",
+        "from": 37,
+        "to": 39
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "chapter": 11,
+    "from": 10244,
+    "duration": 42,
+    "text": "important moment is about to",
+    "words": [
+      {
+        "word": "important",
+        "from": 0,
+        "to": 15
+      },
+      {
+        "word": "moment",
+        "from": 15,
+        "to": 27
+      },
+      {
+        "word": "is",
+        "from": 27,
+        "to": 31
+      },
+      {
+        "word": "about",
+        "from": 31,
+        "to": 40
+      },
+      {
+        "word": "to",
+        "from": 40,
+        "to": 42
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "chapter": 11,
+    "from": 10286,
+    "duration": 56,
+    "text": "happen. But maybe, we do not",
+    "words": [
+      {
+        "word": "happen",
+        "from": 0,
+        "to": 18
+      },
+      {
+        "word": "but",
+        "from": 18,
+        "to": 25
+      },
+      {
+        "word": "maybe",
+        "from": 25,
+        "to": 40
+      },
+      {
+        "word": "we",
+        "from": 40,
+        "to": 44
+      },
+      {
+        "word": "do",
+        "from": 44,
+        "to": 48
+      },
+      {
+        "word": "not",
+        "from": 48,
+        "to": 56
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "chapter": 11,
+    "from": 10342,
+    "duration": 17,
+    "text": "need one.",
+    "words": [
+      {
+        "word": "need",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "word": "one",
+        "from": 6,
+        "to": 14
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "chapter": 11,
+    "from": 10367,
+    "duration": 41,
+    "text": "You can still look before crossing",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 2
+      },
+      {
+        "word": "can",
+        "from": 2,
+        "to": 6
+      },
+      {
+        "word": "still",
+        "from": 6,
+        "to": 15
+      },
+      {
+        "word": "look",
+        "from": 15,
+        "to": 21
+      },
+      {
+        "word": "before",
+        "from": 21,
+        "to": 30
+      },
+      {
+        "word": "crossing",
+        "from": 30,
+        "to": 41
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "chapter": 11,
+    "from": 10408,
+    "duration": 21,
+    "text": "the street.",
+    "words": [
+      {
+        "word": "the",
+        "from": 0,
+        "to": 2
+      },
+      {
+        "word": "street",
+        "from": 2,
+        "to": 18
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "chapter": 11,
+    "from": 10436,
+    "duration": 29,
+    "text": "You can still say what you",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "can",
+        "from": 4,
+        "to": 8
+      },
+      {
+        "word": "still",
+        "from": 8,
+        "to": 16
+      },
+      {
+        "word": "say",
+        "from": 16,
+        "to": 21
+      },
+      {
+        "word": "what",
+        "from": 21,
+        "to": 26
+      },
+      {
+        "word": "you",
+        "from": 26,
+        "to": 29
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "chapter": 11,
+    "from": 10465,
+    "duration": 24,
+    "text": "really feel.",
+    "words": [
+      {
+        "word": "really",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "word": "feel",
+        "from": 8,
+        "to": 24
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "chapter": 11,
+    "from": 10489,
+    "duration": 37,
+    "text": "You can call your parents.",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "can",
+        "from": 3,
+        "to": 7
+      },
+      {
+        "word": "call",
+        "from": 7,
+        "to": 13
+      },
+      {
+        "word": "your",
+        "from": 13,
+        "to": 17
+      },
+      {
+        "word": "parents",
+        "from": 17,
+        "to": 34
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "chapter": 11,
+    "from": 10527,
+    "duration": 35,
+    "text": "Apologize to someone.",
+    "words": [
+      {
+        "word": "apologize",
+        "from": 0,
+        "to": 18
+      },
+      {
+        "word": "to",
+        "from": 18,
+        "to": 20
+      },
+      {
+        "word": "someone",
+        "from": 20,
+        "to": 32
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "chapter": 11,
+    "from": 10565,
+    "duration": 23,
+    "text": "Thank someone.",
+    "words": [
+      {
+        "word": "thank",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "word": "someone",
+        "from": 6,
+        "to": 23
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "chapter": 11,
+    "from": 10588,
+    "duration": 35,
+    "text": "Hold someone you love for a",
+    "words": [
+      {
+        "word": "hold",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "word": "someone",
+        "from": 6,
+        "to": 17
+      },
+      {
+        "word": "you",
+        "from": 17,
+        "to": 21
+      },
+      {
+        "word": "love",
+        "from": 21,
+        "to": 28
+      },
+      {
+        "word": "for",
+        "from": 28,
+        "to": 34
+      },
+      {
+        "word": "a",
+        "from": 34,
+        "to": 35
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "chapter": 11,
+    "from": 10623,
+    "duration": 24,
+    "text": "little longer.",
+    "words": [
+      {
+        "word": "little",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "word": "longer",
+        "from": 7,
+        "to": 21
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "chapter": 11,
+    "from": 10650,
+    "duration": 61,
+    "text": "And sometimes, small decisions",
+    "words": [
+      {
+        "word": "and",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "word": "sometimes",
+        "from": 5,
+        "to": 31
+      },
+      {
+        "word": "small",
+        "from": 31,
+        "to": 45
+      },
+      {
+        "word": "decisions",
+        "from": 45,
+        "to": 61
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "chapter": 11,
+    "from": 10711,
+    "duration": 40,
+    "text": "like those are enough to change",
+    "words": [
+      {
+        "word": "like",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "word": "those",
+        "from": 6,
+        "to": 14
+      },
+      {
+        "word": "are",
+        "from": 14,
+        "to": 16
+      },
+      {
+        "word": "enough",
+        "from": 16,
+        "to": 23
+      },
+      {
+        "word": "to",
+        "from": 23,
+        "to": 27
+      },
+      {
+        "word": "change",
+        "from": 27,
+        "to": 40
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "chapter": 11,
+    "from": 10751,
+    "duration": 20,
+    "text": "the future.",
+    "words": [
+      {
+        "word": "the",
+        "from": 0,
+        "to": 2
+      },
+      {
+        "word": "future",
+        "from": 2,
+        "to": 17
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "chapter": 11,
+    "from": 10775,
+    "duration": 29,
+    "text": "You do not need to see",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 3
+      },
+      {
+        "word": "do",
+        "from": 3,
+        "to": 6
+      },
+      {
+        "word": "not",
+        "from": 6,
+        "to": 12
+      },
+      {
+        "word": "need",
+        "from": 12,
+        "to": 20
+      },
+      {
+        "word": "to",
+        "from": 20,
+        "to": 23
+      },
+      {
+        "word": "see",
+        "from": 23,
+        "to": 29
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "chapter": 11,
+    "from": 10804,
+    "duration": 41,
+    "text": "10 seconds ahead to live a",
+    "words": [
+      {
+        "word": "ten",
+        "from": 0,
+        "to": 8
+      },
+      {
+        "word": "seconds",
+        "from": 8,
+        "to": 19
+      },
+      {
+        "word": "ahead",
+        "from": 19,
+        "to": 30
+      },
+      {
+        "word": "to",
+        "from": 30,
+        "to": 33
+      },
+      {
+        "word": "live",
+        "from": 33,
+        "to": 39
+      },
+      {
+        "word": "a",
+        "from": 39,
+        "to": 41
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "chapter": 11,
+    "from": 10845,
+    "duration": 26,
+    "text": "better life.",
+    "words": [
+      {
+        "word": "better",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "word": "life",
+        "from": 7,
+        "to": 26
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "chapter": 11,
+    "from": 10871,
+    "duration": 40,
+    "text": "You just need to stop wasting,",
+    "words": [
+      {
+        "word": "you",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "just",
+        "from": 4,
+        "to": 10
+      },
+      {
+        "word": "need",
+        "from": 10,
+        "to": 14
+      },
+      {
+        "word": "to",
+        "from": 14,
+        "to": 16
+      },
+      {
+        "word": "stop",
+        "from": 16,
+        "to": 26
+      },
+      {
+        "word": "wasting",
+        "from": 26,
+        "to": 40
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "chapter": 11,
+    "from": 10911,
+    "duration": 37,
+    "text": "the 10 seconds you have right",
+    "words": [
+      {
+        "word": "the",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "ten",
+        "from": 4,
+        "to": 11
+      },
+      {
+        "word": "seconds",
+        "from": 11,
+        "to": 22
+      },
+      {
+        "word": "you",
+        "from": 22,
+        "to": 25
+      },
+      {
+        "word": "have",
+        "from": 25,
+        "to": 32
+      },
+      {
+        "word": "right",
+        "from": 32,
+        "to": 37
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "chapter": 11,
+    "from": 10948,
+    "duration": 63,
+    "text": "now. \"The future can wait.",
+    "words": [
+      {
+        "word": "now",
+        "from": 0,
+        "to": 14
+      },
+      {
+        "word": "the",
+        "from": 26,
+        "to": 28
+      },
+      {
+        "word": "future",
+        "from": 28,
+        "to": 41
+      },
+      {
+        "word": "can",
+        "from": 41,
+        "to": 47
+      },
+      {
+        "word": "wait",
+        "from": 47,
+        "to": 60
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "chapter": 11,
+    "from": 11019,
+    "duration": 31,
+    "text": "This moment can't.\"",
+    "words": [
+      {
+        "word": "this",
+        "from": 0,
+        "to": 6
+      },
+      {
+        "word": "moment",
+        "from": 6,
+        "to": 15
+      },
+      {
+        "word": "can't",
+        "from": 15,
+        "to": 28
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "chapter": 11,
+    "from": 11059,
+    "duration": 36,
+    "text": "If you really could see 10",
+    "words": [
+      {
+        "word": "if",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "you",
+        "from": 4,
+        "to": 9
+      },
+      {
+        "word": "really",
+        "from": 9,
+        "to": 17
+      },
+      {
+        "word": "could",
+        "from": 17,
+        "to": 22
+      },
+      {
+        "word": "see",
+        "from": 22,
+        "to": 28
+      },
+      {
+        "word": "ten",
+        "from": 28,
+        "to": 36
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "chapter": 11,
+    "from": 11095,
+    "duration": 39,
+    "text": "seconds into the future, what",
+    "words": [
+      {
+        "word": "seconds",
+        "from": 0,
+        "to": 12
+      },
+      {
+        "word": "into",
+        "from": 12,
+        "to": 16
+      },
+      {
+        "word": "the",
+        "from": 16,
+        "to": 19
+      },
+      {
+        "word": "future",
+        "from": 19,
+        "to": 32
+      },
+      {
+        "word": "what",
+        "from": 32,
+        "to": 39
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "chapter": 11,
+    "from": 11134,
+    "duration": 34,
+    "text": "would you use it for?",
+    "words": [
+      {
+        "word": "would",
+        "from": 0,
+        "to": 4
+      },
+      {
+        "word": "you",
+        "from": 4,
+        "to": 9
+      },
+      {
+        "word": "use",
+        "from": 9,
+        "to": 14
+      },
+      {
+        "word": "it",
+        "from": 14,
+        "to": 17
+      },
+      {
+        "word": "for",
+        "from": 17,
+        "to": 31
+      }
+    ]
+  }
+]
