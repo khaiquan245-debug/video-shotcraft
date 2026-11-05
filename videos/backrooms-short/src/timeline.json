@@ -1,0 +1,701 @@
+[
+  {
+    "id": 0,
+    "from": 0,
+    "duration": 136,
+    "text": "This room is real. And nobody knew where it was.",
+    "words": [
+      {
+        "text": "this",
+        "from": 5,
+        "to": 14
+      },
+      {
+        "text": "room",
+        "from": 14,
+        "to": 27
+      },
+      {
+        "text": "is",
+        "from": 27,
+        "to": 34
+      },
+      {
+        "text": "real",
+        "from": 34,
+        "to": 52
+      },
+      {
+        "text": "and",
+        "from": 61,
+        "to": 67
+      },
+      {
+        "text": "nobody",
+        "from": 67,
+        "to": 81
+      },
+      {
+        "text": "knew",
+        "from": 81,
+        "to": 93
+      },
+      {
+        "text": "where",
+        "from": 93,
+        "to": 101
+      },
+      {
+        "text": "it",
+        "from": 101,
+        "to": 103
+      },
+      {
+        "text": "was",
+        "from": 103,
+        "to": 129
+      }
+    ],
+    "tempo": 1.0
+  },
+  {
+    "id": 1,
+    "from": 136,
+    "duration": 358,
+    "text": "In 2019, a photo of an empty yellow room spread across the internet. Fluorescent lights. Endless-looking walls. No people. It became known as The Backrooms.",
+    "words": [
+      {
+        "text": "in",
+        "from": 136,
+        "to": 141
+      },
+      {
+        "text": "twenty",
+        "from": 141,
+        "to": 151
+      },
+      {
+        "text": "nineteen",
+        "from": 151,
+        "to": 174
+      },
+      {
+        "text": "a",
+        "from": 174,
+        "to": 177
+      },
+      {
+        "text": "photo",
+        "from": 177,
+        "to": 191
+      },
+      {
+        "text": "of",
+        "from": 191,
+        "to": 195
+      },
+      {
+        "text": "an",
+        "from": 195,
+        "to": 200
+      },
+      {
+        "text": "empty",
+        "from": 200,
+        "to": 212
+      },
+      {
+        "text": "yellow",
+        "from": 212,
+        "to": 224
+      },
+      {
+        "text": "room",
+        "from": 224,
+        "to": 237
+      },
+      {
+        "text": "spread",
+        "from": 237,
+        "to": 251
+      },
+      {
+        "text": "across",
+        "from": 251,
+        "to": 265
+      },
+      {
+        "text": "the",
+        "from": 265,
+        "to": 270
+      },
+      {
+        "text": "internet",
+        "from": 270,
+        "to": 290
+      },
+      {
+        "text": "fluorescent",
+        "from": 290,
+        "to": 318
+      },
+      {
+        "text": "lights",
+        "from": 318,
+        "to": 337
+      },
+      {
+        "text": "endless",
+        "from": 337,
+        "to": 355
+      },
+      {
+        "text": "looking",
+        "from": 355,
+        "to": 368
+      },
+      {
+        "text": "walls",
+        "from": 368,
+        "to": 394
+      },
+      {
+        "text": "no",
+        "from": 394,
+        "to": 401
+      },
+      {
+        "text": "people",
+        "from": 401,
+        "to": 415
+      },
+      {
+        "text": "it",
+        "from": 422,
+        "to": 426
+      },
+      {
+        "text": "became",
+        "from": 426,
+        "to": 439
+      },
+      {
+        "text": "known",
+        "from": 439,
+        "to": 447
+      },
+      {
+        "text": "as",
+        "from": 447,
+        "to": 453
+      },
+      {
+        "text": "the",
+        "from": 453,
+        "to": 456
+      },
+      {
+        "text": "backrooms",
+        "from": 456,
+        "to": 486
+      }
+    ],
+    "tempo": 1.0
+  },
+  {
+    "id": 2,
+    "from": 494,
+    "duration": 322,
+    "text": "An internet horror story claimed you could slip out of reality... and get trapped here forever. People invented monsters, hidden levels, and escape routes.",
+    "words": [
+      {
+        "text": "an",
+        "from": 499,
+        "to": 503
+      },
+      {
+        "text": "internet",
+        "from": 503,
+        "to": 518
+      },
+      {
+        "text": "horror",
+        "from": 518,
+        "to": 530
+      },
+      {
+        "text": "story",
+        "from": 530,
+        "to": 553
+      },
+      {
+        "text": "claimed",
+        "from": 553,
+        "to": 564
+      },
+      {
+        "text": "you",
+        "from": 564,
+        "to": 568
+      },
+      {
+        "text": "could",
+        "from": 568,
+        "to": 573
+      },
+      {
+        "text": "slip",
+        "from": 573,
+        "to": 587
+      },
+      {
+        "text": "out",
+        "from": 587,
+        "to": 592
+      },
+      {
+        "text": "of",
+        "from": 592,
+        "to": 596
+      },
+      {
+        "text": "reality",
+        "from": 596,
+        "to": 618
+      },
+      {
+        "text": "and",
+        "from": 637,
+        "to": 640
+      },
+      {
+        "text": "get",
+        "from": 640,
+        "to": 646
+      },
+      {
+        "text": "trapped",
+        "from": 646,
+        "to": 658
+      },
+      {
+        "text": "here",
+        "from": 658,
+        "to": 663
+      },
+      {
+        "text": "forever",
+        "from": 663,
+        "to": 686
+      },
+      {
+        "text": "people",
+        "from": 686,
+        "to": 698
+      },
+      {
+        "text": "invented",
+        "from": 698,
+        "to": 713
+      },
+      {
+        "text": "monsters",
+        "from": 713,
+        "to": 740
+      },
+      {
+        "text": "hidden",
+        "from": 740,
+        "to": 751
+      },
+      {
+        "text": "levels",
+        "from": 751,
+        "to": 770
+      },
+      {
+        "text": "and",
+        "from": 770,
+        "to": 775
+      },
+      {
+        "text": "escape",
+        "from": 775,
+        "to": 788
+      },
+      {
+        "text": "routes",
+        "from": 788,
+        "to": 808
+      }
+    ],
+    "tempo": 1.0
+  },
+  {
+    "id": 3,
+    "from": 816,
+    "duration": 160,
+    "text": "But the biggest mystery was real. Where was this photo actually taken?",
+    "words": [
+      {
+        "text": "but",
+        "from": 816,
+        "to": 826
+      },
+      {
+        "text": "the",
+        "from": 826,
+        "to": 829
+      },
+      {
+        "text": "biggest",
+        "from": 829,
+        "to": 843
+      },
+      {
+        "text": "mystery",
+        "from": 843,
+        "to": 855
+      },
+      {
+        "text": "was",
+        "from": 855,
+        "to": 863
+      },
+      {
+        "text": "real",
+        "from": 863,
+        "to": 878
+      },
+      {
+        "text": "where",
+        "from": 891,
+        "to": 897
+      },
+      {
+        "text": "was",
+        "from": 897,
+        "to": 909
+      },
+      {
+        "text": "this",
+        "from": 909,
+        "to": 914
+      },
+      {
+        "text": "photo",
+        "from": 914,
+        "to": 931
+      },
+      {
+        "text": "actually",
+        "from": 931,
+        "to": 947
+      },
+      {
+        "text": "taken",
+        "from": 947,
+        "to": 969
+      }
+    ],
+    "tempo": 1.0
+  },
+  {
+    "id": 4,
+    "from": 976,
+    "duration": 267,
+    "text": "Then, in 2024, online detectives found a forgotten webpage from 2003. It led them to Oshkosh, Wisconsin.",
+    "words": [
+      {
+        "text": "then",
+        "from": 976,
+        "to": 982
+      },
+      {
+        "text": "in",
+        "from": 982,
+        "to": 987
+      },
+      {
+        "text": "twenty",
+        "from": 987,
+        "to": 996
+      },
+      {
+        "text": "twenty",
+        "from": 996,
+        "to": 1007
+      },
+      {
+        "text": "four",
+        "from": 1007,
+        "to": 1024
+      },
+      {
+        "text": "online",
+        "from": 1024,
+        "to": 1037
+      },
+      {
+        "text": "detectives",
+        "from": 1037,
+        "to": 1057
+      },
+      {
+        "text": "found",
+        "from": 1057,
+        "to": 1065
+      },
+      {
+        "text": "a",
+        "from": 1065,
+        "to": 1066
+      },
+      {
+        "text": "forgotten",
+        "from": 1066,
+        "to": 1088
+      },
+      {
+        "text": "webpage",
+        "from": 1088,
+        "to": 1108
+      },
+      {
+        "text": "from",
+        "from": 1108,
+        "to": 1114
+      },
+      {
+        "text": "two",
+        "from": 1114,
+        "to": 1120
+      },
+      {
+        "text": "thousand",
+        "from": 1120,
+        "to": 1134
+      },
+      {
+        "text": "three",
+        "from": 1134,
+        "to": 1150
+      },
+      {
+        "text": "it",
+        "from": 1150,
+        "to": 1156
+      },
+      {
+        "text": "led",
+        "from": 1156,
+        "to": 1164
+      },
+      {
+        "text": "them",
+        "from": 1164,
+        "to": 1172
+      },
+      {
+        "text": "to",
+        "from": 1172,
+        "to": 1177
+      },
+      {
+        "text": "oshkosh",
+        "from": 1177,
+        "to": 1203
+      },
+      {
+        "text": "wisconsin",
+        "from": 1203,
+        "to": 1236
+      }
+    ],
+    "tempo": 1.0
+  },
+  {
+    "id": 5,
+    "from": 1243,
+    "duration": 523,
+    "text": "The supposedly endless nightmare was just a former furniture store being renovated for a hobby shop... and an RC car racetrack. No secret dimension. No monsters. Just one ordinary photo... that scared the entire internet.",
+    "words": [
+      {
+        "text": "the",
+        "from": 1243,
+        "to": 1248
+      },
+      {
+        "text": "supposedly",
+        "from": 1248,
+        "to": 1274
+      },
+      {
+        "text": "endless",
+        "from": 1274,
+        "to": 1286
+      },
+      {
+        "text": "nightmare",
+        "from": 1286,
+        "to": 1303
+      },
+      {
+        "text": "was",
+        "from": 1303,
+        "to": 1309
+      },
+      {
+        "text": "just",
+        "from": 1309,
+        "to": 1317
+      },
+      {
+        "text": "a",
+        "from": 1317,
+        "to": 1319
+      },
+      {
+        "text": "former",
+        "from": 1319,
+        "to": 1336
+      },
+      {
+        "text": "furniture",
+        "from": 1336,
+        "to": 1355
+      },
+      {
+        "text": "store",
+        "from": 1355,
+        "to": 1368
+      },
+      {
+        "text": "being",
+        "from": 1368,
+        "to": 1378
+      },
+      {
+        "text": "renovated",
+        "from": 1378,
+        "to": 1398
+      },
+      {
+        "text": "for",
+        "from": 1398,
+        "to": 1407
+      },
+      {
+        "text": "a",
+        "from": 1407,
+        "to": 1409
+      },
+      {
+        "text": "hobby",
+        "from": 1409,
+        "to": 1420
+      },
+      {
+        "text": "shop",
+        "from": 1420,
+        "to": 1437
+      },
+      {
+        "text": "and",
+        "from": 1447,
+        "to": 1452
+      },
+      {
+        "text": "an",
+        "from": 1452,
+        "to": 1454
+      },
+      {
+        "text": "rc",
+        "from": 1454,
+        "to": 1468
+      },
+      {
+        "text": "car",
+        "from": 1468,
+        "to": 1477
+      },
+      {
+        "text": "racetrack",
+        "from": 1477,
+        "to": 1504
+      },
+      {
+        "text": "no",
+        "from": 1504,
+        "to": 1510
+      },
+      {
+        "text": "secret",
+        "from": 1510,
+        "to": 1524
+      },
+      {
+        "text": "dimension",
+        "from": 1524,
+        "to": 1546
+      },
+      {
+        "text": "no",
+        "from": 1563,
+        "to": 1569
+      },
+      {
+        "text": "monsters",
+        "from": 1569,
+        "to": 1598
+      },
+      {
+        "text": "just",
+        "from": 1598,
+        "to": 1607
+      },
+      {
+        "text": "one",
+        "from": 1607,
+        "to": 1616
+      },
+      {
+        "text": "ordinary",
+        "from": 1616,
+        "to": 1635
+      },
+      {
+        "text": "photo",
+        "from": 1635,
+        "to": 1652
+      },
+      {
+        "text": "that",
+        "from": 1672,
+        "to": 1681
+      },
+      {
+        "text": "scared",
+        "from": 1681,
+        "to": 1692
+      },
+      {
+        "text": "the",
+        "from": 1692,
+        "to": 1696
+      },
+      {
+        "text": "entire",
+        "from": 1696,
+        "to": 1712
+      },
+      {
+        "text": "internet",
+        "from": 1712,
+        "to": 1732
+      }
+    ],
+    "tempo": 1.0
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "scene": 0,
+    "asr": "This room is real and nobody knew where it was.",
+    "similarity": 1.0
+  },
+  {
+    "scene": 1,
+    "asr": "In 2019, a photo of an empty yellow room spread across the internet. Fluorescent lights, endless looking walls. No people. It became known as the back rooms.",
+    "similarity": 0.9454545454545454
+  },
+  {
+    "scene": 2,
+    "asr": "An internet horror story claimed you could slip out of reality and get trapped here forever. People invented monsters, hidden levels, and escape routes.",
+    "similarity": 1.0
+  },
+  {
+    "scene": 3,
+    "asr": "But the biggest mystery was real. Where was this photo actually taken?",
+    "similarity": 1.0
+  },
+  {
+    "scene": 4,
+    "asr": "Then in 2024, online detectives found a forgotten webpage from 2003. It led them to Oshkosh, Wisconsin.",
+    "similarity": 1.0
+  },
+  {
+    "scene": 5,
+    "asr": "The supposedly endless nightmare was just a former furniture store being renovated for a hobby shop. An RC car racetrack, no secret dimension. No monsters, just one ordinary photo. Thought that scared the entire internet.",
+    "similarity": 0.9714285714285714
+  },
+  {
+    "file": "backrooms_short.mp4",
+    "sha256": "ffcd12ce0b6f858f70c246e912a0a8a9c5469bb6d9e62afbf8de5e7ffe20d251",
+    "frames": 1766,
+    "seconds": 58.866667,
+    "codec": "H264/yuv420p/AAC"
+  },
+  {
+    "file": "backrooms_no_music.mp4",
+    "sha256": "2e634ac321f87a7d343f11014e6b8fb461ed94f7e3e31c44d5895e09febcae54",
+    "frames": 1766,
+    "seconds": 58.866667,
+    "codec": "H264/yuv420p/AAC"
+  }
+]

@@ -1,0 +1,2 @@
+import{bundle}from'@remotion/bundler';import{openBrowser,selectComposition,renderStill}from'@remotion/renderer';
+const r='/workspace/backrooms-short',url=await bundle({entryPoint:r+'/src/thumbnail.tsx',publicDir:r+'/public'}),b=await openBrowser('chrome',{browserExecutable:'/usr/bin/chromium'});try{const c=await selectComposition({serveUrl:url,id:'Thumbnail',puppeteerInstance:b});await renderStill({serveUrl:url,composition:c,frame:0,output:r+'/output/backrooms_thumbnail.png',puppeteerInstance:b})}finally{await b.close({silent:true})}
