@@ -1,0 +1,676 @@
+[
+  {
+    "id": 0,
+    "from": 0,
+    "duration": 270,
+    "text": "In 1977, Earth detected a mysterious signal from space. It lasted just 72 seconds. Then... it vanished.",
+    "words": [
+      {
+        "text": "in",
+        "from": 0,
+        "to": 5
+      },
+      {
+        "text": "nineteen",
+        "from": 5,
+        "to": 16
+      },
+      {
+        "text": "seventy",
+        "from": 16,
+        "to": 27
+      },
+      {
+        "text": "seven",
+        "from": 27,
+        "to": 42
+      },
+      {
+        "text": "earth",
+        "from": 52,
+        "to": 61
+      },
+      {
+        "text": "detected",
+        "from": 61,
+        "to": 75
+      },
+      {
+        "text": "a",
+        "from": 75,
+        "to": 76
+      },
+      {
+        "text": "mysterious",
+        "from": 76,
+        "to": 98
+      },
+      {
+        "text": "signal",
+        "from": 98,
+        "to": 109
+      },
+      {
+        "text": "from",
+        "from": 109,
+        "to": 115
+      },
+      {
+        "text": "space",
+        "from": 115,
+        "to": 139
+      },
+      {
+        "text": "it",
+        "from": 139,
+        "to": 143
+      },
+      {
+        "text": "lasted",
+        "from": 143,
+        "to": 158
+      },
+      {
+        "text": "just",
+        "from": 158,
+        "to": 164
+      },
+      {
+        "text": "seventy",
+        "from": 164,
+        "to": 178
+      },
+      {
+        "text": "two",
+        "from": 178,
+        "to": 184
+      },
+      {
+        "text": "seconds",
+        "from": 184,
+        "to": 206
+      },
+      {
+        "text": "then",
+        "from": 206,
+        "to": 218
+      },
+      {
+        "text": "it",
+        "from": 233,
+        "to": 238
+      },
+      {
+        "text": "vanished",
+        "from": 238,
+        "to": 261
+      }
+    ],
+    "tempo": 0.9130603448275862
+  },
+  {
+    "id": 1,
+    "from": 270,
+    "duration": 300,
+    "text": "A radio telescope in Ohio had picked up something extraordinary. A powerful, narrow radio signal unlike the usual background noise.",
+    "words": [
+      {
+        "text": "a",
+        "from": 270,
+        "to": 272
+      },
+      {
+        "text": "radio",
+        "from": 272,
+        "to": 287
+      },
+      {
+        "text": "telescope",
+        "from": 287,
+        "to": 308
+      },
+      {
+        "text": "in",
+        "from": 308,
+        "to": 313
+      },
+      {
+        "text": "ohio",
+        "from": 313,
+        "to": 330
+      },
+      {
+        "text": "had",
+        "from": 330,
+        "to": 337
+      },
+      {
+        "text": "picked",
+        "from": 337,
+        "to": 346
+      },
+      {
+        "text": "up",
+        "from": 346,
+        "to": 350
+      },
+      {
+        "text": "something",
+        "from": 350,
+        "to": 362
+      },
+      {
+        "text": "extraordinary",
+        "from": 362,
+        "to": 399
+      },
+      {
+        "text": "a",
+        "from": 399,
+        "to": 402
+      },
+      {
+        "text": "powerful",
+        "from": 402,
+        "to": 430
+      },
+      {
+        "text": "narrow",
+        "from": 430,
+        "to": 446
+      },
+      {
+        "text": "radio",
+        "from": 446,
+        "to": 459
+      },
+      {
+        "text": "signal",
+        "from": 459,
+        "to": 478
+      },
+      {
+        "text": "unlike",
+        "from": 483,
+        "to": 495
+      },
+      {
+        "text": "the",
+        "from": 495,
+        "to": 500
+      },
+      {
+        "text": "usual",
+        "from": 500,
+        "to": 520
+      },
+      {
+        "text": "background",
+        "from": 520,
+        "to": 540
+      },
+      {
+        "text": "noise",
+        "from": 540,
+        "to": 561
+      }
+    ],
+    "tempo": 0.7587628865979382
+  },
+  {
+    "id": 2,
+    "from": 570,
+    "duration": 300,
+    "text": "When astronomer Jerry Ehman examined the data, he circled six strange characters... And wrote just one word. Wow!",
+    "words": [
+      {
+        "text": "when",
+        "from": 570,
+        "to": 578
+      },
+      {
+        "text": "astronomer",
+        "from": 578,
+        "to": 602
+      },
+      {
+        "text": "jerry",
+        "from": 602,
+        "to": 622
+      },
+      {
+        "text": "ehman",
+        "from": 622,
+        "to": 629
+      },
+      {
+        "text": "examined",
+        "from": 629,
+        "to": 651
+      },
+      {
+        "text": "the",
+        "from": 651,
+        "to": 655
+      },
+      {
+        "text": "data",
+        "from": 655,
+        "to": 676
+      },
+      {
+        "text": "he",
+        "from": 676,
+        "to": 681
+      },
+      {
+        "text": "circled",
+        "from": 681,
+        "to": 700
+      },
+      {
+        "text": "six",
+        "from": 700,
+        "to": 717
+      },
+      {
+        "text": "strange",
+        "from": 717,
+        "to": 738
+      },
+      {
+        "text": "characters",
+        "from": 738,
+        "to": 778
+      },
+      {
+        "text": "and",
+        "from": 778,
+        "to": 788
+      },
+      {
+        "text": "wrote",
+        "from": 788,
+        "to": 800
+      },
+      {
+        "text": "just",
+        "from": 800,
+        "to": 809
+      },
+      {
+        "text": "one",
+        "from": 809,
+        "to": 818
+      },
+      {
+        "text": "word",
+        "from": 818,
+        "to": 839
+      },
+      {
+        "text": "wow",
+        "from": 839,
+        "to": 861
+      }
+    ],
+    "tempo": 0.6386769759450172
+  },
+  {
+    "id": 3,
+    "from": 870,
+    "duration": 360,
+    "text": "The signal appeared to come from the direction of Sagittarius. Near a frequency scientists had considered promising for communication across space. Was someone trying to contact Earth?",
+    "words": [
+      {
+        "text": "the",
+        "from": 870,
+        "to": 877
+      },
+      {
+        "text": "signal",
+        "from": 877,
+        "to": 892
+      },
+      {
+        "text": "appeared",
+        "from": 892,
+        "to": 904
+      },
+      {
+        "text": "to",
+        "from": 904,
+        "to": 907
+      },
+      {
+        "text": "come",
+        "from": 907,
+        "to": 916
+      },
+      {
+        "text": "from",
+        "from": 916,
+        "to": 921
+      },
+      {
+        "text": "the",
+        "from": 921,
+        "to": 923
+      },
+      {
+        "text": "direction",
+        "from": 923,
+        "to": 940
+      },
+      {
+        "text": "of",
+        "from": 940,
+        "to": 943
+      },
+      {
+        "text": "sagittarius",
+        "from": 943,
+        "to": 979
+      },
+      {
+        "text": "near",
+        "from": 984,
+        "to": 991
+      },
+      {
+        "text": "a",
+        "from": 991,
+        "to": 992
+      },
+      {
+        "text": "frequency",
+        "from": 992,
+        "to": 1010
+      },
+      {
+        "text": "scientists",
+        "from": 1010,
+        "to": 1032
+      },
+      {
+        "text": "had",
+        "from": 1032,
+        "to": 1037
+      },
+      {
+        "text": "considered",
+        "from": 1037,
+        "to": 1057
+      },
+      {
+        "text": "promising",
+        "from": 1057,
+        "to": 1078
+      },
+      {
+        "text": "for",
+        "from": 1078,
+        "to": 1085
+      },
+      {
+        "text": "communication",
+        "from": 1085,
+        "to": 1113
+      },
+      {
+        "text": "across",
+        "from": 1113,
+        "to": 1126
+      },
+      {
+        "text": "space",
+        "from": 1126,
+        "to": 1151
+      },
+      {
+        "text": "was",
+        "from": 1156,
+        "to": 1160
+      },
+      {
+        "text": "someone",
+        "from": 1160,
+        "to": 1170
+      },
+      {
+        "text": "trying",
+        "from": 1170,
+        "to": 1180
+      },
+      {
+        "text": "to",
+        "from": 1180,
+        "to": 1183
+      },
+      {
+        "text": "contact",
+        "from": 1183,
+        "to": 1204
+      },
+      {
+        "text": "earth",
+        "from": 1204,
+        "to": 1218
+      }
+    ],
+    "tempo": 0.8205128205128205
+  },
+  {
+    "id": 4,
+    "from": 1230,
+    "duration": 300,
+    "text": "Scientists searched for it again. And again. But the signal never returned. Some researchers now suspect a natural cosmic event.",
+    "words": [
+      {
+        "text": "scientists",
+        "from": 1233,
+        "to": 1260
+      },
+      {
+        "text": "searched",
+        "from": 1260,
+        "to": 1274
+      },
+      {
+        "text": "for",
+        "from": 1274,
+        "to": 1281
+      },
+      {
+        "text": "it",
+        "from": 1281,
+        "to": 1283
+      },
+      {
+        "text": "again",
+        "from": 1283,
+        "to": 1295
+      },
+      {
+        "text": "and",
+        "from": 1307,
+        "to": 1311
+      },
+      {
+        "text": "again",
+        "from": 1311,
+        "to": 1323
+      },
+      {
+        "text": "but",
+        "from": 1323,
+        "to": 1340
+      },
+      {
+        "text": "the",
+        "from": 1340,
+        "to": 1342
+      },
+      {
+        "text": "signal",
+        "from": 1342,
+        "to": 1359
+      },
+      {
+        "text": "never",
+        "from": 1359,
+        "to": 1370
+      },
+      {
+        "text": "returned",
+        "from": 1370,
+        "to": 1390
+      },
+      {
+        "text": "some",
+        "from": 1400,
+        "to": 1412
+      },
+      {
+        "text": "researchers",
+        "from": 1412,
+        "to": 1432
+      },
+      {
+        "text": "now",
+        "from": 1432,
+        "to": 1439
+      },
+      {
+        "text": "suspect",
+        "from": 1439,
+        "to": 1459
+      },
+      {
+        "text": "a",
+        "from": 1459,
+        "to": 1460
+      },
+      {
+        "text": "natural",
+        "from": 1460,
+        "to": 1478
+      },
+      {
+        "text": "cosmic",
+        "from": 1478,
+        "to": 1498
+      },
+      {
+        "text": "event",
+        "from": 1498,
+        "to": 1521
+      }
+    ],
+    "tempo": 0.7422680412371134
+  },
+  {
+    "id": 5,
+    "from": 1530,
+    "duration": 270,
+    "text": "Nearly fifty years later, its exact cause remains unconfirmed. So what did Earth detect... for those 72 seconds?",
+    "words": [
+      {
+        "text": "nearly",
+        "from": 1533,
+        "to": 1543
+      },
+      {
+        "text": "fifty",
+        "from": 1543,
+        "to": 1554
+      },
+      {
+        "text": "years",
+        "from": 1554,
+        "to": 1562
+      },
+      {
+        "text": "later",
+        "from": 1562,
+        "to": 1573
+      },
+      {
+        "text": "its",
+        "from": 1581,
+        "to": 1586
+      },
+      {
+        "text": "exact",
+        "from": 1586,
+        "to": 1600
+      },
+      {
+        "text": "cause",
+        "from": 1600,
+        "to": 1610
+      },
+      {
+        "text": "remains",
+        "from": 1610,
+        "to": 1626
+      },
+      {
+        "text": "unconfirmed",
+        "from": 1626,
+        "to": 1653
+      },
+      {
+        "text": "so",
+        "from": 1660,
+        "to": 1667
+      },
+      {
+        "text": "what",
+        "from": 1667,
+        "to": 1674
+      },
+      {
+        "text": "did",
+        "from": 1674,
+        "to": 1681
+      },
+      {
+        "text": "earth",
+        "from": 1681,
+        "to": 1691
+      },
+      {
+        "text": "detect",
+        "from": 1691,
+        "to": 1718
+      },
+      {
+        "text": "for",
+        "from": 1718,
+        "to": 1724
+      },
+      {
+        "text": "those",
+        "from": 1724,
+        "to": 1730
+      },
+      {
+        "text": "seventy",
+        "from": 1730,
+        "to": 1746
+      },
+      {
+        "text": "two",
+        "from": 1746,
+        "to": 1754
+      },
+      {
+        "text": "seconds",
+        "from": 1754,
+        "to": 1782
+      }
+    ],
+    "tempo": 0.819047619047619
+  }
+]

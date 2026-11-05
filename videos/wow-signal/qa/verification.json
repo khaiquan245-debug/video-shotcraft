@@ -1,0 +1,38 @@
+[
+  {
+    "scene": 0,
+    "heard": "In 1977, Earth detected a mysterious signal from space. It lasted just 72 seconds, then, I'd vanished.",
+    "similarity": 0.95
+  },
+  {
+    "scene": 1,
+    "heard": "A radio telescope in Ohio had picked up something extraordinary, a powerful, narrow radio signal, unlike the usual background noise.",
+    "similarity": 1.0
+  },
+  {
+    "scene": 2,
+    "heard": "When a strong or Jerry Aemon examined the data, he circled six strange characters. And wrote just one word. Wow!",
+    "similarity": 0.8421052631578947
+  },
+  {
+    "scene": 3,
+    "heard": "The signal appeared to come from the direction of Sagittarius. Near a frequency scientist had considered promising for communication across space. Was someone trying to contact Earth?",
+    "similarity": 0.9629629629629629
+  },
+  {
+    "scene": 4,
+    "heard": "Scientists search for it again and again, but the signal never returned. Some researchers now suspect a natural cosmic event.",
+    "similarity": 0.95
+  },
+  {
+    "scene": 5,
+    "heard": "Nearly 50 years later, its exact cause remains unconfirmed. So what did Earth detect for those 72 seconds?",
+    "similarity": 0.972972972972973
+  },
+  {
+    "mainSha256": "7a9b3541d94c948c06fab1a051083689462b1da3d899dcc4e8222428e237823e",
+    "seconds": 60,
+    "frames": 1800,
+    "allScenesAndWordsPreserved": true
+  }
+]
