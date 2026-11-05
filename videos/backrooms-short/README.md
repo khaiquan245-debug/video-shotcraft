@@ -1,6 +1,6 @@
 # The Creepy Internet Photo That Was Finally Solved
 
-Original 2D/2.5D-style vector animated Shorts production for the supplied English script. 1080×1920,30 fps,58.867 seconds. Assets are procedural SVG, not archival photographs. Forum, archive and map are labeled reconstructions. The monster passage is expressly fictional. One reusable navy-hoodie character rig supplies every appearance.
+Original 2D/2.5D-style vector animated Shorts production for the supplied English script. 1080×1920,30 fps,44.233 seconds. Assets are procedural SVG, not archival photographs. Forum, archive and map are labeled reconstructions. The monster passage is expressly fictional. One reusable navy-hoodie character rig supplies every appearance.
 
 ## Rebuild
 Existing free tools: local PocketTTS FP32 through sherpa-onnx, PocketSphinx forced word alignment, NumPy procedural music/foley, FFmpeg, Remotion and local Chromium. No paid API used.
@@ -17,3 +17,5 @@ Use the existing Python environment `/workspace/ten-seconds-voice-redo/.venv/bin
 Visual direction: muted yellow corridor, navy/white/black cartoon narrator, pale gold emphasis, dark-blue investigation panels; no actual historical image is claimed. Main movement changes by scene: corridor perspective dolly and flicker, animated forum stack, falling rig and retreating corridor, evidence pan and magnifier, archive-to-map location reveal, room-to-hobby-shop dissolve and moving RC car. Caption groups contain three words with active-word yellow highlight and reserve right/bottom interface clearance.
 
 Limits: staged SVG environment changes use layer transforms/dissolves rather than a physically modeled 3D environment. The store and map are schematic illustrations. No rights-unclear images or commercial recordings used. Voice clarity and subtitle timing need both technical checks and audience listening; automated ASR is not proof of subjective naturalness.
+
+Pace revision: near-native tempo1.02 replaces prior artificially slowed tempo0.785. Quiet interword gaps are shortened with45ms edge margins; sentence breaks are retained at approximately240–320ms where a quiet gap is available. Full original script remains; faster user-requested cut is44.233 seconds. Key reveal titles now follow aligned spoken words.

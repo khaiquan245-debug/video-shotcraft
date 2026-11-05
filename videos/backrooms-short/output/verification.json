@@ -6,8 +6,8 @@
   },
   {
     "scene": 1,
-    "asr": "In 2019, a photo of an empty yellow room spread across the internet. Fluorescent lights, endless looking walls. No people. It became known as the back rooms.",
-    "similarity": 0.9454545454545454
+    "asr": "In 2019, a photo of an empty yellow room spread across the internet. Florisant lights, endless looking walls. No people. It became known as the back rooms.",
+    "similarity": 0.9090909090909091
   },
   {
     "scene": 2,
@@ -26,21 +26,21 @@
   },
   {
     "scene": 5,
-    "asr": "The supposedly endless nightmare was just a former furniture store being renovated for a hobby shop. An RC car racetrack, no secret dimension. No monsters, just one ordinary photo. Thought that scared the entire internet.",
-    "similarity": 0.9714285714285714
+    "asr": "The supposedly endless nightmare was just a former furniture store being renovated for a hobby shop. An RC car racetrack, no secret dimension, no monsters, just one ordinary photo. That scared the entire internet.",
+    "similarity": 0.9855072463768116
   },
   {
     "file": "backrooms_short.mp4",
-    "sha256": "ffcd12ce0b6f858f70c246e912a0a8a9c5469bb6d9e62afbf8de5e7ffe20d251",
-    "frames": 1766,
-    "seconds": 58.866667,
+    "sha256": "cc98ba1f63f4eaf8145f8b4716918c56a9808f4d9695558874c7b288ade55860",
+    "frames": 1327,
+    "seconds": 44.233333,
     "codec": "H264/yuv420p/AAC"
   },
   {
     "file": "backrooms_no_music.mp4",
-    "sha256": "2e634ac321f87a7d343f11014e6b8fb461ed94f7e3e31c44d5895e09febcae54",
-    "frames": 1766,
-    "seconds": 58.866667,
+    "sha256": "369be8722c8f165ab6547b866b9642b945a2f1bc6f32e59a879f1e402021a7d6",
+    "frames": 1327,
+    "seconds": 44.233333,
     "codec": "H264/yuv420p/AAC"
   }
 ]

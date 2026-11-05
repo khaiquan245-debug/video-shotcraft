@@ -1,18 +1,33 @@
 from pathlib import Path
 import json,wave,subprocess,re
 import numpy as np
-r=Path(__file__).resolve().parents[1];s=json.loads((r/'src/timeline.json').read_text());old=sum(x['duration'] for x in s);target=1770;tempo=(old-12)/(target-18);offset=0;full=[]
+r=Path(__file__).resolve().parents[1];s=json.loads((r/'src/timeline.json').read_text());offset=0;full=[];tempo=1.02
 for x in s:
- i=x['id'];p=r/f'out/voice-{i}.wav';q=r/f'out/final-{i}.wav'
- subprocess.run(['ffmpeg','-v','error','-y','-i',str(p),'-af',f'rubberband=tempo={tempo}:formant=preserved','-ar','24000',str(q)],check=True)
- with wave.open(str(q)) as w:a=np.frombuffer(w.readframes(w.getnframes()),np.int16).copy()
- dur=round(x['duration']/tempo);dur=max(dur,int(np.ceil(len(a)/800))+3)
- for w in x['words']:w['from']=offset+round((w['from']-x['from'])/tempo);w['to']=offset+round((w['to']-x['from'])/tempo)
- x['from']=offset;x['duration']=dur;offset+=dur;full.append(np.pad(a,(0,dur*800-len(a))))
-# Fit remaining tail only; never truncate speech.
-assert offset<=1800,(offset,tempo)
-if offset<1650:
- extra=1650-offset;s[-1]['duration']+=extra;full[-1]=np.pad(full[-1],(0,extra*800));offset+=extra
+ i=x['id'];p=r/f'out/voice-{i}.wav';q=r/f'out/phrased-{i}.wav'
+ with wave.open(str(p)) as w:a=np.frombuffer(w.readframes(w.getnframes()),np.int16).copy();sr=w.getframerate()
+ # Keep voiced edges intact and normalize only alignment-confirmed quiet gaps.
+ chunks=[];cursor=0;boundaries={};tokens=[]
+ for match in re.finditer(r"([A-Za-z]+(?:'[A-Za-z]+)?|[0-9]+)([^A-Za-z0-9]*)",x['text']):
+  token=match[1].lower();expanded={'2019':['twenty','nineteen'],'2024':['twenty','twenty','four'],'2003':['two','thousand','three']}.get(token,[token]);tokens.extend(expanded)
+  if any(c in match[2] for c in '.!?'):boundaries[len(tokens)-1]=.32 if '...' in match[2] else .24
+ ws=x['words'];origin=x['from'];changes=[]
+ for j in range(len(ws)-1):
+  end=(ws[j]['to']-origin)/30;start=(ws[j+1]['from']-origin)/30
+  gap=start-end;desired=boundaries.get(j,min(gap,.11))
+  if gap>.14 and abs(gap-desired)>.035:
+   left=round((end+.045)*sr);right=round((start-.045)*sr)
+   if right>left:
+    chunks.append(a[cursor:left]);replacement=np.zeros(round(max(0,desired-.09)*sr),np.int16);chunks.append(replacement);changes.append((right/sr,(len(replacement)-(right-left))/sr));cursor=right
+ chunks.append(a[cursor:]);a=np.concatenate(chunks)
+ with wave.open(str(q),'wb') as w:w.setparams((1,2,sr,0,'NONE','not compressed'));w.writeframes(a.tobytes())
+ final=r/f'out/final-{i}.wav';subprocess.run(['ffmpeg','-v','error','-y','-i',str(q),'-af',f'rubberband=tempo={tempo}:formant=preserved','-ar','24000',str(final)],check=True)
+ with wave.open(str(final)) as w:a=np.frombuffer(w.readframes(w.getnframes()),np.int16).copy()
+ dur=int(np.ceil(len(a)/800))+ (16 if i==5 else 4)
+ for w in ws:
+  for key in ['from','to']:
+   old=(w[key]-origin)/30;new=old+sum(delta for when,delta in changes if when<=old+.001);w[key]=offset+round(new/tempo*30)
+ x['from']=offset;x['duration']=dur;x['tempo']=tempo;offset+=dur;full.append(np.pad(a,(0,dur*800-len(a))))
+assert 1050<offset<1650,offset
 (r/'src/timeline.json').write_text(json.dumps(s,indent=2))
 with wave.open(str(r/'output/backrooms_voice.wav'),'wb') as w:w.setparams((1,2,24000,0,'NONE','not compressed'));w.writeframes(np.concatenate(full).tobytes())
 subprocess.run(['ffmpeg','-v','error','-y','-i',str(r/'output/backrooms_voice.wav'),'-ar','48000',str(r/'public/audio/narration.wav')],check=True)
