@@ -11,7 +11,7 @@
   },
   {
     "scene": 2,
-    "heard": "When a strong or Jerry Aemon examined the data, he circled six strange characters. And wrote just one word. Wow!",
+    "heard": "When a strong or Jerry Eman examined the data, he circled six strange characters. And wrote just one word. Wow.",
     "similarity": 0.8421052631578947
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "scene": 4,
-    "heard": "Scientists search for it again and again, but the signal never returned. Some researchers now suspect a natural cosmic event.",
+    "heard": "Scientists search for it again, and again, but the signal never returned. Some researchers now suspect a natural cosmic event.",
     "similarity": 0.95
   },
   {
@@ -30,9 +30,9 @@
     "similarity": 0.972972972972973
   },
   {
-    "mainSha256": "7a9b3541d94c948c06fab1a051083689462b1da3d899dcc4e8222428e237823e",
-    "seconds": 60,
-    "frames": 1800,
+    "mainSha256": "65753feb36754622ae45508a4ce11ee184c72fa808121cee5bf0b8b965e212e5",
+    "seconds": 46.36666666666667,
+    "frames": 1391,
     "allScenesAndWordsPreserved": true
   }
 ]

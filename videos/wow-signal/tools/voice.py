@@ -14,11 +14,11 @@ for i,text in enumerate(texts):
   z=tts.generate(text,c)
   with wave.open(str(raw),'wb') as w:w.setparams((1,2,z.sample_rate,0,'NONE','not compressed'));w.writeframes((np.clip(z.samples,-.95,.95)*32767).astype(np.int16).tobytes())
  with wave.open(str(raw)) as w:dur=w.getnframes()/w.getframerate()
- target=lengths[i];spoken=target-(.6 if i==5 else .3);tempo=dur/spoken
- out=r/f'out/voice-{i}.wav';subprocess.run(['ffmpeg','-v','error','-y','-i',str(raw),'-af',f'rubberband=tempo={tempo}:pitch=0.94:formant=shifted,loudnorm=I=-18:TP=-3:LRA=10','-ar',str(sr),str(out)],check=True)
+ tempo=.98 if i==0 else 1.03 if i<5 else 1.0;target=math.ceil((dur/tempo+(.9 if i==5 else .18))*30)/30
+ out=r/f'out/voice-{i}.wav';subprocess.run(['ffmpeg','-v','error','-y','-i',str(raw),'-af',f'rubberband=tempo={tempo}:formant=preserved,loudnorm=I=-18:TP=-3:LRA=10','-ar',str(sr),str(out)],check=True)
  with wave.open(str(out)) as w:audio=np.frombuffer(w.readframes(w.getnframes()),np.int16).copy()
  assert len(audio)<=target*sr
- full.append(np.pad(audio,(0,target*sr-len(audio))))
+ full.append(np.pad(audio,(0,round(target*sr)-len(audio))))
  pcm=subprocess.check_output(['ffmpeg','-v','error','-i',str(out),'-ar','16000','-ac','1','-f','s16le','-'])
  d=Decoder(lm=None,loglevel='ERROR',samprate=16000,beam=1e-80,wbeam=1e-60)
  norm=text.lower().replace('1977','nineteen seventy seven').replace('72','seventy two').replace('...',' ')
@@ -26,6 +26,6 @@ for i,text in enumerate(texts):
  for token,pron in [('ehman','EY M AH N'),('sagittarius','S AE JH AH T EH R IY AH S')]:
   if not d.lookup_word(token):d.add_word(token,pron,True)
  d.set_align_text(' '.join(words));d.start_utt();d.process_raw(pcm,False,True);d.end_utt();ws=[{'text':re.sub(r'\(\d+\)$','',x.word),'from':offset+round(x.start_frame*.3),'to':offset+round((x.end_frame+1)*.3)} for x in d.seg() if x.word not in ['<sil>','<s>','</s>','[NOISE]']]
- scenes.append({'id':i,'from':offset,'duration':target*30,'text':text,'words':ws,'tempo':tempo});offset+=target*30;print('VOICE',i,dur,tempo,flush=True)
+ scenes.append({'id':i,'from':offset,'duration':round(target*30),'text':text,'words':ws,'tempo':tempo});offset+=round(target*30);print('VOICE',i,dur,tempo,flush=True)
 with wave.open(str(r/'out/narration.wav'),'wb') as w:w.setparams((1,2,sr,0,'NONE','not compressed'));w.writeframes(np.concatenate(full).tobytes())
 (r/'src/timeline.json').write_text(json.dumps(scenes,indent=2));print('VOICE DONE',offset,flush=True)
