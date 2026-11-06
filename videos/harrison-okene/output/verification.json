@@ -1,0 +1,46 @@
+[
+  {
+    "scene": 0,
+    "asr": "the diver reached for a lifeless hand. Then it grabbed him back.",
+    "similarity": 1.0
+  },
+  {
+    "scene": 1,
+    "asr": "In 2013, a tugboat flipped off Nigeria's coast and sank almost 100 feet. Trapped inside was Harrison O'Kine, the ship's cook.",
+    "similarity": 0.9090909090909091
+  },
+  {
+    "scene": 2,
+    "asr": "In total darkness, he found a small pocket of air above the rising water. 11 other crew members didn't survive. And the air around him was running out.",
+    "similarity": 0.9818181818181818
+  },
+  {
+    "scene": 3,
+    "asr": "whole hours past, then another day. More than 60 hours after the sinking, rescue divers entered the wreck, expecting to find bodies.",
+    "similarity": 0.9047619047619048
+  },
+  {
+    "scene": 4,
+    "asr": "One diver spotted a hand. He reached for it. And the hand moved. Harrison was alive.",
+    "similarity": 1.0
+  },
+  {
+    "scene": 5,
+    "asr": "He was carefully rescued and treated in a decompression chamber. In the unbelievable part, that moment was caught on camera.",
+    "similarity": 0.95
+  },
+  {
+    "file": "harrison_okene_short.mp4",
+    "sha256": "06e89b37f80f6be1f653ecb885479d35c94b206949bd08ea34e48c0c742ee51e",
+    "frames": 1680,
+    "seconds": 56.0,
+    "codec": "H264/yuv420p/AAC"
+  },
+  {
+    "file": "harrison_okene_no_music.mp4",
+    "sha256": "9ba5e45e541749e5cc3b1a2c15d4d7ccf8bbb6fb5236ecfb4225f3647681ade3",
+    "frames": 1680,
+    "seconds": 56.0,
+    "codec": "H264/yuv420p/AAC"
+  }
+]

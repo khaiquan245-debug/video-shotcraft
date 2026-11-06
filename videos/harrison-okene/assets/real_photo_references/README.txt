@@ -1,0 +1,1 @@
+Real photo sources are in ../../REAL_ARCHIVE_SOURCES.md. No press images are included because license status is unconfirmed and remote files could not be downloaded. Use original illustrated assets instead unless you obtain rights and add licensed photo files here.

@@ -1,0 +1,66 @@
+{
+  "note": "These are genuine published photographs / video-derived frames, not locally stored image files. Reuse rights NOT verified; secure rights before using in a published video. Some preview URLs may require visiting the article.",
+  "images": [
+    {
+      "id": "01",
+      "title": "Jascon-4 (actual tugboat)",
+      "scene": "00:05–00:15",
+      "photo_url": "https://www.tv-tokyo.co.jp/plus/entertainment/images/ariehen_20180625_thum.jpg",
+      "article_url": "https://gcaptain.com/TUGBOAT-JASCON-SINKS-HEAVY-WEATHER/",
+      "credit": "West African Ventures (via gCaptain)",
+      "suggested_filename": "01_jascon4_real.jpg"
+    },
+    {
+      "id": "02",
+      "title": "Harrison Okene, contemporary portrait",
+      "scene": "00:05–00:15 or ending",
+      "photo_url": "https://e3.365dm.com/16/07/2048x1152/rtx10l9h-1_3654605.jpg",
+      "article_url": "https://news.sky.com/story/sailor-survives-shipwreck-in-tiny-air-pocket-10443156",
+      "credit": "Sky News / original agency image; verify credit",
+      "suggested_filename": "02_harrison_portrait_real.jpg"
+    },
+    {
+      "id": "03",
+      "title": "Harrison in sunken ship (authentic rescue camera still in editorial graphic)",
+      "scene": "00:40–00:51",
+      "photo_url": "https://www.goalcast.com/media-library/shipwreck-survivor-harrison-okene-1.jpg?coordinates=156%2C0%2C157%2C0&height=1500&id=51675219&width=2000",
+      "article_url": "https://www.goalcast.com/shipwreck-survivor-harrison-okene/",
+      "credit": "DCN Diving camera still, in Goalcast editorial composite (verify reproduction terms)",
+      "suggested_filename": "03_real_rescue_still.jpg"
+    },
+    {
+      "id": "04",
+      "title": "Harrison with rescuers in decompression chamber",
+      "scene": "00:51–01:00",
+      "photo_url": "https://image.stern.de/36021528/t/oH/v3/w960/r0/-/okene.jpg",
+      "article_url": "https://www.stern.de/politik/ausland/schiffsunglueck--verlassen-sie-nicht-das-sinkende-schiff--35981396.html",
+      "credit": "DCN Diving / AP photos; verify original source rights",
+      "suggested_filename": "04_harrison_with_rescuers.jpg"
+    },
+    {
+      "id": "05",
+      "title": "Harrison in orange diving suit (later portrait)",
+      "scene": "00:51–01:00 optional",
+      "photo_url": "https://img.zerkalo.io/720x720s/02/e/kharrison_okene7.jpg",
+      "article_url": "https://news.zerkalo.io/cellar/97899.html",
+      "credit": "Zerkalo publication; verify photographer and permission",
+      "suggested_filename": "05_harrison_diver_portrait.jpg"
+    },
+    {
+      "id": "06",
+      "title": "Rescue diver underwater (published real still)",
+      "scene": "00:39–00:49",
+      "photo_url": "https://thumb.canalplus.pro/http/unsafe/752x0/smart/creativemedia-image.canalplus.pro/content/0001/54/5118088a5ce33f2431c9dc1bdc3906288d71a4b1.jpeg",
+      "article_url": "https://www.canalplus.com/articles/decouverte/pris-au-piege-60-heures-sous-la-mer-un-doc-sur-l-homme-qui-a-survecu-3-jours-dans-une-epave",
+      "credit": "Canal+ / documentary image; verify usage rights",
+      "suggested_filename": "06_underwater_diver_real.jpg"
+    }
+  ],
+  "footage": [
+    {
+      "title": "DCN Diving 2013 original rescue footage",
+      "url": "https://www.youtube.com/watch?v=2FkbfMk0wCI",
+      "rights": "Rights not verified; permission needed for publication."
+    }
+  ]
+}

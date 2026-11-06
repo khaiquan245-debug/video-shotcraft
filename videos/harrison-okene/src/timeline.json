@@ -1,0 +1,693 @@
+[
+  {
+    "id": 0,
+    "from": 0,
+    "duration": 150,
+    "text": "The diver reached for a lifeless hand. Then... it grabbed him back.",
+    "words": [
+      {
+        "text": "the",
+        "from": 3,
+        "to": 6
+      },
+      {
+        "text": "diver",
+        "from": 6,
+        "to": 17
+      },
+      {
+        "text": "reached",
+        "from": 17,
+        "to": 29
+      },
+      {
+        "text": "for",
+        "from": 29,
+        "to": 35
+      },
+      {
+        "text": "a",
+        "from": 35,
+        "to": 36
+      },
+      {
+        "text": "lifeless",
+        "from": 36,
+        "to": 50
+      },
+      {
+        "text": "hand",
+        "from": 50,
+        "to": 62
+      },
+      {
+        "text": "then",
+        "from": 74,
+        "to": 91
+      },
+      {
+        "text": "it",
+        "from": 105,
+        "to": 110
+      },
+      {
+        "text": "grabbed",
+        "from": 110,
+        "to": 120
+      },
+      {
+        "text": "him",
+        "from": 120,
+        "to": 124
+      },
+      {
+        "text": "back",
+        "from": 124,
+        "to": 138
+      }
+    ],
+    "tempo": 1.0,
+    "breaks": [
+      6,
+      7,
+      11
+    ],
+    "voiceSeconds": 4.586833333333334
+  },
+  {
+    "id": 1,
+    "from": 150,
+    "duration": 300,
+    "text": "In 2013, a tugboat flipped off Nigeria's coast and sank almost a hundred feet. Trapped inside was Harrison Okene, the ship's cook.",
+    "words": [
+      {
+        "text": "in",
+        "from": 156,
+        "to": 162
+      },
+      {
+        "text": "twenty",
+        "from": 162,
+        "to": 170
+      },
+      {
+        "text": "thirteen",
+        "from": 170,
+        "to": 189
+      },
+      {
+        "text": "a",
+        "from": 193,
+        "to": 196
+      },
+      {
+        "text": "tugboat",
+        "from": 196,
+        "to": 208
+      },
+      {
+        "text": "flipped",
+        "from": 208,
+        "to": 218
+      },
+      {
+        "text": "off",
+        "from": 218,
+        "to": 224
+      },
+      {
+        "text": "nigeria's",
+        "from": 224,
+        "to": 242
+      },
+      {
+        "text": "coast",
+        "from": 242,
+        "to": 257
+      },
+      {
+        "text": "and",
+        "from": 257,
+        "to": 260
+      },
+      {
+        "text": "sank",
+        "from": 260,
+        "to": 270
+      },
+      {
+        "text": "almost",
+        "from": 270,
+        "to": 283
+      },
+      {
+        "text": "a",
+        "from": 283,
+        "to": 284
+      },
+      {
+        "text": "hundred",
+        "from": 284,
+        "to": 296
+      },
+      {
+        "text": "feet",
+        "from": 296,
+        "to": 309
+      },
+      {
+        "text": "trapped",
+        "from": 327,
+        "to": 336
+      },
+      {
+        "text": "inside",
+        "from": 336,
+        "to": 349
+      },
+      {
+        "text": "was",
+        "from": 349,
+        "to": 353
+      },
+      {
+        "text": "harrison",
+        "from": 353,
+        "to": 366
+      },
+      {
+        "text": "okene",
+        "from": 366,
+        "to": 383
+      },
+      {
+        "text": "the",
+        "from": 383,
+        "to": 389
+      },
+      {
+        "text": "ship's",
+        "from": 389,
+        "to": 399
+      },
+      {
+        "text": "cook",
+        "from": 399,
+        "to": 413
+      }
+    ],
+    "tempo": 1.0,
+    "breaks": [
+      14,
+      22
+    ],
+    "voiceSeconds": 8.76
+  },
+  {
+    "id": 2,
+    "from": 450,
+    "duration": 330,
+    "text": "In total darkness, he found a small pocket of air above the rising water. Eleven other crew members didn't survive. And the air around him was running out.",
+    "words": [
+      {
+        "text": "in",
+        "from": 450,
+        "to": 457
+      },
+      {
+        "text": "total",
+        "from": 457,
+        "to": 466
+      },
+      {
+        "text": "darkness",
+        "from": 466,
+        "to": 486
+      },
+      {
+        "text": "he",
+        "from": 486,
+        "to": 489
+      },
+      {
+        "text": "found",
+        "from": 489,
+        "to": 496
+      },
+      {
+        "text": "a",
+        "from": 496,
+        "to": 498
+      },
+      {
+        "text": "small",
+        "from": 498,
+        "to": 509
+      },
+      {
+        "text": "pocket",
+        "from": 509,
+        "to": 520
+      },
+      {
+        "text": "of",
+        "from": 520,
+        "to": 522
+      },
+      {
+        "text": "air",
+        "from": 522,
+        "to": 533
+      },
+      {
+        "text": "above",
+        "from": 533,
+        "to": 543
+      },
+      {
+        "text": "the",
+        "from": 543,
+        "to": 546
+      },
+      {
+        "text": "rising",
+        "from": 546,
+        "to": 558
+      },
+      {
+        "text": "water",
+        "from": 558,
+        "to": 571
+      },
+      {
+        "text": "eleven",
+        "from": 592,
+        "to": 606
+      },
+      {
+        "text": "other",
+        "from": 606,
+        "to": 614
+      },
+      {
+        "text": "crew",
+        "from": 614,
+        "to": 620
+      },
+      {
+        "text": "members",
+        "from": 620,
+        "to": 633
+      },
+      {
+        "text": "didn't",
+        "from": 633,
+        "to": 639
+      },
+      {
+        "text": "survive",
+        "from": 639,
+        "to": 660
+      },
+      {
+        "text": "and",
+        "from": 679,
+        "to": 683
+      },
+      {
+        "text": "the",
+        "from": 683,
+        "to": 686
+      },
+      {
+        "text": "air",
+        "from": 686,
+        "to": 693
+      },
+      {
+        "text": "around",
+        "from": 693,
+        "to": 701
+      },
+      {
+        "text": "him",
+        "from": 701,
+        "to": 705
+      },
+      {
+        "text": "was",
+        "from": 705,
+        "to": 709
+      },
+      {
+        "text": "running",
+        "from": 709,
+        "to": 717
+      },
+      {
+        "text": "out",
+        "from": 717,
+        "to": 728
+      }
+    ],
+    "tempo": 1.0,
+    "breaks": [
+      13,
+      19,
+      27
+    ],
+    "voiceSeconds": 9.28
+  },
+  {
+    "id": 3,
+    "from": 780,
+    "duration": 330,
+    "text": "Hours passed. Then another day. More than sixty hours after the sinking, rescue divers entered the wreck, expecting to find bodies.",
+    "words": [
+      {
+        "text": "hours",
+        "from": 788,
+        "to": 802
+      },
+      {
+        "text": "passed",
+        "from": 802,
+        "to": 819
+      },
+      {
+        "text": "then",
+        "from": 852,
+        "to": 857
+      },
+      {
+        "text": "another",
+        "from": 857,
+        "to": 865
+      },
+      {
+        "text": "day",
+        "from": 865,
+        "to": 875
+      },
+      {
+        "text": "more",
+        "from": 907,
+        "to": 913
+      },
+      {
+        "text": "than",
+        "from": 913,
+        "to": 917
+      },
+      {
+        "text": "sixty",
+        "from": 917,
+        "to": 932
+      },
+      {
+        "text": "hours",
+        "from": 932,
+        "to": 942
+      },
+      {
+        "text": "after",
+        "from": 942,
+        "to": 951
+      },
+      {
+        "text": "the",
+        "from": 951,
+        "to": 954
+      },
+      {
+        "text": "sinking",
+        "from": 954,
+        "to": 970
+      },
+      {
+        "text": "rescue",
+        "from": 975,
+        "to": 988
+      },
+      {
+        "text": "divers",
+        "from": 988,
+        "to": 1003
+      },
+      {
+        "text": "entered",
+        "from": 1003,
+        "to": 1011
+      },
+      {
+        "text": "the",
+        "from": 1011,
+        "to": 1013
+      },
+      {
+        "text": "wreck",
+        "from": 1013,
+        "to": 1029
+      },
+      {
+        "text": "expecting",
+        "from": 1029,
+        "to": 1045
+      },
+      {
+        "text": "to",
+        "from": 1045,
+        "to": 1047
+      },
+      {
+        "text": "find",
+        "from": 1047,
+        "to": 1057
+      },
+      {
+        "text": "bodies",
+        "from": 1057,
+        "to": 1077
+      }
+    ],
+    "tempo": 1.0,
+    "breaks": [
+      1,
+      4,
+      20
+    ],
+    "voiceSeconds": 9.911708333333333
+  },
+  {
+    "id": 4,
+    "from": 1110,
+    "duration": 270,
+    "text": "One diver spotted a hand. He reached for it... and the hand moved. Harrison was alive.",
+    "words": [
+      {
+        "text": "one",
+        "from": 1110,
+        "to": 1121
+      },
+      {
+        "text": "diver",
+        "from": 1121,
+        "to": 1131
+      },
+      {
+        "text": "spotted",
+        "from": 1131,
+        "to": 1144
+      },
+      {
+        "text": "a",
+        "from": 1144,
+        "to": 1145
+      },
+      {
+        "text": "hand",
+        "from": 1145,
+        "to": 1158
+      },
+      {
+        "text": "he",
+        "from": 1175,
+        "to": 1179
+      },
+      {
+        "text": "reached",
+        "from": 1179,
+        "to": 1189
+      },
+      {
+        "text": "for",
+        "from": 1189,
+        "to": 1195
+      },
+      {
+        "text": "it",
+        "from": 1195,
+        "to": 1197
+      },
+      {
+        "text": "and",
+        "from": 1248,
+        "to": 1255
+      },
+      {
+        "text": "the",
+        "from": 1255,
+        "to": 1257
+      },
+      {
+        "text": "hand",
+        "from": 1257,
+        "to": 1267
+      },
+      {
+        "text": "moved",
+        "from": 1267,
+        "to": 1278
+      },
+      {
+        "text": "harrison",
+        "from": 1288,
+        "to": 1304
+      },
+      {
+        "text": "was",
+        "from": 1304,
+        "to": 1308
+      },
+      {
+        "text": "alive",
+        "from": 1308,
+        "to": 1327
+      }
+    ],
+    "tempo": 1.0,
+    "breaks": [
+      4,
+      8,
+      12,
+      15
+    ],
+    "voiceSeconds": 7.225458333333333
+  },
+  {
+    "id": 5,
+    "from": 1380,
+    "duration": 300,
+    "text": "He was carefully rescued and treated in a decompression chamber. And the unbelievable part? That moment... was caught on camera.",
+    "words": [
+      {
+        "text": "he",
+        "from": 1389,
+        "to": 1392
+      },
+      {
+        "text": "was",
+        "from": 1392,
+        "to": 1397
+      },
+      {
+        "text": "carefully",
+        "from": 1397,
+        "to": 1411
+      },
+      {
+        "text": "rescued",
+        "from": 1411,
+        "to": 1431
+      },
+      {
+        "text": "and",
+        "from": 1431,
+        "to": 1436
+      },
+      {
+        "text": "treated",
+        "from": 1436,
+        "to": 1449
+      },
+      {
+        "text": "in",
+        "from": 1449,
+        "to": 1454
+      },
+      {
+        "text": "a",
+        "from": 1454,
+        "to": 1456
+      },
+      {
+        "text": "decompression",
+        "from": 1456,
+        "to": 1481
+      },
+      {
+        "text": "chamber",
+        "from": 1481,
+        "to": 1498
+      },
+      {
+        "text": "and",
+        "from": 1512,
+        "to": 1517
+      },
+      {
+        "text": "the",
+        "from": 1517,
+        "to": 1521
+      },
+      {
+        "text": "unbelievable",
+        "from": 1521,
+        "to": 1538
+      },
+      {
+        "text": "part",
+        "from": 1538,
+        "to": 1546
+      },
+      {
+        "text": "that",
+        "from": 1568,
+        "to": 1576
+      },
+      {
+        "text": "moment",
+        "from": 1576,
+        "to": 1590
+      },
+      {
+        "text": "was",
+        "from": 1606,
+        "to": 1613
+      },
+      {
+        "text": "caught",
+        "from": 1613,
+        "to": 1620
+      },
+      {
+        "text": "on",
+        "from": 1620,
+        "to": 1624
+      },
+      {
+        "text": "camera",
+        "from": 1624,
+        "to": 1642
+      }
+    ],
+    "tempo": 1.0,
+    "breaks": [
+      9,
+      13,
+      15,
+      19
+    ],
+    "voiceSeconds": 8.741666666666667
+  }
+]

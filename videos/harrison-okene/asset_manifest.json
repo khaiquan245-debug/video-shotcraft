@@ -1,0 +1,28 @@
+{
+  "project": "Harrison Okene Shorts",
+  "illustrations_generated": true,
+  "photos_real_included": false,
+  "rights_note": "Real press photographs and footage not bundled; external source references only. Clearance needed before public reuse.",
+  "assets": [
+    {
+      "file": "01_hook_hand.png",
+      "kind": "original_2D_illustration",
+      "scene": "Rescue diver notices a hand"
+    },
+    {
+      "file": "02_tugboat_storm.png",
+      "kind": "original_2D_illustration",
+      "scene": "Tugboat in dangerous rough seas"
+    },
+    {
+      "file": "03_air_pocket.png",
+      "kind": "original_2D_illustration",
+      "scene": "Survivor inside air pocket"
+    },
+    {
+      "file": "04_rescue_reveal.png",
+      "kind": "original_2D_illustration",
+      "scene": "Diver finds the survivor alive"
+    }
+  ]
+}
