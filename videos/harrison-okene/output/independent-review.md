@@ -1,6 +1,6 @@
 # Independent review — Harrison Okene Short
 
-Reviewed 2026-11-06. Independent reviewer did not edit production source. Basis: supplied master brief, video-shotcraft/SKILL.md §8, references/final-review.md, aesthetic-rules.md, src/index.tsx, src/timeline.json, asset_manifest.json, audio/render tools, six rendered midpoint PNGs and poster. Final binary checks repeated after replacement final-ready notice at 13:41 UTC; see bound artifacts below.
+Reviewed 2026-11-06. Independent reviewer did not edit production source. Basis: supplied master brief, video-shotcraft/SKILL.md §8, references/final-review.md, aesthetic-rules.md, src/index.tsx, src/timeline.json, asset_manifest.json, audio/render tools, six rendered midpoint PNGs and poster. Final binary checks repeated after replacement final-ready notice at 14:03 UTC; see bound artifacts below.
 
 ## Findings with evidence
 
@@ -44,10 +44,25 @@ No historical, rights-labeling, pressure-treatment or caption-face-overlap block
 
 Artifact SHA-256:
 
-- `harrison_okene_short.mp4`: `06e89b37f80f6be1f653ecb885479d35c94b206949bd08ea34e48c0c742ee51e`
-- `harrison_okene_no_music.mp4`: `9ba5e45e541749e5cc3b1a2c15d4d7ccf8bbb6fb5236ecfb4225f3647681ade3`
+- `harrison_okene_short.mp4`: `59ff417c981e0256f8d793e130f3b098ea24c50906c0c9412ee49a0ec5811b10`
+- `harrison_okene_no_music.mp4`: `f52beaf855aa050d0da87c47bececd6059c477c56a6704c18f6c7020a66bb90d`
 - `harrison_okene_voice.wav`: `96ea163ca1f88f0be833dfc990b2aded557671f3949be7238c6daf9cec4d55f2`
-- `harrison_okene_subtitles.srt`: `775703a0b09f6a8feb9bab26e3f32871381c080405258f80e1b3cb53de0ea168`
-- `harrison_okene_poster.png`: `f43ff2986f3212958e33aaebd4d9b1ee4dc7d88d776a5a4c7da853012da4a407`
+- `harrison_okene_subtitles.srt`: `089eb6c28960655a761c16b995989a19c2b09ce0e9936c5e52e9a104a3dc5437`
+- `harrison_okene_poster.png`: `098e09f071ced38f8df1c17b1ceb06bb9f77dbd6ef9fbd8a3645f1731f537393`
 
 - Q14 ✓ No-music movie complete video/audio decode also returned exit 0 with no error output.
+
+## Motion revision final review — 14:03 UTC
+
+This section supersedes visual/audio implementation descriptions above where changed. User authorized stronger motion, sinking, hand reveal, cinematic sound/transitions while retaining exact script and voice, and confirmed no licensed real assets.
+
+- M1 ✓ Source Motion.tsx adds separated original head/body breathing and gentle head rotation, camera phases, droplets, rising water, ripples and bubbles. New f574 inspected: face/body join remains coherent and face unobstructed. Unconvincing oval eyelid overlays identified independently were removed and reopened f574 verifies clean original eyes.
+- M2 ✓ New critical f300 inspected after fixes: only the underwater vector vessel appears. Earlier double exposure and hard split wipe were replaced with a short dip-to-underwater transition. Source adds progressive roll/descent, storm waves and waterline motion.
+- M3 ✓ Actual final-video grip-01.png f122 inspected: hand closeup is stronger and original finger segments deform without added duplicate digits. This is simple 2D segment deformation; it does not simulate fully articulated 3D finger contact. Actual final-video grip-02.png f1280 is a clean illustrated rescue reveal.
+- M4 ✓ Ending f1650 inspected both as critical still and actual video extraction review-ending.png: circular original illustrated portrait has no internal horizontal neck cut, full face is visible, “62 HOURS. ONE SURVIVOR.” and clear non-archival labeling are legible. Pressure treatment remains earlier in scene6.
+- M5 ✓ New82px two-word captions remain in x70–900 and bottom280px safe reservation. Reviewed long pair “unbelievable part” fits; “crew members” stays below face. Updated exported SRT remains exact aligned token coverage.
+- M6 ✓ Narration preservation proof unchanged-narration.json matches current files; voice WAV SHA remains96ea163ca1f88f0be833dfc990b2aded557671f3949be7238c6daf9cec4d55f2. Script and public narration WAV hashes verified against recorded proof. This establishes unchanged source speech, not subjective listening quality.
+- M7 ✓ Both final replacement full audio/video decodes exit0 with no error output. Main ffprobe confirms1080×1920 H.264/yuv420p30fps,1680frames,56s,AAC48kHz mono; main size16,210,813bytes. No-music output retained from same rendered video.
+- M8: Additional score ducking appears in source. This reviewer has not listened to the finished mix and makes no subjective cinematic-audio, loudness balance, naturalness or accent approval.
+
+No required visual or technical fix remains in the inspected latest final.

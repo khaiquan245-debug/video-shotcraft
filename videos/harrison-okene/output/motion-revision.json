@@ -1,0 +1,11 @@
+{
+  "narrationSha256": "96ea163ca1f88f0be833dfc990b2aded557671f3949be7238c6daf9cec4d55f2",
+  "scriptSha256": "ec36c1957485032c569ddf52585819b30737fa23d77efb0578a73092340a1725",
+  "captionPixels": 82,
+  "captionWordsPerCue": 2,
+  "gripMusicDipsSeconds": [
+    0.22,
+    0.22
+  ],
+  "rightsClearedArchivePresent": false
+}

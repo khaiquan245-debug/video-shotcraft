@@ -30,15 +30,20 @@
     "similarity": 0.95
   },
   {
+    "scriptAndNarrationUnchanged": true,
+    "subtitleWords": 120,
+    "subtitleCues": 63
+  },
+  {
     "file": "harrison_okene_short.mp4",
-    "sha256": "06e89b37f80f6be1f653ecb885479d35c94b206949bd08ea34e48c0c742ee51e",
+    "sha256": "59ff417c981e0256f8d793e130f3b098ea24c50906c0c9412ee49a0ec5811b10",
     "frames": 1680,
     "seconds": 56.0,
     "codec": "H264/yuv420p/AAC"
   },
   {
     "file": "harrison_okene_no_music.mp4",
-    "sha256": "9ba5e45e541749e5cc3b1a2c15d4d7ccf8bbb6fb5236ecfb4225f3647681ade3",
+    "sha256": "f52beaf855aa050d0da87c47bececd6059c477c56a6704c18f6c7020a66bb90d",
     "frames": 1680,
     "seconds": 56.0,
     "codec": "H264/yuv420p/AAC"

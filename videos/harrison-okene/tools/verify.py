@@ -10,6 +10,12 @@ for sc in s:
  assert norm(sc['text'])==[w['text'] for w in sc['words']]
  assert all(sc['from']<=w['from']<w['to']<=sc['from']+sc['duration'] for w in sc['words'])
  checks.append({'scene':sc['id'],'asr':st.result.text,'similarity':ratio})
+proof=json.loads((r/'output/unchanged-narration.json').read_text())
+for name,expected in proof.items():assert hashlib.sha256((r/name).read_bytes()).hexdigest()==expected,name
+cues=(r/'output/harrison_okene_subtitles.srt').read_text().strip().split('\n\n');caption_words=[]
+for cue in cues:caption_words+=cue.splitlines()[2].split()
+assert caption_words==[w['text'] for sc in s for w in sc['words']]
+checks.append({'scriptAndNarrationUnchanged':True,'subtitleWords':len(caption_words),'subtitleCues':len(cues)})
 frames=sum(x['duration'] for x in s)
 for name in ['harrison_okene_short.mp4','harrison_okene_no_music.mp4']:
  p=r/'output'/name;info=json.loads(subprocess.check_output(['ffprobe','-v','error','-show_streams','-show_format','-of','json',str(p)]));v=next(x for x in info['streams'] if x['codec_type']=='video');a=next(x for x in info['streams'] if x['codec_type']=='audio');assert (v['width'],v['height'],v['codec_name'],v['pix_fmt'],v['r_frame_rate'])==(1080,1920,'h264','yuv420p','30/1');assert int(v['nb_frames'])==frames;assert 55<=float(info['format']['duration'])<=60;assert a['codec_name']=='aac';subprocess.run(['ffmpeg','-v','error','-i',str(p),'-f','null','-'],check=True);checks.append({'file':name,'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'frames':frames,'seconds':float(info['format']['duration']),'codec':'H264/yuv420p/AAC'})
