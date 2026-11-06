@@ -1,0 +1,57 @@
+[
+  {
+    "scene": 0,
+    "asr": "This animal has three hearts, but that's not even the weirdest part.",
+    "similarity": 1.0
+  },
+  {
+    "scene": 1,
+    "asr": "No, it's not an alien. It's an octopus.",
+    "similarity": 1.0
+  },
+  {
+    "scene": 2,
+    "asr": "Two hearts pump blood through its gills, where it picks up oxygen. The third pumps that oxygen-rich blood through the rest of its body.",
+    "similarity": 1.0
+  },
+  {
+    "scene": 3,
+    "asr": "and unlike us, an octopus has blue blood thanks to a copper-based protein.",
+    "similarity": 1.0
+  },
+  {
+    "scene": 4,
+    "asr": "But here's the twist. When an octopus swims, its main heart can temporarily stop beating.",
+    "similarity": 1.0
+  },
+  {
+    "scene": 5,
+    "asr": "Swimming is exhausting, so it often prefers crawling along the ocean floor.",
+    "similarity": 1.0
+  },
+  {
+    "scene": 6,
+    "asr": "Three hearts. Blue blood. And somehow, swimming is still too much cardio. Nature is wild.",
+    "similarity": 1.0
+  },
+  {
+    "subtitleTokens": 101,
+    "subtitleCues": 54,
+    "eightArmRig": true,
+    "sameNarratorConditioning": "/workspace/ten-seconds/reference/prompt.wav"
+  },
+  {
+    "file": "octopus_three_hearts_short.mp4",
+    "sha256": "74abb700b935c92ded308676a881a3bbdc01aa10f62ee9ffe2e6078dbaa9e206",
+    "frames": 1350,
+    "seconds": 45.0,
+    "codec": "H264/yuv420p/AAC"
+  },
+  {
+    "file": "octopus_three_hearts_no_music.mp4",
+    "sha256": "30b98c9abc94c595047b44e972c9cab047d22364a0e2a14b9cad960d211774b7",
+    "frames": 1350,
+    "seconds": 45.0,
+    "codec": "H264/yuv420p/AAC"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "conditioningFile": "/workspace/ten-seconds/reference/prompt.wav",
+  "conditioningSha256": "202a0aecd38e616d19e0c2c428d812926de0535f7243ab71979ba9b99c1a38ac",
+  "sameAsProject": "/workspace/harrison-okene",
+  "model": "sherpa-onnx-pocket-tts-2026-01-26 FP32",
+  "generationSteps": 5,
+  "nativeTempo": 1.0,
+  "pitchShift": false,
+  "referenceAssetsProvided": false,
+  "canonicalVectorArms": 8
+}

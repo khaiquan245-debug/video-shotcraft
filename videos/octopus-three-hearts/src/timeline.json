@@ -1,0 +1,605 @@
+[
+  {
+    "id": 0,
+    "from": 0,
+    "duration": 156,
+    "text": "This animal has THREE hearts. But that's not even the weirdest part.",
+    "words": [
+      {
+        "text": "this",
+        "from": 0,
+        "to": 7
+      },
+      {
+        "text": "animal",
+        "from": 7,
+        "to": 18
+      },
+      {
+        "text": "has",
+        "from": 18,
+        "to": 25
+      },
+      {
+        "text": "three",
+        "from": 25,
+        "to": 32
+      },
+      {
+        "text": "hearts",
+        "from": 32,
+        "to": 45
+      },
+      {
+        "text": "but",
+        "from": 56,
+        "to": 65
+      },
+      {
+        "text": "that's",
+        "from": 65,
+        "to": 72
+      },
+      {
+        "text": "not",
+        "from": 72,
+        "to": 78
+      },
+      {
+        "text": "even",
+        "from": 78,
+        "to": 83
+      },
+      {
+        "text": "the",
+        "from": 83,
+        "to": 85
+      },
+      {
+        "text": "weirdest",
+        "from": 85,
+        "to": 96
+      },
+      {
+        "text": "part",
+        "from": 96,
+        "to": 111
+      }
+    ],
+    "tempo": 1.0,
+    "breaks": [
+      4,
+      11
+    ],
+    "voiceSeconds": 3.7
+  },
+  {
+    "id": 1,
+    "from": 156,
+    "duration": 108,
+    "text": "No, it's not an alien. It's an octopus.",
+    "words": [
+      {
+        "text": "no",
+        "from": 161,
+        "to": 177
+      },
+      {
+        "text": "it's",
+        "from": 177,
+        "to": 182
+      },
+      {
+        "text": "not",
+        "from": 182,
+        "to": 189
+      },
+      {
+        "text": "an",
+        "from": 189,
+        "to": 192
+      },
+      {
+        "text": "alien",
+        "from": 192,
+        "to": 205
+      },
+      {
+        "text": "it's",
+        "from": 216,
+        "to": 220
+      },
+      {
+        "text": "an",
+        "from": 220,
+        "to": 222
+      },
+      {
+        "text": "octopus",
+        "from": 222,
+        "to": 246
+      }
+    ],
+    "tempo": 1.0,
+    "breaks": [
+      4,
+      7
+    ],
+    "voiceSeconds": 2.993333333333333
+  },
+  {
+    "id": 2,
+    "from": 264,
+    "duration": 300,
+    "text": "Two hearts pump blood through its gills, where it picks up oxygen. The third pumps that oxygen-rich blood through the rest of its body.",
+    "words": [
+      {
+        "text": "two",
+        "from": 264,
+        "to": 271
+      },
+      {
+        "text": "hearts",
+        "from": 271,
+        "to": 278
+      },
+      {
+        "text": "pump",
+        "from": 278,
+        "to": 284
+      },
+      {
+        "text": "blood",
+        "from": 284,
+        "to": 293
+      },
+      {
+        "text": "through",
+        "from": 293,
+        "to": 299
+      },
+      {
+        "text": "its",
+        "from": 299,
+        "to": 304
+      },
+      {
+        "text": "gills",
+        "from": 304,
+        "to": 319
+      },
+      {
+        "text": "where",
+        "from": 319,
+        "to": 322
+      },
+      {
+        "text": "it",
+        "from": 322,
+        "to": 325
+      },
+      {
+        "text": "picks",
+        "from": 325,
+        "to": 333
+      },
+      {
+        "text": "up",
+        "from": 333,
+        "to": 337
+      },
+      {
+        "text": "oxygen",
+        "from": 337,
+        "to": 356
+      },
+      {
+        "text": "the",
+        "from": 370,
+        "to": 373
+      },
+      {
+        "text": "third",
+        "from": 373,
+        "to": 386
+      },
+      {
+        "text": "pumps",
+        "from": 386,
+        "to": 397
+      },
+      {
+        "text": "that",
+        "from": 397,
+        "to": 403
+      },
+      {
+        "text": "oxygen",
+        "from": 403,
+        "to": 420
+      },
+      {
+        "text": "rich",
+        "from": 420,
+        "to": 429
+      },
+      {
+        "text": "blood",
+        "from": 429,
+        "to": 439
+      },
+      {
+        "text": "through",
+        "from": 439,
+        "to": 444
+      },
+      {
+        "text": "the",
+        "from": 444,
+        "to": 446
+      },
+      {
+        "text": "rest",
+        "from": 446,
+        "to": 454
+      },
+      {
+        "text": "of",
+        "from": 454,
+        "to": 457
+      },
+      {
+        "text": "its",
+        "from": 457,
+        "to": 462
+      },
+      {
+        "text": "body",
+        "from": 462,
+        "to": 479
+      }
+    ],
+    "tempo": 1.0,
+    "breaks": [
+      11,
+      24
+    ],
+    "voiceSeconds": 7.160375
+  },
+  {
+    "id": 3,
+    "from": 564,
+    "duration": 189,
+    "text": "And unlike us, an octopus has BLUE blood, thanks to a copper-based protein.",
+    "words": [
+      {
+        "text": "and",
+        "from": 564,
+        "to": 573
+      },
+      {
+        "text": "unlike",
+        "from": 573,
+        "to": 583
+      },
+      {
+        "text": "us",
+        "from": 583,
+        "to": 596
+      },
+      {
+        "text": "an",
+        "from": 596,
+        "to": 599
+      },
+      {
+        "text": "octopus",
+        "from": 599,
+        "to": 616
+      },
+      {
+        "text": "has",
+        "from": 616,
+        "to": 622
+      },
+      {
+        "text": "blue",
+        "from": 622,
+        "to": 629
+      },
+      {
+        "text": "blood",
+        "from": 629,
+        "to": 645
+      },
+      {
+        "text": "thanks",
+        "from": 645,
+        "to": 652
+      },
+      {
+        "text": "to",
+        "from": 652,
+        "to": 656
+      },
+      {
+        "text": "a",
+        "from": 656,
+        "to": 657
+      },
+      {
+        "text": "copper",
+        "from": 657,
+        "to": 669
+      },
+      {
+        "text": "based",
+        "from": 669,
+        "to": 680
+      },
+      {
+        "text": "protein",
+        "from": 680,
+        "to": 696
+      }
+    ],
+    "tempo": 1.0,
+    "breaks": [
+      13
+    ],
+    "voiceSeconds": 4.405333333333333
+  },
+  {
+    "id": 4,
+    "from": 753,
+    "duration": 213,
+    "text": "But here's the twist. When an octopus swims, its main heart can temporarily stop beating.",
+    "words": [
+      {
+        "text": "but",
+        "from": 753,
+        "to": 758
+      },
+      {
+        "text": "here's",
+        "from": 758,
+        "to": 766
+      },
+      {
+        "text": "the",
+        "from": 766,
+        "to": 768
+      },
+      {
+        "text": "twist",
+        "from": 768,
+        "to": 785
+      },
+      {
+        "text": "when",
+        "from": 797,
+        "to": 801
+      },
+      {
+        "text": "an",
+        "from": 801,
+        "to": 804
+      },
+      {
+        "text": "octopus",
+        "from": 804,
+        "to": 821
+      },
+      {
+        "text": "swims",
+        "from": 821,
+        "to": 839
+      },
+      {
+        "text": "its",
+        "from": 839,
+        "to": 845
+      },
+      {
+        "text": "main",
+        "from": 845,
+        "to": 852
+      },
+      {
+        "text": "heart",
+        "from": 852,
+        "to": 860
+      },
+      {
+        "text": "can",
+        "from": 860,
+        "to": 864
+      },
+      {
+        "text": "temporarily",
+        "from": 864,
+        "to": 884
+      },
+      {
+        "text": "stop",
+        "from": 884,
+        "to": 895
+      },
+      {
+        "text": "beating",
+        "from": 895,
+        "to": 910
+      }
+    ],
+    "tempo": 1.0,
+    "breaks": [
+      3,
+      14
+    ],
+    "voiceSeconds": 5.2210833333333335
+  },
+  {
+    "id": 5,
+    "from": 966,
+    "duration": 165,
+    "text": "Swimming is exhausting, so it often prefers crawling along the ocean floor.",
+    "words": [
+      {
+        "text": "swimming",
+        "from": 966,
+        "to": 980
+      },
+      {
+        "text": "is",
+        "from": 980,
+        "to": 984
+      },
+      {
+        "text": "exhausting",
+        "from": 984,
+        "to": 1005
+      },
+      {
+        "text": "so",
+        "from": 1013,
+        "to": 1019
+      },
+      {
+        "text": "it",
+        "from": 1019,
+        "to": 1021
+      },
+      {
+        "text": "often",
+        "from": 1021,
+        "to": 1031
+      },
+      {
+        "text": "prefers",
+        "from": 1031,
+        "to": 1045
+      },
+      {
+        "text": "crawling",
+        "from": 1045,
+        "to": 1060
+      },
+      {
+        "text": "along",
+        "from": 1060,
+        "to": 1069
+      },
+      {
+        "text": "the",
+        "from": 1069,
+        "to": 1073
+      },
+      {
+        "text": "ocean",
+        "from": 1073,
+        "to": 1083
+      },
+      {
+        "text": "floor",
+        "from": 1083,
+        "to": 1098
+      }
+    ],
+    "tempo": 1.0,
+    "breaks": [
+      11
+    ],
+    "voiceSeconds": 4.405333333333333
+  },
+  {
+    "id": 6,
+    "from": 1131,
+    "duration": 219,
+    "text": "Three hearts. Blue blood. And somehow, swimming is STILL too much cardio. Nature is wild.",
+    "words": [
+      {
+        "text": "three",
+        "from": 1136,
+        "to": 1142
+      },
+      {
+        "text": "hearts",
+        "from": 1142,
+        "to": 1158
+      },
+      {
+        "text": "blue",
+        "from": 1172,
+        "to": 1183
+      },
+      {
+        "text": "blood",
+        "from": 1183,
+        "to": 1192
+      },
+      {
+        "text": "and",
+        "from": 1219,
+        "to": 1223
+      },
+      {
+        "text": "somehow",
+        "from": 1223,
+        "to": 1244
+      },
+      {
+        "text": "swimming",
+        "from": 1244,
+        "to": 1257
+      },
+      {
+        "text": "is",
+        "from": 1257,
+        "to": 1260
+      },
+      {
+        "text": "still",
+        "from": 1260,
+        "to": 1267
+      },
+      {
+        "text": "too",
+        "from": 1267,
+        "to": 1272
+      },
+      {
+        "text": "much",
+        "from": 1272,
+        "to": 1279
+      },
+      {
+        "text": "cardio",
+        "from": 1279,
+        "to": 1292
+      },
+      {
+        "text": "nature",
+        "from": 1303,
+        "to": 1314
+      },
+      {
+        "text": "is",
+        "from": 1314,
+        "to": 1318
+      },
+      {
+        "text": "wild",
+        "from": 1318,
+        "to": 1337
+      }
+    ],
+    "tempo": 1.0,
+    "breaks": [
+      1,
+      3,
+      11,
+      14
+    ],
+    "voiceSeconds": 6.867416666666666
+  }
+]

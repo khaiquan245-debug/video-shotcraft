@@ -1,0 +1,6 @@
+{
+  "octopus_three_hearts_short.mp4": "SHA256=5011ecfcfa73d7ab570569e80642d8e85e9142c7ae1acf81b8ae99e930b6f161",
+  "octopus_three_hearts_short.mp4 volume": "[Parsed_volumedetect_0 @ 0x7f7cb0002400] mean_volume: -19.2 dB\n[Parsed_volumedetect_0 @ 0x7f7cb0002400] max_volume: -2.9 dB",
+  "octopus_three_hearts_no_music.mp4": "SHA256=5011ecfcfa73d7ab570569e80642d8e85e9142c7ae1acf81b8ae99e930b6f161",
+  "octopus_three_hearts_no_music.mp4 volume": "[Parsed_volumedetect_0 @ 0x7fd6cc002400] mean_volume: -19.3 dB\n[Parsed_volumedetect_0 @ 0x7fd6cc002400] max_volume: -2.9 dB"
+}

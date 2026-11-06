@@ -1,0 +1,16 @@
+Project: This Animal Has Three Hearts
+Output: /workspace/octopus-three-hearts/output/octopus_three_hearts_short.mp4
+Duration: 45.000000 seconds
+Resolution: 1080x1920
+Frame rate: 30/1
+Frames: 1350
+Video: h264 / yuv420p
+Audio: aac / 48000 Hz
+Narration: present; locally generated PocketTTS FP32, same conditioning/model and settings as preceding Harrison Okene video; native pitch/tempo
+Music/SFX: present, original locally synthesized; no paid services or third-party recordings
+English subtitles: embedded visually and separate SRT, full115normalized word tokens
+Preview: output/preview.mp4,5seconds,540x960
+Missing input assets: all named reference images, canonical character sheet, reference anatomy PNG/SVG, original STORYBOARD.csv and source bibliography were not uploaded. Replaced with original editable eight-arm coral-orange vector rig, labeled simplified anatomy, and a generated actual-timing storyboard.
+Rebuild: node tools/render.mjs (fixed existing public/audio stems). For speech regeneration: tools/voice.py then tools/audio.py using the existing Python environment.
+Limitations: schematic cartoon anatomy and stylized motion; subjective voice naturalness not certified by ASR; reference identity match cannot be verified against absent assets.
+Verification: both final MP4s fully decode without FFmpeg errors; required dimensions, frame count, duration, codecs and SRT coverage pass. Independent visual review found no required correction.
