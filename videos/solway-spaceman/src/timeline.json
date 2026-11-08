@@ -2,7 +2,7 @@
   {
     "id": 0,
     "from": 0,
-    "duration": 210,
+    "duration": 144,
     "text": "Look closely at this photo. Who's standing behind the little girl? Her father said he never saw anyone there.",
     "words": [
       {
@@ -28,773 +28,823 @@
       {
         "text": "photo",
         "from": 26,
-        "to": 35
+        "to": 36
       },
       {
         "text": "who's",
-        "from": 45,
-        "to": 49
+        "from": 41,
+        "to": 45
       },
       {
         "text": "standing",
-        "from": 49,
-        "to": 58
+        "from": 45,
+        "to": 54
       },
       {
         "text": "behind",
-        "from": 58,
-        "to": 66
+        "from": 54,
+        "to": 62
       },
       {
         "text": "the",
-        "from": 66,
-        "to": 68
+        "from": 62,
+        "to": 63
       },
       {
         "text": "little",
-        "from": 68,
-        "to": 73
+        "from": 63,
+        "to": 69
       },
       {
         "text": "girl",
-        "from": 73,
-        "to": 82
+        "from": 69,
+        "to": 86
       },
       {
         "text": "her",
-        "from": 101,
-        "to": 103
+        "from": 86,
+        "to": 88
       },
       {
         "text": "father",
-        "from": 103,
-        "to": 112
+        "from": 88,
+        "to": 97
       },
       {
         "text": "said",
-        "from": 112,
-        "to": 117
+        "from": 97,
+        "to": 103
       },
       {
         "text": "he",
-        "from": 117,
-        "to": 120
+        "from": 103,
+        "to": 105
       },
       {
         "text": "never",
-        "from": 120,
-        "to": 127
+        "from": 105,
+        "to": 113
       },
       {
         "text": "saw",
-        "from": 127,
-        "to": 134
+        "from": 113,
+        "to": 120
       },
       {
         "text": "anyone",
-        "from": 134,
-        "to": 144
+        "from": 120,
+        "to": 130
       },
       {
         "text": "there",
-        "from": 144,
-        "to": 155
+        "from": 130,
+        "to": 141
       }
     ],
     "tempo": 1.0,
+    "quietGapEdits": [
+      {
+        "between": [
+          "photo",
+          "who's"
+        ],
+        "oldSeconds": 0.3,
+        "newSeconds": 0.2
+      }
+    ],
     "breaks": [
       4,
       10,
       18
     ],
-    "voiceSeconds": 5.18
+    "voiceSeconds": 4.7
   },
   {
     "id": 1,
-    "from": 210,
-    "duration": 300,
+    "from": 144,
+    "duration": 253,
     "text": "In 1964, a man named Jim Templeton took a picture of his five-year-old daughter, Elizabeth, in England. At first, nothing seemed unusual.",
     "words": [
       {
         "text": "in",
-        "from": 218,
-        "to": 222
+        "from": 152,
+        "to": 156
       },
       {
         "text": "nineteen",
-        "from": 222,
-        "to": 233
+        "from": 156,
+        "to": 167
       },
       {
         "text": "sixty",
-        "from": 233,
-        "to": 242
+        "from": 167,
+        "to": 176
       },
       {
         "text": "four",
-        "from": 242,
-        "to": 255
+        "from": 176,
+        "to": 191
       },
       {
         "text": "a",
-        "from": 262,
-        "to": 263
+        "from": 191,
+        "to": 193
       },
       {
         "text": "man",
-        "from": 263,
-        "to": 271
+        "from": 193,
+        "to": 201
       },
       {
         "text": "named",
-        "from": 271,
-        "to": 278
+        "from": 201,
+        "to": 208
       },
       {
         "text": "jim",
-        "from": 278,
-        "to": 285
+        "from": 208,
+        "to": 215
       },
       {
         "text": "templeton",
-        "from": 285,
-        "to": 300
+        "from": 215,
+        "to": 231
       },
       {
         "text": "took",
-        "from": 300,
-        "to": 306
+        "from": 231,
+        "to": 236
       },
       {
         "text": "a",
-        "from": 306,
-        "to": 307
+        "from": 236,
+        "to": 237
       },
       {
         "text": "picture",
-        "from": 307,
-        "to": 319
+        "from": 237,
+        "to": 249
       },
       {
         "text": "of",
-        "from": 319,
-        "to": 322
+        "from": 249,
+        "to": 252
       },
       {
         "text": "his",
-        "from": 322,
-        "to": 328
+        "from": 252,
+        "to": 257
       },
       {
         "text": "five",
-        "from": 328,
-        "to": 335
+        "from": 257,
+        "to": 266
       },
       {
         "text": "year",
-        "from": 335,
-        "to": 339
+        "from": 266,
+        "to": 269
       },
       {
         "text": "old",
-        "from": 339,
-        "to": 344
+        "from": 269,
+        "to": 274
       },
       {
         "text": "daughter",
-        "from": 344,
-        "to": 356
+        "from": 274,
+        "to": 289
       },
       {
         "text": "elizabeth",
-        "from": 365,
-        "to": 384
+        "from": 289,
+        "to": 308
       },
       {
         "text": "in",
-        "from": 384,
-        "to": 388
+        "from": 308,
+        "to": 312
       },
       {
         "text": "england",
-        "from": 388,
-        "to": 402
+        "from": 312,
+        "to": 331
       },
       {
         "text": "at",
-        "from": 418,
-        "to": 422
+        "from": 331,
+        "to": 334
       },
       {
         "text": "first",
-        "from": 422,
-        "to": 440
+        "from": 334,
+        "to": 353
       },
       {
         "text": "nothing",
-        "from": 440,
-        "to": 451
+        "from": 353,
+        "to": 364
       },
       {
         "text": "seemed",
-        "from": 451,
-        "to": 460
+        "from": 364,
+        "to": 373
       },
       {
         "text": "unusual",
-        "from": 460,
-        "to": 480
+        "from": 373,
+        "to": 393
       }
     ],
     "tempo": 1.0,
+    "quietGapEdits": [
+      {
+        "between": [
+          "four",
+          "a"
+        ],
+        "oldSeconds": 0.233,
+        "newSeconds": 0.1
+      },
+      {
+        "between": [
+          "daughter",
+          "elizabeth"
+        ],
+        "oldSeconds": 0.3,
+        "newSeconds": 0.1
+      }
+    ],
     "breaks": [
       20,
       25
     ],
-    "voiceSeconds": 9.0
+    "voiceSeconds": 8.306666666666667
   },
   {
     "id": 2,
-    "from": 510,
-    "duration": 270,
+    "from": 397,
+    "duration": 183,
     "text": "But when the film was developed... a strange white figure appeared behind her. It looked almost exactly like an astronaut.",
     "words": [
       {
         "text": "but",
-        "from": 510,
-        "to": 515
+        "from": 397,
+        "to": 402
       },
       {
         "text": "when",
-        "from": 515,
-        "to": 519
+        "from": 402,
+        "to": 406
       },
       {
         "text": "the",
-        "from": 519,
-        "to": 521
+        "from": 406,
+        "to": 408
       },
       {
         "text": "film",
-        "from": 521,
-        "to": 529
+        "from": 408,
+        "to": 416
       },
       {
         "text": "was",
-        "from": 529,
-        "to": 534
+        "from": 416,
+        "to": 421
       },
       {
         "text": "developed",
-        "from": 534,
-        "to": 550
+        "from": 421,
+        "to": 437
       },
       {
         "text": "a",
-        "from": 560,
-        "to": 562
+        "from": 442,
+        "to": 444
       },
       {
         "text": "strange",
-        "from": 562,
-        "to": 578
+        "from": 444,
+        "to": 460
       },
       {
         "text": "white",
-        "from": 578,
-        "to": 585
+        "from": 460,
+        "to": 467
       },
       {
         "text": "figure",
-        "from": 585,
-        "to": 597
+        "from": 467,
+        "to": 479
       },
       {
         "text": "appeared",
-        "from": 597,
-        "to": 607
+        "from": 479,
+        "to": 489
       },
       {
         "text": "behind",
-        "from": 607,
-        "to": 618
+        "from": 489,
+        "to": 500
       },
       {
         "text": "her",
-        "from": 618,
-        "to": 625
+        "from": 500,
+        "to": 510
       },
       {
         "text": "it",
-        "from": 639,
-        "to": 641
+        "from": 510,
+        "to": 513
       },
       {
         "text": "looked",
-        "from": 641,
-        "to": 648
+        "from": 513,
+        "to": 519
       },
       {
         "text": "almost",
-        "from": 648,
-        "to": 659
+        "from": 519,
+        "to": 530
       },
       {
         "text": "exactly",
-        "from": 659,
-        "to": 674
+        "from": 530,
+        "to": 546
       },
       {
         "text": "like",
-        "from": 674,
-        "to": 682
+        "from": 546,
+        "to": 553
       },
       {
         "text": "an",
-        "from": 682,
-        "to": 684
+        "from": 553,
+        "to": 556
       },
       {
         "text": "astronaut",
-        "from": 684,
-        "to": 705
+        "from": 556,
+        "to": 577
       }
     ],
     "tempo": 1.0,
+    "quietGapEdits": [
+      {
+        "between": [
+          "developed",
+          "a"
+        ],
+        "oldSeconds": 0.267,
+        "newSeconds": 0.2
+      }
+    ],
     "breaks": [
       5,
       12,
       19
     ],
-    "voiceSeconds": 6.5145
+    "voiceSeconds": 5.9945
   },
   {
     "id": 3,
-    "from": 780,
-    "duration": 300,
+    "from": 580,
+    "duration": 225,
     "text": "The photograph spread around the world. Some people even believed it showed a visitor from another planet. But there was one detail almost everyone overlooked.",
     "words": [
       {
         "text": "the",
-        "from": 780,
-        "to": 783
+        "from": 580,
+        "to": 583
       },
       {
         "text": "photograph",
-        "from": 783,
-        "to": 796
+        "from": 583,
+        "to": 596
       },
       {
         "text": "spread",
-        "from": 796,
-        "to": 805
+        "from": 596,
+        "to": 605
       },
       {
         "text": "around",
-        "from": 805,
-        "to": 814
+        "from": 605,
+        "to": 614
       },
       {
         "text": "the",
-        "from": 814,
-        "to": 815
+        "from": 614,
+        "to": 615
       },
       {
         "text": "world",
-        "from": 815,
-        "to": 830
+        "from": 615,
+        "to": 635
       },
       {
         "text": "some",
-        "from": 846,
-        "to": 850
+        "from": 635,
+        "to": 640
       },
       {
         "text": "people",
-        "from": 850,
-        "to": 859
+        "from": 640,
+        "to": 648
       },
       {
         "text": "even",
-        "from": 859,
-        "to": 866
+        "from": 648,
+        "to": 655
       },
       {
         "text": "believed",
-        "from": 866,
-        "to": 874
+        "from": 655,
+        "to": 664
       },
       {
         "text": "it",
-        "from": 874,
-        "to": 877
+        "from": 664,
+        "to": 666
       },
       {
         "text": "showed",
-        "from": 877,
-        "to": 884
+        "from": 666,
+        "to": 674
       },
       {
         "text": "a",
-        "from": 884,
-        "to": 886
+        "from": 674,
+        "to": 675
       },
       {
         "text": "visitor",
-        "from": 886,
-        "to": 897
+        "from": 675,
+        "to": 686
       },
       {
         "text": "from",
-        "from": 897,
-        "to": 902
+        "from": 686,
+        "to": 691
       },
       {
         "text": "another",
-        "from": 902,
-        "to": 909
+        "from": 691,
+        "to": 698
       },
       {
         "text": "planet",
-        "from": 909,
-        "to": 922
+        "from": 698,
+        "to": 712
       },
       {
         "text": "but",
-        "from": 934,
-        "to": 937
+        "from": 719,
+        "to": 723
       },
       {
         "text": "there",
-        "from": 937,
-        "to": 940
+        "from": 723,
+        "to": 726
       },
       {
         "text": "was",
-        "from": 940,
-        "to": 945
+        "from": 726,
+        "to": 730
       },
       {
         "text": "one",
-        "from": 945,
-        "to": 953
+        "from": 730,
+        "to": 738
       },
       {
         "text": "detail",
-        "from": 953,
-        "to": 966
+        "from": 738,
+        "to": 751
       },
       {
         "text": "almost",
-        "from": 966,
-        "to": 978
+        "from": 751,
+        "to": 764
       },
       {
         "text": "everyone",
-        "from": 978,
-        "to": 994
+        "from": 764,
+        "to": 780
       },
       {
         "text": "overlooked",
-        "from": 994,
-        "to": 1016
+        "from": 780,
+        "to": 802
       }
     ],
     "tempo": 1.0,
+    "quietGapEdits": [],
     "breaks": [
       5,
       16,
       24
     ],
-    "voiceSeconds": 7.882541666666667
+    "voiceSeconds": 7.395875
   },
   {
     "id": 4,
-    "from": 1080,
-    "duration": 279,
+    "from": 805,
+    "duration": 152,
     "text": "Another photo from that same day showed Elizabeth's mother, Annie. She was wearing a pale blue dress.",
     "words": [
       {
         "text": "another",
-        "from": 1080,
-        "to": 1090
+        "from": 805,
+        "to": 815
       },
       {
         "text": "photo",
-        "from": 1090,
-        "to": 1101
+        "from": 815,
+        "to": 826
       },
       {
         "text": "from",
-        "from": 1101,
-        "to": 1106
+        "from": 826,
+        "to": 831
       },
       {
         "text": "that",
-        "from": 1106,
-        "to": 1110
+        "from": 831,
+        "to": 835
       },
       {
         "text": "same",
-        "from": 1110,
-        "to": 1119
+        "from": 835,
+        "to": 844
       },
       {
         "text": "day",
-        "from": 1119,
-        "to": 1124
+        "from": 844,
+        "to": 849
       },
       {
         "text": "showed",
-        "from": 1124,
-        "to": 1132
+        "from": 849,
+        "to": 857
       },
       {
         "text": "elizabeth's",
-        "from": 1132,
-        "to": 1144
+        "from": 857,
+        "to": 869
       },
       {
         "text": "mother",
-        "from": 1144,
-        "to": 1155
+        "from": 869,
+        "to": 880
       },
       {
         "text": "annie",
-        "from": 1155,
-        "to": 1167
+        "from": 880,
+        "to": 892
       },
       {
         "text": "she",
-        "from": 1178,
-        "to": 1182
+        "from": 897,
+        "to": 901
       },
       {
         "text": "was",
-        "from": 1182,
-        "to": 1187
+        "from": 901,
+        "to": 906
       },
       {
         "text": "wearing",
-        "from": 1187,
-        "to": 1195
+        "from": 906,
+        "to": 914
       },
       {
         "text": "a",
-        "from": 1195,
-        "to": 1196
+        "from": 914,
+        "to": 915
       },
       {
         "text": "pale",
-        "from": 1196,
-        "to": 1208
+        "from": 915,
+        "to": 927
       },
       {
         "text": "blue",
-        "from": 1208,
-        "to": 1217
+        "from": 927,
+        "to": 936
       },
       {
         "text": "dress",
-        "from": 1217,
-        "to": 1234
+        "from": 936,
+        "to": 954
       }
     ],
     "tempo": 1.0,
+    "quietGapEdits": [],
     "breaks": [
       9,
       16
     ],
-    "voiceSeconds": 5.153333333333333
+    "voiceSeconds": 4.96
   },
   {
     "id": 5,
-    "from": 1359,
-    "duration": 432,
+    "from": 957,
+    "duration": 357,
     "text": "Researchers believe Annie may have walked into the background. The camera's limited viewfinder hid her from Jim... and bright sunlight made her dress look white. So that mysterious astronaut... may have been her mother all along.",
     "words": [
       {
         "text": "researchers",
-        "from": 1359,
-        "to": 1376
+        "from": 957,
+        "to": 974
       },
       {
         "text": "believe",
-        "from": 1376,
-        "to": 1384
+        "from": 974,
+        "to": 982
       },
       {
         "text": "annie",
-        "from": 1384,
-        "to": 1392
+        "from": 982,
+        "to": 990
       },
       {
         "text": "may",
-        "from": 1392,
-        "to": 1398
+        "from": 990,
+        "to": 996
       },
       {
         "text": "have",
-        "from": 1398,
-        "to": 1403
+        "from": 996,
+        "to": 1001
       },
       {
         "text": "walked",
-        "from": 1403,
-        "to": 1412
+        "from": 1001,
+        "to": 1010
       },
       {
         "text": "into",
-        "from": 1412,
-        "to": 1418
+        "from": 1010,
+        "to": 1016
       },
       {
         "text": "the",
-        "from": 1418,
-        "to": 1420
+        "from": 1016,
+        "to": 1018
       },
       {
         "text": "background",
-        "from": 1420,
-        "to": 1438
+        "from": 1018,
+        "to": 1037
       },
       {
         "text": "the",
-        "from": 1453,
-        "to": 1456
+        "from": 1037,
+        "to": 1043
       },
       {
         "text": "camera's",
-        "from": 1456,
-        "to": 1470
+        "from": 1043,
+        "to": 1057
       },
       {
         "text": "limited",
-        "from": 1470,
-        "to": 1480
+        "from": 1057,
+        "to": 1066
       },
       {
         "text": "viewfinder",
-        "from": 1480,
-        "to": 1497
+        "from": 1066,
+        "to": 1084
       },
       {
         "text": "hid",
-        "from": 1497,
-        "to": 1504
+        "from": 1084,
+        "to": 1091
       },
       {
         "text": "her",
-        "from": 1504,
-        "to": 1508
+        "from": 1091,
+        "to": 1095
       },
       {
         "text": "from",
-        "from": 1508,
-        "to": 1515
+        "from": 1095,
+        "to": 1101
       },
       {
         "text": "jim",
-        "from": 1515,
-        "to": 1525
+        "from": 1101,
+        "to": 1111
       },
       {
         "text": "and",
-        "from": 1535,
-        "to": 1539
+        "from": 1117,
+        "to": 1121
       },
       {
         "text": "bright",
-        "from": 1539,
-        "to": 1547
+        "from": 1121,
+        "to": 1128
       },
       {
         "text": "sunlight",
-        "from": 1547,
-        "to": 1562
+        "from": 1128,
+        "to": 1143
       },
       {
         "text": "made",
-        "from": 1562,
-        "to": 1568
+        "from": 1143,
+        "to": 1150
       },
       {
         "text": "her",
-        "from": 1568,
-        "to": 1572
+        "from": 1150,
+        "to": 1153
       },
       {
         "text": "dress",
-        "from": 1572,
-        "to": 1582
+        "from": 1153,
+        "to": 1163
       },
       {
         "text": "look",
-        "from": 1582,
-        "to": 1589
+        "from": 1163,
+        "to": 1170
       },
       {
         "text": "white",
-        "from": 1589,
-        "to": 1602
+        "from": 1170,
+        "to": 1185
       },
       {
         "text": "so",
-        "from": 1615,
-        "to": 1620
+        "from": 1185,
+        "to": 1190
       },
       {
         "text": "that",
-        "from": 1620,
-        "to": 1625
+        "from": 1190,
+        "to": 1195
       },
       {
         "text": "mysterious",
-        "from": 1625,
-        "to": 1645
+        "from": 1195,
+        "to": 1215
       },
       {
         "text": "astronaut",
-        "from": 1645,
-        "to": 1666
+        "from": 1215,
+        "to": 1235
       },
       {
         "text": "may",
-        "from": 1677,
-        "to": 1683
+        "from": 1241,
+        "to": 1248
       },
       {
         "text": "have",
-        "from": 1683,
-        "to": 1691
+        "from": 1248,
+        "to": 1255
       },
       {
         "text": "been",
-        "from": 1691,
-        "to": 1696
+        "from": 1255,
+        "to": 1261
       },
       {
         "text": "her",
-        "from": 1696,
-        "to": 1700
+        "from": 1261,
+        "to": 1265
       },
       {
         "text": "mother",
-        "from": 1700,
-        "to": 1713
+        "from": 1265,
+        "to": 1277
       },
       {
         "text": "all",
-        "from": 1713,
-        "to": 1720
+        "from": 1277,
+        "to": 1285
       },
       {
         "text": "along",
-        "from": 1720,
-        "to": 1737
+        "from": 1285,
+        "to": 1302
       }
     ],
     "tempo": 1.0,
+    "quietGapEdits": [
+      {
+        "between": [
+          "jim",
+          "and"
+        ],
+        "oldSeconds": 0.3,
+        "newSeconds": 0.2
+      }
+    ],
     "breaks": [
       8,
       16,
@@ -802,6 +852,6 @@
       28,
       35
     ],
-    "voiceSeconds": 12.613333333333333
+    "voiceSeconds": 11.493333333333334
   }
 ]

@@ -26,7 +26,7 @@
   },
   {
     "scene": 5,
-    "asr": "Researchers believe Annie may have walked into the background. The camera's limited viewfinder hit her from Jim, and Bright's sunlight made her dress look white. So that mysterious astronaut might have been her mother all along.",
+    "asr": "Researchers believe Annie may have walked into the background. The camera's limited viewfinder hit her from Jim. And Bright's sunlight made her dress look white, so that mysterious astronaut might have been her mother all along.",
     "similarity": 0.9166666666666666
   },
   {
@@ -45,16 +45,20 @@
   },
   {
     "file": "solway_spaceman_short.mp4",
-    "sha256": "b3a467aebf172f035dc9c5ade84263a0c6f29d8ec7f790500ecdea1da8d15af2",
-    "frames": 1791,
-    "seconds": 59.7,
+    "sha256": "e5c10c14d467dd37a488fb003f695cac4398cf17d1de6056d3dece84b5fb8a79",
+    "frames": 1314,
+    "seconds": 43.8,
     "codec": "H264/yuv420p/AAC"
   },
   {
     "file": "solway_spaceman_no_music.mp4",
-    "sha256": "abe6f3e0648f6a6a0e97dcd5b341d57b8ba88daaa15730146d559bf6ae4be897",
-    "frames": 1791,
-    "seconds": 59.7,
+    "sha256": "99dbeee0beb4205f06155c7a1becf45644d317c5ab53abfe4bf3bcc063beb3a6",
+    "frames": 1314,
+    "seconds": 43.8,
     "codec": "H264/yuv420p/AAC"
+  },
+  {
+    "maxAlignedNarrationGapSeconds": 0.36666666666666664,
+    "continuousCadence": true
   }
 ]

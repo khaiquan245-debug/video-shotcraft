@@ -1,0 +1,28 @@
+{
+  "old": {
+    "maxBetweenWords": 4.167,
+    "overHalfSecond": 8,
+    "sceneBoundaryGaps": [
+      2.1,
+      1.0,
+      2.5,
+      2.133,
+      4.167
+    ]
+  },
+  "new": {
+    "maxBetweenWords": 0.367,
+    "overHalfSecond": 0,
+    "sceneBoundaryGaps": [
+      0.367,
+      0.133,
+      0.1,
+      0.1,
+      0.1
+    ]
+  },
+  "seconds": 43.8,
+  "speakingTempoUnchanged": true,
+  "pitchUnchanged": true,
+  "sameScript": true
+}

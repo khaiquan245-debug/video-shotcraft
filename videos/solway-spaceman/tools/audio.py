@@ -2,7 +2,7 @@ from pathlib import Path
 import json,re,wave,subprocess
 import numpy as np
 from pocketsphinx import Decoder
-r=Path(__file__).resolve().parents[1];s=json.loads((r/'src/timeline.json').read_text());lengths=[7,10,9,10,9.3,14.4];offset=0;full=[];silence=None
+r=Path(__file__).resolve().parents[1];s=json.loads((r/'src/timeline.json').read_text());offset=0;full=[];silence=None
 for x in s:
  i=x['id'];origin=x['from'];ws=x['words'];breaks=[];tokens=[]
  for m in re.finditer(r"([A-Za-z]+(?:'[A-Za-z]+)?|[0-9]+)([^A-Za-z0-9]*)",x['text']):
@@ -10,16 +10,25 @@ for x in s:
   if any(c in m[2] for c in '.!?'):breaks.append(len(tokens)-1)
  assert tokens==[w['text'] for w in ws],(i,tokens,ws)
  with wave.open(str(r/f'out/voice-{i}.wav')) as w:sr=w.getframerate();a=np.frombuffer(w.readframes(w.getnframes()),np.int16).copy()
- chunks=[];cursor=0;insertions=[]
- for j in breaks:
-  if j>=len(ws)-1:continue
-  start=(ws[j]['to']-origin)/30;end=(ws[j+1]['from']-origin)/30;desired=.36
-  if i==5:desired=.38
-  if i==4:desired=.36
-  if i==0:desired=.34
-  extra=max(0,desired-(end-start));point=round((start+end)/2*sr)
-  chunks+=[a[cursor:point],np.zeros(round(extra*sr),np.int16)];cursor=point;insertions.append((point/sr,extra))
- chunks.append(a[cursor:]);a=np.concatenate(chunks);target=round(lengths[i]*sr);assert len(a)<=target,(i,len(a)/sr,lengths[i])
+ # Edit only quiet spaces; keep the existing voice samples and native speaking rate.
+ chunks=[];cursor=0;edits=[]
+ for j in range(len(ws)-1):
+  end=(ws[j]['to']-origin)/30;start=(ws[j+1]['from']-origin)/30;gap=start-end
+  desired=.20 if j in breaks else .10
+  if i==5 and ws[j+1]['text']=='mother':desired=.23
+  if gap<=max(desired+.035,.16):continue
+  left=round((end+.045)*sr);right=round((start-.045)*sr)
+  if right<=left or left<cursor:continue
+  quiet=a[left:right].astype(np.float64)/32768
+  if np.sqrt(np.mean(quiet*quiet))>.008:continue
+  chunks.append(a[cursor:left]);chunks.append(np.zeros(round(max(0,desired-.09)*sr),np.int16));edits.append({'between':[ws[j]['text'],ws[j+1]['text']],'oldSeconds':round(gap,3),'newSeconds':desired});cursor=right
+ chunks.append(a[cursor:]);a=np.concatenate(chunks)
+ # Remove recording-only leading/trailing silence with a low threshold and protective margins.
+ energy=np.abs(a.astype(np.int32));active=np.flatnonzero(energy>8)
+ if len(active):
+  lo=max(0,int(active[0]) - round(.06*sr));hi=min(len(a),int(active[-1])+round(.08*sr));a=a[lo:hi]
+ frames=int(np.ceil(len(a)/sr*30))+(12 if i==5 else 3);target=frames*800
+ x['quietGapEdits']=edits
  # Realign the resulting narration so animation and captions follow the edited pauses.
  final=r/f'out/final-{i}.wav'
  with wave.open(str(final),'wb') as w:w.setparams((1,2,sr,0,'NONE','not compressed'));w.writeframes(a.tobytes())
@@ -31,8 +40,8 @@ for x in s:
  cursor_frame=offset
  for w in words:
   w['from']=max(w['from'],cursor_frame);w['to']=max(w['to'],w['from']+1);cursor_frame=w['to']
- x.update({'from':offset,'duration':round(lengths[i]*30),'words':words,'breaks':breaks,'voiceSeconds':len(a)/sr,'tempo':1.0})
- full.append(np.pad(a,(0,target-len(a))));offset+=round(lengths[i]*30);print('AUDIO',i,len(a)/sr,lengths[i],flush=True)
+ x.update({'from':offset,'duration':frames,'words':words,'breaks':breaks,'voiceSeconds':len(a)/sr,'tempo':1.0})
+ full.append(np.pad(a,(0,target-len(a))));offset+=frames;print('AUDIO',i,len(a)/sr,frames/30,flush=True)
 (r/'src/timeline.json').write_text(json.dumps(s,indent=2))
 with wave.open(str(r/'output/solway_spaceman_voice.wav'),'wb') as w:w.setparams((1,2,24000,0,'NONE','not compressed'));w.writeframes(np.concatenate(full).tobytes())
 subprocess.run(['ffmpeg','-v','error','-y','-i',str(r/'output/solway_spaceman_voice.wav'),'-ar','48000',str(r/'public/audio/narration.wav')],check=True)
@@ -56,7 +65,7 @@ for sc in s:
   for k in range(3):
    z=np.arange(round(.35*sr))/sr;add(at+.6+k*.75,rng.normal(0,.008,len(z))*np.sin(np.pi*z/.35)**2)
  if sc['id']==3:
-  for k in range(9):add(at+k,np.sin(2*np.pi*850*tt)*.007*np.exp(-tt*80))
+  for k in range(min(9,int(sc['duration']/30))):add(at+k,np.sin(2*np.pi*850*tt)*.007*np.exp(-tt*80))
  if sc['id']==4:
   z=np.arange(sr)/sr;add(at+.15,(np.sin(2*np.pi*660*z)+np.sin(2*np.pi*990*z))*.016*np.exp(-z*5))
  if sc['id']==5:

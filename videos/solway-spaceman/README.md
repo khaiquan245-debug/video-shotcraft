@@ -1,6 +1,6 @@
 # The Astronaut Who Appeared in a Family Photo
 
-59.7-second vertical mystery documentary Short. Full supplied English narration retained; same PocketTTS FP32 reference/model as Harrison Okene and octopus videos. 1080×1920,30fps,H.264/yuv420p,AAC. Required outputs are in output/; source is src/index.tsx and src/timeline.json.
+43.8-second vertical mystery documentary Short. Full supplied English narration retained; same PocketTTS FP32 reference/model as Harrison Okene and octopus videos. 1080×1920,30fps,H.264/yuv420p,AAC. Required outputs are in output/; source is src/index.tsx and src/timeline.json.
 
 ## Archival source and distinction
 The user explicitly confirmed photo reuse permission, then supplied SOLWAY_FIRTH_PHOTO_FOR_CODEX.zip. Its PNG is the actual203×300historical photo, not generated art. assets/archival/solway_original.png and public/archival/solway_original.png are byte-identical to the supplied PNG. output/archival_manifest.json records SHA-256 and provenance. Attribution: Jim Templeton, May1964. This relies on user-supplied authorization, not a public-domain/CC claim. No other archival photograph or footage was downloaded or used. Full license/source notes: output/asset_licenses.md.
@@ -37,3 +37,6 @@ Audio is original deterministic synthesis, not third-party recorded Foley. Reque
 
 ## Limitations
 The sole archival photo is low resolution203×300; enlargement is visibly soft and is not AI-enhanced. No second actual Annie photograph is available. Family faces/clothing are stylized and not claimed as authentic portraits. Camera optics and exposure are explanatory cartoons, not a validated recreation of Jim's camera. Technical ASR is not a subjective listening assessment.
+
+## Continuous-cadence revision
+The latest user instruction prioritizes continuous short-form speech over the former55–60second slot targets. The original native utterances, script, speaker conditioning, speaking tempo and pitch are preserved. Only low-energy interword spaces are shortened, recording-only edges trimmed, and artificial scene-end padding removed. Each scene follows the resulting narration plus0.1s tail (0.4s final). New duration is1314frames/43.8seconds. Actual longest aligned gap fell from4.167s to0.367s; there are no aligned gaps over0.5s. Captions, visual word cues, shutter timing, music ducking and reveal accents were rebuilt on this timeline. Metrics are in output/cadence_revision.json.

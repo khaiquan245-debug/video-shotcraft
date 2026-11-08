@@ -1,9 +1,9 @@
 The Astronaut Who Appeared in a Family Photo
 Video: /workspace/solway-spaceman/output/solway_spaceman_short.mp4
-Actual duration: 59.700000seconds
+Actual duration: 43.800000seconds
 Resolution: 1080x1920
 FPS: 30/1
-Frames: 1791
+Frames: 1314
 Video codec/pixel format: h264/yuv420p
 Audio: aac/48000Hz
 Voice: same PocketTTS FP32 model/reference as preceding videos; all supplied narration retained; no pitch shift.
@@ -14,3 +14,4 @@ Music/SFX: original procedural synthesis; Freesound search attempted but proxy r
 Checks: all narration tokens/SRT order, frame bounds, dimensions, H264yuv420p/AAC, duration and full decode of both variants pass.
 Limitations: source archival photo visibly soft when enlarged because203x300; second Annie photo not supplied; proposed explanation is not conclusively proven; cartoon optics not to scale; subjective audio listening not claimed.
 Rerender: node tools/render.mjs using fixed public/audio and supplied archival photo.
+Cadence revision: fixed scene-slot silence removed; same original voice and native speech tempo retained. Longest aligned word gap0.367s; no gap over0.5s. Latest user request supersedes former55–60s target.
