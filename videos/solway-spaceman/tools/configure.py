@@ -1,0 +1,6 @@
+from pathlib import Path
+import json
+r=Path(__file__).resolve().parents[1]
+texts=["Look closely at this photo. Who's standing behind the little girl? Her father said he never saw anyone there.","In 1964, a man named Jim Templeton took a picture of his five-year-old daughter, Elizabeth, in England. At first, nothing seemed unusual.","But when the film was developed... a strange white figure appeared behind her. It looked almost exactly like an astronaut.","The photograph spread around the world. Some people even believed it showed a visitor from another planet. But there was one detail almost everyone overlooked.","Another photo from that same day showed Elizabeth's mother, Annie. She was wearing a pale blue dress.","Researchers believe Annie may have walked into the background. The camera's limited viewfinder hid her from Jim... and bright sunlight made her dress look white. So that mysterious astronaut... may have been her mother all along."]
+(r/'script.json').write_text(json.dumps(texts,indent=2));(r/'VOICEOVER_EN.txt').write_text('\n\n'.join(texts))
+p=r/'tools/voice.py';s=p.read_text().replace("norm=text.lower()", "norm=text.lower().replace('1964','nineteen sixty four')").replace("[('octopus','AA K T AH P AH S')]","[('templeton','T EH M P AH L T AH N')]");p.write_text(s)

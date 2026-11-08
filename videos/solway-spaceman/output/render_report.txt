@@ -1,0 +1,16 @@
+The Astronaut Who Appeared in a Family Photo
+Video: /workspace/solway-spaceman/output/solway_spaceman_short.mp4
+Actual duration: 59.700000seconds
+Resolution: 1080x1920
+FPS: 30/1
+Frames: 1791
+Video codec/pixel format: h264/yuv420p
+Audio: aac/48000Hz
+Voice: same PocketTTS FP32 model/reference as preceding videos; all supplied narration retained; no pitch shift.
+Historical photo: INCLUDED, exact user-supplied203x300PNG. User separately confirmed reuse permission. Source image unchanged; annotation and magnification are separate layers. Creator attribution Jim Templeton, May1964.
+Other assets: original vector reconstructions, designed newspapers, schematic optical/exposure demonstration; no other archival photograph or footage used.
+Licenses and provenance: output/asset_licenses.md and output/archival_manifest.json.
+Music/SFX: original procedural synthesis; Freesound search attempted but proxy returned403; no third-party recording/paid API.
+Checks: all narration tokens/SRT order, frame bounds, dimensions, H264yuv420p/AAC, duration and full decode of both variants pass.
+Limitations: source archival photo visibly soft when enlarged because203x300; second Annie photo not supplied; proposed explanation is not conclusively proven; cartoon optics not to scale; subjective audio listening not claimed.
+Rerender: node tools/render.mjs using fixed public/audio and supplied archival photo.

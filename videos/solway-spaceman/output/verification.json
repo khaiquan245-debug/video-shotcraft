@@ -1,0 +1,60 @@
+[
+  {
+    "scene": 0,
+    "asr": "closely at this photo, who's standing behind the little girl. Her father said he never saw anyone there.",
+    "similarity": 0.972972972972973
+  },
+  {
+    "scene": 1,
+    "asr": "In 1964, a man named Jim Templeton took a picture of his five-year-old daughter, Elizabeth, in England. At first, nothing seemed unusual.",
+    "similarity": 1.0
+  },
+  {
+    "scene": 2,
+    "asr": "but when the film was developed, a strange white figure appeared behind her. It looked almost exactly like an astronaut.",
+    "similarity": 1.0
+  },
+  {
+    "scene": 3,
+    "asr": "The photographs spread around the world. Some people even believed it showed a visitor from another planet. But there was one detail almost everyone overlooked.",
+    "similarity": 0.96
+  },
+  {
+    "scene": 4,
+    "asr": "Another photo from that same day showed Elizabeth's mother Annie. She was wearing a pale blue dress.",
+    "similarity": 1.0
+  },
+  {
+    "scene": 5,
+    "asr": "Researchers believe Annie may have walked into the background. The camera's limited viewfinder hit her from Jim, and Bright's sunlight made her dress look white. So that mysterious astronaut might have been her mother all along.",
+    "similarity": 0.9166666666666666
+  },
+  {
+    "subtitleTokens": 143,
+    "subtitleCues": 76,
+    "sameNarratorConditioning": "/workspace/ten-seconds/reference/prompt.wav"
+  },
+  {
+    "archivalPhotoIncluded": true,
+    "sourceResolution": [
+      203,
+      300
+    ],
+    "unalteredSourceSha256": "3ae65f47101ddc5252f2445bff4ed7cb1445ddea635b9f23bd564a70b7fa1c29",
+    "permission": "User confirmed reuse rights in chat"
+  },
+  {
+    "file": "solway_spaceman_short.mp4",
+    "sha256": "b3a467aebf172f035dc9c5ade84263a0c6f29d8ec7f790500ecdea1da8d15af2",
+    "frames": 1791,
+    "seconds": 59.7,
+    "codec": "H264/yuv420p/AAC"
+  },
+  {
+    "file": "solway_spaceman_no_music.mp4",
+    "sha256": "abe6f3e0648f6a6a0e97dcd5b341d57b8ba88daaa15730146d559bf6ae4be897",
+    "frames": 1791,
+    "seconds": 59.7,
+    "codec": "H264/yuv420p/AAC"
+  }
+]
