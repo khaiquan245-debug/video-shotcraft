@@ -1,3 +1,5 @@
+Audio-score update: see music_independent_review.md for the current scored/canonical video hash. The following visual/cadence review predates this music replacement; the new review verifies identical picture and unchanged narration.
+
 # Independent final review — Solway Spaceman
 
 Reviewed2026-11-08, final cadence revision16:56. Technical delivery checks passed for the final files below. Original archival photo is included. No remaining blocking issue was found in inspected final frames. Clean post-crossfade comparison f1240 and ending f1300 were inspected in the new render. This is a sampled visual/source review with full decode, not a claim of listening audition or every-frame human viewing.

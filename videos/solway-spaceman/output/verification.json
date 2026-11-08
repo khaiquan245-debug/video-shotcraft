@@ -45,10 +45,11 @@
   },
   {
     "file": "solway_spaceman_short.mp4",
-    "sha256": "e5c10c14d467dd37a488fb003f695cac4398cf17d1de6056d3dece84b5fb8a79",
+    "sha256": "11ea64b5b781c36e20c52f369140e6b8c15abf9ba42aa1f7503d77666efbab65",
     "frames": 1314,
     "seconds": 43.8,
-    "codec": "H264/yuv420p/AAC"
+    "codec": "H264/yuv420p/AAC",
+    "musicRevision": "Original composed stereo score; separate music_verification.json proves full decode and identical picture; prior narration ASR retained because narration WAV is unchanged."
   },
   {
     "file": "solway_spaceman_no_music.mp4",

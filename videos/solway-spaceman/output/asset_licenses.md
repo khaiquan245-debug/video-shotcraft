@@ -20,3 +20,6 @@ Background music and action-like Foley are original deterministic NumPy synthesi
 - https://www.bbc.com/news/uk-england-cumbria-27391210
 - https://drdavidclarke.co.uk/secret-files/the-solway-spaceman-photograph/
 These references were supplied in the brief; their text was not independently fetched under the restricted network policy. The narration retains its provided wording. The demonstration is labeled as a possible explanation, and the ending expressly states it is not conclusively proven.
+
+## Original composed music revision
+A new dedicated score was composed for this project via tools/score.py; felt-piano-like, pad, bass and bell-like tones are mathematical synthesis with no third-party samples or tracks. Standalone music and the mixed-video music layer are available for the requesting user's monetized videos without music fees or attribution requirements. See MUSIC_LICENSE.txt, music_report.json and music_verification.json.

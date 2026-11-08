@@ -1,0 +1,25 @@
+[
+  {
+    "file": "output/solway_spaceman_scored.mp4",
+    "seconds": 43.8,
+    "sha256": "11ea64b5b781c36e20c52f369140e6b8c15abf9ba42aa1f7503d77666efbab65",
+    "fullDecodePassed": true
+  },
+  {
+    "file": "output/solway_spaceman_music.wav",
+    "seconds": 43.8,
+    "sha256": "40d29b5fc61b1a6463af66d6a0761a95feb50a9c989fb649914623f1652f4c3c",
+    "fullDecodePassed": true
+  },
+  {
+    "file": "output/solway_spaceman_music.mp3",
+    "seconds": 43.824,
+    "sha256": "bfefe7a499fdec8c6654c02c49cba52011994505778607f2601cad772d297614",
+    "fullDecodePassed": true
+  },
+  {
+    "pictureUnchanged": true,
+    "pictureHash": "SHA256=5abf20d95d520f6028e3f674aa2e7f1262a4d76ac6b6e2f05bd39e4a2d3f479e",
+    "narrationWavSha256": "4878e29790380b2f19413c4fb914a77b77b1b20c4479f83e3648968c2a5a5e25"
+  }
+]

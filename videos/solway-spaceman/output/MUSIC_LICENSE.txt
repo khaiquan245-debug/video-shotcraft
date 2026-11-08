@@ -1,0 +1,12 @@
+ORIGINAL PROJECT MUSIC — SOLWAY SPACEMAN
+
+Files:
+- solway_spaceman_music.wav
+- solway_spaceman_music.mp3
+- The corresponding original music layer in solway_spaceman_scored.mp4
+
+This music was newly composed and synthesized programmatically for the requesting user's project using tools/score.py. It contains no third-party recordings, sample packs, purchased tracks or intentionally copied commercial melodies. The piano-like, pad, bass and bell-like tones are generated from mathematical oscillators.
+
+The requesting user may use, edit, combine, publish and monetize this music in YouTube videos and other projects without a music fee or required attribution. No third-party track license or paid music subscription was used for this composition.
+
+Provenance: original deterministic synthesis,72BPM,D-minor/add9 tonal center,43.8seconds,48kHz stereo. Source code and music_report.json accompany the project.
