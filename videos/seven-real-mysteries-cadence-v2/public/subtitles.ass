@@ -1,0 +1,218 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Liberation Sans,78,&H00E9F1F0,&H00E9F1F0,&H0010140B,&H0010140B,0,0,0,0,100,100,0,0,1,1.5,1.5,2,170,170,36,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.07,0:00:01.37,Default,,0,0,0,,In nineteen seventy seven,
+Dialogue: 0,0:00:01.53,0:00:03.53,Default,,0,0,0,,an astronomer circled six characters on a
+Dialogue: 0,0:00:03.53,0:00:06.20,Default,,0,0,0,,telescope printout and wrote one word\Nbeside
+Dialogue: 0,0:00:06.20,0:00:06.37,Default,,0,0,0,,them:
+Dialogue: 0,0:00:06.50,0:00:06.93,Default,,0,0,0,,{\c&H75C4E4&}Wow{\c&HE9F1F0&}!
+Dialogue: 0,0:00:07.20,0:00:08.53,Default,,0,0,0,,The signal never returned.
+Dialogue: 0,0:00:08.83,0:00:10.47,Default,,0,0,0,,And that's only one of seven cases
+Dialogue: 0,0:00:10.47,0:00:12.00,Default,,0,0,0,,where a small piece of {\c&H75C4E4&}evidence{\c&HE9F1F0&} raises
+Dialogue: 0,0:00:12.00,0:00:13.73,Default,,0,0,0,,a question much bigger than the object
+Dialogue: 0,0:00:13.73,0:00:14.20,Default,,0,0,0,,itself.
+Dialogue: 0,0:00:14.50,0:00:17.57,Default,,0,0,0,,At roughly fourteen hundred and twenty\Nmegahertz,
+Dialogue: 0,0:00:17.87,0:00:20.07,Default,,0,0,0,,close to the frequency emitted by neutral
+Dialogue: 0,0:00:20.07,0:00:23.20,Default,,0,0,0,,hydrogen, Ohio State's Big Ear radio\Ntelescope
+Dialogue: 0,0:00:23.20,0:00:25.10,Default,,0,0,0,,detected an unusually strong,
+Dialogue: 0,0:00:25.23,0:00:26.27,Default,,0,0,0,,narrowband signal.
+Dialogue: 0,0:00:26.27,0:00:27.83,Default,,0,0,0,,The date was August fifteenth,
+Dialogue: 0,0:00:27.83,0:00:28.90,Default,,0,0,0,,nineteen seventy seven.
+Dialogue: 0,0:00:29.20,0:00:30.73,Default,,0,0,0,,Its intensity rose and fell over a
+Dialogue: 0,0:00:30.73,0:00:32.70,Default,,0,0,0,,seventy two second observation window,
+Dialogue: 0,0:00:32.70,0:00:34.57,Default,,0,0,0,,leaving the sequence six E Q U
+Dialogue: 0,0:00:34.57,0:00:36.07,Default,,0,0,0,,J five on a paper record.
+Dialogue: 0,0:00:36.23,0:00:38.27,Default,,0,0,0,,Jerry Ehman's handwritten reaction gave it\Na
+Dialogue: 0,0:00:38.27,0:00:38.57,Default,,0,0,0,,name.
+Dialogue: 0,0:00:38.83,0:00:40.93,Default,,0,0,0,,Repeated searches have failed to detect it
+Dialogue: 0,0:00:40.93,0:00:41.40,Default,,0,0,0,,again.
+Dialogue: 0,0:00:41.63,0:00:43.00,Default,,0,0,0,,That's the central difficulty:
+Dialogue: 0,0:00:43.17,0:00:45.03,Default,,0,0,0,,scientists have a genuine observation,
+Dialogue: 0,0:00:45.03,0:00:46.80,Default,,0,0,0,,but no second event to test against
+Dialogue: 0,0:00:46.80,0:00:46.93,Default,,0,0,0,,it.
+Dialogue: 0,0:00:46.93,0:00:48.90,Default,,0,0,0,,It might have been a natural astronomical
+Dialogue: 0,0:00:48.90,0:00:50.97,Default,,0,0,0,,phenomenon or interference.
+Dialogue: 0,0:00:50.97,0:00:53.30,Default,,0,0,0,,Some have suggested an artificial\Ntransmission,
+Dialogue: 0,0:00:53.30,0:00:55.97,Default,,0,0,0,,although there's no supporting {\c&H75C4E4&}evidence{\c&HE9F1F0&} of\Nextraterrestrial
+Dialogue: 0,0:00:55.97,0:00:56.70,Default,,0,0,0,,technology.
+Dialogue: 0,0:00:56.87,0:00:59.70,Default,,0,0,0,,One burst left an extraordinary paper trail.
+Dialogue: 0,0:00:59.97,0:01:02.33,Default,,0,0,0,,A medieval manuscript offers the opposite\Npuzzle:
+Dialogue: 0,0:01:02.33,0:01:04.77,Default,,0,0,0,,information everywhere, but no agreed\Nmeaning.
+Dialogue: 0,0:01:05.17,0:01:07.33,Default,,0,0,0,,About two hundred and forty pages survive
+Dialogue: 0,0:01:07.33,0:01:09.07,Default,,0,0,0,,in a manuscript held at Yale.
+Dialogue: 0,0:01:09.07,0:01:11.13,Default,,0,0,0,,They contain unfamiliar writing,
+Dialogue: 0,0:01:11.13,0:01:13.47,Default,,0,0,0,,diagrams of stars, and plants that are
+Dialogue: 0,0:01:13.47,0:01:14.80,Default,,0,0,0,,difficult to identify.
+Dialogue: 0,0:01:15.17,0:01:16.70,Default,,0,0,0,,The book is known as the Voynich
+Dialogue: 0,0:01:16.70,0:01:19.10,Default,,0,0,0,,Manuscript, after the dealer who acquired it
+Dialogue: 0,0:01:19.10,0:01:20.27,Default,,0,0,0,,in nineteen twelve.
+Dialogue: 0,0:01:20.43,0:01:22.10,Default,,0,0,0,,Tests date its parchment to the early
+Dialogue: 0,0:01:22.10,0:01:23.10,Default,,0,0,0,,fifteenth century.
+Dialogue: 0,0:01:23.30,0:01:24.47,Default,,0,0,0,,Here's the peculiar part:
+Dialogue: 0,0:01:24.47,0:01:26.27,Default,,0,0,0,,the frequency and arrangement of its word
+Dialogue: 0,0:01:26.27,0:01:29.53,Default,,0,0,0,,like groups show statistical patterns\Nresembling those
+Dialogue: 0,0:01:29.53,0:01:30.93,Default,,0,0,0,,in natural languages.
+Dialogue: 0,0:01:30.93,0:01:33.20,Default,,0,0,0,,Yet no proposed translation has won broad
+Dialogue: 0,0:01:33.20,0:01:34.60,Default,,0,0,0,,scholarly acceptance.
+Dialogue: 0,0:01:34.83,0:01:36.90,Default,,0,0,0,,A real language, an elaborate cipher,
+Dialogue: 0,0:01:36.90,0:01:39.30,Default,,0,0,0,,or carefully constructed nonsense could\Naccount for
+Dialogue: 0,0:01:39.30,0:01:40.57,Default,,0,0,0,,different parts of the {\c&H75C4E4&}evidence{\c&HE9F1F0&};
+Dialogue: 0,0:01:40.57,0:01:42.70,Default,,0,0,0,,the statistical patterns alone don't settle the
+Dialogue: 0,0:01:42.70,0:01:43.13,Default,,0,0,0,,matter.
+Dialogue: 0,0:01:43.40,0:01:44.50,Default,,0,0,0,,The writing has structure.
+Dialogue: 0,0:01:44.50,0:01:46.07,Default,,0,0,0,,Its meaning remains inaccessible.
+Dialogue: 0,0:01:46.43,0:01:48.37,Default,,0,0,0,,Now imagine an ancient object whose\Nfunction
+Dialogue: 0,0:01:48.37,0:01:50.10,Default,,0,0,0,,can be reconstructed, even though the\Npeople
+Dialogue: 0,0:01:50.10,0:01:51.57,Default,,0,0,0,,who designed it have disappeared from the
+Dialogue: 0,0:01:51.57,0:01:52.03,Default,,0,0,0,,record.
+Dialogue: 0,0:01:52.43,0:01:55.60,Default,,0,0,0,,Roughly thirty surviving bronze gears lie\Ninside
+Dialogue: 0,0:01:55.60,0:01:57.57,Default,,0,0,0,,the fragments of a device recovered from
+Dialogue: 0,0:01:57.57,0:02:00.03,Default,,0,0,0,,a Greek shipwreck in nineteen oh one.
+Dialogue: 0,0:02:00.03,0:02:02.40,Default,,0,0,0,,The Antikythera Mechanism was built about\Ntwo
+Dialogue: 0,0:02:02.40,0:02:03.63,Default,,0,0,0,,thousand years ago.
+Dialogue: 0,0:02:03.63,0:02:05.23,Default,,0,0,0,,Some of its gear teeth are only
+Dialogue: 0,0:02:05.23,0:02:07.03,Default,,0,0,0,,about one and a half millimeters long.
+Dialogue: 0,0:02:07.37,0:02:09.20,Default,,0,0,0,,Turn a handle, and linked gears could
+Dialogue: 0,0:02:09.20,0:02:11.90,Default,,0,0,0,,display astronomical cycles, including the\Nmovements of
+Dialogue: 0,0:02:11.90,0:02:13.40,Default,,0,0,0,,the Sun and Moon and predictions of
+Dialogue: 0,0:02:13.40,0:02:14.23,Default,,0,0,0,,eclipses.
+Dialogue: 0,0:02:14.23,0:02:16.77,Default,,0,0,0,,These functions are supported by surviving\Ninscriptions
+Dialogue: 0,0:02:16.77,0:02:17.87,Default,,0,0,0,,and physical fragments.
+Dialogue: 0,0:02:18.03,0:02:19.77,Default,,0,0,0,,The astonishing gap is historical:
+Dialogue: 0,0:02:19.93,0:02:22.03,Default,,0,0,0,,nothing comparably complex is known in\Nthe
+Dialogue: 0,0:02:22.03,0:02:24.10,Default,,0,0,0,,surviving record for more than a thousand
+Dialogue: 0,0:02:24.10,0:02:25.27,Default,,0,0,0,,years afterward.
+Dialogue: 0,0:02:25.27,0:02:27.50,Default,,0,0,0,,Researchers can model its missing\Nmechanisms,
+Dialogue: 0,0:02:27.50,0:02:29.73,Default,,0,0,0,,but those reconstructions aren't identical to\Nan
+Dialogue: 0,0:02:29.73,0:02:30.63,Default,,0,0,0,,intact original.
+Dialogue: 0,0:02:30.90,0:02:32.57,Default,,0,0,0,,We still can't identify its maker or
+Dialogue: 0,0:02:32.57,0:02:34.83,Default,,0,0,0,,know how common such devices once\Nwere.
+Dialogue: 0,0:02:35.07,0:02:36.83,Default,,0,0,0,,This bronze machine was built to describe
+Dialogue: 0,0:02:36.83,0:02:37.57,Default,,0,0,0,,the sky.
+Dialogue: 0,0:02:37.57,0:02:38.77,Default,,0,0,0,,The next trail of clues would be
+Dialogue: 0,0:02:38.77,0:02:39.97,Default,,0,0,0,,found in the snow of the Ural
+Dialogue: 0,0:02:39.97,0:02:40.50,Default,,0,0,0,,Mountains.
+Dialogue: 0,0:02:40.87,0:02:42.70,Default,,0,0,0,,Nine hikers died in the northern Ural
+Dialogue: 0,0:02:42.70,0:02:44.90,Default,,0,0,0,,Mountains in February nineteen fifty nine.
+Dialogue: 0,0:02:45.10,0:02:47.27,Default,,0,0,0,,When rescuers found their campsite weeks\Nlater,
+Dialogue: 0,0:02:47.27,0:02:48.53,Default,,0,0,0,,the tent had been cut from the
+Dialogue: 0,0:02:48.53,0:02:49.07,Default,,0,0,0,,inside.
+Dialogue: 0,0:02:49.07,0:02:51.07,Default,,0,0,0,,Boots and winter clothing were left behind,
+Dialogue: 0,0:02:51.07,0:02:53.40,Default,,0,0,0,,and footprints led downhill through the\Nsnow.
+Dialogue: 0,0:02:53.67,0:02:56.13,Default,,0,0,0,,Several victims had suffered serious\Ninjuries.
+Dialogue: 0,0:02:56.30,0:02:59.13,Default,,0,0,0,,Russian prosecutors concluded in twenty\Ntwenty that
+Dialogue: 0,0:02:59.13,0:03:00.90,Default,,0,0,0,,an avalanche had driven the group from
+Dialogue: 0,0:03:00.90,0:03:01.57,Default,,0,0,0,,the tent.
+Dialogue: 0,0:03:01.57,0:03:04.23,Default,,0,0,0,,A scientific model published in twenty\Ntwenty
+Dialogue: 0,0:03:04.23,0:03:06.40,Default,,0,0,0,,one showed how wind loaded snow could
+Dialogue: 0,0:03:06.40,0:03:08.80,Default,,0,0,0,,release a small slab above their shelter.
+Dialogue: 0,0:03:08.80,0:03:10.73,Default,,0,0,0,,But the slope appeared relatively gentle,
+Dialogue: 0,0:03:10.73,0:03:13.47,Default,,0,0,0,,and searchers reported no obvious\Navalanche debris.
+Dialogue: 0,0:03:13.63,0:03:16.30,Default,,0,0,0,,The researchers offered mechanisms for\Nthose objections;
+Dialogue: 0,0:03:16.43,0:03:18.67,Default,,0,0,0,,their model still can't reproduce every\Ndecision
+Dialogue: 0,0:03:18.67,0:03:19.53,Default,,0,0,0,,made that night.
+Dialogue: 0,0:03:19.53,0:03:21.37,Default,,0,0,0,,A sudden snow hazard is a credible
+Dialogue: 0,0:03:21.37,0:03:22.13,Default,,0,0,0,,explanation.
+Dialogue: 0,0:03:22.13,0:03:24.27,Default,,0,0,0,,The precise sequence remains {\c&H75C4E4&}uncertain{\c&HE9F1F0&}.
+Dialogue: 0,0:03:24.47,0:03:26.27,Default,,0,0,0,,From a mountain with too little visible
+Dialogue: 0,0:03:26.27,0:03:28.43,Default,,0,0,0,,debris, the trail leads to a forest
+Dialogue: 0,0:03:28.43,0:03:30.73,Default,,0,0,0,,covered in {\c&H75C4E4&}evidence{\c&HE9F1F0&} of an enormous blast.
+Dialogue: 0,0:03:31.07,0:03:32.93,Default,,0,0,0,,On June thirtieth, nineteen oh eight,
+Dialogue: 0,0:03:32.93,0:03:35.43,Default,,0,0,0,,an explosion over Siberia flattened roughly\Ntwo
+Dialogue: 0,0:03:35.43,0:03:37.77,Default,,0,0,0,,thousand square kilometers of forest near\Nthe
+Dialogue: 0,0:03:37.77,0:03:38.80,Default,,0,0,0,,Tunguska River.
+Dialogue: 0,0:03:38.80,0:03:40.83,Default,,0,0,0,,When investigators finally reached the area,
+Dialogue: 0,0:03:40.83,0:03:42.43,Default,,0,0,0,,they found trees lying outward from the
+Dialogue: 0,0:03:42.43,0:03:44.20,Default,,0,0,0,,blast zone in a broad radial pattern.
+Dialogue: 0,0:03:44.20,0:03:46.50,Default,,0,0,0,,But there was no obvious impact crater.
+Dialogue: 0,0:03:46.73,0:03:48.57,Default,,0,0,0,,That missing crater once made the event
+Dialogue: 0,0:03:48.57,0:03:49.57,Default,,0,0,0,,seem impossible.
+Dialogue: 0,0:03:49.57,0:03:52.37,Default,,0,0,0,,The leading scientific explanation is an\Nasteroid
+Dialogue: 0,0:03:52.37,0:03:54.33,Default,,0,0,0,,breaking apart above the ground,
+Dialogue: 0,0:03:54.33,0:03:56.80,Default,,0,0,0,,releasing its energy into the atmosphere.
+Dialogue: 0,0:03:57.00,0:03:59.73,Default,,0,0,0,,The fallen trees support a powerful airburst;
+Dialogue: 0,0:03:59.73,0:04:01.47,Default,,0,0,0,,the exact size, composition,
+Dialogue: 0,0:04:01.47,0:04:03.47,Default,,0,0,0,,and trajectory of the incoming body have
+Dialogue: 0,0:04:03.47,0:04:05.73,Default,,0,0,0,,to be estimated from the remaining\Nevidence.
+Dialogue: 0,0:04:05.73,0:04:07.43,Default,,0,0,0,,A massive disturbance can leave a clear
+Dialogue: 0,0:04:07.43,0:04:09.93,Default,,0,0,0,,pattern without leaving an intact object\Nbehind.
+Dialogue: 0,0:04:10.30,0:04:12.50,Default,,0,0,0,,The next disappearance also left almost no
+Dialogue: 0,0:04:12.50,0:04:13.87,Default,,0,0,0,,trace of the person involved,
+Dialogue: 0,0:04:14.40,0:04:16.30,Default,,0,0,0,,except for money recovered beside a river.
+Dialogue: 0,0:04:16.73,0:04:18.73,Default,,0,0,0,,Five thousand eight hundred dollars in\Ndamaged
+Dialogue: 0,0:04:18.73,0:04:20.63,Default,,0,0,0,,twenty dollar bills turned up beside the
+Dialogue: 0,0:04:20.63,0:04:22.30,Default,,0,0,0,,Columbia River in nineteen eighty.
+Dialogue: 0,0:04:22.30,0:04:24.43,Default,,0,0,0,,Their serial numbers matched money given\Nto
+Dialogue: 0,0:04:24.43,0:04:26.13,Default,,0,0,0,,a hijacker nine years earlier.
+Dialogue: 0,0:04:26.37,0:04:27.57,Default,,0,0,0,,On November twenty fourth,
+Dialogue: 0,0:04:27.57,0:04:29.77,Default,,0,0,0,,nineteen seventy one, a man traveling as
+Dialogue: 0,0:04:29.77,0:04:31.60,Default,,0,0,0,,Dan Cooper took control of a Boeing
+Dialogue: 0,0:04:31.60,0:04:32.93,Default,,0,0,0,,seven twenty seven flight,
+Dialogue: 0,0:04:32.93,0:04:35.27,Default,,0,0,0,,demanded two hundred thousand dollars\Nand four
+Dialogue: 0,0:04:35.27,0:04:37.73,Default,,0,0,0,,parachutes, then released the passengers\Nin Seattle.
+Dialogue: 0,0:04:37.73,0:04:39.17,Default,,0,0,0,,The plane departed again.
+Dialogue: 0,0:04:39.43,0:04:41.30,Default,,0,0,0,,Somewhere over the Pacific Northwest,
+Dialogue: 0,0:04:41.30,0:04:42.50,Default,,0,0,0,,he jumped into the night.
+Dialogue: 0,0:04:42.73,0:04:44.77,Default,,0,0,0,,The recovered bills are {\c&H75C4E4&}confirmed{\c&HE9F1F0&} {\c&H75C4E4&}evidence{\c&HE9F1F0&},
+Dialogue: 0,0:04:44.77,0:04:46.20,Default,,0,0,0,,but they don't tell us whether Cooper
+Dialogue: 0,0:04:46.20,0:04:47.87,Default,,0,0,0,,survived or identify him.
+Dialogue: 0,0:04:48.10,0:04:51.03,Default,,0,0,0,,The FBI considered a fatal landing\Nplausible.
+Dialogue: 0,0:04:51.27,0:04:54.27,Default,,0,0,0,,In twenty sixteen, the bureau redirected\Nresources
+Dialogue: 0,0:04:54.27,0:04:56.57,Default,,0,0,0,,to other investigations while preserving the\Ncase
+Dialogue: 0,0:04:56.57,0:04:57.13,Default,,0,0,0,,information.
+Dialogue: 0,0:04:57.13,0:04:58.80,Default,,0,0,0,,The bills reached a riverbank.
+Dialogue: 0,0:04:58.93,0:05:00.87,Default,,0,0,0,,Where Cooper went is another question.
+Dialogue: 0,0:05:00.87,0:05:02.37,Default,,0,0,0,,And the last case replaces a river
+Dialogue: 0,0:05:02.37,0:05:03.87,Default,,0,0,0,,with a vast stretch of ocean.
+Dialogue: 0,0:05:04.30,0:05:06.00,Default,,0,0,0,,Two hundred and thirty nine people were
+Dialogue: 0,0:05:06.00,0:05:08.77,Default,,0,0,0,,aboard Malaysia Airlines Flight Three\NSeven Zero
+Dialogue: 0,0:05:08.77,0:05:10.23,Default,,0,0,0,,when it disappeared on March eighth,
+Dialogue: 0,0:05:10.23,0:05:12.73,Default,,0,0,0,,twenty fourteen, flying from Kuala Lumpur\Nto
+Dialogue: 0,0:05:12.73,0:05:13.40,Default,,0,0,0,,Beijing.
+Dialogue: 0,0:05:13.40,0:05:15.60,Default,,0,0,0,,Satellite data indicated a route toward the
+Dialogue: 0,0:05:15.60,0:05:16.90,Default,,0,0,0,,southern Indian Ocean.
+Dialogue: 0,0:05:17.13,0:05:18.67,Default,,0,0,0,,In July twenty fifteen,
+Dialogue: 0,0:05:18.97,0:05:21.17,Default,,0,0,0,,a wing component washed ashore on\NReunion
+Dialogue: 0,0:05:21.17,0:05:21.67,Default,,0,0,0,,Island.
+Dialogue: 0,0:05:21.87,0:05:24.07,Default,,0,0,0,,Investigators {\c&H75C4E4&}confirmed{\c&HE9F1F0&} it came from the\Nmissing
+Dialogue: 0,0:05:24.07,0:05:25.60,Default,,0,0,0,,Boeing seven seventy seven.
+Dialogue: 0,0:05:25.60,0:05:26.67,Default,,0,0,0,,Yet the main wreckage,
+Dialogue: 0,0:05:26.67,0:05:29.30,Default,,0,0,0,,flight recorders, and exact crash location\Nremain
+Dialogue: 0,0:05:29.30,0:05:30.07,Default,,0,0,0,,unlocated.
+Dialogue: 0,0:05:30.07,0:05:31.83,Default,,0,0,0,,The debris is physical {\c&H75C4E4&}evidence{\c&HE9F1F0&} of the
+Dialogue: 0,0:05:31.83,0:05:32.67,Default,,0,0,0,,aircraft's fate;
+Dialogue: 0,0:05:32.67,0:05:35.03,Default,,0,0,0,,explanations for why it changed course\Nremain
+Dialogue: 0,0:05:35.03,0:05:35.57,Default,,0,0,0,,{\c&H75C4E4&}unproven{\c&HE9F1F0&}.
+Dialogue: 0,0:05:35.57,0:05:38.33,Default,,0,0,0,,The multinational underwater search was\Nsuspended in
+Dialogue: 0,0:05:38.33,0:05:39.30,Default,,0,0,0,,twenty seventeen.
+Dialogue: 0,0:05:39.47,0:05:41.73,Default,,0,0,0,,Further search proposals have offered\Nhope,
+Dialogue: 0,0:05:41.73,0:05:43.93,Default,,0,0,0,,but an agreement is not a discovery.
+Dialogue: 0,0:05:43.93,0:05:46.87,Default,,0,0,0,,The latest operational status needs\Nconfirmation from
+Dialogue: 0,0:05:46.87,0:05:47.93,Default,,0,0,0,,official updates.
+Dialogue: 0,0:05:47.93,0:05:50.37,Default,,0,0,0,,The {\c&H75C4E4&}evidence{\c&HE9F1F0&} discussed here cannot\Nestablish when
+Dialogue: 0,0:05:50.37,0:05:52.20,Default,,0,0,0,,or where a future search might succeed.
+Dialogue: 0,0:05:52.43,0:05:54.93,Default,,0,0,0,,For the families, every new search carries
+Dialogue: 0,0:05:54.93,0:05:56.50,Default,,0,0,0,,the possibility of answers,
+Dialogue: 0,0:05:56.67,0:05:58.67,Default,,0,0,0,,without any guarantee that the ocean will
+Dialogue: 0,0:05:58.67,0:05:59.37,Default,,0,0,0,,provide them.
+Dialogue: 0,0:05:59.70,0:06:01.07,Default,,0,0,0,,These seven cases don't all have the
+Dialogue: 0,0:06:01.07,0:06:02.47,Default,,0,0,0,,same kind of uncertainty.
+Dialogue: 0,0:06:02.70,0:06:05.37,Default,,0,0,0,,In some, physics offers a strong\Nexplanation.
+Dialogue: 0,0:06:05.63,0:06:07.70,Default,,0,0,0,,In others, the key {\c&H75C4E4&}evidence{\c&HE9F1F0&} has never
+Dialogue: 0,0:06:07.70,0:06:08.40,Default,,0,0,0,,been recovered.
+Dialogue: 0,0:06:08.73,0:06:10.70,Default,,0,0,0,,A radio printout, a medieval page,
+Dialogue: 0,0:06:10.70,0:06:12.20,Default,,0,0,0,,a bronze gear, a tent,
+Dialogue: 0,0:06:12.20,0:06:14.93,Default,,0,0,0,,a forest, banknotes, and an aircraft\Nfragment
+Dialogue: 0,0:06:14.93,0:06:16.10,Default,,0,0,0,,each tell us something real.
+Dialogue: 0,0:06:16.10,0:06:17.70,Default,,0,0,0,,The hard part is knowing where that
+Dialogue: 0,0:06:17.70,0:06:20.73,Default,,0,0,0,,{\c&H75C4E4&}evidence{\c&HE9F1F0&} stops, and where our imagination\Nbegins.

@@ -1,0 +1,27 @@
+{
+  "measuredAudioProbes": [
+    {
+      "seconds": 1,
+      "lagSamplesAt12kHz": 0,
+      "lagSeconds": 0.0
+    },
+    {
+      "seconds": 120,
+      "lagSamplesAt12kHz": 0,
+      "lagSeconds": 0.0
+    },
+    {
+      "seconds": 300,
+      "lagSamplesAt12kHz": 0,
+      "lagSeconds": 0.0
+    }
+  ],
+  "samePictureStream": true,
+  "encodedPictureHash": "SHA256=413e298dbf741689b67f3d63d02c5646299e352ec1180125dd01785d67644f09",
+  "originalCaptionBandCovered": [
+    0,
+    873,
+    1920,
+    207
+  ]
+}

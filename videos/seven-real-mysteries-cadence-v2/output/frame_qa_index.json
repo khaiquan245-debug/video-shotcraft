@@ -1,0 +1,1028 @@
+[
+  {
+    "shot": 0,
+    "chapter": 0,
+    "actualFrames": [
+      3,
+      54,
+      106
+    ]
+  },
+  {
+    "shot": 1,
+    "chapter": 0,
+    "actualFrames": [
+      111,
+      162,
+      214
+    ]
+  },
+  {
+    "shot": 2,
+    "chapter": 0,
+    "actualFrames": [
+      219,
+      240,
+      263
+    ]
+  },
+  {
+    "shot": 3,
+    "chapter": 0,
+    "actualFrames": [
+      268,
+      307,
+      348
+    ]
+  },
+  {
+    "shot": 4,
+    "chapter": 0,
+    "actualFrames": [
+      353,
+      392,
+      433
+    ]
+  },
+  {
+    "shot": 5,
+    "chapter": 1,
+    "actualFrames": [
+      438,
+      485,
+      534
+    ]
+  },
+  {
+    "shot": 6,
+    "chapter": 1,
+    "actualFrames": [
+      539,
+      576,
+      614
+    ]
+  },
+  {
+    "shot": 7,
+    "chapter": 1,
+    "actualFrames": [
+      619,
+      656,
+      694
+    ]
+  },
+  {
+    "shot": 8,
+    "chapter": 1,
+    "actualFrames": [
+      699,
+      742,
+      786
+    ]
+  },
+  {
+    "shot": 9,
+    "chapter": 1,
+    "actualFrames": [
+      791,
+      832,
+      874
+    ]
+  },
+  {
+    "shot": 10,
+    "chapter": 1,
+    "actualFrames": [
+      879,
+      928,
+      979
+    ]
+  },
+  {
+    "shot": 11,
+    "chapter": 1,
+    "actualFrames": [
+      984,
+      1034,
+      1085
+    ]
+  },
+  {
+    "shot": 12,
+    "chapter": 1,
+    "actualFrames": [
+      1090,
+      1126,
+      1163
+    ]
+  },
+  {
+    "shot": 13,
+    "chapter": 1,
+    "actualFrames": [
+      1168,
+      1207,
+      1247
+    ]
+  },
+  {
+    "shot": 14,
+    "chapter": 1,
+    "actualFrames": [
+      1252,
+      1328,
+      1406
+    ]
+  },
+  {
+    "shot": 15,
+    "chapter": 1,
+    "actualFrames": [
+      1411,
+      1468,
+      1527
+    ]
+  },
+  {
+    "shot": 16,
+    "chapter": 1,
+    "actualFrames": [
+      1532,
+      1573,
+      1615
+    ]
+  },
+  {
+    "shot": 17,
+    "chapter": 1,
+    "actualFrames": [
+      1620,
+      1661,
+      1704
+    ]
+  },
+  {
+    "shot": 18,
+    "chapter": 1,
+    "actualFrames": [
+      1709,
+      1752,
+      1797
+    ]
+  },
+  {
+    "shot": 19,
+    "chapter": 1,
+    "actualFrames": [
+      1802,
+      1876,
+      1951
+    ]
+  },
+  {
+    "shot": 20,
+    "chapter": 2,
+    "actualFrames": [
+      1956,
+      2012,
+      2070
+    ]
+  },
+  {
+    "shot": 21,
+    "chapter": 2,
+    "actualFrames": [
+      2075,
+      2118,
+      2162
+    ]
+  },
+  {
+    "shot": 22,
+    "chapter": 2,
+    "actualFrames": [
+      2167,
+      2209,
+      2253
+    ]
+  },
+  {
+    "shot": 23,
+    "chapter": 2,
+    "actualFrames": [
+      2258,
+      2334,
+      2411
+    ]
+  },
+  {
+    "shot": 24,
+    "chapter": 2,
+    "actualFrames": [
+      2416,
+      2456,
+      2497
+    ]
+  },
+  {
+    "shot": 25,
+    "chapter": 2,
+    "actualFrames": [
+      2502,
+      2556,
+      2611
+    ]
+  },
+  {
+    "shot": 26,
+    "chapter": 2,
+    "actualFrames": [
+      2616,
+      2670,
+      2726
+    ]
+  },
+  {
+    "shot": 27,
+    "chapter": 2,
+    "actualFrames": [
+      2731,
+      2786,
+      2843
+    ]
+  },
+  {
+    "shot": 28,
+    "chapter": 2,
+    "actualFrames": [
+      2848,
+      2888,
+      2929
+    ]
+  },
+  {
+    "shot": 29,
+    "chapter": 2,
+    "actualFrames": [
+      2934,
+      2974,
+      3015
+    ]
+  },
+  {
+    "shot": 30,
+    "chapter": 2,
+    "actualFrames": [
+      3020,
+      3059,
+      3100
+    ]
+  },
+  {
+    "shot": 31,
+    "chapter": 2,
+    "actualFrames": [
+      3105,
+      3147,
+      3191
+    ]
+  },
+  {
+    "shot": 32,
+    "chapter": 2,
+    "actualFrames": [
+      3196,
+      3237,
+      3280
+    ]
+  },
+  {
+    "shot": 33,
+    "chapter": 2,
+    "actualFrames": [
+      3285,
+      3326,
+      3369
+    ]
+  },
+  {
+    "shot": 34,
+    "chapter": 3,
+    "actualFrames": [
+      3374,
+      3428,
+      3484
+    ]
+  },
+  {
+    "shot": 35,
+    "chapter": 3,
+    "actualFrames": [
+      3489,
+      3543,
+      3599
+    ]
+  },
+  {
+    "shot": 36,
+    "chapter": 3,
+    "actualFrames": [
+      3604,
+      3655,
+      3707
+    ]
+  },
+  {
+    "shot": 37,
+    "chapter": 3,
+    "actualFrames": [
+      3712,
+      3765,
+      3819
+    ]
+  },
+  {
+    "shot": 38,
+    "chapter": 3,
+    "actualFrames": [
+      3824,
+      3873,
+      3924
+    ]
+  },
+  {
+    "shot": 39,
+    "chapter": 3,
+    "actualFrames": [
+      3929,
+      3955,
+      3982
+    ]
+  },
+  {
+    "shot": 40,
+    "chapter": 3,
+    "actualFrames": [
+      3987,
+      4005,
+      4025
+    ]
+  },
+  {
+    "shot": 41,
+    "chapter": 3,
+    "actualFrames": [
+      4030,
+      4084,
+      4139
+    ]
+  },
+  {
+    "shot": 42,
+    "chapter": 3,
+    "actualFrames": [
+      4144,
+      4195,
+      4247
+    ]
+  },
+  {
+    "shot": 43,
+    "chapter": 3,
+    "actualFrames": [
+      4252,
+      4303,
+      4356
+    ]
+  },
+  {
+    "shot": 44,
+    "chapter": 3,
+    "actualFrames": [
+      4361,
+      4400,
+      4440
+    ]
+  },
+  {
+    "shot": 45,
+    "chapter": 3,
+    "actualFrames": [
+      4445,
+      4484,
+      4525
+    ]
+  },
+  {
+    "shot": 46,
+    "chapter": 3,
+    "actualFrames": [
+      4530,
+      4589,
+      4650
+    ]
+  },
+  {
+    "shot": 47,
+    "chapter": 3,
+    "actualFrames": [
+      4655,
+      4689,
+      4725
+    ]
+  },
+  {
+    "shot": 48,
+    "chapter": 3,
+    "actualFrames": [
+      4730,
+      4775,
+      4822
+    ]
+  },
+  {
+    "shot": 49,
+    "chapter": 4,
+    "actualFrames": [
+      4827,
+      4888,
+      4951
+    ]
+  },
+  {
+    "shot": 50,
+    "chapter": 4,
+    "actualFrames": [
+      4956,
+      5012,
+      5070
+    ]
+  },
+  {
+    "shot": 51,
+    "chapter": 4,
+    "actualFrames": [
+      5075,
+      5104,
+      5135
+    ]
+  },
+  {
+    "shot": 52,
+    "chapter": 4,
+    "actualFrames": [
+      5140,
+      5173,
+      5208
+    ]
+  },
+  {
+    "shot": 53,
+    "chapter": 4,
+    "actualFrames": [
+      5213,
+      5249,
+      5287
+    ]
+  },
+  {
+    "shot": 54,
+    "chapter": 4,
+    "actualFrames": [
+      5292,
+      5368,
+      5445
+    ]
+  },
+  {
+    "shot": 55,
+    "chapter": 4,
+    "actualFrames": [
+      5450,
+      5501,
+      5553
+    ]
+  },
+  {
+    "shot": 56,
+    "chapter": 4,
+    "actualFrames": [
+      5558,
+      5609,
+      5662
+    ]
+  },
+  {
+    "shot": 57,
+    "chapter": 4,
+    "actualFrames": [
+      5667,
+      5736,
+      5807
+    ]
+  },
+  {
+    "shot": 58,
+    "chapter": 4,
+    "actualFrames": [
+      5812,
+      5853,
+      5895
+    ]
+  },
+  {
+    "shot": 59,
+    "chapter": 4,
+    "actualFrames": [
+      5900,
+      5941,
+      5984
+    ]
+  },
+  {
+    "shot": 60,
+    "chapter": 4,
+    "actualFrames": [
+      5989,
+      6060,
+      6132
+    ]
+  },
+  {
+    "shot": 61,
+    "chapter": 4,
+    "actualFrames": [
+      6137,
+      6183,
+      6231
+    ]
+  },
+  {
+    "shot": 62,
+    "chapter": 4,
+    "actualFrames": [
+      6236,
+      6282,
+      6330
+    ]
+  },
+  {
+    "shot": 63,
+    "chapter": 5,
+    "actualFrames": [
+      6335,
+      6360,
+      6386
+    ]
+  },
+  {
+    "shot": 64,
+    "chapter": 5,
+    "actualFrames": [
+      6391,
+      6432,
+      6474
+    ]
+  },
+  {
+    "shot": 65,
+    "chapter": 5,
+    "actualFrames": [
+      6479,
+      6520,
+      6562
+    ]
+  },
+  {
+    "shot": 66,
+    "chapter": 5,
+    "actualFrames": [
+      6567,
+      6604,
+      6643
+    ]
+  },
+  {
+    "shot": 67,
+    "chapter": 5,
+    "actualFrames": [
+      6648,
+      6685,
+      6724
+    ]
+  },
+  {
+    "shot": 68,
+    "chapter": 5,
+    "actualFrames": [
+      6729,
+      6764,
+      6800
+    ]
+  },
+  {
+    "shot": 69,
+    "chapter": 5,
+    "actualFrames": [
+      6805,
+      6844,
+      6885
+    ]
+  },
+  {
+    "shot": 70,
+    "chapter": 5,
+    "actualFrames": [
+      6890,
+      6943,
+      6997
+    ]
+  },
+  {
+    "shot": 71,
+    "chapter": 5,
+    "actualFrames": [
+      7002,
+      7054,
+      7108
+    ]
+  },
+  {
+    "shot": 72,
+    "chapter": 5,
+    "actualFrames": [
+      7113,
+      7175,
+      7239
+    ]
+  },
+  {
+    "shot": 73,
+    "chapter": 5,
+    "actualFrames": [
+      7244,
+      7306,
+      7370
+    ]
+  },
+  {
+    "shot": 74,
+    "chapter": 5,
+    "actualFrames": [
+      7375,
+      7440,
+      7507
+    ]
+  },
+  {
+    "shot": 75,
+    "chapter": 5,
+    "actualFrames": [
+      7512,
+      7557,
+      7603
+    ]
+  },
+  {
+    "shot": 76,
+    "chapter": 5,
+    "actualFrames": [
+      7608,
+      7653,
+      7700
+    ]
+  },
+  {
+    "shot": 77,
+    "chapter": 6,
+    "actualFrames": [
+      7705,
+      7744,
+      7784
+    ]
+  },
+  {
+    "shot": 78,
+    "chapter": 6,
+    "actualFrames": [
+      7789,
+      7827,
+      7867
+    ]
+  },
+  {
+    "shot": 79,
+    "chapter": 6,
+    "actualFrames": [
+      7872,
+      7930,
+      7989
+    ]
+  },
+  {
+    "shot": 80,
+    "chapter": 6,
+    "actualFrames": [
+      7994,
+      8051,
+      8109
+    ]
+  },
+  {
+    "shot": 81,
+    "chapter": 6,
+    "actualFrames": [
+      8114,
+      8149,
+      8186
+    ]
+  },
+  {
+    "shot": 82,
+    "chapter": 6,
+    "actualFrames": [
+      8191,
+      8260,
+      8330
+    ]
+  },
+  {
+    "shot": 83,
+    "chapter": 6,
+    "actualFrames": [
+      8335,
+      8357,
+      8381
+    ]
+  },
+  {
+    "shot": 84,
+    "chapter": 6,
+    "actualFrames": [
+      8386,
+      8432,
+      8480
+    ]
+  },
+  {
+    "shot": 85,
+    "chapter": 6,
+    "actualFrames": [
+      8485,
+      8522,
+      8560
+    ]
+  },
+  {
+    "shot": 86,
+    "chapter": 6,
+    "actualFrames": [
+      8565,
+      8602,
+      8641
+    ]
+  },
+  {
+    "shot": 87,
+    "chapter": 6,
+    "actualFrames": [
+      8646,
+      8690,
+      8736
+    ]
+  },
+  {
+    "shot": 88,
+    "chapter": 6,
+    "actualFrames": [
+      8741,
+      8782,
+      8824
+    ]
+  },
+  {
+    "shot": 89,
+    "chapter": 6,
+    "actualFrames": [
+      8829,
+      8870,
+      8912
+    ]
+  },
+  {
+    "shot": 90,
+    "chapter": 6,
+    "actualFrames": [
+      8917,
+      8970,
+      9024
+    ]
+  },
+  {
+    "shot": 91,
+    "chapter": 6,
+    "actualFrames": [
+      9029,
+      9077,
+      9127
+    ]
+  },
+  {
+    "shot": 92,
+    "chapter": 7,
+    "actualFrames": [
+      9132,
+      9179,
+      9228
+    ]
+  },
+  {
+    "shot": 93,
+    "chapter": 7,
+    "actualFrames": [
+      9233,
+      9280,
+      9329
+    ]
+  },
+  {
+    "shot": 94,
+    "chapter": 7,
+    "actualFrames": [
+      9334,
+      9366,
+      9400
+    ]
+  },
+  {
+    "shot": 95,
+    "chapter": 7,
+    "actualFrames": [
+      9405,
+      9458,
+      9512
+    ]
+  },
+  {
+    "shot": 96,
+    "chapter": 7,
+    "actualFrames": [
+      9517,
+      9585,
+      9654
+    ]
+  },
+  {
+    "shot": 97,
+    "chapter": 7,
+    "actualFrames": [
+      9659,
+      9712,
+      9766
+    ]
+  },
+  {
+    "shot": 98,
+    "chapter": 7,
+    "actualFrames": [
+      9771,
+      9835,
+      9900
+    ]
+  },
+  {
+    "shot": 99,
+    "chapter": 7,
+    "actualFrames": [
+      9905,
+      9943,
+      9982
+    ]
+  },
+  {
+    "shot": 100,
+    "chapter": 7,
+    "actualFrames": [
+      9987,
+      10025,
+      10065
+    ]
+  },
+  {
+    "shot": 101,
+    "chapter": 7,
+    "actualFrames": [
+      10070,
+      10125,
+      10182
+    ]
+  },
+  {
+    "shot": 102,
+    "chapter": 7,
+    "actualFrames": [
+      10187,
+      10251,
+      10316
+    ]
+  },
+  {
+    "shot": 103,
+    "chapter": 7,
+    "actualFrames": [
+      10321,
+      10378,
+      10436
+    ]
+  },
+  {
+    "shot": 104,
+    "chapter": 7,
+    "actualFrames": [
+      10441,
+      10505,
+      10571
+    ]
+  },
+  {
+    "shot": 105,
+    "chapter": 7,
+    "actualFrames": [
+      10576,
+      10627,
+      10680
+    ]
+  },
+  {
+    "shot": 106,
+    "chapter": 7,
+    "actualFrames": [
+      10685,
+      10736,
+      10789
+    ]
+  },
+  {
+    "shot": 107,
+    "chapter": 8,
+    "actualFrames": [
+      10794,
+      10836,
+      10879
+    ]
+  },
+  {
+    "shot": 108,
+    "chapter": 8,
+    "actualFrames": [
+      10884,
+      10925,
+      10967
+    ]
+  },
+  {
+    "shot": 109,
+    "chapter": 8,
+    "actualFrames": [
+      10972,
+      11015,
+      11060
+    ]
+  },
+  {
+    "shot": 110,
+    "chapter": 8,
+    "actualFrames": [
+      11065,
+      11117,
+      11170
+    ]
+  },
+  {
+    "shot": 111,
+    "chapter": 8,
+    "actualFrames": [
+      11175,
+      11227,
+      11281
+    ]
+  },
+  {
+    "shot": 112,
+    "chapter": 8,
+    "actualFrames": [
+      11286,
+      11326,
+      11367
+    ]
+  },
+  {
+    "shot": 113,
+    "chapter": 8,
+    "actualFrames": [
+      11372,
+      11411,
+      11452
+    ]
+  }
+]

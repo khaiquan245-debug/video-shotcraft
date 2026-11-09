@@ -1,0 +1,3 @@
+# Narration cadence revision
+
+Latest user says voice/rhythm/pauses are unreasonable. This supersedes the former150WPM/7–8min constraint. Use approved Solway male voice at native1.0; no global slowdown to fill time. Script byte-identical to previous final, including documented MH370 contemporary-status caveat. Pause edits may touch verified quiet regions only, with punctuation-aware clause/sentence/chapter distinctions. Align subtitles/visuals/music to actual edited speech. Original illustrated graphics retained; old captions covered before new properly punctuated captions burned in. FullMP4/no-music exports, independent final technical/visual review required. Do not claim subjective naturalness based on ASR.

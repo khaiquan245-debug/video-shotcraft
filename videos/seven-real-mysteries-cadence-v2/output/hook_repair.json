@@ -1,0 +1,9 @@
+{
+  "source": "same PocketTTS speaker/reference",
+  "contextText": "The word wow sounded surprising.",
+  "word": "wow",
+  "contextWordSeconds": 0.41,
+  "nativeInsertionSeconds": 6.39,
+  "reason": "Model omitted short quoted word; isolated context-generated word inserted at original script position. No change to spoken script.",
+  "repairedNativeSha256": "3dea5984148e8b6493c9240f7eb0c59fd2dffc81fbd32ab01fe8bcb642df1b79"
+}
