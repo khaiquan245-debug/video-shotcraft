@@ -1,0 +1,92 @@
+[
+  {
+    "shot": 0,
+    "at": 0.15,
+    "effect": "original printer mechanism"
+  },
+  {
+    "shot": 9,
+    "at": 30.883333333333333,
+    "effect": "original printer mechanism"
+  },
+  {
+    "shot": 11,
+    "at": 38.449999999999996,
+    "effect": "original printer mechanism"
+  },
+  {
+    "shot": 12,
+    "at": 42.61666666666667,
+    "effect": "original printer mechanism"
+  },
+  {
+    "shot": 19,
+    "at": 66.91666666666667,
+    "effect": "original printer mechanism"
+  },
+  {
+    "shot": 20,
+    "at": 70.55000000000001,
+    "effect": "original paper movement"
+  },
+  {
+    "shot": 22,
+    "at": 76.45,
+    "effect": "original paper movement"
+  },
+  {
+    "shot": 25,
+    "at": 88.15,
+    "effect": "original paper movement"
+  },
+  {
+    "shot": 27,
+    "at": 94.35000000000001,
+    "effect": "original paper movement"
+  },
+  {
+    "shot": 30,
+    "at": 106.75,
+    "effect": "original paper movement"
+  },
+  {
+    "shot": 34,
+    "at": 121.45,
+    "effect": "original paper movement"
+  },
+  {
+    "shot": 35,
+    "at": 125.01666666666667,
+    "effect": "original mechanical ticks"
+  },
+  {
+    "shot": 40,
+    "at": 145.01666666666668,
+    "effect": "original mechanical ticks"
+  },
+  {
+    "shot": 41,
+    "at": 149.38333333333333,
+    "effect": "original mechanical ticks"
+  },
+  {
+    "shot": 70,
+    "at": 249.71666666666667,
+    "effect": "original restrained airburst"
+  },
+  {
+    "shot": 107,
+    "at": 381.75,
+    "effect": "original quiet sonar pulse"
+  },
+  {
+    "shot": 113,
+    "at": 408.0833333333333,
+    "effect": "original quiet sonar pulse"
+  },
+  {
+    "shot": 118,
+    "at": 428.65,
+    "effect": "original quiet sonar pulse"
+  }
+]

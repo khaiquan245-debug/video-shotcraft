@@ -1,0 +1,219 @@
+{
+  "chapters": 9,
+  "shots": 123,
+  "seconds": 447.23333333333335,
+  "subtitleTokens": 1119,
+  "subtitleCues": 205,
+  "wordsPerMinute": 150.12297831109785,
+  "narrationSha256": "cb2007a8bf642e0b051036d5774868ba3cae4601d28d7f169376161aa53ae3d9",
+  "asr": [
+    {
+      "id": "0-0",
+      "expected": "In 1977, an astronomer circled six characters on a telescope printout and wrote one word beside them: 'Wow!' The signal never returned. And that's only one of seven cases where a small piece of evidence raises a question much bigger than the object itself.",
+      "recognized": "In 1977, an astronomer circled six characters on a telescope printout and wrote one word beside them. Wow, the signal never returned. And that's only one of seven cases where a small piece of evidence raises a question much bigger than the object itself.",
+      "similarity": 1.0
+    },
+    {
+      "id": "1-0",
+      "expected": "At roughly fourteen hundred and twenty megahertz, close to the frequency emitted by neutral hydrogen, Ohio State's Big Ear radio telescope detected an unusually strong, narrowband signal. The date was August fifteenth, 1977.",
+      "recognized": "At roughly 1,420 megahertz, close to the frequency emitted by neutral hydrogen, Ohio State's Big-Year radio telescope detected an unusually strong, narrow band signal. The date was August 15, 1977.",
+      "similarity": 0.8955223880597015
+    },
+    {
+      "id": "1-1",
+      "expected": "Its intensity rose and fell over a seventy-two-second observation window, leaving the sequence six E Q U J five on a paper record. Jerry Ehman's handwritten reaction gave it a name. Repeated searches have failed to detect it again.",
+      "recognized": "Its intensity rose and fell over a 72-second observation window, leaving the sequence 6 EQ UJ5 on a paper record. Jerry Aemon's handwritten reaction gave it a name. Repeated searches have failed to detect it again.",
+      "similarity": 0.975609756097561
+    },
+    {
+      "id": "1-2",
+      "expected": "That's the central difficulty: scientists have a genuine observation, but no second event to test against it. It might have been a natural astronomical phenomenon or interference. Some have suggested an artificial transmission, although there's no supporting evidence of extraterrestrial technology. One burst left an extraordinary paper trail.",
+      "recognized": "That's the central difficulty. Scientists have a genuine observation, but no second event to test against it. It might have been a natural astronomical phenomenon or interference. Some have suggested an artificial transmission, although there's no supporting evidence of extraterrestrial technology. One burst left an extraordinary paper trail.",
+      "similarity": 1.0
+    },
+    {
+      "id": "1-3",
+      "expected": "A medieval manuscript offers the opposite puzzle: information everywhere, but no agreed meaning.",
+      "recognized": "A medieval manuscript offers the opposite puzzle. Information everywhere, but no agreed meaning.",
+      "similarity": 1.0
+    },
+    {
+      "id": "2-0",
+      "expected": "About two hundred and forty pages survive in a manuscript held at Yale. They contain unfamiliar writing, diagrams of stars, and plants that are difficult to identify. The book is known as the Voynich Manuscript, after the dealer who acquired it in 1912.",
+      "recognized": "About 240 pages survive in a manuscript held at Yale. They contain unfamiliar writing, diagrams of stars, and plants that are difficult to identify. The book is known as the \"Voynek Manuscript\" after the dealer who acquired it in 1912.",
+      "similarity": 0.9772727272727273
+    },
+    {
+      "id": "2-1",
+      "expected": "Tests date its parchment to the early fifteenth century. Here's the peculiar part: the frequency and arrangement of its word-like groups show statistical patterns resembling those in natural languages. Yet no proposed translation has won broad scholarly acceptance.",
+      "recognized": "Test date its parchment to the early 15th century. Here's the peculiar part. The frequency and arrangement of its word like groups shows statistical patterns resembling those in natural languages. Yet no proposed translation has won broad scholarly acceptance.",
+      "similarity": 0.9487179487179487
+    },
+    {
+      "id": "2-2",
+      "expected": "A real language, an elaborate cipher, or carefully constructed nonsense could account for different parts of the evidence; the statistical patterns alone don't settle the matter. The writing has structure. Its meaning remains inaccessible.",
+      "recognized": "A real language, an elaborate cipher, or carefully constructed nonsense, could account for different parts of the evidence. The statistical patterns alone don't settle the matter. The writing is structure. Its meaning remains inaccessible.",
+      "similarity": 0.9705882352941176
+    },
+    {
+      "id": "2-3",
+      "expected": "Now imagine an ancient object whose function can be reconstructed, even though the people who designed it have disappeared from the record.",
+      "recognized": "Now imagine an ancient object whose function can be reconstructed even though the people who designed it have disappeared from the record.",
+      "similarity": 1.0
+    },
+    {
+      "id": "3-0",
+      "expected": "Roughly thirty surviving bronze gears lie inside the fragments of a device recovered from a Greek shipwreck in 1901. The Antikythera Mechanism was built about two thousand years ago. Some of its gear teeth are only about one and a half millimeters long.",
+      "recognized": "Rawley 30 surviving bronze gears lie inside the fragments of a device recovered from a Greek shipwreck in 1901. The Anticathera mechanism was built about 2,000 years ago. Some of its gear teeth are only about 1 1/2 millimeters long.",
+      "similarity": 0.9069767441860465
+    },
+    {
+      "id": "3-1",
+      "expected": "Turn a handle, and linked gears could display astronomical cycles, including the movements of the Sun and Moon and predictions of eclipses. These functions are supported by surviving inscriptions and physical fragments.",
+      "recognized": "Turn a handle, and link gears could display astronomical cycles, including the movements of the Sun and Moon in predictions of eclipses. These functions are supported by surviving inscriptions in physical fragments.",
+      "similarity": 0.90625
+    },
+    {
+      "id": "3-2",
+      "expected": "The astonishing gap is historical: nothing comparably complex is known in the surviving record for more than a thousand years afterward. Researchers can model its missing mechanisms, but those reconstructions aren't identical to an intact original.",
+      "recognized": "The astonishing gap is historical. Nothing comparably complex is known in the surviving record for more than a thousand years afterward. Researchers can model its missing mechanisms, but those reconstructions aren't identical to an intact original.",
+      "similarity": 1.0
+    },
+    {
+      "id": "3-3",
+      "expected": "We still can't identify its maker or know how common such devices once were. This bronze machine was built to describe the sky. The next trail of clues would be found in the snow of the Ural Mountains.",
+      "recognized": "We still can't identify it's maker or know how common such devices once were. This bronze machine was built to describe the sky. The next trail of clues would be found in the snow of the Euro Mountains.",
+      "similarity": 0.9473684210526315
+    },
+    {
+      "id": "4-0",
+      "expected": "Nine hikers died in the northern Ural Mountains in February 1959. When rescuers found their campsite weeks later, the tent had been cut from the inside. Boots and winter clothing were left behind, and footprints led downhill through the snow. Several victims had suffered serious injuries.",
+      "recognized": "Nine hikers died in the northern Ural Mountains in February 1959. When rescuers found their campsite weeks later, the tent had been cut from the inside. Boots and winter clothing were left behind, and footprints led downhill through the snow. Several victims had suffered serious injuries.",
+      "similarity": 1.0
+    },
+    {
+      "id": "4-1",
+      "expected": "Russian prosecutors concluded in 2020 that an avalanche had driven the group from the tent. A scientific model published in 2021 showed how wind-loaded snow could release a small slab above their shelter. But the slope appeared relatively gentle, and searchers reported no obvious avalanche debris.",
+      "recognized": "Russian prosecutors concluded in 2020 that an avalanche had driven the group from the tent. A scientific model published in 2021 showed how wind-loaded snow could release a small slab above their shelter. But the slope appeared relatively gentle, and searcher has reported no obvious avalanche debris.",
+      "similarity": 0.9702970297029703
+    },
+    {
+      "id": "4-2",
+      "expected": "The researchers offered mechanisms for those objections; their model still can't reproduce every decision made that night. A sudden snow hazard is a credible explanation. The precise sequence remains uncertain.",
+      "recognized": "The researchers offered mechanisms for those objections. Their models still can't reproduce every decision made that night. A sudden snow hazard is a credible explanation. The precise sequence remains uncertain.",
+      "similarity": 0.9666666666666667
+    },
+    {
+      "id": "4-3",
+      "expected": "From a mountain with too little visible debris, the trail leads to a forest covered in evidence of an enormous blast.",
+      "recognized": "From a mountain with too little visible debris, the trail leads to a forest covered in evidence of an enormous blast.",
+      "similarity": 1.0
+    },
+    {
+      "id": "5-0",
+      "expected": "On June thirtieth, 1908, an explosion over Siberia flattened roughly two thousand square kilometers of forest near the Tunguska River. When investigators finally reached the area, they found trees lying outward from the blast zone in a broad radial pattern. But there was no obvious impact crater.",
+      "recognized": "On June 30th, 1908, an explosion over Siberia flattened roughly 2,000 square kilometers of forest near the Tunguska River. When investigators finally reached the area, they found trees lying outward from the blast zone in a broad radial pattern. But there was no obvious impact crater.",
+      "similarity": 0.9795918367346939
+    },
+    {
+      "id": "5-1",
+      "expected": "That missing crater once made the event seem impossible. The leading scientific explanation is an asteroid breaking apart above the ground, releasing its energy into the atmosphere.",
+      "recognized": "that missing creator once made the event seem impossible. The leading scientific explanation is an asteroid breaking apart above the ground, releasing its energy into the atmosphere.",
+      "similarity": 0.9629629629629629
+    },
+    {
+      "id": "5-2",
+      "expected": "The fallen trees support a powerful airburst; the exact size, composition, and trajectory of the incoming body have to be estimated from the remaining evidence. A massive disturbance can leave a clear pattern without leaving an intact object behind.",
+      "recognized": "The fall and trees support a powerful airburst. The exact size, composition, and trajectory of the incoming body have to be estimated from the remaining evidence. A massive disturbance can leave a clear pattern without leaving an intact object behind.",
+      "similarity": 0.9620253164556962
+    },
+    {
+      "id": "5-3",
+      "expected": "The next disappearance also left almost no trace of the person involved, except for money recovered beside a river.",
+      "recognized": "The next disappearance also left almost no trace of the person involved, except for money recovered beside a river.",
+      "similarity": 1.0
+    },
+    {
+      "id": "6-0",
+      "expected": "Five thousand eight hundred dollars in damaged twenty-dollar bills turned up beside the Columbia River in 1980. Their serial numbers matched money given to a hijacker nine years earlier.",
+      "recognized": "$5,800 in damaged $20 bills turned up beside the Columbia River in 1980. Their serial numbers match money given to a hijacker nine years earlier.",
+      "similarity": 0.967741935483871
+    },
+    {
+      "id": "6-1",
+      "expected": "On November twenty-fourth, 1971, a man traveling as Dan Cooper took control of a Boeing 727 flight, demanded two hundred thousand dollars and four parachutes, then released the passengers in Seattle. The plane departed again. Somewhere over the Pacific Northwest, he jumped into the night.",
+      "recognized": "On November 24, 1971, a man traveling as Dan Cooper took control of a Boeing 727 flight demanded $200,000 and four parachutes. Release the passengers in Seattle. The plane departed again. Somewhere over the Pacific Northwest, he jumped into the night.",
+      "similarity": 0.9690721649484536
+    },
+    {
+      "id": "6-2",
+      "expected": "The recovered bills are confirmed evidence, but they don't tell us whether Cooper survived or identify him. The FBI considered a fatal landing plausible. In 2016, the bureau redirected resources to other investigations while preserving the case information. The bills reached a riverbank.",
+      "recognized": "The recovered bills are confirmed evidence, but they don't tell us whether Cooper survived or identify him. The FBI considered a fatal landing plausible. In 2016, the Bureau redirected resources to other investigations while preserving the case information. The bills reached a river bank.",
+      "similarity": 0.9662921348314607
+    },
+    {
+      "id": "6-3",
+      "expected": "Where Cooper went is another question. And the last case replaces a river with a vast stretch of ocean.",
+      "recognized": "where Cooper went is another question. And the last case replaces a river with a vast stretch of ocean.",
+      "similarity": 1.0
+    },
+    {
+      "id": "7-0",
+      "expected": "Two hundred and thirty-nine people were aboard Malaysia Airlines Flight Three Seven Zero when it disappeared on March eighth, 2014, flying from Kuala Lumpur to Beijing. Satellite data indicated a route toward the southern Indian Ocean. In July 2015, a wing component washed ashore on R\u00e9union Island.",
+      "recognized": "239 people were aboard Malaysia Airlines Flight 370 when it disappeared on March 8, 2014, flying from Kuala Lumpur to Beijing. Satellite data indicated a route toward the Southern Indian Ocean. In July 2015, a wing component washed ashore on Rheunion Island.",
+      "similarity": 0.98
+    },
+    {
+      "id": "7-1",
+      "expected": "Investigators confirmed it came from the missing Boeing 777. Yet the main wreckage, flight recorders, and exact crash location remain unlocated. The debris is physical evidence of the aircraft's fate; explanations for why it changed course remain unproven. The multinational underwater search was suspended in 2017.",
+      "recognized": "Investigators confirmed it came from missing Boeing 777, yet the main wreckage, flight recorders, and exact crash location remain un-located. The debris is physical evidence of the aircraft's fate, explanations for why it changed course remain unproven. The multinational underwater search was suspended in 2017.",
+      "similarity": 0.9591836734693877
+    },
+    {
+      "id": "7-2",
+      "expected": "Further search proposals have offered hope, but an agreement is not a discovery. The latest operational status needs confirmation from official updates. The evidence discussed here cannot establish when or where a future search might succeed.",
+      "recognized": "Further search proposals have offered hope, but an agreement is not a discovery. The latest operational status needs confirmation from official updates. The evidence discussed here cannot establish when or where a future search might succeed.",
+      "similarity": 1.0
+    },
+    {
+      "id": "7-3",
+      "expected": "For the families, every new search carries the possibility of answers, without any guarantee that the ocean will provide them.",
+      "recognized": "For the families, every new search carries the possibility of answers without any guarantee that the ocean will provide them.",
+      "similarity": 1.0
+    },
+    {
+      "id": "8-0",
+      "expected": "These seven cases don't all have the same kind of uncertainty. In some, physics offers a strong explanation. In others, the key evidence has never been recovered.",
+      "recognized": "The seven cases don't all have the same kind of uncertainty. In some, physics offers a strong explanation. In others, the key evidence has never been recovered.",
+      "similarity": 0.9629629629629629
+    },
+    {
+      "id": "8-1",
+      "expected": "A radio printout, a medieval page, a bronze gear, a tent, a forest, banknotes, and an aircraft fragment each tell us something real. The hard part is knowing where that evidence stops, and where our imagination begins.",
+      "recognized": "A radio printout, a medieval page, a bronze gear, a tent, a forest, banknotes, and an aircraft fragment each tell us something real. The hard part is knowing where that evidence stops and where our imagination begins.",
+      "similarity": 1.0
+    }
+  ],
+  "files": [
+    {
+      "file": "7_real_unsolved_mysteries.mp4",
+      "sha256": "b4ea9297f780abac95dcaa33fe549c8f441630ef422c660f1a30025f7d3ca33f",
+      "seconds": 447.233333,
+      "frames": "13417",
+      "codec": "H264/yuv420p/AAC",
+      "audioChannels": 2,
+      "decodedAudioPeak": 0.8406800031661987,
+      "fullDecodePass": true
+    },
+    {
+      "file": "7_real_unsolved_mysteries_no_music.mp4",
+      "sha256": "51d2ce78f6a4e4462b611a646c44e8e5028d3cbb480a7917288efacd0baa785e",
+      "seconds": 447.233333,
+      "frames": "13417",
+      "codec": "H264/yuv420p/AAC",
+      "audioChannels": 1,
+      "decodedAudioPeak": 0.8559550046920776,
+      "fullDecodePass": true
+    }
+  ]
+}

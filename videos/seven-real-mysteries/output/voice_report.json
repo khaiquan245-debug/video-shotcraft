@@ -1,0 +1,12 @@
+{
+  "seconds": 447.23333333333335,
+  "words": 1119,
+  "wordsPerMinute": 150.12297831109785,
+  "sameSpeakerReference": "/workspace/ten-seconds/reference/prompt.wav",
+  "sameGenerationSteps": 5,
+  "nativeGenerationSpeed": 1.0,
+  "pitchPreservingTempoForNew150WpmBrief": 0.8460101811822631,
+  "longArtificialChapterPauses": false,
+  "chunkCount": 31,
+  "note": "New long-form brief explicitly requests145\u2013155WPM; measured pitch-preserving retiming satisfies it while retaining Solway speaker and connected quiet-space policy."
+}

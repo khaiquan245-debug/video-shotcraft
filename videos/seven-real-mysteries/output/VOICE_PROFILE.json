@@ -1,0 +1,12 @@
+{
+  "channelReference": "solway_spaceman_scored.mp4",
+  "channelReferenceSha256": "11ea64b5b781c36e20c52f369140e6b8c15abf9ba42aa1f7503d77666efbab65",
+  "speakerConditioningSha256": "202a0aecd38e616d19e0c2c428d812926de0535f7243ab71979ba9b99c1a38ac",
+  "model": "sherpa-onnx PocketTTS FP32",
+  "generationSteps": 5,
+  "nativeTtsSpeed": 1.0,
+  "projectPaceWpm": 150,
+  "projectOnlyPitchPreservingRetiming": true,
+  "pausePolicy": "Short connected sentence spaces, no multi-second chapter padding",
+  "channelGlobalDefaultNotChanged": true
+}

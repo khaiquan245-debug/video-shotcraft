@@ -1,0 +1,137 @@
+{
+  "maxAlignedWordGapSeconds": 0.4,
+  "gapsOver0_7Seconds": 0,
+  "shortAlignmentSegments": [
+    {
+      "text": "a",
+      "from": 124,
+      "to": 125
+    },
+    {
+      "text": "a",
+      "from": 372,
+      "to": 373
+    },
+    {
+      "text": "a",
+      "from": 422,
+      "to": 423
+    },
+    {
+      "text": "a",
+      "from": 1078,
+      "to": 1079
+    },
+    {
+      "text": "a",
+      "from": 1242,
+      "to": 1243
+    },
+    {
+      "text": "a",
+      "from": 2112,
+      "to": 2113
+    },
+    {
+      "text": "a",
+      "from": 4131,
+      "to": 4132
+    },
+    {
+      "text": "a",
+      "from": 4425,
+      "to": 4426
+    },
+    {
+      "text": "a",
+      "from": 4486,
+      "to": 4487
+    },
+    {
+      "text": "a",
+      "from": 5049,
+      "to": 5050
+    },
+    {
+      "text": "a",
+      "from": 6568,
+      "to": 6569
+    },
+    {
+      "text": "a",
+      "from": 7066,
+      "to": 7067
+    },
+    {
+      "text": "a",
+      "from": 7200,
+      "to": 7201
+    },
+    {
+      "text": "a",
+      "from": 7315,
+      "to": 7316
+    },
+    {
+      "text": "a",
+      "from": 8391,
+      "to": 8392
+    },
+    {
+      "text": "a",
+      "from": 8998,
+      "to": 8999
+    },
+    {
+      "text": "a",
+      "from": 10174,
+      "to": 10175
+    },
+    {
+      "text": "a",
+      "from": 10483,
+      "to": 10484
+    },
+    {
+      "text": "a",
+      "from": 10623,
+      "to": 10624
+    },
+    {
+      "text": "a",
+      "from": 11068,
+      "to": 11069
+    },
+    {
+      "text": "a",
+      "from": 12070,
+      "to": 12071
+    },
+    {
+      "text": "a",
+      "from": 12339,
+      "to": 12340
+    },
+    {
+      "text": "a",
+      "from": 12803,
+      "to": 12804
+    },
+    {
+      "text": "a",
+      "from": 12964,
+      "to": 12965
+    },
+    {
+      "text": "a",
+      "from": 12998,
+      "to": 12999
+    },
+    {
+      "text": "a",
+      "from": 13087,
+      "to": 13088
+    }
+  ],
+  "note": "Forced boundaries alone do not prove phoneme completeness. Independently recognized narration also checked, including previously omitted hook word."
+}

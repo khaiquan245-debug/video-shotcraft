@@ -1,0 +1,82 @@
+{
+  "seconds": 447.23333333333335,
+  "original": true,
+  "thirdPartySamples": false,
+  "chapterProfiles": [
+    [
+      72,
+      52,
+      "radio"
+    ],
+    [
+      72,
+      52,
+      "radio"
+    ],
+    [
+      64,
+      57,
+      "parchment"
+    ],
+    [
+      82,
+      50,
+      "mechanical"
+    ],
+    [
+      66,
+      52,
+      "cold"
+    ],
+    [
+      74,
+      48,
+      "airburst"
+    ],
+    [
+      84,
+      52,
+      "investigation"
+    ],
+    [
+      60,
+      57,
+      "ocean"
+    ],
+    [
+      66,
+      52,
+      "reflection"
+    ]
+  ],
+  "musicGain": 0.1,
+  "voiceDucking": true,
+  "finalLoudnessTargetLUFS": -16,
+  "truePeakTargetDBTP": -1.5,
+  "normalizationMeasurements": {
+    "master": {
+      "input_i": "-16.98",
+      "input_tp": "-2.12",
+      "input_lra": "2.90",
+      "input_thresh": "-27.11",
+      "output_i": "-16.06",
+      "output_tp": "-1.50",
+      "output_lra": "2.80",
+      "output_thresh": "-26.18",
+      "normalization_type": "dynamic",
+      "target_offset": "0.06"
+    },
+    "no-music": {
+      "input_i": "-20.00",
+      "input_tp": "-2.07",
+      "input_lra": "2.80",
+      "input_thresh": "-30.13",
+      "output_i": "-16.19",
+      "output_tp": "-1.50",
+      "output_lra": "2.50",
+      "output_thresh": "-26.32",
+      "normalization_type": "dynamic",
+      "target_offset": "0.19"
+    }
+  }
+}

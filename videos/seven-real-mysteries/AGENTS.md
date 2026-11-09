@@ -1,0 +1,3 @@
+# Project-specific production constraints
+
+The user explicitly requests145–155WPM for this long-form7–8min1920x1080 documentary. This supersedes the channel native-tempo default in the parent videos/AGENTS.md only for this project. Same approved Solway male speaker and short connected pauses remain required. All7cases plus hook/outro,9sections, actualMP4 export. Do not add unverified2026MH370 claims. No archival photos are licensed locally; use original clearly labeled illustrations per the brief fallback. Never label synthetic diagrams as authentic data/scans or photographs. All numerical chart distributions not measured from a source must say illustrative. Show Antikythera as geocentric cycle display, not a heliocentric orbit model.

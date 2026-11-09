@@ -1,0 +1,124 @@
+id,chapter,from_seconds,to_seconds,scene,headline,detail,spoken_anchor
+0,0,0.0,4.266666666666667,print,6EQUJ5,A telescope record ·1977,In nineteen
+1,0,4.266666666666667,8.5,print,6EQUJ5,A telescope record ·1977,In nineteen
+2,0,8.5,10.3,signal,NO REPEAT DETECTION,A single observation,The signal never
+3,0,10.3,13.566666666666666,montage,7 REAL MYSTERIES,What the evidence actually shows,And that's
+4,0,13.566666666666666,16.833333333333332,montage,7 REAL MYSTERIES,What the evidence actually shows,And that's
+5,1,16.833333333333332,20.833333333333332,telescope,THE WOW! SIGNAL,Big Ear · Ohio ·1977,At roughly
+6,1,20.833333333333332,23.966666666666665,hydrogen,~1420 MHz,Near neutral hydrogen’s radio line,close to
+7,1,23.966666666666665,27.1,hydrogen,~1420 MHz,Near neutral hydrogen’s radio line,close to
+8,1,27.1,30.733333333333334,spectrum,A NARROWBAND SIGNAL,Unusually strong,detected
+9,1,30.733333333333334,34.13333333333333,print,"AUGUST 15, 1977",Observation record,The date
+10,1,34.13333333333333,38.3,curve,72 SECONDS,Observation window · not proven source duration,Its intensity
+11,1,38.3,42.46666666666667,print,6EQUJ5,Six intensity bins · not message content,leaving
+12,1,42.46666666666667,45.53333333333333,print,WOW!,Jerry Ehman’s reaction · reconstructed,Jerry
+13,1,45.53333333333333,48.8,timeline,NOT DETECTED AGAIN,Repeated observations,Repeated searches
+14,1,48.8,51.93333333333333,signal,ONE OBSERVATION,No repeat event to test,That's the central
+15,1,51.93333333333333,55.06666666666667,signal,ONE OBSERVATION,No repeat event to test,That's the central
+16,1,55.06666666666667,59.833333333333336,hypothesis,POSSIBLE ORIGINS,Natural phenomenon or interference,It might
+17,1,59.833333333333336,63.3,spectrum,ARTIFICIAL TRANSMISSION?,No supporting evidence of alien technology,Some have
+18,1,63.3,66.76666666666667,spectrum,ARTIFICIAL TRANSMISSION?,No supporting evidence of alien technology,Some have
+19,1,66.76666666666667,70.4,print,A PAPER TRAIL,Evidence without a repeat,One burst
+20,1,70.4,73.33333333333333,book,INFORMATION EVERYWHERE,The next object,A medieval
+21,1,73.33333333333333,76.3,book,INFORMATION EVERYWHERE,The next object,A medieval
+22,2,76.3,81.13333333333334,book,THE VOYNICH MANUSCRIPT,Yale · Beinecke Library · MS408,About two
+23,2,81.13333333333334,84.56666666666666,botanical,UNFAMILIAR WRITING,Plants · stars · word-like groups,They contain
+24,2,84.56666666666666,88.0,botanical,UNFAMILIAR WRITING,Plants · stars · word-like groups,They contain
+25,2,88.0,91.1,book,ACQUIRED IN 1912,Named after Wilfrid Voynich,The book
+26,2,91.1,94.2,book,ACQUIRED IN 1912,Named after Wilfrid Voynich,The book
+27,2,94.2,97.6,parchment,EARLY 15TH CENTURY,Date of the parchment,Tests date
+28,2,97.6,102.1,statistics,PATTERNS IN THE WRITING,Illustrative chart · not measured corpus data,Here's the peculiar
+29,2,102.1,106.6,statistics,PATTERNS IN THE WRITING,Illustrative chart · not measured corpus data,Here's the peculiar
+30,2,106.6,111.2,glyphs,NO ACCEPTED TRANSLATION,No broad scholarly consensus,Yet no
+31,2,111.2,114.6,hypothesis,LANGUAGE? CIPHER?,Constructed nonsense also proposed,A real language
+32,2,114.6,117.96666666666667,hypothesis,LANGUAGE? CIPHER?,Constructed nonsense also proposed,A real language
+33,2,117.96666666666667,121.3,statistics,STRUCTURE ≠ MEANING,Patterns alone do not decide,the statistical patterns
+34,2,121.3,124.86666666666666,glyphs,STRUCTURE,Meaning remains inaccessible,The writing
+35,2,124.86666666666666,128.2,gear,AN ANCIENT MACHINE,From parchment to bronze,Now imagine
+36,2,128.2,131.56666666666666,gear,AN ANCIENT MACHINE,From parchment to bronze,Now imagine
+37,3,131.56666666666666,136.1,fragment,THE ANTIKYTHERA MECHANISM,Recovered from a Greek shipwreck ·1901,Roughly thirty
+38,3,136.1,140.6,fragment,THE ANTIKYTHERA MECHANISM,Recovered from a Greek shipwreck ·1901,Roughly thirty
+39,3,140.6,144.86666666666667,fragment,"~2,000 YEARS OLD",Surviving bronze fragments,The Antikythera
+40,3,144.86666666666667,149.23333333333332,gearmacro,~1.5 mm,Approximate length of some gear teeth,Some of
+41,3,149.23333333333332,153.4,gears,LINKED GEARS,Functional schematic reconstruction,Turn a handle
+42,3,153.4,155.63333333333333,orbits,SUN AND MOON,Astronomical cycles,including the movements
+43,3,155.63333333333333,157.36666666666667,eclipse,ECLIPSE CYCLES,Astronomical calculation,predictions of eclipses
+44,3,157.36666666666667,161.8,fragment,INSCRIPTIONS + FRAGMENTS,Physical evidence supports key functions,These functions
+45,3,161.8,166.06666666666666,timeline,A GAP IN THE RECORD,Over a thousand years,The astonishing
+46,3,166.06666666666666,170.36666666666667,timeline,A GAP IN THE RECORD,Over a thousand years,The astonishing
+47,3,170.36666666666667,173.66666666666666,exploded,MISSING COMPONENTS,Scientific reconstructions vary,Researchers can
+48,3,173.66666666666666,176.96666666666667,exploded,MISSING COMPONENTS,Scientific reconstructions vary,Researchers can
+49,3,176.96666666666667,181.9,fragment,MAKER UNKNOWN,How common were such devices?,We still can't
+50,3,181.9,184.86666666666667,orbits,DESCRIBING THE SKY,Bronze and mathematical cycles,This bronze
+51,3,184.86666666666667,188.46666666666667,mountain,A TRAIL IN THE SNOW,The Ural Mountains,The next trail
+52,4,188.46666666666667,193.5,mountain,DYATLOV PASS,Northern Urals · February1959,Nine hikers
+53,4,193.5,198.23333333333332,tent,CUT FROM INSIDE,Rescue discovery · illustrated,When rescuers
+54,4,198.23333333333332,200.8,boots,EQUIPMENT LEFT BEHIND,Reported evidence · illustrated,Boots and
+55,4,200.8,203.53333333333333,footprints,DOWNHILL INTO THE SNOW,Schematic route,footprints led
+56,4,203.53333333333333,206.56666666666666,memorial,NINE LIVES LOST,No graphic imagery,Several victims
+57,4,206.56666666666666,209.7,timeline,2020 CONCLUSION,Avalanche explanation,Russian prosecutors
+58,4,209.7,212.8,timeline,2020 CONCLUSION,Avalanche explanation,Russian prosecutors
+59,4,212.8,217.06666666666666,slab,2021 SCIENTIFIC MODEL,Wind-loaded snow · possible small slab,A scientific model
+60,4,217.06666666666666,221.3,slab,2021 SCIENTIFIC MODEL,Wind-loaded snow · possible small slab,A scientific model
+61,4,221.3,224.16666666666666,slope,THE OBJECTIONS,Gentle slope · no obvious debris reported,But the slope
+62,4,224.16666666666666,227.0,slope,THE OBJECTIONS,Gentle slope · no obvious debris reported,But the slope
+63,4,227.0,230.46666666666667,slab,"A MODEL, NOT A REPLAY",Cannot reproduce every human decision,The researchers
+64,4,230.46666666666667,233.96666666666667,slab,"A MODEL, NOT A REPLAY",Cannot reproduce every human decision,The researchers
+65,4,233.96666666666667,236.86666666666667,tent,A CREDIBLE SNOW HAZARD,Precise sequence remains uncertain,A sudden
+66,4,236.86666666666667,239.76666666666668,tent,A CREDIBLE SNOW HAZARD,Precise sequence remains uncertain,A sudden
+67,4,239.76666666666668,243.56666666666666,forest,FROM SNOW TO FOREST,A different pattern of evidence,From a mountain
+68,4,243.56666666666666,247.36666666666667,forest,FROM SNOW TO FOREST,A different pattern of evidence,From a mountain
+69,5,247.36666666666667,249.56666666666666,map,TUNGUSKA,"Siberia · June30,1908",On June
+70,5,249.56666666666666,253.1,airburst,"~2,000 km²",Approximate flattened forest area,an explosion
+71,5,253.1,256.6666666666667,airburst,"~2,000 km²",Approximate flattened forest area,an explosion
+72,5,256.6666666666667,259.8666666666667,forest,RADIAL TREEFALL,Pattern points away from blast zone,When investigators
+73,5,259.8666666666667,263.03333333333336,forest,RADIAL TREEFALL,Pattern points away from blast zone,When investigators
+74,5,263.03333333333336,266.0,crater,NO OBVIOUS IMPACT CRATER,A key observation,But there
+75,5,266.0,269.56666666666666,airburst,THE ENERGY WAS ABOVE GROUND,Leading scientific explanation,That missing
+76,5,269.56666666666666,273.8333333333333,airburst,ATMOSPHERIC AIRBURST,Asteroid breaks apart before ground impact,The leading
+77,5,273.8333333333333,278.06666666666666,airburst,ATMOSPHERIC AIRBURST,Asteroid breaks apart before ground impact,The leading
+78,5,278.06666666666666,283.2,forest,PATTERN OF A POWERFUL BLAST,Exact body properties are estimated,The fallen
+79,5,283.2,288.3666666666667,forest,PATTERN OF A POWERFUL BLAST,Exact body properties are estimated,The fallen
+80,5,288.3666666666667,291.03333333333336,forest,EVIDENCE WITHOUT AN INTACT OBJECT,Size · composition · trajectory uncertain,A massive
+81,5,291.03333333333336,293.73333333333335,forest,EVIDENCE WITHOUT AN INTACT OBJECT,Size · composition · trajectory uncertain,A massive
+82,5,293.73333333333335,297.23333333333335,money,A RIVERBANK DISCOVERY,From trees to damaged banknotes,The next disappearance
+83,5,297.23333333333335,300.73333333333335,money,A RIVERBANK DISCOVERY,From trees to damaged banknotes,The next disappearance
+84,6,300.73333333333335,304.0,money,D.B. COOPER,"$5,800 recovered ·1980",Five thousand
+85,6,304.0,307.26666666666665,money,D.B. COOPER,"$5,800 recovered ·1980",Five thousand
+86,6,307.26666666666665,312.06666666666666,serial,SERIAL NUMBERS MATCHED,Ransom-money evidence,Their serial
+87,6,312.06666666666666,316.8,airport,"NOVEMBER 24, 1971",The name used: Dan Cooper,On November
+88,6,316.8,319.8333333333333,cabin,A BOEING 727,Stylized period reconstruction,took control
+89,6,319.8333333333333,322.6666666666667,ransom,"$200,000",Four parachutes · passengers released,demanded
+90,6,322.6666666666667,325.5,ransom,"$200,000",Four parachutes · passengers released,demanded
+91,6,325.5,327.5,plane,DEPARTURE FROM SEATTLE,Reconstruction · not archival footage,The plane
+92,6,327.5,331.3333333333333,jump,A JUMP INTO THE NIGHT,Exact landing and survival unknown,Somewhere
+93,6,331.3333333333333,334.5,money,CONFIRMED MONEY,Not proof of survival or identity,The recovered
+94,6,334.5,337.6666666666667,money,CONFIRMED MONEY,Not proof of survival or identity,The recovered
+95,6,337.6666666666667,341.4,casefile,FATAL LANDING: PLAUSIBLE,Not established as fact,The FBI
+96,6,341.4,344.8666666666667,casefile,2016: RESOURCES REDIRECTED,Case information preserved,In twenty sixteen
+97,6,344.8666666666667,348.3666666666667,casefile,2016: RESOURCES REDIRECTED,Case information preserved,In twenty sixteen
+98,6,348.3666666666667,352.6666666666667,river,MONEY REACHED A RIVERBANK,Where Cooper went remains unknown,The bills
+99,6,352.6666666666667,356.46666666666664,ocean,A VAST OCEAN,The final case,And the last
+100,7,356.46666666666664,360.43333333333334,plane,MH370,"239 people · March8,2014",Two hundred
+101,7,360.43333333333334,364.4,plane,MH370,"239 people · March8,2014",Two hundred
+102,7,364.4,367.23333333333335,route,KUALA LUMPUR → BEIJING,Planned route · schematic,flying from
+103,7,367.23333333333335,371.6333333333333,route,SOUTHERN INDIAN OCEAN,Inferred from satellite data · schematic,Satellite data
+104,7,371.6333333333333,374.4,flaperon,RÉUNION ISLAND ·2015,A wing component was recovered,In July
+105,7,374.4,377.1666666666667,flaperon,RÉUNION ISLAND ·2015,A wing component was recovered,In July
+106,7,377.1666666666667,381.6,flaperon,CONFIRMED MH370 DEBRIS,Illustration · not a photograph,Investigators
+107,7,381.6,386.8666666666667,sonar,MAIN WRECKAGE NOT RECOVERED,Historical investigation summary,Yet the main
+108,7,386.8666666666667,390.26666666666665,hypothesis,EVIDENCE ≠ CAUSE,Why the course changed remains unproven,The debris
+109,7,390.26666666666665,393.6333333333333,hypothesis,EVIDENCE ≠ CAUSE,Why the course changed remains unproven,The debris
+110,7,393.6333333333333,397.93333333333334,timeline,2017: SEARCH SUSPENDED,Historical milestone,The multinational
+111,7,397.93333333333334,403.1,vessel,FURTHER SEARCH PROPOSALS,An agreement is not a discovery,Further search
+112,7,403.1,407.93333333333334,ocean,CURRENT STATUS NOT VERIFIED,Official operational updates require checking,The latest
+113,7,407.93333333333334,413.2,sonar,NO DISCOVERY CLAIM,No invented wreckage or crash scene,The evidence discussed
+114,7,413.2,417.3333333333333,ocean,239 PEOPLE,A respectful search for answers,For the families
+115,7,417.3333333333333,421.5,ocean,239 PEOPLE,A respectful search for answers,For the families
+116,8,421.5,425.03333333333336,montage,SEVEN KINDS OF UNCERTAINTY,What the evidence actually shows,These seven
+117,8,425.03333333333336,428.5,hypothesis,STRONG PHYSICAL EXPLANATIONS,"Different cases, different limits",In some
+118,8,428.5,432.1333333333333,sonar,MISSING KEY EVIDENCE,Some objects have never been recovered,In others
+119,8,432.1333333333333,436.53333333333336,montage,OBJECTS THAT TELL US SOMETHING REAL,Printout · page · gear · tent · forest · notes · fragment,A radio
+120,8,436.53333333333336,440.9,montage,OBJECTS THAT TELL US SOMETHING REAL,Printout · page · gear · tent · forest · notes · fragment,A radio
+121,8,440.9,444.06666666666666,montage,WHERE EVIDENCE STOPS,And imagination begins,The hard part
+122,8,444.06666666666666,447.23333333333335,montage,WHERE EVIDENCE STOPS,And imagination begins,The hard part

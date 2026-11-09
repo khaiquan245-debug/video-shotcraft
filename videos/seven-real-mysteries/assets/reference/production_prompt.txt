@@ -1,0 +1,1198 @@
+# MASTER PRODUCTION PROMPT — CODEX + VIDEOSHOTCRAFT
+
+## PROJECT: 7 REAL UNSOLVED MYSTERIES AND WHAT THE EVIDENCE ACTUALLY SHOWS
+
+You are a professional documentary director, screenwriter, cinematic editor, 2D/2.5D motion designer, archival researcher, sound designer, and senior video-production engineer.
+
+Your task is to **produce a complete, professional YouTube documentary video** using the existing VideoShotCraft project.
+
+The documentary covers seven real historical mysteries. It must combine authentic archival evidence, original illustrations, animated reconstructions, educational motion graphics, natural American English narration, atmospheric music, and precisely synchronized sound effects.
+
+**Do not stop after creating a script, production plan, or storyboard. Build the video, generate or acquire the required assets, render the timeline, and export a finished playable MP4.**
+
+---
+
+# PART 1 — VIDEO SPECIFICATIONS
+
+**Video title:**
+
+7 Real Unsolved Mysteries and What the Evidence Actually Shows
+
+**Technical requirements:**
+
+- Platform: YouTube long-form video
+- Language: English (United States)
+- Audience: International English speakers, 18–40
+- Genre: Historical mysteries, science, true stories, documentary
+- Format: Horizontal 16:9
+- Resolution: 1920×1080
+- Frame rate: 30 FPS
+- Duration target: 7 minutes 19 seconds
+- Acceptable runtime: approximately 7–8 minutes
+- Video codec: H.264
+- Audio codec: AAC
+- Narration pace: approximately 145–155 WPM
+- Output: MP4 with synchronized English narration, music, sound effects, and subtitles
+
+**Priority order:**
+
+1. Factual accuracy
+2. Clear, compelling storytelling
+3. High-quality editing and meaningful visuals
+4. Natural narration
+5. Sound design
+6. Visual complexity
+
+Do not sacrifice accuracy for dramatic effects.
+
+---
+
+# PART 2 — CREATIVE DIRECTION
+
+## VISUAL STYLE
+
+Use a premium investigative documentary aesthetic.
+
+Combine:
+
+- Authentic archival photographs
+- Real historical objects and documents
+- Clean animated diagrams
+- Stylized 2D environments
+- Cinematic 2.5D parallax
+- Animated maps
+- Period-appropriate illustrations
+- Archival paper textures
+- Subtle film grain
+- Carefully designed kinetic typography
+- Seamless visual transitions
+
+The final video should look like a professionally directed educational documentary.
+
+Avoid:
+
+- Generic AI-generated stock imagery
+- Repetitive Ken Burns slideshows
+- Fake historical photographs
+- Random stock footage unrelated to the narration
+- Excessive glitch effects
+- Unnecessary camera shake
+- Overly dramatic horror imagery
+- Unrealistic human faces
+- Repetitive transitions
+- Captions covering important evidence
+
+## COLOR LANGUAGE
+
+**Historical material:**
+Black, white, warm parchment, muted sepia.
+
+**Scientific sections:**
+Dark navy, desaturated cyan, subtle white illumination.
+
+**Unexplained events:**
+Charcoal, cold blue, deep shadows.
+
+**Evidence highlights:**
+Muted yellow and restrained red.
+
+Use a consistent visual language across all seven mysteries.
+
+## CAMERA LANGUAGE
+
+The video should employ:
+
+- Slow documentary push-ins
+- Macro close-ups
+- Wide establishing shots
+- Smooth lateral tracking
+- 2.5D depth separation
+- Camera movement across authentic documents
+- Animated topographic maps
+- Controlled match cuts
+- Scientific cross-sections
+- Atmospheric foreground particles
+- Carefully timed focus pulls
+
+Change the composition or introduce meaningful new evidence approximately every 3–5 seconds.
+
+Every camera move must serve a storytelling purpose.
+
+---
+
+# PART 3 — HISTORICAL ASSET RULES
+
+Authentic imagery should be used whenever it is important to the credibility of the story.
+
+However:
+
+1. Search existing local project assets first.
+2. Identify legitimate archival or institutional sources.
+3. Check whether each photograph or clip is licensed for the intended use.
+4. Download and preserve the original file only when legally permitted.
+5. Document the source, photographer or institution, and applicable license.
+6. Never label an AI reconstruction as an authentic historical photograph.
+7. If an important archival image cannot be used legally, substitute a clearly illustrated reconstruction.
+8. Do not fabricate evidence to fill gaps.
+9. Respect victims and their families.
+10. Use only appropriately licensed music, video, photographs and sound effects.
+
+The source of each real image must be recorded in:
+
+`output/asset_sources.md`
+
+The video should use real evidence thoughtfully, rather than filling every second with archival images.
+
+---
+
+# PART 4 — COMPLETE VOICE-OVER SCRIPT AND SCENE DESIGN
+
+Use the following narration as the source script.
+
+**Narration must be natural American English.**
+
+Do not read section titles, timecodes, instructions, pronunciation notes, labels, or production comments aloud.
+
+Generate the narration first. Measure its actual duration, then adjust scene timing while preserving the narrative sequence.
+
+## SCENE 0 — THE HOOK
+
+**Target time: 0:00–0:18**
+
+### VOICE-OVER
+
+"In 1977, an astronomer circled six characters on a telescope printout and wrote one word beside them: 'Wow!'
+
+The signal never returned. And that's only one of seven cases where a small piece of evidence raises a question much bigger than the object itself."
+
+### VISUAL DIRECTION
+
+**Shot 1 — 0:00–0:04**
+
+Begin on a dark screen.
+
+A vintage printer activates.
+
+A long strip of telescope data emerges from the darkness.
+
+Use an authentic image of the Wow! Signal printout if available and licensed.
+
+**Camera:** Slow macro push-in.
+
+**SFX:** Printer mechanism, faint radio static.
+
+**Shot 2 — 0:04–0:09**
+
+Reveal the characters:
+
+6EQUJ5
+
+Highlight the famous red circle.
+
+Show the handwritten word "Wow!"
+
+**Camera:** Controlled dolly toward the annotation.
+
+**SFX:** Short, low cinematic impact.
+
+**Shot 3 — 0:09–0:18**
+
+Create a rapid but readable documentary montage:
+
+- Voynich Manuscript
+- Antikythera gears
+- Dyatlov mountain campsite
+- Flattened Tunguska forest
+- D.B. Cooper ransom money
+- MH370 ocean search map
+
+Use authentic assets when possible.
+
+Finish on black for a brief fraction of a second.
+
+**On-screen title:**
+
+"7 REAL MYSTERIES"
+
+**Music:** Introduce a restrained cinematic mystery theme.
+
+---
+
+## SCENE 1 — THE WOW! SIGNAL
+
+**Target time: 0:18–1:13**
+
+### VOICE-OVER
+
+"At roughly fourteen hundred and twenty megahertz, close to the frequency emitted by neutral hydrogen, Ohio State's Big Ear radio telescope detected an unusually strong, narrowband signal.
+
+The date was August fifteenth, 1977.
+
+Its intensity rose and fell over a seventy-two-second observation window, leaving the sequence six E Q U J five on a paper record.
+
+Jerry Ehman's handwritten reaction gave it a name.
+
+Repeated searches have failed to detect it again.
+
+That's the central difficulty: scientists have a genuine observation, but no second event to test against it.
+
+It might have been a natural astronomical phenomenon or interference.
+
+Some have suggested an artificial transmission, although there's no supporting evidence of extraterrestrial technology.
+
+One burst left an extraordinary paper trail.
+
+A medieval manuscript offers the opposite puzzle: information everywhere, but no agreed meaning."
+
+### AUTHENTIC ASSETS TO FIND
+
+- Big Ear radio telescope photographs
+- Original Wow! Signal printout
+- Archival material concerning Jerry Ehman
+- Reliable scientific references for the signal frequency and observation duration
+
+Suggested source institutions:
+
+Ohio State University archives and SETI Institute.
+
+### SHOT PLAN
+
+1. Wide establishing shot of Big Ear.
+2. Camera tracks toward a stylized radio telescope receiver.
+3. Real telescope data appears.
+4. Close-up of the frequency near 1420 MHz.
+5. Animated radio spectrum rises into a single prominent spike.
+6. A seventy-two-second indicator appears.
+7. Real printout reveals the sequence 6EQUJ5.
+8. Jerry Ehman's handwritten circle is highlighted.
+9. The radio signal suddenly disappears.
+10. Animated search timeline shows later unsuccessful observations.
+11. A hydrogen cloud appears as a labeled scientific possibility.
+12. The screen returns to an empty signal graph.
+13. A physical paper document transitions into an illustrated medieval manuscript.
+
+### SOUND DESIGN
+
+- Faint telescope electronics
+- Old printer
+- Radio static
+- Low sub-bass accents
+- Brief silence when the signal disappears
+- Subtle paper-turning transition
+
+**Important:** Do not generate spacecraft or alien imagery suggesting that extraterrestrial intelligence has been established.
+
+---
+
+## SCENE 2 — THE VOYNICH MANUSCRIPT
+
+**Target time: 1:13–2:08**
+
+### VOICE-OVER
+
+"About two hundred and forty pages survive in a manuscript held at Yale.
+
+They contain unfamiliar writing, diagrams of stars, and plants that are difficult to identify.
+
+The book is known as the Voynich Manuscript, after the dealer who acquired it in 1912.
+
+Tests date its parchment to the early fifteenth century.
+
+Here's the peculiar part: the frequency and arrangement of its word-like groups show statistical patterns resembling those in natural languages.
+
+Yet no proposed translation has won broad scholarly acceptance.
+
+A real language, an elaborate cipher, or carefully constructed nonsense could account for different parts of the evidence; the statistical patterns alone don't settle the matter.
+
+The writing has structure.
+
+Its meaning remains inaccessible.
+
+Now imagine an ancient object whose function can be reconstructed, even though the people who designed it have disappeared from the record."
+
+### AUTHENTIC ASSETS TO FIND
+
+Use real digitized images of the Voynich Manuscript, including:
+
+- Pages with botanical illustrations
+- Astronomical diagrams
+- Dense manuscript text
+- Distinctive letter-like glyphs
+
+Primary source:
+
+Yale University's Beinecke Rare Book & Manuscript Library, MS 408.
+
+Check reproduction terms and attribution requirements.
+
+### SHOT PLAN
+
+1. Open on a library table.
+2. A book appears under soft light.
+3. Match cut to the genuine Voynich page.
+4. Slow macro pan across its symbols.
+5. Highlight recurring word-like groups.
+6. Show a botanical illustration.
+7. Animate an illustrative statistical frequency chart.
+8. Display a concise 15TH CENTURY label.
+9. Split screen: two proposed interpretations, both marked unconfirmed.
+10. Return to the undeciphered text.
+11. Individual symbols drift apart as an artistic transition.
+12. A circular manuscript diagram transforms into a bronze gear.
+
+### SOUND DESIGN
+
+- Old paper
+- Subtle page turning
+- Library ambience
+- Gentle clock-like ticking
+- Quiet strings
+- Metallic transition into the next chapter
+
+Avoid fantasy runes, glowing magical books, or invented translations.
+
+---
+
+## SCENE 3 — THE ANTIKYTHERA MECHANISM
+
+**Target time: 2:08–3:08**
+
+### VOICE-OVER
+
+"Roughly thirty surviving bronze gears lie inside the fragments of a device recovered from a Greek shipwreck in 1901.
+
+The Antikythera Mechanism was built about two thousand years ago.
+
+Some of its gear teeth are only about one and a half millimeters long.
+
+Turn a handle, and linked gears could display astronomical cycles, including the movements of the Sun and Moon and predictions of eclipses.
+
+These functions are supported by surviving inscriptions and physical fragments.
+
+The astonishing gap is historical: nothing comparably complex is known in the surviving record for more than a thousand years afterward.
+
+Researchers can model its missing mechanisms, but those reconstructions aren't identical to an intact original.
+
+We still can't identify its maker or know how common such devices once were.
+
+This bronze machine was built to describe the sky.
+
+The next trail of clues would be found in the snow of the Ural Mountains."
+
+### AUTHENTIC ASSETS TO FIND
+
+- Museum photographs of the Antikythera Mechanism fragments
+- Scientific reconstructions from credible research institutions
+- Documented internal gear configurations
+- Relevant diagrams of lunar and solar calculations
+
+Source priority:
+
+National Archaeological Museum in Athens, published archaeological studies, and peer-reviewed mechanism research.
+
+### SHOT PLAN
+
+1. Stylized underwater shipwreck illustration.
+2. A bronze fragment is recovered from the seabed.
+3. Transition to a real museum photograph.
+4. Camera zooms toward tiny gear teeth.
+5. Scale comparison identifies approximately 1.5 mm teeth.
+6. A scientific 2.5D reconstruction assembles around the surviving fragment.
+7. A handle rotates.
+8. Gears engage with mechanically plausible movement.
+9. Solar and lunar indicators rotate.
+10. Eclipse prediction dials appear.
+11. Timeline visual demonstrates the long gap in the surviving record.
+12. Reconstruction becomes transparent.
+13. Return to the corroded original fragments.
+14. A circular gear becomes a topographic view of snowy mountains.
+
+### SOUND DESIGN
+
+- Underwater ambience
+- Metallic clicks
+- Gear movement
+- Subtle mechanical rhythm
+- Deep cinematic tonal transition
+
+**Critical:** All 3D or 2.5D models must be labeled as reconstructions. Do not treat missing components as known physical evidence.
+
+---
+
+## SCENE 4 — THE DYATLOV PASS INCIDENT
+
+**Target time: 3:08–4:05**
+
+### VOICE-OVER
+
+"Nine hikers died in the northern Ural Mountains in February 1959.
+
+When rescuers found their campsite weeks later, the tent had been cut from the inside.
+
+Boots and winter clothing were left behind, and footprints led downhill through the snow.
+
+Several victims had suffered serious injuries.
+
+Russian prosecutors concluded in 2020 that an avalanche had driven the group from the tent.
+
+A scientific model published in 2021 showed how wind-loaded snow could release a small slab above their shelter.
+
+But the slope appeared relatively gentle, and searchers reported no obvious avalanche debris.
+
+The researchers offered mechanisms for those objections; their model still can't reproduce every decision made that night.
+
+A sudden snow hazard is a credible explanation.
+
+The precise sequence remains uncertain.
+
+From a mountain with too little visible debris, the trail leads to a forest covered in evidence of an enormous blast."
+
+### AUTHENTIC ASSETS TO FIND
+
+Prioritize these three real archival image groups:
+
+**A. The hikers during their expedition**
+
+https://dyatlovpass.com/trek-photos
+
+**B. The last-campsite photograph**
+
+https://geomechanics.ethz.ch/project-list/Dyatlov_pass.html
+
+**C. Search-team photographs of the tent**
+
+https://dyatlovpass.com/1959-search
+
+Check copyright and reuse permission for every image before including it.
+
+### SHOT PLAN
+
+1. Real archival photograph of the hikers.
+2. Slow camera movement across the group.
+3. Wide stylized reconstruction of the Ural Mountains.
+4. Close-up of boots walking through deep snow.
+5. Real campsite photograph appears.
+6. Cut to a cold nighttime reconstruction of the tent.
+7. Real photograph of the damaged tent.
+8. Highlight the tent's reported cuts.
+9. Show abandoned equipment and winter clothing through a labeled reconstruction.
+10. Overhead shot of footprints descending the slope.
+11. Transition to a scientific cross-section.
+12. Illustrate wind depositing snow above the tent.
+13. Animate a small possible slab avalanche.
+14. Show a gentle slope with annotations describing the scientific objections.
+15. Return to the original campsite image.
+16. Fade into a blizzard.
+17. Snow particles transform into the flattened forest of Tunguska.
+
+### SOUND DESIGN
+
+- Strong mountain wind
+- Crunching snow
+- Tent fabric moving
+- Low-frequency tension
+- Short silence before the tent reveal
+- Subtle snow displacement
+- Cold atmospheric drone
+
+Never show graphic victim photographs.
+
+Never invent a monster, military attack, or supernatural event as if established.
+
+---
+
+## SCENE 5 — THE TUNGUSKA EVENT
+
+**Target time: 4:05–4:58**
+
+### VOICE-OVER
+
+"On June thirtieth, 1908, an explosion over Siberia flattened roughly two thousand square kilometers of forest near the Tunguska River.
+
+When investigators finally reached the area, they found trees lying outward from the blast zone in a broad radial pattern.
+
+But there was no obvious impact crater.
+
+That missing crater once made the event seem impossible.
+
+The leading scientific explanation is an asteroid breaking apart above the ground, releasing its energy into the atmosphere.
+
+The fallen trees support a powerful airburst; the exact size, composition, and trajectory of the incoming body have to be estimated from the remaining evidence.
+
+A massive disturbance can leave a clear pattern without leaving an intact object behind.
+
+The next disappearance also left almost no trace of the person involved, except for money recovered beside a river."
+
+### AUTHENTIC ASSETS TO FIND
+
+- Historical photographs of the fallen Tunguska forest
+- Archival photographs from scientific expeditions
+- Maps identifying the event location
+- Scientific airburst diagrams
+
+Source priority:
+
+NASA, historical expedition archives and peer-reviewed Tunguska research.
+
+### SHOT PLAN
+
+1. Wide animated map of Russia and Siberia.
+2. Camera moves toward the Tunguska region.
+3. Stylized atmospheric entry of a small cosmic object.
+4. The object breaks apart above the forest.
+5. An expanding atmospheric shock wave moves outward.
+6. Trees are pushed down in a radial pattern.
+7. Match cut into genuine photographs of the destroyed forest.
+8. High-angle visualization of the flattened area.
+9. Show a map indicating approximately 2,000 square kilometers.
+10. Contrast a typical impact crater with an atmospheric airburst.
+11. Explicitly avoid presenting an impact crater as part of the actual event.
+12. Slow pan across historical forest photographs.
+13. Transition to forest recovery imagery.
+14. Match cut from trees to weathered ransom bills.
+
+### SOUND DESIGN
+
+- Atmospheric rushing wind
+- A restrained low-frequency explosive impact
+- Forest movement
+- Rolling shock wave
+- Deep sustained ambience
+- Transition into river water
+
+The airburst must be scientifically restrained rather than an exaggerated cinematic fireball destroying a city.
+
+---
+
+## SCENE 6 — D.B. COOPER
+
+**Target time: 4:58–5:53**
+
+### VOICE-OVER
+
+"Five thousand eight hundred dollars in damaged twenty-dollar bills turned up beside the Columbia River in 1980.
+
+Their serial numbers matched money given to a hijacker nine years earlier.
+
+On November twenty-fourth, 1971, a man traveling as Dan Cooper took control of a Boeing 727 flight, demanded two hundred thousand dollars and four parachutes, then released the passengers in Seattle.
+
+The plane departed again.
+
+Somewhere over the Pacific Northwest, he jumped into the night.
+
+The recovered bills are confirmed evidence, but they don't tell us whether Cooper survived or identify him.
+
+The FBI considered a fatal landing plausible.
+
+In 2016, the bureau redirected resources to other investigations while preserving the case information.
+
+The bills reached a riverbank.
+
+Where Cooper went is another question.
+
+And the last case replaces a river with a vast stretch of ocean."
+
+### AUTHENTIC ASSETS TO FIND
+
+- FBI D.B. Cooper suspect sketch
+- FBI photographs of recovered ransom money
+- Historical Boeing 727 aircraft images
+- Official FBI case documentation
+
+Source priority:
+
+FBI historical case files.
+
+### SHOT PLAN
+
+1. Open on the actual recovered ransom money.
+2. Extreme close-up of a twenty-dollar bill.
+3. Serial numbers appear in the documentary overlay.
+4. Match cut to a period-appropriate airport.
+5. Boeing 727 establishing shot.
+6. Dark silhouette of a passenger boarding.
+7. Camera moves through an illustrated aircraft interior.
+8. An envelope representing the ransom demand is placed on a seat.
+9. Briefing graphic displays $200,000 and four parachutes.
+10. Animated route map shows the aircraft departing Seattle.
+11. Exterior view of the Boeing 727 at night.
+12. The aircraft's rear stairs open in a stylized reconstruction.
+13. A distant silhouette jumps into darkness.
+14. Do not show a confirmed landing or death.
+15. Cut back to the FBI sketch.
+16. Fade into the riverbank where cash was discovered.
+17. Brief case-file transition referencing the FBI's 2016 decision.
+18. River water becomes the Indian Ocean.
+
+### SOUND DESIGN
+
+- Vintage airport ambience
+- Aircraft engine drone
+- Paper and cash movement
+- Low atmospheric tension
+- Wind outside aircraft
+- Distant river water
+
+Never create a photorealistic Cooper suspect and present that image as evidence.
+
+---
+
+## SCENE 7 — MALAYSIA AIRLINES FLIGHT 370
+
+**Target time: 5:53–6:53**
+
+### VOICE-OVER
+
+"Two hundred and thirty-nine people were aboard Malaysia Airlines Flight Three Seven Zero when it disappeared on March eighth, 2014, flying from Kuala Lumpur to Beijing.
+
+Satellite data indicated a route toward the southern Indian Ocean.
+
+In July 2015, a wing component washed ashore on Réunion Island.
+
+Investigators confirmed it came from the missing Boeing 777.
+
+Yet the main wreckage, flight recorders, and exact crash location remain unlocated.
+
+The debris is physical evidence of the aircraft's fate; explanations for why it changed course remain unproven.
+
+The multinational underwater search was suspended in 2017.
+
+A new Ocean Infinity search ended in January 2026 without locating the wreckage.
+
+In June, Malaysia extended its search agreement through June 2027.
+
+The extension allows further searching but establishes no discovery.
+
+For the families, every new search carries the possibility of answers, without any guarantee that the ocean will provide them."
+
+### AUTHENTIC ASSETS TO FIND
+
+- Genuine MH370 Boeing 777 photographs
+- Official route maps
+- Satellite communication diagrams
+- Authentic Réunion Island flaperon photograph
+- Official underwater search imagery
+- Search vessel imagery and sonar visualizations
+
+Source priority:
+
+Australian Transport Safety Bureau and Ministry of Transport Malaysia.
+
+### HISTORICAL ACCURACY
+
+The following distinction is essential:
+
+- Satellite data supports a southern Indian Ocean route.
+- Confirmed debris was recovered.
+- The main wreckage location remains unknown.
+- An agreement to continue searches is not proof that a search vessel was operating on a particular later date.
+
+Recheck the official current search status before publishing.
+
+Do not imply that an investigation has proved who caused the aircraft's disappearance.
+
+### SHOT PLAN
+
+1. Open on a genuine photograph of the Boeing 777.
+2. Camera slowly moves across the aircraft.
+3. Display the flight number MH370.
+4. Animated map shows Kuala Lumpur to Beijing.
+5. The planned route dims.
+6. A second dotted route indicates the estimated southern movement based on satellite evidence.
+7. Zoom out to show the vast southern Indian Ocean.
+8. Cut to genuine photographs of the flaperon recovered on Réunion.
+9. Highlight identifying aircraft features.
+10. Animate Indian Ocean currents using a scientific map.
+11. Show a search vessel at sea.
+12. Controlled downward camera move into dark ocean water.
+13. Sonar scanning diagram.
+14. Ocean-floor topographic animation.
+15. Present the verified 2017 search suspension.
+16. Show January 2026 search outcome with an accurate date label.
+17. Show the June 2026 agreement extension separately.
+18. Return to a still ocean surface.
+
+### SOUND DESIGN
+
+- Low aircraft engine ambience
+- Gentle ocean wind
+- Water and ship ambience
+- Soft sonar pulse
+- Restrained emotional strings
+- Quiet atmospheric ending
+
+This section concerns a real tragedy affecting 239 people.
+
+Use a respectful tone.
+
+Avoid fictional crash scenes, fabricated cockpit conversations, speculation about individuals, or graphic depictions.
+
+---
+
+## SCENE 8 — OUTRO
+
+**Target time: 6:53–7:19**
+
+### VOICE-OVER
+
+"These seven cases don't all have the same kind of uncertainty.
+
+In some, physics offers a strong explanation.
+
+In others, the key evidence has never been recovered.
+
+A radio printout, a medieval page, a bronze gear, a tent, a forest, banknotes, and an aircraft fragment each tell us something real.
+
+The hard part is knowing where that evidence stops, and where our imagination begins."
+
+### VISUAL DIRECTION
+
+Show the seven principal objects one final time:
+
+1. Wow! Signal printout
+2. Voynich Manuscript page
+3. Antikythera gear
+4. Dyatlov campsite photograph
+5. Tunguska forest image
+6. D.B. Cooper ransom money
+7. MH370 flaperon
+
+Arrange them as an elegant archival montage.
+
+Each object should appear briefly with a subtle camera move.
+
+Do not use a loud or exaggerated ending.
+
+As the last sentence concludes, fade the images into darkness.
+
+Allow a brief moment of silence before the video ends.
+
+---
+
+# PART 5 — VOICE-OVER PRODUCTION
+
+Generate natural American English narration.
+
+Preferred characteristics:
+
+- Male voice
+- Mature and calm
+- Clear diction
+- Documentary narrator
+- Warm but slightly restrained
+- Curious rather than sensational
+- Subtle emotion
+- Natural contractions
+- Strategic pauses
+- No robotic cadence
+
+Pacing:
+
+- Hook: direct and measured
+- Wow!: curious, investigative
+- Voynich: thoughtful and analytical
+- Antikythera: measured sense of wonder
+- Dyatlov: serious and respectful
+- Tunguska: scientific and cinematic
+- Cooper: investigative and suspenseful
+- MH370: empathetic and restrained
+- Outro: reflective
+
+Generate and review the narration before finalizing the animation.
+
+Do not place written pronunciation hints into spoken audio.
+
+Preferred pronunciation guidance:
+
+- Voynich: VOY-nitch
+- Antikythera: an-tee-KITH-eh-ra
+- Dyatlov: DYAHT-lov
+- Tunguska: toon-GOOS-ka
+- Réunion: ray-yoo-NYON
+
+Use an available local or free TTS implementation if possible.
+
+Do not purchase credits or invoke paid APIs without permission.
+
+If TTS fails, report the limitation instead of claiming that narration was generated.
+
+---
+
+# PART 6 — PROFESSIONAL BACKGROUND MUSIC
+
+The entire documentary needs cohesive musical direction.
+
+Do not use one identical background track for all seven stories.
+
+Create or select a coordinated cinematic music system.
+
+## MUSIC CHARACTER
+
+- Dark ambient documentary
+- Subtle piano
+- Low strings
+- Minimal percussion
+- Atmospheric drones
+- Restrained cinematic pulses
+- Light investigative tension
+
+## MUSIC BY CHAPTER
+
+**0:00–0:18 — Hook**
+Short atmospheric opening with immediate impact.
+
+**0:18–1:13 — Wow!**
+Electronic radio textures and subtle suspense.
+
+**1:13–2:08 — Voynich**
+Ancient, quiet, contemplative ambience.
+
+**2:08–3:08 — Antikythera**
+Soft mechanical rhythm and atmospheric orchestration.
+
+**3:08–4:05 — Dyatlov**
+Cold, slow-building tension with wind.
+
+**4:05–4:58 — Tunguska**
+Powerful but controlled cinematic soundscape.
+
+**4:58–5:53 — Cooper**
+Investigative suspense with a subtle rhythmic pulse.
+
+**5:53–6:53 — MH370**
+Low atmospheric music, restrained and respectful.
+
+**6:53–7:19 — Outro**
+Quiet reflective strings and piano.
+
+## AUDIO MIX RULES
+
+- Voice-over always remains clear
+- Automatically duck music under speech
+- Avoid clipping and distortion
+- Use smooth crossfades between chapters
+- Use effects to support action, not overwhelm narration
+- Normalize final loudness appropriately for YouTube
+- Avoid loudness jumps between sections
+- Use short silence for emphasis
+
+Use only music and effects that are licensed for the intended YouTube upload or generated with permitted local tools.
+
+---
+
+# PART 7 — SUBTITLE DESIGN
+
+Create accurate, synchronized English subtitles.
+
+Use a modern documentary style:
+
+- Bold but restrained sans-serif font
+- White primary text
+- Soft dark shadow or outline
+- Important phrases highlighted in muted yellow
+- Maximum two lines
+- Safe margins from video edges
+- No captions obscuring historical evidence
+
+Subtitles should appear at natural spoken-phrase boundaries.
+
+Do not use aggressive word-by-word bouncing throughout the documentary.
+
+Export a standalone `.srt` file.
+
+Burn subtitles into the main video only if consistent with the final edit; otherwise supply both subtitled and clean variants if practical.
+
+---
+
+# PART 8 — AUDIENCE RETENTION AND EDITING
+
+Optimize for a 7-minute YouTube documentary, not a Shorts compilation.
+
+## OPENING
+
+The first five seconds must contain genuine evidence or a compelling factual detail.
+
+Do not introduce the channel.
+
+Do not add a long logo animation.
+
+## CHAPTER RHYTHM
+
+Within each mystery:
+
+1. Establish a real object or event.
+2. Introduce the confirmed evidence.
+3. Reveal the one unusual detail at the heart of the mystery.
+4. Explain the strongest relevant hypothesis.
+5. Show what the hypothesis cannot establish.
+6. Transition naturally into the next case.
+
+## VISUAL FREQUENCY
+
+Introduce a meaningful new shot, framing, diagram, or point of focus approximately every 3–5 seconds.
+
+Allow authentic photographs to remain visible long enough for viewers to inspect them.
+
+Do not cut away from important documents too quickly.
+
+## TRANSITIONS
+
+Favor motivated match cuts:
+
+- Radio printout → manuscript page
+- Circular manuscript drawing → bronze gear
+- Bronze gear → mountain contour
+- Snowy mountain → flattened forest
+- Fallen trees → ransom banknotes
+- River water → Indian Ocean
+
+Avoid repeating identical glitch or flash transitions.
+
+## CREDIBILITY
+
+Use small on-screen labels when useful:
+
+- ARCHIVAL PHOTOGRAPH
+- ORIGINAL DOCUMENT
+- SCIENTIFIC RECONSTRUCTION
+- HYPOTHESIS
+- CONFIRMED EVIDENCE
+- UNKNOWN
+
+Never imply that an illustration is a photograph.
+
+---
+
+# PART 9 — TECHNICAL IMPLEMENTATION
+
+Inspect the existing VideoShotCraft repository and its documentation before modifying the project.
+
+Identify:
+
+- Existing project structure
+- Video composition system
+- Available rendering tools
+- Existing asset folders
+- Animation capabilities
+- Installed audio utilities
+- TTS options
+- Font availability
+- FFmpeg installation
+- Rendering requirements
+
+Use the project's intended workflow.
+
+Do not claim features exist before confirming them.
+
+Where practical, implement the animation in reusable components:
+
+- ArchivalPhotoScene
+- DocumentReveal
+- AnimatedEvidenceHighlight
+- ScientificDiagram
+- AnimatedMap
+- ParallaxEnvironment
+- ChapterTransition
+- SubtitleOverlay
+- AtmosphericParticles
+
+Use programmatic animation and editing where appropriate.
+
+Use real images for documented objects and original illustrations for reconstructions.
+
+Avoid dependence on unavailable cloud services.
+
+If image generation is not accessible, create original vector-based or layered 2D illustrations and use local photographs where properly licensed.
+
+Do not silently substitute an unrelated stock image.
+
+Use FFmpeg or the available video renderer to produce a verified MP4.
+
+---
+
+# PART 10 — EXECUTION REQUIREMENTS
+
+Execute the following workflow in order.
+
+**PHASE A — PROJECT INSPECTION**
+
+1. Open the current VideoShotCraft project.
+2. Read the relevant project instructions.
+3. Confirm dependencies and available rendering tools.
+4. Create a clean working directory.
+5. Check for any existing user-provided archival images.
+
+**PHASE B — EVIDENCE AND ASSETS**
+
+6. Build a complete asset checklist for the seven mysteries.
+7. Identify legitimate archival image sources.
+8. Verify usage permissions.
+9. Download permitted assets.
+10. Document source and attribution details.
+11. Create original illustrations where needed.
+12. Separate authentic images from reconstructions.
+
+**PHASE C — NARRATION**
+
+13. Generate the complete American English voice-over.
+14. Check name pronunciation.
+15. Measure the actual audio duration.
+16. Create voice-to-scene timestamps.
+17. Ensure no narration lines are missing.
+
+**PHASE D — VISUAL PRODUCTION**
+
+18. Build all nine video sections: hook, seven mysteries and outro.
+19. Animate real documents and historical photographs.
+20. Create consistent original 2D/2.5D reconstructions.
+21. Implement scientific diagrams and route maps.
+22. Add appropriate camera movement and transitions.
+23. Render sample frames.
+24. Inspect consistency and visual quality.
+
+**PHASE E — AUDIO AND SUBTITLES**
+
+25. Add chapter-specific music.
+26. Add synchronized environmental sound effects.
+27. Duck music under narration.
+28. Generate synchronized English subtitles.
+29. Perform final audio normalization.
+30. Check for clicks, clipped audio, and awkward transitions.
+
+**PHASE F — FINAL RENDER**
+
+31. Render the complete video.
+32. Verify the MP4 exists.
+33. Inspect the first and last frames of each chapter.
+34. Check there are no missing images or black frames.
+35. Check narration synchronization.
+36. Check final audio quality.
+37. Re-render if errors are detected.
+38. Produce the final deliverables.
+
+Do not describe the project as completed until the final MP4 has actually been created and verified.
+
+---
+
+# PART 11 — PROJECT STRUCTURE
+
+Use a clear directory structure similar to:
+
+project/
+  assets/
+    archive/
+      wow/
+      voynich/
+      antikythera/
+      dyatlov/
+      tunguska/
+      db_cooper/
+      mh370/
+    illustrations/
+    audio/
+      music/
+      sfx/
+      narration/
+  src/
+    scenes/
+    components/
+    compositions/
+  output/
+
+Adapt to the repository's actual architecture rather than overwriting existing conventions.
+
+---
+
+# PART 12 — REQUIRED OUTPUTS
+
+Export these files:
+
+**1. Main video**
+
+`output/7_real_unsolved_mysteries.mp4`
+
+**2. Narration**
+
+`output/7_real_unsolved_mysteries_voice.wav`
+
+**3. Subtitles**
+
+`output/7_real_unsolved_mysteries.srt`
+
+**4. Thumbnail concept**
+
+`output/7_real_unsolved_mysteries_thumbnail.png`
+
+Thumbnail requirements:
+
+- 1280×720
+- 16:9
+- Dark cinematic documentary style
+- Authentic archival objects where licensed
+- Three main visual elements: Wow! Signal, Dyatlov Pass, MH370
+- Large title: "7 REAL MYSTERIES"
+- Clean, readable composition
+- Avoid misleading visual evidence
+
+**5. Asset sources and licenses**
+
+`output/asset_sources.md`
+
+Include each real asset's source URL, photographer or institution where known, usage terms, and attribution requirements.
+
+**6. Production report**
+
+`output/production_report.md`
+
+Include:
+
+- Actual video duration
+- Resolution
+- Frame rate
+- Video and audio codecs
+- Number of completed scenes
+- Narration status
+- Subtitle status
+- Archival images used
+- Missing or substituted assets
+- Rendering limitations, if any
+- Final verified absolute output paths
+
+---
+
+# PART 13 — FINAL QUALITY GATE
+
+Before reporting completion, verify:
+
+- The story contains all seven mysteries in the correct order.
+- The voice-over matches the provided script.
+- The opening begins immediately.
+- Historical photographs are accurately identified.
+- Reconstructions are not presented as original footage.
+- Visuals are synchronized with the voice.
+- There are no repetitive slideshow sections.
+- Scientific visuals do not exaggerate certainty.
+- Historical dates and numerical facts are correct.
+- The Dyatlov avalanche explanation is clearly qualified.
+- The Tunguska airburst is treated as the leading scientific explanation.
+- Cooper's survival and identity are left unresolved.
+- MH370's latest verified search status is presented accurately.
+- All footage, images, music, and effects meet licensing requirements.
+- The audio remains clear and balanced.
+- Subtitles are readable.
+- Every chapter has meaningful camera movement.
+- The final MP4 plays correctly from beginning to end.
+
+## FINAL COMMAND
+
+**Start production now.**
+
+Use the existing VideoShotCraft workflow to turn the complete script into a polished, cinematic, approximately seven-minute YouTube documentary.
+
+Prioritize authentic evidence, original 2D/2.5D animation, natural American narration, professional editing, careful sound design, and historical accuracy.
+
+Create the assets, assemble the scenes, render the video, inspect the output, and report the verified final file path.
+
+Do not stop at a storyboard or a written explanation.
+
+Produce the finished MP4 using the tools actually available in this project.
