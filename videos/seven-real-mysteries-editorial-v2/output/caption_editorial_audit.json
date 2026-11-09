@@ -1,0 +1,7 @@
+{
+  "method": "Manually authored grammatical phrase endpoints per chapter; exact actual-word alignment; numerals are display-only transforms.",
+  "cues": 170,
+  "coveredSpokenTokens": 1129,
+  "maxLines": 2,
+  "allNumbersAndNounsPreserved": true
+}

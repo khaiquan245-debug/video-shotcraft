@@ -1,0 +1,105 @@
+shot,chapter,from,to,type,title,detail
+0,0,0.0,3.6,print,6EQUJ5,A telescope record ·1977
+1,0,3.6,7.2,print,6EQUJ5,A telescope record ·1977
+2,0,7.2,8.833333333333334,signal,NO REPEAT DETECTION,A single observation
+3,0,8.833333333333334,14.5,montage,7 REAL MYSTERIES,What the evidence actually shows
+4,1,14.5,17.866666666666667,telescope,THE WOW! SIGNAL,Big Ear · Ohio ·1977
+5,1,17.866666666666667,23.2,hydrogen,~1420 MHz,Near neutral hydrogen’s radio line
+6,1,23.2,26.266666666666666,spectrum,A NARROWBAND SIGNAL,Unusually strong
+7,1,26.266666666666666,29.2,telescope,"AUGUST 15, 1977",Observation record
+8,1,29.2,32.7,curve,72 SECONDS,Observation window · not proven source duration
+9,1,32.7,36.233333333333334,print,6EQUJ5,Six intensity bins · not message content
+10,1,36.233333333333334,38.833333333333336,annotation,WOW!,Jerry Ehman’s reaction
+11,1,38.833333333333336,41.63333333333333,spectrum_search,NOT DETECTED AGAIN,Repeated observations
+12,1,41.63333333333333,46.93333333333333,spectrum_search,ONE OBSERVATION,No repeat event to test
+13,1,46.93333333333333,50.96666666666667,radio_origins,POSSIBLE ORIGINS,Natural phenomenon or interference
+14,1,50.96666666666667,56.86666666666667,hydrogen,ARTIFICIAL TRANSMISSION?,No evidence of extraterrestrial technology
+15,1,56.86666666666667,59.96666666666667,print,A PAPER TRAIL,Evidence without a repeat
+16,1,59.96666666666667,65.1,page_text,INFORMATION EVERYWHERE,The next object
+17,2,65.1,69.06666666666666,page_botanical,THE VOYNICH MANUSCRIPT,Yale · Beinecke Library · MS408
+18,2,69.06666666666666,72.13333333333334,page_text,UNFAMILIAR WRITING,Plants · stars · word-like groups
+19,2,72.13333333333334,75.16666666666667,page_stars,UNFAMILIAR WRITING,Plants · stars · word-like groups
+20,2,75.16666666666667,80.43333333333334,page_stars,ACQUIRED IN 1912,Named after Wilfrid Voynich
+21,2,80.43333333333334,83.3,page_botanical,EARLY 15TH CENTURY,Date of the parchment
+22,2,83.3,87.1,word_detail,PATTERNS IN THE WRITING,Recurring word-like groups
+23,2,87.1,90.93333333333334,page_text,PATTERNS IN THE WRITING,Recurring word-like groups
+24,2,90.93333333333334,94.83333333333333,page_text,NO ACCEPTED TRANSLATION,No broad scholarly consensus
+25,2,94.83333333333333,100.56666666666666,word_detail,LANGUAGE? CIPHER?,Constructed nonsense also proposed
+26,2,100.56666666666666,103.4,statistics,STRUCTURE ≠ MEANING,Patterns alone do not decide
+27,2,103.4,106.43333333333334,page_stars,STRUCTURE,Meaning remains inaccessible
+28,2,106.43333333333334,112.36666666666666,gear,AN ANCIENT MACHINE,From parchment to bronze
+29,3,112.36666666666666,116.2,fragment,THE ANTIKYTHERA MECHANISM,Recovered from a Greek shipwreck ·1901
+30,3,116.2,120.03333333333333,fragment_detail,THE ANTIKYTHERA MECHANISM,Recovered from a Greek shipwreck ·1901
+31,3,120.03333333333333,123.63333333333334,fragment_detail,"~2,000 YEARS OLD",Surviving bronze fragments
+32,3,123.63333333333334,127.36666666666666,gearmacro,~1.5 mm,Approximate length of some gear teeth
+33,3,127.36666666666666,130.86666666666667,gears,LINKED GEARS,Functional schematic reconstruction
+34,3,130.86666666666667,132.8,orbits,SUN AND MOON,Astronomical cycles
+35,3,132.8,134.23333333333332,eclipse,ECLIPSE CYCLES,Astronomical calculation
+36,3,134.23333333333332,138.03333333333333,inscriptions,INSCRIPTIONS + FRAGMENTS,Physical evidence supports key functions
+37,3,138.03333333333333,141.63333333333333,timeline,A GAP IN THE RECORD,Over a thousand years
+38,3,141.63333333333333,145.26666666666668,timeline,A GAP IN THE RECORD,Over a thousand years
+39,3,145.26666666666668,150.9,exploded,MISSING COMPONENTS,Scientific reconstructions vary
+40,3,150.9,155.06666666666666,fragment_detail,MAKER UNKNOWN,How common were such devices?
+41,3,155.06666666666666,157.56666666666666,gearmacro,DESCRIBING THE SKY,Bronze and mathematical cycles
+42,3,157.56666666666666,160.8,mountain,A TRAIL IN THE SNOW,The Ural Mountains
+43,4,160.8,165.1,mountain,DYATLOV PASS,Northern Urals · February1959
+44,4,165.1,169.06666666666666,tent,CUT FROM INSIDE,Rescue discovery
+45,4,169.06666666666666,171.23333333333332,boots,EQUIPMENT LEFT BEHIND,Reported evidence
+46,4,171.23333333333332,173.66666666666666,footprints,DOWNHILL INTO THE SNOW,Schematic route
+47,4,173.66666666666666,176.3,memorial,NINE LIVES LOST,No graphic imagery
+48,4,176.3,181.56666666666666,timeline,2020 CONCLUSION,Avalanche explanation
+49,4,181.56666666666666,185.16666666666666,slab,2021 SCIENTIFIC MODEL,Wind-loaded snow · possible small slab
+50,4,185.16666666666666,188.8,slab,2021 SCIENTIFIC MODEL,Wind-loaded snow · possible small slab
+51,4,188.8,193.63333333333333,slope,THE OBJECTIONS,Gentle slope · no obvious debris reported
+52,4,193.63333333333333,199.53333333333333,slab,"A MODEL, NOT A REPLAY",Cannot reproduce every human decision
+53,4,199.53333333333333,204.46666666666667,tent,A CREDIBLE SNOW HAZARD,Precise sequence remains uncertain
+54,4,204.46666666666667,207.76666666666668,forest_wide,FROM SNOW TO FOREST,A different pattern of evidence
+55,4,207.76666666666668,211.06666666666666,forest_detail,FROM SNOW TO FOREST,A different pattern of evidence
+56,5,211.06666666666666,212.93333333333334,map,TUNGUSKA,"Siberia · June30,1908"
+57,5,212.93333333333334,218.8,forest_wide,"~2,000 km²",Approximate flattened forest area
+58,5,218.8,224.2,forest_wide,RADIAL TREEFALL,Pattern points away from blast zone
+59,5,224.2,226.73333333333332,forest_floor,NO OBVIOUS IMPACT CRATER,A key observation
+60,5,226.73333333333332,229.56666666666666,forest_detail,THE MISSING CRATER,The observation behind the question
+61,5,229.56666666666666,233.3,airburst,ATMOSPHERIC AIRBURST,Asteroid breaks apart before ground impact
+62,5,233.3,237.0,airburst,ATMOSPHERIC AIRBURST,Asteroid breaks apart before ground impact
+63,5,237.0,241.36666666666667,forest,PATTERN OF A POWERFUL BLAST,Exact body properties are estimated
+64,5,241.36666666666667,245.73333333333332,forest,PATTERN OF A POWERFUL BLAST,Exact body properties are estimated
+65,5,245.73333333333332,250.3,forest_detail,EVIDENCE WITHOUT AN INTACT OBJECT,Size · composition · trajectory uncertain
+66,5,250.3,253.5,riverbank,A RIVERBANK DISCOVERY,From trees to damaged banknotes
+67,5,253.5,256.73333333333335,riverbank,A RIVERBANK DISCOVERY,From trees to damaged banknotes
+68,6,256.73333333333335,262.3,money,D.B. COOPER,"$5,800 recovered ·1980"
+69,6,262.3,266.3666666666667,serial_match,SERIAL NUMBERS MATCHED,Ransom-money evidence
+70,6,266.3666666666667,270.3666666666667,airport,"NOVEMBER 24, 1971",The name used: Dan Cooper
+71,6,270.3666666666667,272.93333333333334,cabin,A BOEING 727,Stylized period reconstruction
+72,6,272.93333333333334,277.73333333333335,ransom,"$200,000",Four parachutes · passengers released
+73,6,277.73333333333335,279.43333333333334,plane,DEPARTURE FROM SEATTLE,Night flight · reconstruction
+74,6,279.43333333333334,282.73333333333335,jump,A JUMP INTO THE NIGHT,Exact landing and survival unknown
+75,6,282.73333333333335,288.1,riverbank,CONFIRMED MONEY,Not proof of survival or identity
+76,6,288.1,291.26666666666665,casefile,FATAL LANDING: PLAUSIBLE,Not established as fact
+77,6,291.26666666666665,297.1333333333333,pnw_map,2016: RESOURCES REDIRECTED,Case information preserved
+78,6,297.1333333333333,300.8666666666667,pnw_map,MONEY REACHED A RIVERBANK,Where Cooper went remains unknown
+79,6,300.8666666666667,304.3,ocean,A VAST OCEAN,The final case
+80,7,304.3,307.6666666666667,plane,MALAYSIA AIRLINES MH370,Boeing 777 · 239 people aboard
+81,7,307.6666666666667,311.03333333333336,plane,MALAYSIA AIRLINES MH370,Boeing 777 · 239 people aboard
+82,7,311.03333333333336,313.4,route,KUALA LUMPUR → BEIJING,The intended route
+83,7,313.4,317.1333333333333,route,SOUTHERN INDIAN OCEAN,Estimated movement from satellite data
+84,7,317.1333333333333,321.8666666666667,flaperon,RÉUNION ISLAND · 2015,A recovered wing component
+85,7,321.8666666666667,325.6,flaperon,CONFIRMED MH370 DEBRIS,Physical evidence from the aircraft
+86,7,325.6,330.06666666666666,search_grid,THE MAIN WRECKAGE REMAINS MISSING,Flight recorders and exact location unrecovered
+87,7,330.06666666666666,335.56666666666666,flaperon,"PHYSICAL EVIDENCE, UNPROVEN CAUSE",Why the aircraft changed course remains unresolved
+88,7,335.56666666666666,339.46666666666664,mh_history,2017: SEARCH SUSPENDED,The multinational underwater search
+89,7,339.46666666666664,344.1333333333333,vessel,THE 2025–2026 SEARCH PHASE,Ended in January 2026 without finding the aircraft
+90,7,344.1333333333333,349.43333333333334,mh_timeline,THE SEARCH AGREEMENT,June 2026 → June 2027
+91,7,349.43333333333334,352.8333333333333,search_grid,THOUSANDS OF SQUARE KILOMETERS,Further seabed still to examine
+92,7,352.8333333333333,356.76666666666665,route,MORE THAN TWELVE YEARS,The main wreckage remains missing
+93,7,356.76666666666665,359.93333333333334,search_detail,THE HOPE OF ANSWERS,For the families of those aboard
+94,7,359.93333333333334,363.1,search_detail,THE HOPE OF ANSWERS,For the families of those aboard
+95,8,363.1,365.43333333333334,print,72 SECONDS,A recorded radio observation
+96,8,365.43333333333334,367.26666666666665,page_stars,SIX CENTURIES,The Voynich Manuscript
+97,8,367.26666666666665,369.23333333333335,fragment_detail,ANCIENT GEARS,The Antikythera Mechanism
+98,8,369.23333333333335,370.43333333333334,tent,A MOUNTAIN CAMPSITE,Dyatlov Pass
+99,8,370.43333333333334,371.6333333333333,forest_detail,A FOREST TRANSFORMED,Tunguska
+100,8,371.6333333333333,372.8333333333333,riverbank,MONEY BESIDE A RIVER,D.B. Cooper
+101,8,372.8333333333333,374.9,flaperon_detail,PIECES ON DISTANT SHORES,Malaysia Airlines MH370
+102,8,374.9,378.2,route,EACH CLUE BRINGS US CLOSER,To an event we can no longer witness
+103,8,378.2,383.53333333333336,search_detail,THE NEXT DISCOVERY,May change the question

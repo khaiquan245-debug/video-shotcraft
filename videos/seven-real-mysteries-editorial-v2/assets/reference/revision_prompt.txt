@@ -1,0 +1,733 @@
+# CODEX + VIDEOSHOTCRAFT — REVISION PROMPT V2
+
+## TASK: REPAIR AND UPGRADE THE EXISTING 7-MYSTERIES DOCUMENTARY
+
+You are an experienced documentary editor, motion designer, subtitle specialist, archival researcher, sound designer, and senior video engineer.
+
+An existing approximately 6-minute-22-second documentary has already been rendered.
+
+Its current structure, story, visual identity, and case numbering are broadly successful.
+
+**Your job is to revise the existing project and re-render an improved version. Do not rebuild everything from scratch.**
+
+The project is titled:
+
+**7 Real Unsolved Mysteries and What the Evidence Actually Shows**
+
+Preserve the existing seven-case sequence:
+
+1. The Wow! Signal
+2. The Voynich Manuscript
+3. The Antikythera Mechanism
+4. The Dyatlov Pass Incident
+5. The Tunguska Event
+6. D.B. Cooper
+7. Malaysia Airlines Flight 370
+
+Keep the effective opening, calm documentary narration, consistent visual design, and CASE 01/07 through CASE 07/07 labels.
+
+This revision has eight specific problems to solve.
+
+---
+
+# PRIORITY 1 — REMOVE INTERNAL PRODUCTION NOTES FROM THE VIDEO
+
+The current MH370 chapter contains unacceptable production text:
+
+- "CURRENT STATUS NOT VERIFIED"
+- "The latest operational status needs confirmation from..."
+
+These sentences must never appear in the final documentary.
+
+Search the entire project for:
+
+- CURRENT STATUS NOT VERIFIED
+- NOT VERIFIED
+- VERIFY
+- TODO
+- FIXME
+- PLACEHOLDER
+- NEEDS CONFIRMATION
+- SOURCE NEEDED
+- internal production comments
+- debugging strings
+
+Inspect:
+
+- Rendered text layers
+- Subtitle files
+- Narration scripts
+- TTS source text
+- Scene configuration
+- Overlay components
+- Timeline captions
+
+Remove all internal instructions that are not meant for viewers.
+
+Do not simply hide text behind another layer. Correct the actual source content.
+
+## REPLACE THE MH370 ENDING
+
+Use the following verified narration:
+
+"The latest search ended in January 2026 without finding the aircraft.
+
+Five months later, Malaysia extended its agreement with Ocean Infinity through June 2027, leaving thousands of square kilometers still to examine.
+
+More than twelve years after the disappearance, the main wreckage remains missing.
+
+For the families of the 239 people aboard, every new search carries the hope of finally learning what happened."
+
+This is historical reporting, not a claim about the search vessel's exact location on the video's publication date.
+
+Verified source references:
+
+- https://oceaninfinity.com/news/conclusion-of-the-search-for-malaysian-airlines-flight-mh370/
+- https://www.bernama.com/tv/news.php?id=2574438
+
+The January 2026 operation ended without finding the aircraft.
+
+On June 29, 2026, Malaysia announced an extension of the Ocean Infinity agreement through June 30, 2027.
+
+Do not claim that searches had already resumed in November 2026 without independently verified evidence.
+
+## REPLACE THE FINAL MH370 VISUALS
+
+Remove repetitive shots showing only:
+
+- Empty ocean waves
+- "239 PEOPLE"
+- Generic dark blue backgrounds
+- Internal status disclaimers
+
+Instead use an informative visual sequence.
+
+Shot A:
+Authentic MH370 aircraft photograph with correct aircraft type.
+
+Shot B:
+Animated map showing Kuala Lumpur, the intended route to Beijing, and the estimated southern Indian Ocean region.
+
+Shot C:
+Authentic photograph of the Réunion Island flaperon when usage is permitted.
+
+Shot D:
+Animated representation of the 2025–2026 underwater search area.
+
+Shot E:
+An informational timeline:
+
+JAN 2026 — SEARCH PHASE ENDED
+
+JUN 2026 — AGREEMENT EXTENDED
+
+JUN 2027 — CONTRACT END DATE
+
+Shot F:
+A scientific-style ocean-floor search grid, with the remaining area shown as unsearched.
+
+Show uncertainty using the map's legend.
+
+Never show a fictional crash location as confirmed.
+
+Maintain a respectful, quiet atmosphere.
+
+---
+
+# PRIORITY 2 — REPLACE REPETITIVE VECTOR GRAPHICS WITH AUTHENTIC EVIDENCE
+
+The current video overuses the same illustrations.
+
+Identified problems include:
+
+- Voynich manuscript illustration repeated three times
+- Antikythera fragment illustration repeated three times
+- Cooper banknotes repeated three times
+- Tunguska radial tree-fall graphic repeated twice
+- CONFIRMED / POSSIBLE / UNKNOWN cards repeated across several chapters
+- Static images held for more than ten seconds
+
+These patterns must be corrected.
+
+## ARCHIVAL IMAGE REQUIREMENTS
+
+Use authentic archival images wherever the subject is a real historical object.
+
+### CASE 01 — WOW! SIGNAL
+
+Prioritize:
+
+- The actual Wow! Signal printout
+- Genuine photographs of the Big Ear telescope
+- Relevant telescope diagrams
+
+Show the genuine 6EQUJ5 printout prominently.
+
+Use original animation only to explain the detected signal.
+
+Do not redraw the actual printout and imply it is the original.
+
+### CASE 02 — VOYNICH MANUSCRIPT
+
+Prioritize real digitized manuscript pages.
+
+Source:
+
+https://beinecke.library.yale.edu/beinecke/collections/beinecke-cipher-voynich-manuscript
+
+Use at least three visually distinct page types when available:
+
+- Botanical illustration
+- Astronomical illustration
+- Dense text page
+
+Do not reuse the exact same page three times.
+
+The viewer should genuinely feel they are examining an old manuscript.
+
+### CASE 03 — ANTIKYTHERA MECHANISM
+
+Prioritize:
+
+- Real museum photograph of a surviving fragment
+- Close-up showing the tiny gears
+- Scientific cross-section or diagram
+- One labeled mechanical reconstruction
+
+Use authentic artifact photographs for the introductory evidence.
+
+Use 2.5D/3D animation only when explaining how the gears function.
+
+Clearly distinguish original fragments from reconstructed components.
+
+### CASE 04 — DYATLOV PASS
+
+Replace cartoon people with:
+
+- Genuine expedition photographs, if properly licensed
+- Historical campsite photographs
+- Real rescue-team photographs
+- Simple silhouettes when actual footage is unavailable
+- Scientific snow-slope diagrams
+
+Do not create expressive cartoon characters portraying the victims.
+
+Use quiet, dignified documentary imagery.
+
+Scientific reconstruction is appropriate for explaining a possible avalanche, but it must remain clearly illustrative.
+
+### CASE 05 — TUNGUSKA
+
+Prioritize historical expedition photographs of the damaged Siberian forest, including documented photographs associated with Leonid Kulik's expeditions.
+
+Use multiple distinct compositions:
+
+- Wide landscape with fallen trees
+- Closer view of broken trunks
+- Historical map
+- One scientific airburst reconstruction
+
+Do not reuse a radial-tree diagram as the main visual throughout the scene.
+
+Verify original dates, photographers, rights and archival descriptions.
+
+### CASE 06 — D.B. COOPER
+
+Prioritize:
+
+- Genuine FBI suspect sketch
+- Original FBI photographs of recovered ransom money
+- Period photographs of a Boeing 727
+- Relevant FBI documents
+
+Avoid using the same banknote illustration three times.
+
+Switch between aircraft geography, FBI evidence, route maps and recovered cash.
+
+Do not invent an identifiable face for Cooper.
+
+### CASE 07 — MH370
+
+Prioritize:
+
+- Genuine aircraft photography
+- Official route and satellite diagrams
+- Confirmed debris photographs
+- Official ocean-search maps
+- Licensed search-vessel imagery
+
+No speculative crash footage.
+
+No production-status placeholders.
+
+## IMAGE RIGHTS AND AUTHENTICITY
+
+An image being visible on a website does not automatically permit reuse.
+
+Before including a real image:
+
+1. Identify its original source.
+2. Determine its author or holding institution.
+3. Check reuse rights or applicable permission.
+4. Preserve required attribution.
+5. Log the source and licensing status.
+
+If permission cannot be established, use an original illustrative alternative clearly labeled as a reconstruction.
+
+Never fabricate historical photographic evidence.
+
+---
+
+# PRIORITY 3 — IMPROVE MOTION AND ELIMINATE STATIC SLIDES
+
+The video must feel actively directed.
+
+## SHOT DURATION
+
+Target a meaningful visual change approximately every 4–6 seconds.
+
+No unanimated still image should remain completely static for more than six seconds.
+
+For archival images, use appropriate movement:
+
+- Slow zoom
+- Smooth pan
+- Controlled crop change
+- Gentle parallax when it does not distort evidence
+- Slow focus movement
+- Documentary-style detail highlighting
+
+Do not use aggressive artificial motion.
+
+## SCENE DESIGN
+
+For every major narration point, use a deliberate visual structure:
+
+1. Establish the object or location.
+2. Move closer to a relevant detail.
+3. Explain the evidence using a diagram or callout.
+4. Change composition before the visual becomes repetitive.
+
+Example — Voynich:
+
+Shot 1: Full manuscript page.
+
+Shot 2: Close-up of a word-like group.
+
+Shot 3: Different page with astronomical drawings.
+
+Shot 4: A frequency-pattern visualization.
+
+Shot 5: Return to the manuscript from a different meaningful perspective.
+
+Example — Antikythera:
+
+Shot 1: Genuine artifact.
+
+Shot 2: Macro gear detail.
+
+Shot 3: Scientific labeled reconstruction.
+
+Shot 4: Movement of the solar and lunar indicators.
+
+Shot 5: Timeline comparing technological periods.
+
+Use match cuts where visually meaningful.
+
+Avoid repeating the same animation preset.
+
+---
+
+# PRIORITY 4 — REBUILD SUBTITLES USING MEANINGFUL PHRASES
+
+The current subtitles are awkwardly divided by character count.
+
+Examples of incorrect breaks:
+
+"From a mountain with too little visible"
+
+"Roughly thirty surviving bronze gears lie / inside"
+
+"demanded two hundred thousand dollars and four"
+
+These are unacceptable.
+
+## NEW SUBTITLE RULES
+
+1. Synchronize captions with actual spoken audio.
+2. Split subtitles by semantic phrase, not raw character count.
+3. Prefer punctuation or natural speech pauses.
+4. Never separate a number from the noun it describes.
+5. Never leave a dangling preposition or conjunction.
+6. Never isolate words such as "inside," "and four," or "visible" without their relevant phrase.
+7. Maximum two lines per subtitle.
+8. Avoid overly long lines.
+9. Keep captions visually balanced.
+10. Preserve exact meaning even when displayed numbers use digits.
+
+## CORRECT SEGMENTATION EXAMPLES
+
+Incorrect:
+
+"Roughly thirty surviving bronze gears lie"
+
+"inside the fragments of a device"
+
+Better:
+
+"Roughly 30 surviving bronze gears"
+
+"lie inside the fragments of a device."
+
+Incorrect:
+
+"From a mountain with too little visible"
+
+"debris, the trail leads..."
+
+Better:
+
+"From a mountain with too little visible debris,"
+
+"the trail leads to a devastated forest."
+
+Incorrect:
+
+"He demanded two hundred thousand dollars and four"
+
+"parachutes."
+
+Better:
+
+"He demanded $200,000"
+
+"and four parachutes."
+
+Create each caption's boundaries according to the actual narration timing.
+
+Do not force every sentence into only one caption.
+
+## DISPLAY NUMBERS IN STANDARD WRITTEN FORM
+
+The narrator may speak numbers naturally, but subtitles should display familiar numerical forms.
+
+Required conversions include:
+
+Spoken: "six E Q U J five"
+Display: "6EQUJ5"
+
+Spoken: "Boeing seven seventy-seven"
+Display: "Boeing 777"
+
+Spoken: "two hundred and thirty-nine"
+Display: "239"
+
+Spoken: "nineteen fifty-nine"
+Display: "1959"
+
+Spoken: "two hundred thousand dollars"
+Display: "$200,000"
+
+Spoken: "one and a half millimeters"
+Display: "1.5 mm"
+
+Spoken: "seventy-two seconds"
+Display: "72 seconds"
+
+Use exact values and units, not phonetic spellings, in subtitles.
+
+The timing must still correspond to the complete spoken phrase.
+
+Do not alter the narrator's audio merely to match written numbers.
+
+---
+
+# PRIORITY 5 — IMPROVE MOBILE TEXT READABILITY
+
+The current documentary contains tiny source labels and technical captions.
+
+Text such as:
+
+"DATA RECONSTRUCTION — NOT THE ORIGINAL PRINTOUT"
+
+is too small.
+
+## TYPOGRAPHY REQUIREMENTS
+
+For a 1920×1080 horizontal video:
+
+- Primary titles: approximately 70–100 px
+- Chapter titles: approximately 52–76 px
+- Spoken subtitles: approximately 48–60 px
+- Data labels: approximately 38–46 px
+- Source or reconstruction labels: preferably 34–40 px
+- Avoid text smaller than 30 px unless it is incidental and not required to understand the scene
+
+Use strong contrast.
+
+Keep text inside safe margins.
+
+Do not place text over important evidence when a separate area is available.
+
+## RECONSTRUCTION LABELS
+
+Instead of a long unreadable technical disclaimer, use a short label:
+
+"ILLUSTRATION"
+
+or
+
+"SCIENTIFIC RECONSTRUCTION"
+
+or
+
+"ARCHIVAL PHOTOGRAPH"
+
+If a longer explanation is required, place it in a readable temporary card or in the video description.
+
+Do not repeat the same confirmation-status panel in every case.
+
+Use labels only when needed to prevent confusion.
+
+---
+
+# PRIORITY 6 — REDESIGN THE DYATLOV CHAPTER
+
+The current animated human characters are too cartoon-like for a story involving real deaths.
+
+Replace them.
+
+Preferred approach:
+
+- Authentic archival photographs
+- Silhouettes
+- Environmental storytelling
+- Topographic maps
+- Snowfall
+- Tent and equipment details
+- Scientific avalanche visualization
+
+Do not introduce exaggerated facial expressions or horror characters.
+
+Avoid graphic imagery.
+
+The chapter should be emotionally serious, investigative and respectful.
+
+Maintain the verified points:
+
+- Nine hikers died in 1959.
+- The tent was reportedly cut from the inside.
+- The Russian review in 2020 supported an avalanche explanation.
+- The 2021 scientific study modeled a possible slab avalanche.
+- The relatively gentle slope and absence of obvious avalanche debris created genuine questions.
+- The exact sequence of events has not been reconstructed with certainty.
+
+Use the original final-campsite photograph when legally permitted.
+
+---
+
+# PRIORITY 7 — REWRITE THE OUTRO
+
+Remove the current repetitive confirmation cards.
+
+Remove the weak closing sequence featuring generic CONFIRMED / POSSIBLE / UNKNOWN panels.
+
+Replace the old final narration with:
+
+"A radio signal lasted seventy-two seconds.
+
+A manuscript survived six centuries.
+
+An ancient machine preserved its gears, and a missing aircraft left pieces on distant shores.
+
+Each clue brings us closer to an event we can no longer witness.
+
+The next discovery may change a theory, settle a question, or reveal that we've been asking the wrong one."
+
+## OUTRO VISUAL SEQUENCE
+
+Shot 1:
+The Wow! Signal printout.
+
+Shot 2:
+A genuine Voynich page.
+
+Shot 3:
+The Antikythera bronze gears.
+
+Shot 4:
+A subtle image of the Dyatlov campsite.
+
+Shot 5:
+A real Tunguska forest photograph.
+
+Shot 6:
+A close-up of the ransom banknotes.
+
+Shot 7:
+An MH370 debris photograph and an ocean map.
+
+Use a different framing or new crop for a brief callback rather than repeating the identical earlier slide.
+
+Close with a slow fade to black.
+
+Music should become restrained and reflective.
+
+Allow a short natural silence after the final word.
+
+Do not add a generic subscribe animation.
+
+---
+
+# PRIORITY 8 — SOUND MIXING AND PACING
+
+Keep the existing music direction where it works.
+
+Improve synchronization:
+
+- Camera shutter sounds coincide with photo reveals.
+- Page turns coincide with manuscript transitions.
+- Metal clicks accompany mechanism movement.
+- Wind accompanies Dyatlov mountain scenes.
+- The Tunguska airburst has a restrained cinematic impact.
+- Aircraft engine ambience supports Cooper's night flight.
+- MH370's final sequence uses a quieter, reflective soundscape.
+
+Avoid repeating identical SFX excessively.
+
+Music must remain below narration.
+
+Do not add artificial audio peaks to compensate for static visuals.
+
+Preserve existing recorded voice lines that are correct.
+
+Re-record only the MH370 ending, the outro, and any other line that requires factual or editorial correction.
+
+Match voice identity, pacing, loudness and emotional style with the existing recording.
+
+---
+
+# FINAL IMPLEMENTATION WORKFLOW
+
+Perform the following actions directly in the current project.
+
+## STEP 1 — INSPECT
+
+- Locate the existing video project.
+- Identify the existing MP4, scene files, audio files and subtitle source.
+- Determine the current timeline duration.
+- Create a backup of the existing project.
+- Do not overwrite the original final render.
+
+## STEP 2 — FIX BLOCKING ISSUES
+
+- Remove all internal production text.
+- Replace the MH370 status narration.
+- Correct any related subtitle text.
+- Replace empty MH370 ending slides with informative visuals.
+
+## STEP 3 — UPGRADE REAL EVIDENCE
+
+- Locate authentic archival images.
+- Verify usage permissions.
+- Add licensed evidence photographs to relevant chapters.
+- Preserve accurate source attribution.
+- Replace repetitive vector illustrations.
+- Keep reconstruction labels concise and readable.
+
+## STEP 4 — IMPROVE EDITING
+
+- Identify still shots longer than six seconds.
+- Add smooth camera movement or meaningful visual changes.
+- Reduce repeated images.
+- Use multiple compositions for each mystery.
+- Keep existing successful transitions when possible.
+
+## STEP 5 — REBUILD SUBTITLES
+
+- Align captions to narration.
+- Segment captions by meaning.
+- Convert spoken numbers into readable numerals.
+- Increase font size.
+- Check subtitles against video boundaries.
+
+## STEP 6 — REPLACE OUTRO
+
+- Generate the new ending narration.
+- Build the new evidence-driven sequence.
+- Mix music and effects.
+- Preserve the documentary tone.
+
+## STEP 7 — RENDER AND VALIDATE
+
+Render the complete revised video.
+
+Maintain a runtime within 6–8 minutes.
+
+The current version is approximately 6:22.
+
+Do not artificially extend the video to reach a predetermined duration.
+
+If changes alter the actual duration naturally, preserve good pacing.
+
+Check:
+
+- No production notes appear in the video.
+- Every case has accurate visuals.
+- Authentic images are distinguishable from reconstructions.
+- No unlicensed asset is silently included.
+- No static visual is held too long.
+- No repetitive confirmation cards.
+- Dyatlov uses a respectful visual approach.
+- MH370's update is accurate.
+- Subtitles are grammatically segmented.
+- Numbers and units are displayed correctly.
+- All text is readable at mobile viewing size.
+- Audio remains synchronized.
+- No black frames or broken transitions.
+- Final MP4 plays correctly.
+
+Use FFprobe and representative frame inspections to verify technical quality.
+
+If automatic visual checking is available, extract and inspect frames at regular intervals and around every chapter transition.
+
+---
+
+# FINAL OUTPUTS
+
+Export:
+
+`output/7_real_mysteries_v2.mp4`
+
+`output/7_real_mysteries_v2.srt`
+
+`output/7_real_mysteries_v2_voice.wav`
+
+`output/7_real_mysteries_v2_sources.md`
+
+`output/7_real_mysteries_v2_changelog.md`
+
+The changelog must describe:
+
+1. Which MH370 lines were replaced.
+2. Which historical images were added.
+3. Which repetitive illustrations were removed.
+4. Which scenes gained movement.
+5. Which subtitle segmentation problems were fixed.
+6. Which numerical displays were corrected.
+7. Whether any assets remain illustrative because archival permission was unavailable.
+8. Actual video duration and technical specifications.
+
+## FINAL INSTRUCTION
+
+**Revise the existing video now. Do not restart the entire production process.**
+
+Prioritize factual accuracy, authentic archival evidence, better visual pacing, readable subtitles, and a stronger conclusion.
+
+Reuse all existing project components that already work.
+
+Fix the blocking MH370 error first.
+
+Then improve authenticity and motion, rebuild subtitles, replace the ending, and render a finished V2 MP4.
+
+Do not report the task as complete until the new video file has been rendered and verified.

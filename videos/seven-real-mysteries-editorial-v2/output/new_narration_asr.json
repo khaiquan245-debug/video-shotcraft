@@ -1,0 +1,22 @@
+[
+  {
+    "id": "7-2",
+    "expected": "The latest search ended in January 2026 without finding the aircraft. Five months later, Malaysia extended its agreement with Ocean Infinity through June 2027, leaving thousands of square kilometers still to examine.",
+    "recognized": "The latest search ended in January 2026, without finding the aircraft. Five months later, Malaysia extended its agreement with ocean infinity through June 2027, leaving thousands of square kilometers still to examine."
+  },
+  {
+    "id": "7-3",
+    "expected": "More than twelve years after the disappearance, the main wreckage remains missing. For the families of the 239 people aboard, every new search carries the hope of finally learning what happened.",
+    "recognized": "More than 12 years after the disappearance, the main wreckage remains missing. For the families of the 239 people aboard, every new search carries the hope of finally learning what happened."
+  },
+  {
+    "id": "8-0",
+    "expected": "A radio signal lasted seventy-two seconds. A manuscript survived six centuries. An ancient machine preserved its gears, and a missing aircraft left pieces on distant shores.",
+    "recognized": "A radio signal lasted 72 seconds. A manuscript survived six centuries. An ancient machine preserved its gears in a missing aircraft left pieces on distant shores."
+  },
+  {
+    "id": "8-1",
+    "expected": "Each clue brings us closer to an event we can no longer witness. The next discovery may change a theory, settle a question, or reveal that we've been asking the wrong one.",
+    "recognized": "Each clue brings us closer to an event we can no longer witness. The next discovery may change a theory, settle a question, or reveal that we've been asking the wrong one."
+  }
+]

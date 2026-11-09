@@ -1,0 +1,40 @@
+{
+  "seconds": 383.53333333333336,
+  "words": 1129,
+  "wordsPerMinute": 176.62089344689727,
+  "sameSpeakerReference": "/workspace/ten-seconds/reference/prompt.wav",
+  "sameGenerationSteps": 5,
+  "nativeGenerationSpeed": 1.0,
+  "tempo": 1.0,
+  "pitchShift": false,
+  "timeStretchRemoved": true,
+  "pausePolicy": "Punctuation-aware: short connected internal gaps, clause rests, sentence breaths and distinct chapter pauses. Only acoustic quiet regions edited; native phonemes preserved.",
+  "edits": [
+    {
+      "chunk": "4-0",
+      "after": "snow",
+      "before": "several",
+      "kind": "sentence-breath",
+      "oldGap": 0.14000000000000057,
+      "newGap": 0.28
+    },
+    {
+      "chunk": "5-0",
+      "after": "kilometers",
+      "before": "of",
+      "kind": "internal",
+      "oldGap": 0.1900000000000004,
+      "newGap": 0.075
+    },
+    {
+      "chunk": "7-3",
+      "after": "missing",
+      "before": "for",
+      "kind": "sentence-breath",
+      "oldGap": 0.1299999999999999,
+      "newGap": 0.24
+    }
+  ],
+  "chunkCount": 31,
+  "note": "Editorial V2 preserves27nativechunks and generatesonlyfournewMH370ending/outro chunks using the same native speaker configuration."
+}

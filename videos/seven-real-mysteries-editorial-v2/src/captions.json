@@ -1,0 +1,2392 @@
+[
+  {
+    "from": 2,
+    "to": 101,
+    "text": "in nineteen seventy seven an astronomer circled six characters",
+    "display": "In 1977, an astronomer circled six characters",
+    "lines": [
+      "In 1977, an astronomer circled six characters"
+    ],
+    "chapter": 0,
+    "sourceTokenRange": [
+      0,
+      9
+    ]
+  },
+  {
+    "from": 101,
+    "to": 136,
+    "text": "on a telescope printout",
+    "display": "on a telescope printout",
+    "lines": [
+      "on a telescope printout"
+    ],
+    "chapter": 0,
+    "sourceTokenRange": [
+      9,
+      13
+    ]
+  },
+  {
+    "from": 144,
+    "to": 208,
+    "text": "and wrote one word beside them wow",
+    "display": "and wrote one word beside them: Wow!",
+    "lines": [
+      "and wrote one word beside them: Wow!"
+    ],
+    "chapter": 0,
+    "sourceTokenRange": [
+      13,
+      20
+    ]
+  },
+  {
+    "from": 216,
+    "to": 256,
+    "text": "the signal never returned",
+    "display": "The signal never returned.",
+    "lines": [
+      "The signal never returned."
+    ],
+    "chapter": 0,
+    "sourceTokenRange": [
+      20,
+      24
+    ]
+  },
+  {
+    "from": 265,
+    "to": 314,
+    "text": "and that's only one of seven cases",
+    "display": "And that's only one of seven cases",
+    "lines": [
+      "And that's only one of seven cases"
+    ],
+    "chapter": 0,
+    "sourceTokenRange": [
+      24,
+      31
+    ]
+  },
+  {
+    "from": 314,
+    "to": 349,
+    "text": "where a small piece of evidence",
+    "display": "where a small piece of evidence",
+    "lines": [
+      "where a small piece of evidence"
+    ],
+    "chapter": 0,
+    "sourceTokenRange": [
+      31,
+      37
+    ]
+  },
+  {
+    "from": 349,
+    "to": 426,
+    "text": "raises a question much bigger than the object itself",
+    "display": "raises a question much bigger than the object itself.",
+    "lines": [
+      "raises a question much bigger than the object itself."
+    ],
+    "chapter": 0,
+    "sourceTokenRange": [
+      37,
+      46
+    ]
+  },
+  {
+    "from": 435,
+    "to": 527,
+    "text": "at roughly fourteen hundred and twenty megahertz",
+    "display": "At roughly 1,420 MHz,",
+    "lines": [
+      "At roughly 1,420 MHz,"
+    ],
+    "chapter": 1,
+    "sourceTokenRange": [
+      0,
+      7
+    ]
+  },
+  {
+    "from": 536,
+    "to": 623,
+    "text": "close to the frequency emitted by neutral hydrogen",
+    "display": "close to the frequency emitted by neutral hydrogen,",
+    "lines": [
+      "close to the frequency emitted by neutral hydrogen,"
+    ],
+    "chapter": 1,
+    "sourceTokenRange": [
+      7,
+      15
+    ]
+  },
+  {
+    "from": 623,
+    "to": 788,
+    "text": "ohio state's big ear radio telescope detected an unusually strong narrowband signal",
+    "display": "Ohio State's Big Ear radio telescope detected an unusually strong, narrowband signal.",
+    "lines": [
+      "Ohio State's Big Ear radio telescope detected",
+      "an unusually strong, narrowband signal."
+    ],
+    "chapter": 1,
+    "sourceTokenRange": [
+      15,
+      27
+    ]
+  },
+  {
+    "from": 788,
+    "to": 867,
+    "text": "the date was august fifteenth nineteen seventy seven",
+    "display": "The date was August 15, 1977.",
+    "lines": [
+      "The date was August 15, 1977."
+    ],
+    "chapter": 1,
+    "sourceTokenRange": [
+      27,
+      35
+    ]
+  },
+  {
+    "from": 876,
+    "to": 981,
+    "text": "its intensity rose and fell over a seventy two second observation window",
+    "display": "Its intensity rose and fell over a 72-second observation window,",
+    "lines": [
+      "Its intensity rose and fell",
+      "over a 72-second observation window,"
+    ],
+    "chapter": 1,
+    "sourceTokenRange": [
+      35,
+      47
+    ]
+  },
+  {
+    "from": 981,
+    "to": 1082,
+    "text": "leaving the sequence six e q u j five on a paper record",
+    "display": "leaving the sequence 6EQUJ5 on a paper record.",
+    "lines": [
+      "leaving the sequence 6EQUJ5 on a paper record."
+    ],
+    "chapter": 1,
+    "sourceTokenRange": [
+      47,
+      60
+    ]
+  },
+  {
+    "from": 1087,
+    "to": 1157,
+    "text": "jerry ehman's handwritten reaction gave it a name",
+    "display": "Jerry Ehman's handwritten reaction gave it a name.",
+    "lines": [
+      "Jerry Ehman's handwritten reaction gave it a name."
+    ],
+    "chapter": 1,
+    "sourceTokenRange": [
+      60,
+      68
+    ]
+  },
+  {
+    "from": 1165,
+    "to": 1242,
+    "text": "repeated searches have failed to detect it again",
+    "display": "Repeated searches have failed to detect it again.",
+    "lines": [
+      "Repeated searches have failed to detect it again."
+    ],
+    "chapter": 1,
+    "sourceTokenRange": [
+      68,
+      76
+    ]
+  },
+  {
+    "from": 1249,
+    "to": 1290,
+    "text": "that's the central difficulty",
+    "display": "That's the central difficulty:",
+    "lines": [
+      "That's the central difficulty:"
+    ],
+    "chapter": 1,
+    "sourceTokenRange": [
+      76,
+      80
+    ]
+  },
+  {
+    "from": 1295,
+    "to": 1351,
+    "text": "scientists have a genuine observation",
+    "display": "scientists have a genuine observation,",
+    "lines": [
+      "scientists have a genuine observation,"
+    ],
+    "chapter": 1,
+    "sourceTokenRange": [
+      80,
+      85
+    ]
+  },
+  {
+    "from": 1351,
+    "to": 1408,
+    "text": "but no second event to test against it",
+    "display": "but no second event to test against it.",
+    "lines": [
+      "but no second event to test against it."
+    ],
+    "chapter": 1,
+    "sourceTokenRange": [
+      85,
+      93
+    ]
+  },
+  {
+    "from": 1408,
+    "to": 1492,
+    "text": "it might have been a natural astronomical phenomenon",
+    "display": "It might have been a natural astronomical phenomenon",
+    "lines": [
+      "It might have been a natural astronomical phenomenon"
+    ],
+    "chapter": 1,
+    "sourceTokenRange": [
+      93,
+      101
+    ]
+  },
+  {
+    "from": 1492,
+    "to": 1529,
+    "text": "or interference",
+    "display": "or interference.",
+    "lines": [
+      "or interference."
+    ],
+    "chapter": 1,
+    "sourceTokenRange": [
+      101,
+      103
+    ]
+  },
+  {
+    "from": 1529,
+    "to": 1599,
+    "text": "some have suggested an artificial transmission",
+    "display": "Some have suggested an artificial transmission,",
+    "lines": [
+      "Some have suggested an artificial transmission,"
+    ],
+    "chapter": 1,
+    "sourceTokenRange": [
+      103,
+      109
+    ]
+  },
+  {
+    "from": 1599,
+    "to": 1701,
+    "text": "although there's no supporting evidence of extraterrestrial technology",
+    "display": "although there's no supporting evidence of extraterrestrial technology.",
+    "lines": [
+      "although there's no supporting",
+      "evidence of extraterrestrial technology."
+    ],
+    "chapter": 1,
+    "sourceTokenRange": [
+      109,
+      117
+    ]
+  },
+  {
+    "from": 1706,
+    "to": 1791,
+    "text": "one burst left an extraordinary paper trail",
+    "display": "One burst left an extraordinary paper trail.",
+    "lines": [
+      "One burst left an extraordinary paper trail."
+    ],
+    "chapter": 1,
+    "sourceTokenRange": [
+      117,
+      124
+    ]
+  },
+  {
+    "from": 1799,
+    "to": 1870,
+    "text": "a medieval manuscript offers the opposite puzzle",
+    "display": "A medieval manuscript offers the opposite puzzle:",
+    "lines": [
+      "A medieval manuscript offers the opposite puzzle:"
+    ],
+    "chapter": 1,
+    "sourceTokenRange": [
+      124,
+      131
+    ]
+  },
+  {
+    "from": 1870,
+    "to": 1943,
+    "text": "information everywhere but no agreed meaning",
+    "display": "information everywhere, but no agreed meaning.",
+    "lines": [
+      "information everywhere, but no agreed meaning."
+    ],
+    "chapter": 1,
+    "sourceTokenRange": [
+      131,
+      137
+    ]
+  },
+  {
+    "from": 1955,
+    "to": 2072,
+    "text": "about two hundred and forty pages survive in a manuscript held at yale",
+    "display": "About 240 pages survive in a manuscript held at Yale.",
+    "lines": [
+      "About 240 pages survive in a manuscript held at Yale."
+    ],
+    "chapter": 2,
+    "sourceTokenRange": [
+      0,
+      13
+    ]
+  },
+  {
+    "from": 2072,
+    "to": 2134,
+    "text": "they contain unfamiliar writing",
+    "display": "They contain unfamiliar writing,",
+    "lines": [
+      "They contain unfamiliar writing,"
+    ],
+    "chapter": 2,
+    "sourceTokenRange": [
+      13,
+      17
+    ]
+  },
+  {
+    "from": 2134,
+    "to": 2244,
+    "text": "diagrams of stars and plants that are difficult to identify",
+    "display": "diagrams of stars, and plants that are difficult to identify.",
+    "lines": [
+      "diagrams of stars, and plants that are difficult to identify."
+    ],
+    "chapter": 2,
+    "sourceTokenRange": [
+      17,
+      27
+    ]
+  },
+  {
+    "from": 2255,
+    "to": 2323,
+    "text": "the book is known as the voynich manuscript",
+    "display": "The book is known as the Voynich Manuscript,",
+    "lines": [
+      "The book is known as the Voynich Manuscript,"
+    ],
+    "chapter": 2,
+    "sourceTokenRange": [
+      27,
+      35
+    ]
+  },
+  {
+    "from": 2323,
+    "to": 2408,
+    "text": "after the dealer who acquired it in nineteen twelve",
+    "display": "after the dealer who acquired it in 1912.",
+    "lines": [
+      "after the dealer who acquired it in 1912."
+    ],
+    "chapter": 2,
+    "sourceTokenRange": [
+      35,
+      44
+    ]
+  },
+  {
+    "from": 2413,
+    "to": 2493,
+    "text": "tests date its parchment to the early fifteenth century",
+    "display": "Tests date its parchment to the early 15th century.",
+    "lines": [
+      "Tests date its parchment to the early 15th century."
+    ],
+    "chapter": 2,
+    "sourceTokenRange": [
+      44,
+      53
+    ]
+  },
+  {
+    "from": 2499,
+    "to": 2534,
+    "text": "here's the peculiar part",
+    "display": "Here's the peculiar part:",
+    "lines": [
+      "Here's the peculiar part:"
+    ],
+    "chapter": 2,
+    "sourceTokenRange": [
+      53,
+      57
+    ]
+  },
+  {
+    "from": 2534,
+    "to": 2607,
+    "text": "the frequency and arrangement of its word like groups",
+    "display": "the frequency and arrangement of its word-like groups",
+    "lines": [
+      "the frequency and arrangement of its word-like groups"
+    ],
+    "chapter": 2,
+    "sourceTokenRange": [
+      57,
+      66
+    ]
+  },
+  {
+    "from": 2615,
+    "to": 2728,
+    "text": "show statistical patterns resembling those in natural languages",
+    "display": "show statistical patterns resembling those in natural languages.",
+    "lines": [
+      "show statistical patterns resembling",
+      "those in natural languages."
+    ],
+    "chapter": 2,
+    "sourceTokenRange": [
+      66,
+      74
+    ]
+  },
+  {
+    "from": 2728,
+    "to": 2772,
+    "text": "yet no proposed translation",
+    "display": "Yet no proposed translation",
+    "lines": [
+      "Yet no proposed translation"
+    ],
+    "chapter": 2,
+    "sourceTokenRange": [
+      74,
+      78
+    ]
+  },
+  {
+    "from": 2772,
+    "to": 2838,
+    "text": "has won broad scholarly acceptance",
+    "display": "has won broad scholarly acceptance.",
+    "lines": [
+      "has won broad scholarly acceptance."
+    ],
+    "chapter": 2,
+    "sourceTokenRange": [
+      78,
+      83
+    ]
+  },
+  {
+    "from": 2845,
+    "to": 2907,
+    "text": "a real language an elaborate cipher",
+    "display": "A real language, an elaborate cipher,",
+    "lines": [
+      "A real language, an elaborate cipher,"
+    ],
+    "chapter": 2,
+    "sourceTokenRange": [
+      83,
+      89
+    ]
+  },
+  {
+    "from": 2907,
+    "to": 2958,
+    "text": "or carefully constructed nonsense",
+    "display": "or carefully constructed nonsense",
+    "lines": [
+      "or carefully constructed nonsense"
+    ],
+    "chapter": 2,
+    "sourceTokenRange": [
+      89,
+      93
+    ]
+  },
+  {
+    "from": 2958,
+    "to": 3017,
+    "text": "could account for different parts of the evidence",
+    "display": "could account for different parts of the evidence;",
+    "lines": [
+      "could account for different parts of the evidence;"
+    ],
+    "chapter": 2,
+    "sourceTokenRange": [
+      93,
+      101
+    ]
+  },
+  {
+    "from": 3017,
+    "to": 3094,
+    "text": "the statistical patterns alone don't settle the matter",
+    "display": "the statistical patterns alone don't settle the matter.",
+    "lines": [
+      "the statistical patterns alone don't settle the matter."
+    ],
+    "chapter": 2,
+    "sourceTokenRange": [
+      101,
+      109
+    ]
+  },
+  {
+    "from": 3102,
+    "to": 3135,
+    "text": "the writing has structure",
+    "display": "The writing has structure.",
+    "lines": [
+      "The writing has structure."
+    ],
+    "chapter": 2,
+    "sourceTokenRange": [
+      109,
+      113
+    ]
+  },
+  {
+    "from": 3135,
+    "to": 3182,
+    "text": "its meaning remains inaccessible",
+    "display": "Its meaning remains inaccessible.",
+    "lines": [
+      "Its meaning remains inaccessible."
+    ],
+    "chapter": 2,
+    "sourceTokenRange": [
+      113,
+      117
+    ]
+  },
+  {
+    "from": 3193,
+    "to": 3234,
+    "text": "now imagine an ancient object",
+    "display": "Now imagine an ancient object",
+    "lines": [
+      "Now imagine an ancient object"
+    ],
+    "chapter": 2,
+    "sourceTokenRange": [
+      117,
+      122
+    ]
+  },
+  {
+    "from": 3234,
+    "to": 3281,
+    "text": "whose function can be reconstructed",
+    "display": "whose function can be reconstructed,",
+    "lines": [
+      "whose function can be reconstructed,"
+    ],
+    "chapter": 2,
+    "sourceTokenRange": [
+      122,
+      127
+    ]
+  },
+  {
+    "from": 3281,
+    "to": 3361,
+    "text": "even though the people who designed it have disappeared from the record",
+    "display": "even though the people who designed it have disappeared from the record.",
+    "lines": [
+      "even though the people who designed",
+      "it have disappeared from the record."
+    ],
+    "chapter": 2,
+    "sourceTokenRange": [
+      127,
+      139
+    ]
+  },
+  {
+    "from": 3373,
+    "to": 3445,
+    "text": "roughly thirty surviving bronze gears",
+    "display": "Roughly 30 surviving bronze gears",
+    "lines": [
+      "Roughly 30 surviving bronze gears"
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      0,
+      5
+    ]
+  },
+  {
+    "from": 3445,
+    "to": 3505,
+    "text": "lie inside the fragments of a device",
+    "display": "lie inside the fragments of a device",
+    "lines": [
+      "lie inside the fragments of a device"
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      5,
+      12
+    ]
+  },
+  {
+    "from": 3505,
+    "to": 3601,
+    "text": "recovered from a greek shipwreck in nineteen oh one",
+    "display": "recovered from a Greek shipwreck in 1901.",
+    "lines": [
+      "recovered from a Greek shipwreck in 1901."
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      12,
+      21
+    ]
+  },
+  {
+    "from": 3601,
+    "to": 3645,
+    "text": "the antikythera mechanism",
+    "display": "The Antikythera Mechanism",
+    "lines": [
+      "The Antikythera Mechanism"
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      21,
+      24
+    ]
+  },
+  {
+    "from": 3645,
+    "to": 3709,
+    "text": "was built about two thousand years ago",
+    "display": "was built about 2,000 years ago.",
+    "lines": [
+      "was built about 2,000 years ago."
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      24,
+      31
+    ]
+  },
+  {
+    "from": 3709,
+    "to": 3745,
+    "text": "some of its gear teeth",
+    "display": "Some of its gear teeth",
+    "lines": [
+      "Some of its gear teeth"
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      31,
+      36
+    ]
+  },
+  {
+    "from": 3745,
+    "to": 3811,
+    "text": "are only about one and a half millimeters long",
+    "display": "are only about 1.5 mm long.",
+    "lines": [
+      "are only about 1.5 mm long."
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      36,
+      45
+    ]
+  },
+  {
+    "from": 3821,
+    "to": 3847,
+    "text": "turn a handle",
+    "display": "Turn a handle,",
+    "lines": [
+      "Turn a handle,"
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      45,
+      48
+    ]
+  },
+  {
+    "from": 3847,
+    "to": 3926,
+    "text": "and linked gears could display astronomical cycles",
+    "display": "and linked gears could display astronomical cycles,",
+    "lines": [
+      "and linked gears could display astronomical cycles,"
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      48,
+      55
+    ]
+  },
+  {
+    "from": 3926,
+    "to": 3981,
+    "text": "including the movements of the sun and moon",
+    "display": "including the movements of the Sun and Moon",
+    "lines": [
+      "including the movements of the Sun and Moon"
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      55,
+      63
+    ]
+  },
+  {
+    "from": 3981,
+    "to": 4027,
+    "text": "and predictions of eclipses",
+    "display": "and predictions of eclipses.",
+    "lines": [
+      "and predictions of eclipses."
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      63,
+      67
+    ]
+  },
+  {
+    "from": 4027,
+    "to": 4103,
+    "text": "these functions are supported by surviving inscriptions",
+    "display": "These functions are supported by surviving inscriptions",
+    "lines": [
+      "These functions are supported by surviving inscriptions"
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      67,
+      74
+    ]
+  },
+  {
+    "from": 4103,
+    "to": 4136,
+    "text": "and physical fragments",
+    "display": "and physical fragments.",
+    "lines": [
+      "and physical fragments."
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      74,
+      77
+    ]
+  },
+  {
+    "from": 4141,
+    "to": 4193,
+    "text": "the astonishing gap is historical",
+    "display": "The astonishing gap is historical:",
+    "lines": [
+      "The astonishing gap is historical:"
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      77,
+      82
+    ]
+  },
+  {
+    "from": 4198,
+    "to": 4243,
+    "text": "nothing comparably complex",
+    "display": "nothing comparably complex",
+    "lines": [
+      "nothing comparably complex"
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      82,
+      85
+    ]
+  },
+  {
+    "from": 4243,
+    "to": 4289,
+    "text": "is known in the surviving record",
+    "display": "is known in the surviving record",
+    "lines": [
+      "is known in the surviving record"
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      85,
+      91
+    ]
+  },
+  {
+    "from": 4289,
+    "to": 4358,
+    "text": "for more than a thousand years afterward",
+    "display": "for more than 1,000 years afterward.",
+    "lines": [
+      "for more than 1,000 years afterward."
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      91,
+      98
+    ]
+  },
+  {
+    "from": 4358,
+    "to": 4425,
+    "text": "researchers can model its missing mechanisms",
+    "display": "Researchers can model its missing mechanisms,",
+    "lines": [
+      "Researchers can model its missing mechanisms,"
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      98,
+      104
+    ]
+  },
+  {
+    "from": 4425,
+    "to": 4519,
+    "text": "but those reconstructions aren't identical to an intact original",
+    "display": "but those reconstructions aren't identical to an intact original.",
+    "lines": [
+      "but those reconstructions aren't identical to an intact original."
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      104,
+      113
+    ]
+  },
+  {
+    "from": 4527,
+    "to": 4573,
+    "text": "we still can't identify its maker",
+    "display": "We still can't identify its maker",
+    "lines": [
+      "We still can't identify its maker"
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      113,
+      119
+    ]
+  },
+  {
+    "from": 4573,
+    "to": 4645,
+    "text": "or know how common such devices once were",
+    "display": "or know how common such devices once were.",
+    "lines": [
+      "or know how common such devices once were."
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      119,
+      127
+    ]
+  },
+  {
+    "from": 4652,
+    "to": 4727,
+    "text": "this bronze machine was built to describe the sky",
+    "display": "This bronze machine was built to describe the sky.",
+    "lines": [
+      "This bronze machine was built to describe the sky."
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      127,
+      136
+    ]
+  },
+  {
+    "from": 4727,
+    "to": 4758,
+    "text": "the next trail of clues",
+    "display": "The next trail of clues",
+    "lines": [
+      "The next trail of clues"
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      136,
+      141
+    ]
+  },
+  {
+    "from": 4758,
+    "to": 4815,
+    "text": "would be found in the snow of the ural mountains",
+    "display": "would be found in the snow of the Ural Mountains.",
+    "lines": [
+      "would be found in the snow of the Ural Mountains."
+    ],
+    "chapter": 3,
+    "sourceTokenRange": [
+      141,
+      151
+    ]
+  },
+  {
+    "from": 4826,
+    "to": 4858,
+    "text": "nine hikers died",
+    "display": "Nine hikers died",
+    "lines": [
+      "Nine hikers died"
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      0,
+      3
+    ]
+  },
+  {
+    "from": 4858,
+    "to": 4897,
+    "text": "in the northern ural mountains",
+    "display": "in the northern Ural Mountains",
+    "lines": [
+      "in the northern Ural Mountains"
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      3,
+      8
+    ]
+  },
+  {
+    "from": 4897,
+    "to": 4947,
+    "text": "in february nineteen fifty nine",
+    "display": "in February 1959.",
+    "lines": [
+      "in February 1959."
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      8,
+      13
+    ]
+  },
+  {
+    "from": 4953,
+    "to": 5018,
+    "text": "when rescuers found their campsite weeks later",
+    "display": "When rescuers found their campsite weeks later,",
+    "lines": [
+      "When rescuers found their campsite weeks later,"
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      13,
+      20
+    ]
+  },
+  {
+    "from": 5018,
+    "to": 5072,
+    "text": "the tent had been cut from the inside",
+    "display": "the tent had been cut from the inside.",
+    "lines": [
+      "the tent had been cut from the inside."
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      20,
+      28
+    ]
+  },
+  {
+    "from": 5072,
+    "to": 5132,
+    "text": "boots and winter clothing were left behind",
+    "display": "Boots and winter clothing were left behind,",
+    "lines": [
+      "Boots and winter clothing were left behind,"
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      28,
+      35
+    ]
+  },
+  {
+    "from": 5132,
+    "to": 5202,
+    "text": "and footprints led downhill through the snow",
+    "display": "and footprints led downhill through the snow.",
+    "lines": [
+      "and footprints led downhill through the snow."
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      35,
+      42
+    ]
+  },
+  {
+    "from": 5210,
+    "to": 5284,
+    "text": "several victims had suffered serious injuries",
+    "display": "Several victims had suffered serious injuries.",
+    "lines": [
+      "Several victims had suffered serious injuries."
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      42,
+      48
+    ]
+  },
+  {
+    "from": 5289,
+    "to": 5365,
+    "text": "russian prosecutors concluded in twenty twenty",
+    "display": "Russian prosecutors concluded in 2020",
+    "lines": [
+      "Russian prosecutors concluded in 2020"
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      48,
+      54
+    ]
+  },
+  {
+    "from": 5365,
+    "to": 5447,
+    "text": "that an avalanche had driven the group from the tent",
+    "display": "that an avalanche had driven the group from the tent.",
+    "lines": [
+      "that an avalanche had driven the group from the tent."
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      54,
+      64
+    ]
+  },
+  {
+    "from": 5447,
+    "to": 5539,
+    "text": "a scientific model published in twenty twenty one",
+    "display": "A scientific model published in 2021",
+    "lines": [
+      "A scientific model published in 2021"
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      64,
+      72
+    ]
+  },
+  {
+    "from": 5539,
+    "to": 5586,
+    "text": "showed how wind loaded snow",
+    "display": "showed how wind-loaded snow",
+    "lines": [
+      "showed how wind-loaded snow"
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      72,
+      77
+    ]
+  },
+  {
+    "from": 5586,
+    "to": 5664,
+    "text": "could release a small slab above their shelter",
+    "display": "could release a small slab above their shelter.",
+    "lines": [
+      "could release a small slab above their shelter."
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      77,
+      85
+    ]
+  },
+  {
+    "from": 5664,
+    "to": 5722,
+    "text": "but the slope appeared relatively gentle",
+    "display": "But the slope appeared relatively gentle,",
+    "lines": [
+      "But the slope appeared relatively gentle,"
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      85,
+      91
+    ]
+  },
+  {
+    "from": 5722,
+    "to": 5804,
+    "text": "and searchers reported no obvious avalanche debris",
+    "display": "and searchers reported no obvious avalanche debris.",
+    "lines": [
+      "and searchers reported no obvious avalanche debris."
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      91,
+      98
+    ]
+  },
+  {
+    "from": 5809,
+    "to": 5889,
+    "text": "the researchers offered mechanisms for those objections",
+    "display": "The researchers offered mechanisms for those objections;",
+    "lines": [
+      "The researchers offered mechanisms for those objections;"
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      98,
+      105
+    ]
+  },
+  {
+    "from": 5893,
+    "to": 5986,
+    "text": "their model still can't reproduce every decision made that night",
+    "display": "their model still can't reproduce every decision made that night.",
+    "lines": [
+      "their model still can't reproduce",
+      "every decision made that night."
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      105,
+      115
+    ]
+  },
+  {
+    "from": 5986,
+    "to": 6064,
+    "text": "a sudden snow hazard is a credible explanation",
+    "display": "A sudden snow hazard is a credible explanation.",
+    "lines": [
+      "A sudden snow hazard is a credible explanation."
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      115,
+      123
+    ]
+  },
+  {
+    "from": 6064,
+    "to": 6128,
+    "text": "the precise sequence remains uncertain",
+    "display": "The precise sequence remains uncertain.",
+    "lines": [
+      "The precise sequence remains uncertain."
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      123,
+      128
+    ]
+  },
+  {
+    "from": 6134,
+    "to": 6204,
+    "text": "from a mountain with too little visible debris",
+    "display": "From a mountain with too little visible debris,",
+    "lines": [
+      "From a mountain with too little visible debris,"
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      128,
+      136
+    ]
+  },
+  {
+    "from": 6204,
+    "to": 6282,
+    "text": "the trail leads to a forest covered in evidence",
+    "display": "the trail leads to a forest covered in evidence",
+    "lines": [
+      "the trail leads to a forest covered in evidence"
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      136,
+      145
+    ]
+  },
+  {
+    "from": 6282,
+    "to": 6322,
+    "text": "of an enormous blast",
+    "display": "of an enormous blast.",
+    "lines": [
+      "of an enormous blast."
+    ],
+    "chapter": 4,
+    "sourceTokenRange": [
+      145,
+      149
+    ]
+  },
+  {
+    "from": 6332,
+    "to": 6388,
+    "text": "on june thirtieth nineteen oh eight",
+    "display": "On June 30, 1908,",
+    "lines": [
+      "On June 30, 1908,"
+    ],
+    "chapter": 5,
+    "sourceTokenRange": [
+      0,
+      6
+    ]
+  },
+  {
+    "from": 6388,
+    "to": 6434,
+    "text": "an explosion over siberia",
+    "display": "an explosion over Siberia",
+    "lines": [
+      "an explosion over Siberia"
+    ],
+    "chapter": 5,
+    "sourceTokenRange": [
+      6,
+      10
+    ]
+  },
+  {
+    "from": 6434,
+    "to": 6527,
+    "text": "flattened roughly two thousand square kilometers of forest",
+    "display": "flattened roughly 2,000 km\u00b2 of forest",
+    "lines": [
+      "flattened roughly 2,000 km\u00b2 of forest"
+    ],
+    "chapter": 5,
+    "sourceTokenRange": [
+      10,
+      18
+    ]
+  },
+  {
+    "from": 6527,
+    "to": 6564,
+    "text": "near the tunguska river",
+    "display": "near the Tunguska River.",
+    "lines": [
+      "near the Tunguska River."
+    ],
+    "chapter": 5,
+    "sourceTokenRange": [
+      18,
+      22
+    ]
+  },
+  {
+    "from": 6564,
+    "to": 6625,
+    "text": "when investigators finally reached the area",
+    "display": "When investigators finally reached the area,",
+    "lines": [
+      "When investigators finally reached the area,"
+    ],
+    "chapter": 5,
+    "sourceTokenRange": [
+      22,
+      28
+    ]
+  },
+  {
+    "from": 6625,
+    "to": 6692,
+    "text": "they found trees lying outward from the blast zone",
+    "display": "they found trees lying outward from the blast zone",
+    "lines": [
+      "they found trees lying outward from the blast zone"
+    ],
+    "chapter": 5,
+    "sourceTokenRange": [
+      28,
+      37
+    ]
+  },
+  {
+    "from": 6692,
+    "to": 6726,
+    "text": "in a broad radial pattern",
+    "display": "in a broad radial pattern.",
+    "lines": [
+      "in a broad radial pattern."
+    ],
+    "chapter": 5,
+    "sourceTokenRange": [
+      37,
+      42
+    ]
+  },
+  {
+    "from": 6726,
+    "to": 6795,
+    "text": "but there was no obvious impact crater",
+    "display": "But there was no obvious impact crater.",
+    "lines": [
+      "But there was no obvious impact crater."
+    ],
+    "chapter": 5,
+    "sourceTokenRange": [
+      42,
+      49
+    ]
+  },
+  {
+    "from": 6802,
+    "to": 6887,
+    "text": "that missing crater once made the event seem impossible",
+    "display": "That missing crater once made the event seem impossible.",
+    "lines": [
+      "That missing crater once made the event seem impossible."
+    ],
+    "chapter": 5,
+    "sourceTokenRange": [
+      49,
+      58
+    ]
+  },
+  {
+    "from": 6887,
+    "to": 6942,
+    "text": "the leading scientific explanation",
+    "display": "The leading scientific explanation",
+    "lines": [
+      "The leading scientific explanation"
+    ],
+    "chapter": 5,
+    "sourceTokenRange": [
+      58,
+      62
+    ]
+  },
+  {
+    "from": 6942,
+    "to": 7030,
+    "text": "is an asteroid breaking apart above the ground",
+    "display": "is an asteroid breaking apart above the ground,",
+    "lines": [
+      "is an asteroid breaking apart above the ground,"
+    ],
+    "chapter": 5,
+    "sourceTokenRange": [
+      62,
+      70
+    ]
+  },
+  {
+    "from": 7030,
+    "to": 7104,
+    "text": "releasing its energy into the atmosphere",
+    "display": "releasing its energy into the atmosphere.",
+    "lines": [
+      "releasing its energy into the atmosphere."
+    ],
+    "chapter": 5,
+    "sourceTokenRange": [
+      70,
+      76
+    ]
+  },
+  {
+    "from": 7110,
+    "to": 7192,
+    "text": "the fallen trees support a powerful airburst",
+    "display": "The fallen trees support a powerful airburst;",
+    "lines": [
+      "The fallen trees support a powerful airburst;"
+    ],
+    "chapter": 5,
+    "sourceTokenRange": [
+      76,
+      83
+    ]
+  },
+  {
+    "from": 7192,
+    "to": 7295,
+    "text": "the exact size composition and trajectory of the incoming body",
+    "display": "the exact size, composition, and trajectory of the incoming body",
+    "lines": [
+      "the exact size, composition,",
+      "and trajectory of the incoming body"
+    ],
+    "chapter": 5,
+    "sourceTokenRange": [
+      83,
+      93
+    ]
+  },
+  {
+    "from": 7295,
+    "to": 7372,
+    "text": "have to be estimated from the remaining evidence",
+    "display": "have to be estimated from the remaining evidence.",
+    "lines": [
+      "have to be estimated from the remaining evidence."
+    ],
+    "chapter": 5,
+    "sourceTokenRange": [
+      93,
+      101
+    ]
+  },
+  {
+    "from": 7372,
+    "to": 7435,
+    "text": "a massive disturbance can leave a clear pattern",
+    "display": "A massive disturbance can leave a clear pattern",
+    "lines": [
+      "A massive disturbance can leave a clear pattern"
+    ],
+    "chapter": 5,
+    "sourceTokenRange": [
+      101,
+      109
+    ]
+  },
+  {
+    "from": 7435,
+    "to": 7498,
+    "text": "without leaving an intact object behind",
+    "display": "without leaving an intact object behind.",
+    "lines": [
+      "without leaving an intact object behind."
+    ],
+    "chapter": 5,
+    "sourceTokenRange": [
+      109,
+      115
+    ]
+  },
+  {
+    "from": 7509,
+    "to": 7586,
+    "text": "the next disappearance also left almost no trace",
+    "display": "The next disappearance also left almost no trace",
+    "lines": [
+      "The next disappearance also left almost no trace"
+    ],
+    "chapter": 5,
+    "sourceTokenRange": [
+      115,
+      123
+    ]
+  },
+  {
+    "from": 7586,
+    "to": 7616,
+    "text": "of the person involved",
+    "display": "of the person involved,",
+    "lines": [
+      "of the person involved,"
+    ],
+    "chapter": 5,
+    "sourceTokenRange": [
+      123,
+      127
+    ]
+  },
+  {
+    "from": 7632,
+    "to": 7689,
+    "text": "except for money recovered beside a river",
+    "display": "except for money recovered beside a river.",
+    "lines": [
+      "except for money recovered beside a river."
+    ],
+    "chapter": 5,
+    "sourceTokenRange": [
+      127,
+      134
+    ]
+  },
+  {
+    "from": 7702,
+    "to": 7746,
+    "text": "five thousand eight hundred dollars",
+    "display": "$5,800",
+    "lines": [
+      "$5,800"
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      0,
+      5
+    ]
+  },
+  {
+    "from": 7746,
+    "to": 7790,
+    "text": "in damaged twenty dollar bills",
+    "display": "in damaged $20 bills",
+    "lines": [
+      "in damaged $20 bills"
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      5,
+      10
+    ]
+  },
+  {
+    "from": 7790,
+    "to": 7869,
+    "text": "turned up beside the columbia river in nineteen eighty",
+    "display": "turned up beside the Columbia River in 1980.",
+    "lines": [
+      "turned up beside the Columbia River in 1980."
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      10,
+      19
+    ]
+  },
+  {
+    "from": 7869,
+    "to": 7901,
+    "text": "their serial numbers",
+    "display": "Their serial numbers",
+    "lines": [
+      "Their serial numbers"
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      19,
+      22
+    ]
+  },
+  {
+    "from": 7901,
+    "to": 7952,
+    "text": "matched money given to a hijacker",
+    "display": "matched money given to a hijacker",
+    "lines": [
+      "matched money given to a hijacker"
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      22,
+      28
+    ]
+  },
+  {
+    "from": 7952,
+    "to": 7984,
+    "text": "nine years earlier",
+    "display": "nine years earlier.",
+    "lines": [
+      "nine years earlier."
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      28,
+      31
+    ]
+  },
+  {
+    "from": 7991,
+    "to": 8065,
+    "text": "on november twenty fourth nineteen seventy one",
+    "display": "On November 24, 1971,",
+    "lines": [
+      "On November 24, 1971,"
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      31,
+      38
+    ]
+  },
+  {
+    "from": 8065,
+    "to": 8111,
+    "text": "a man traveling as dan cooper",
+    "display": "a man traveling as Dan Cooper",
+    "lines": [
+      "a man traveling as Dan Cooper"
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      38,
+      44
+    ]
+  },
+  {
+    "from": 8111,
+    "to": 8188,
+    "text": "took control of a boeing seven twenty seven flight",
+    "display": "took control of a Boeing 727 flight,",
+    "lines": [
+      "took control of a Boeing 727 flight,"
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      44,
+      53
+    ]
+  },
+  {
+    "from": 8188,
+    "to": 8246,
+    "text": "demanded two hundred thousand dollars",
+    "display": "demanded $200,000",
+    "lines": [
+      "demanded $200,000"
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      53,
+      58
+    ]
+  },
+  {
+    "from": 8246,
+    "to": 8281,
+    "text": "and four parachutes",
+    "display": "and 4 parachutes,",
+    "lines": [
+      "and 4 parachutes,"
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      58,
+      61
+    ]
+  },
+  {
+    "from": 8281,
+    "to": 8332,
+    "text": "then released the passengers in seattle",
+    "display": "then released the passengers in Seattle.",
+    "lines": [
+      "then released the passengers in Seattle."
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      61,
+      67
+    ]
+  },
+  {
+    "from": 8332,
+    "to": 8375,
+    "text": "the plane departed again",
+    "display": "The plane departed again.",
+    "lines": [
+      "The plane departed again."
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      67,
+      71
+    ]
+  },
+  {
+    "from": 8383,
+    "to": 8439,
+    "text": "somewhere over the pacific northwest",
+    "display": "Somewhere over the Pacific Northwest,",
+    "lines": [
+      "Somewhere over the Pacific Northwest,"
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      71,
+      76
+    ]
+  },
+  {
+    "from": 8439,
+    "to": 8475,
+    "text": "he jumped into the night",
+    "display": "he jumped into the night.",
+    "lines": [
+      "he jumped into the night."
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      76,
+      81
+    ]
+  },
+  {
+    "from": 8482,
+    "to": 8543,
+    "text": "the recovered bills are confirmed evidence",
+    "display": "The recovered bills are confirmed evidence,",
+    "lines": [
+      "The recovered bills are confirmed evidence,"
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      81,
+      87
+    ]
+  },
+  {
+    "from": 8543,
+    "to": 8604,
+    "text": "but they don't tell us whether cooper survived",
+    "display": "but they don't tell us whether Cooper survived",
+    "lines": [
+      "but they don't tell us whether Cooper survived"
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      87,
+      95
+    ]
+  },
+  {
+    "from": 8604,
+    "to": 8636,
+    "text": "or identify him",
+    "display": "or identify him.",
+    "lines": [
+      "or identify him."
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      95,
+      98
+    ]
+  },
+  {
+    "from": 8643,
+    "to": 8731,
+    "text": "the fbi considered a fatal landing plausible",
+    "display": "The FBI considered a fatal landing plausible.",
+    "lines": [
+      "The FBI considered a fatal landing plausible."
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      98,
+      105
+    ]
+  },
+  {
+    "from": 8738,
+    "to": 8866,
+    "text": "in twenty sixteen the bureau redirected resources to other investigations",
+    "display": "In 2016, the bureau redirected resources to other investigations",
+    "lines": [
+      "In 2016, the bureau redirected",
+      "resources to other investigations"
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      105,
+      115
+    ]
+  },
+  {
+    "from": 8866,
+    "to": 8914,
+    "text": "while preserving the case information",
+    "display": "while preserving the case information.",
+    "lines": [
+      "while preserving the case information."
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      115,
+      120
+    ]
+  },
+  {
+    "from": 8914,
+    "to": 8964,
+    "text": "the bills reached a riverbank",
+    "display": "The bills reached a riverbank.",
+    "lines": [
+      "The bills reached a riverbank."
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      120,
+      125
+    ]
+  },
+  {
+    "from": 8968,
+    "to": 9026,
+    "text": "where cooper went is another question",
+    "display": "Where Cooper went is another question.",
+    "lines": [
+      "Where Cooper went is another question."
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      125,
+      131
+    ]
+  },
+  {
+    "from": 9026,
+    "to": 9116,
+    "text": "and the last case replaces a river with a vast stretch of ocean",
+    "display": "And the last case replaces a river with a vast stretch of ocean.",
+    "lines": [
+      "And the last case replaces a river with a vast stretch of ocean."
+    ],
+    "chapter": 6,
+    "sourceTokenRange": [
+      131,
+      144
+    ]
+  },
+  {
+    "from": 9129,
+    "to": 9176,
+    "text": "two hundred and thirty nine people",
+    "display": "239 people",
+    "lines": [
+      "239 people"
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      0,
+      6
+    ]
+  },
+  {
+    "from": 9176,
+    "to": 9263,
+    "text": "were aboard malaysia airlines flight three seven zero",
+    "display": "were aboard Malaysia Airlines Flight 370",
+    "lines": [
+      "were aboard Malaysia Airlines Flight 370"
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      6,
+      14
+    ]
+  },
+  {
+    "from": 9263,
+    "to": 9331,
+    "text": "when it disappeared on march eighth twenty fourteen",
+    "display": "when it disappeared on March 8, 2014,",
+    "lines": [
+      "when it disappeared on March 8, 2014,"
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      14,
+      22
+    ]
+  },
+  {
+    "from": 9331,
+    "to": 9402,
+    "text": "flying from kuala lumpur to beijing",
+    "display": "flying from Kuala Lumpur to Beijing.",
+    "lines": [
+      "flying from Kuala Lumpur to Beijing."
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      22,
+      28
+    ]
+  },
+  {
+    "from": 9402,
+    "to": 9445,
+    "text": "satellite data indicated",
+    "display": "Satellite data indicated",
+    "lines": [
+      "Satellite data indicated"
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      28,
+      31
+    ]
+  },
+  {
+    "from": 9445,
+    "to": 9507,
+    "text": "a route toward the southern indian ocean",
+    "display": "a route toward the southern Indian Ocean.",
+    "lines": [
+      "a route toward the southern Indian Ocean."
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      31,
+      38
+    ]
+  },
+  {
+    "from": 9514,
+    "to": 9560,
+    "text": "in july twenty fifteen",
+    "display": "In July 2015,",
+    "lines": [
+      "In July 2015,"
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      38,
+      42
+    ]
+  },
+  {
+    "from": 9569,
+    "to": 9650,
+    "text": "a wing component washed ashore on reunion island",
+    "display": "a wing component washed ashore on R\u00e9union Island.",
+    "lines": [
+      "a wing component washed ashore on R\u00e9union Island."
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      42,
+      50
+    ]
+  },
+  {
+    "from": 9656,
+    "to": 9706,
+    "text": "investigators confirmed it came",
+    "display": "Investigators confirmed it came",
+    "lines": [
+      "Investigators confirmed it came"
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      50,
+      54
+    ]
+  },
+  {
+    "from": 9706,
+    "to": 9768,
+    "text": "from the missing boeing seven seventy seven",
+    "display": "from the missing Boeing 777.",
+    "lines": [
+      "from the missing Boeing 777."
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      54,
+      61
+    ]
+  },
+  {
+    "from": 9768,
+    "to": 9902,
+    "text": "yet the main wreckage flight recorders and exact crash location remain unlocated",
+    "display": "Yet the main wreckage, flight recorders, and exact crash location remain unlocated.",
+    "lines": [
+      "Yet the main wreckage, flight recorders,",
+      "and exact crash location remain unlocated."
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      61,
+      73
+    ]
+  },
+  {
+    "from": 9902,
+    "to": 9980,
+    "text": "the debris is physical evidence of the aircraft's fate",
+    "display": "The debris is physical evidence of the aircraft's fate;",
+    "lines": [
+      "The debris is physical evidence of the aircraft's fate;"
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      73,
+      82
+    ]
+  },
+  {
+    "from": 9980,
+    "to": 10067,
+    "text": "explanations for why it changed course remain unproven",
+    "display": "explanations for why it changed course remain unproven.",
+    "lines": [
+      "explanations for why it changed course remain unproven."
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      82,
+      90
+    ]
+  },
+  {
+    "from": 10067,
+    "to": 10125,
+    "text": "the multinational underwater search",
+    "display": "The multinational underwater search",
+    "lines": [
+      "The multinational underwater search"
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      90,
+      94
+    ]
+  },
+  {
+    "from": 10125,
+    "to": 10179,
+    "text": "was suspended in twenty seventeen",
+    "display": "was suspended in 2017.",
+    "lines": [
+      "was suspended in 2017."
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      94,
+      99
+    ]
+  },
+  {
+    "from": 10184,
+    "to": 10282,
+    "text": "the latest search ended in january twenty twenty six",
+    "display": "The latest search ended in January 2026",
+    "lines": [
+      "The latest search ended in January 2026"
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      99,
+      108
+    ]
+  },
+  {
+    "from": 10282,
+    "to": 10324,
+    "text": "without finding the aircraft",
+    "display": "without finding the aircraft.",
+    "lines": [
+      "without finding the aircraft."
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      108,
+      112
+    ]
+  },
+  {
+    "from": 10324,
+    "to": 10428,
+    "text": "five months later malaysia extended its agreement with ocean infinity",
+    "display": "Five months later, Malaysia extended its agreement with Ocean Infinity",
+    "lines": [
+      "Five months later, Malaysia extended",
+      "its agreement with Ocean Infinity"
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      112,
+      122
+    ]
+  },
+  {
+    "from": 10428,
+    "to": 10475,
+    "text": "through june twenty twenty seven",
+    "display": "through June 2027,",
+    "lines": [
+      "through June 2027,"
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      122,
+      127
+    ]
+  },
+  {
+    "from": 10483,
+    "to": 10578,
+    "text": "leaving thousands of square kilometers still to examine",
+    "display": "leaving thousands of square kilometers still to examine.",
+    "lines": [
+      "leaving thousands of square kilometers still to examine."
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      127,
+      135
+    ]
+  },
+  {
+    "from": 10585,
+    "to": 10648,
+    "text": "more than twelve years after the disappearance",
+    "display": "More than 12 years after the disappearance,",
+    "lines": [
+      "More than 12 years after the disappearance,"
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      135,
+      142
+    ]
+  },
+  {
+    "from": 10648,
+    "to": 10695,
+    "text": "the main wreckage remains missing",
+    "display": "the main wreckage remains missing.",
+    "lines": [
+      "the main wreckage remains missing."
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      142,
+      147
+    ]
+  },
+  {
+    "from": 10703,
+    "to": 10789,
+    "text": "for the families of the two hundred and thirty nine people aboard",
+    "display": "For the families of the 239 people aboard,",
+    "lines": [
+      "For the families of the 239 people aboard,"
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      147,
+      159
+    ]
+  },
+  {
+    "from": 10789,
+    "to": 10837,
+    "text": "every new search carries the hope",
+    "display": "every new search carries the hope",
+    "lines": [
+      "every new search carries the hope"
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      159,
+      165
+    ]
+  },
+  {
+    "from": 10837,
+    "to": 10884,
+    "text": "of finally learning what happened",
+    "display": "of finally learning what happened.",
+    "lines": [
+      "of finally learning what happened."
+    ],
+    "chapter": 7,
+    "sourceTokenRange": [
+      165,
+      170
+    ]
+  },
+  {
+    "from": 10896,
+    "to": 10989,
+    "text": "a radio signal lasted seventy two seconds",
+    "display": "A radio signal lasted 72 seconds.",
+    "lines": [
+      "A radio signal lasted 72 seconds."
+    ],
+    "chapter": 8,
+    "sourceTokenRange": [
+      0,
+      7
+    ]
+  },
+  {
+    "from": 10989,
+    "to": 11062,
+    "text": "a manuscript survived six centuries",
+    "display": "A manuscript survived 6 centuries.",
+    "lines": [
+      "A manuscript survived 6 centuries."
+    ],
+    "chapter": 8,
+    "sourceTokenRange": [
+      7,
+      12
+    ]
+  },
+  {
+    "from": 11062,
+    "to": 11121,
+    "text": "an ancient machine preserved its gears",
+    "display": "An ancient machine preserved its gears,",
+    "lines": [
+      "An ancient machine preserved its gears,"
+    ],
+    "chapter": 8,
+    "sourceTokenRange": [
+      12,
+      18
+    ]
+  },
+  {
+    "from": 11121,
+    "to": 11151,
+    "text": "and a missing aircraft",
+    "display": "and a missing aircraft",
+    "lines": [
+      "and a missing aircraft"
+    ],
+    "chapter": 8,
+    "sourceTokenRange": [
+      18,
+      22
+    ]
+  },
+  {
+    "from": 11151,
+    "to": 11200,
+    "text": "left pieces on distant shores",
+    "display": "left pieces on distant shores.",
+    "lines": [
+      "left pieces on distant shores."
+    ],
+    "chapter": 8,
+    "sourceTokenRange": [
+      22,
+      27
+    ]
+  },
+  {
+    "from": 11208,
+    "to": 11259,
+    "text": "each clue brings us closer to an event",
+    "display": "Each clue brings us closer to an event",
+    "lines": [
+      "Each clue brings us closer to an event"
+    ],
+    "chapter": 8,
+    "sourceTokenRange": [
+      27,
+      35
+    ]
+  },
+  {
+    "from": 11259,
+    "to": 11300,
+    "text": "we can no longer witness",
+    "display": "we can no longer witness.",
+    "lines": [
+      "we can no longer witness."
+    ],
+    "chapter": 8,
+    "sourceTokenRange": [
+      35,
+      40
+    ]
+  },
+  {
+    "from": 11300,
+    "to": 11361,
+    "text": "the next discovery may change a theory",
+    "display": "The next discovery may change a theory,",
+    "lines": [
+      "The next discovery may change a theory,"
+    ],
+    "chapter": 8,
+    "sourceTokenRange": [
+      40,
+      47
+    ]
+  },
+  {
+    "from": 11372,
+    "to": 11399,
+    "text": "settle a question",
+    "display": "settle a question,",
+    "lines": [
+      "settle a question,"
+    ],
+    "chapter": 8,
+    "sourceTokenRange": [
+      47,
+      50
+    ]
+  },
+  {
+    "from": 11410,
+    "to": 11468,
+    "text": "or reveal that we've been asking the wrong one",
+    "display": "or reveal that we've been asking the wrong one.",
+    "lines": [
+      "or reveal that we've been asking the wrong one."
+    ],
+    "chapter": 8,
+    "sourceTokenRange": [
+      50,
+      59
+    ]
+  }
+]

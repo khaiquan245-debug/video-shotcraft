@@ -1,0 +1,9 @@
+ORIGINAL SEVEN-MYSTERIES DOCUMENTARY MUSIC
+
+Applies to 7_real_mysteries_v2_music.wav/.mp3 and corresponding score layer in the video.
+
+Newly composed and synthesized locally for the requesting user using tools/score.py. Piano-like tones, soft pads/strings, bass pulses and bells are made with mathematical oscillators. All ambient effects are procedural, not third-party recordings. No intentionally copied commercial melody or sample pack.
+
+The requesting user may use, edit, publish and monetize this music in YouTube videos and other projects without a music fee or attribution requirement. No music subscription or paid API was used.
+
+Provenance and chapter-specific settings are preserved in tools/score.py and music_report.json.

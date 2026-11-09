@@ -1,0 +1,92 @@
+[
+  {
+    "shot": 0,
+    "at": 0.15,
+    "effect": "original printer mechanism"
+  },
+  {
+    "shot": 9,
+    "at": 32.85,
+    "effect": "original printer mechanism"
+  },
+  {
+    "shot": 15,
+    "at": 57.016666666666666,
+    "effect": "original printer mechanism"
+  },
+  {
+    "shot": 16,
+    "at": 60.11666666666667,
+    "effect": "original paper movement"
+  },
+  {
+    "shot": 17,
+    "at": 65.25,
+    "effect": "original paper movement"
+  },
+  {
+    "shot": 18,
+    "at": 69.21666666666667,
+    "effect": "original paper movement"
+  },
+  {
+    "shot": 20,
+    "at": 75.31666666666668,
+    "effect": "original paper movement"
+  },
+  {
+    "shot": 21,
+    "at": 80.58333333333334,
+    "effect": "original paper movement"
+  },
+  {
+    "shot": 22,
+    "at": 83.45,
+    "effect": "original paper movement"
+  },
+  {
+    "shot": 24,
+    "at": 91.08333333333334,
+    "effect": "original paper movement"
+  },
+  {
+    "shot": 25,
+    "at": 94.98333333333333,
+    "effect": "original paper movement"
+  },
+  {
+    "shot": 27,
+    "at": 103.55000000000001,
+    "effect": "original paper movement"
+  },
+  {
+    "shot": 28,
+    "at": 106.58333333333334,
+    "effect": "original mechanical ticks"
+  },
+  {
+    "shot": 32,
+    "at": 123.78333333333335,
+    "effect": "original mechanical ticks"
+  },
+  {
+    "shot": 33,
+    "at": 127.51666666666667,
+    "effect": "original mechanical ticks"
+  },
+  {
+    "shot": 41,
+    "at": 155.21666666666667,
+    "effect": "original mechanical ticks"
+  },
+  {
+    "shot": 61,
+    "at": 229.71666666666667,
+    "effect": "original restrained airburst"
+  },
+  {
+    "shot": 95,
+    "at": 363.25,
+    "effect": "original printer mechanism"
+  }
+]
