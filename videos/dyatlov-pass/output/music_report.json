@@ -1,0 +1,20 @@
+{
+  "seconds": 55.4,
+  "sampleRate": 48000,
+  "channels": 2,
+  "tempoBpm": 72,
+  "tonalCenter": "E minor/add9",
+  "composition": "Original procedural cinematic score; no third-party samples or melody references",
+  "layers": [
+    "felt-piano motif",
+    "detuned soft pads",
+    "round bass pulse",
+    "discovery glass tones"
+  ],
+  "standalonePeak": 0.78,
+  "mixedPeak": 0.7369020942216232,
+  "musicGain": 0.14,
+  "voiceDucking": true,
+  "narrationSourceUnchanged": true,
+  "narrationWavSha256": "440b43d8d34f066ce8659a0981e296c6e693f5cf4e6326514000f44de9ae9d8a"
+}

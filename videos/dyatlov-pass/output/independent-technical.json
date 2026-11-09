@@ -1,0 +1,52 @@
+[
+  {
+    "file": "dyatlov_pass_short.mp4",
+    "sha256": "4c261275da64cebaa83f1772741fe48271282134db7857db0628baa9c31fcab3",
+    "decodeExit": 0,
+    "errors": "",
+    "seconds": "55.400000",
+    "width": 1080,
+    "height": 1920,
+    "frames": "1662",
+    "fps": "30/1",
+    "videoCodec": "h264",
+    "pixelFormat": "yuv420p",
+    "audioCodec": "aac",
+    "channels": 2,
+    "videoStreamHash": "SHA256=71af2926ec65e37f4d48c88bf8a73cc10b84bd40d06f14034c9c498d51683207",
+    "audioPeak": 0.7094599604606628,
+    "clippedSamples": 0
+  },
+  {
+    "file": "dyatlov_pass_no_music.mp4",
+    "sha256": "92afac09a95e9ae28514c7d7f48807454590548e5e9ec9a0edea07fd7bf53e64",
+    "decodeExit": 0,
+    "errors": "",
+    "seconds": "55.400000",
+    "width": 1080,
+    "height": 1920,
+    "frames": "1662",
+    "fps": "30/1",
+    "videoCodec": "h264",
+    "pixelFormat": "yuv420p",
+    "audioCodec": "aac",
+    "channels": 1,
+    "videoStreamHash": "SHA256=71af2926ec65e37f4d48c88bf8a73cc10b84bd40d06f14034c9c498d51683207",
+    "audioPeak": 0.7183917760848999,
+    "clippedSamples": 0
+  },
+  {
+    "file": "dyatlov_pass_music.wav",
+    "sha256": "202746b81a3b1eeabbe4c78d5197003e46270f899821804e543eac657dedcde5",
+    "decodeExit": 0,
+    "errors": "",
+    "seconds": "55.400000"
+  },
+  {
+    "file": "dyatlov_pass_music.mp3",
+    "sha256": "4e93457bcda6a308b729dca2e152b8006c9b68f6e2417cffe55c82b0e26eb443",
+    "decodeExit": 0,
+    "errors": "",
+    "seconds": "55.440000"
+  }
+]

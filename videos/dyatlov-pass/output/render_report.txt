@@ -1,0 +1,16 @@
+The Final Photos Before Nine Hikers Died — completed illustrated adaptation
+Output: /workspace/dyatlov-pass/output/dyatlov_pass_short.mp4
+Duration: 55.400000 seconds
+Resolution: 1080x1920
+FPS: 30/1
+Frames: 1662
+Video: h264/yuv420p
+Audio: aac,48000Hz,2channels
+English narration and subtitles: complete,130normalized words, six original paragraphs retained. Same narrator source as prior channel videos; pitch-preserving calm tempo adjustment, no scene-slot silence padding. Maxaligned gap0.433s.
+Music: original locally composed oscillator score,72BPM,E-minor/add9; WAV/MP3 separate, ducked under narration. No commercial track or third-party sample. MUSIC_LICENSE.txt grants requesting user use in monetized videos without music fee/attribution.
+Archival photos used: NONE. Source ZIP contains links only, no images. The user explicitly chose labeled illustration fallback because rights were unverified.
+Sources/rights: output/dyatlov_pass_sources.md. Nine-group and nine memorials are illustrations/symbolic figures, not real portraits. No graphic remains. YuriYudin survival note included.
+Scientific framing: small slab avalanche is a hypothesis; exact sequence remains unknown. Graphic not to scale; not a complete proven reconstruction.
+Checks: final pair fully decoded, requiredformat/duration/framecount passed; standalone music decodes; words/SRT checked; latest critical frames checked.
+Limitations: no authentic1959photographs; stylized rather than physically simulated motion; independent subjective audio audition not performed.
+Rebuild: npm run render with fixed public/audio stems, or regenerate with tools/voice.py ->tools/audio.py ->tools/score.py before render.

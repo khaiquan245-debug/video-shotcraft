@@ -1,0 +1,20 @@
+{
+  "name": "dyatlov-pass",
+  "private": true,
+  "scripts": {
+    "preview": "node tools/stills.mjs",
+    "render": "node tools/render.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.484",
+    "react": "19.2.7",
+    "react-dom": "19.2.7",
+    "remotion": "4.0.484"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.17",
+    "@types/react-dom": "19.2.3",
+    "typescript": "5.9.3"
+  }
+}

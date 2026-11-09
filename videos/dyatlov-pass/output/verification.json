@@ -1,0 +1,55 @@
+[
+  {
+    "scene": 0,
+    "asr": "These photos were taken by nine hikers. Days later, every one of them was dead.",
+    "similarity": 1.0
+  },
+  {
+    "scene": 1,
+    "asr": "In February 1959, the group crossed Russia's frozen Ural Mountains. They photographed each other's smiling skiing and preparing their final campsite.",
+    "similarity": 0.9565217391304348
+  },
+  {
+    "scene": 2,
+    "asr": "One of their last photo shows them cutting into a snowy slope to pitch their tent. That night, something went terribly wrong.",
+    "similarity": 0.9545454545454546
+  },
+  {
+    "scene": 3,
+    "asr": "When rescuers arrived weeks later, they found the tent cut open from the inside. Boots and winter clothes were left behind. Footprints led downhill into the deadly cold.",
+    "similarity": 1.0
+  },
+  {
+    "scene": 4,
+    "asr": "All 9 were eventually found dead. Some had suffered devastating injuries. Why would experienced hikers flee into the snow?",
+    "similarity": 0.972972972972973
+  },
+  {
+    "scene": 5,
+    "asr": "Decades later, scientists proposed a small avalanche, followed by deadly cold. But nobody knows exactly what happened that night. Their final photos remain.",
+    "similarity": 1.0
+  },
+  {
+    "subtitleTokens": 130,
+    "subtitleCues": 68,
+    "sameNarratorConditioning": "/workspace/ten-seconds/reference/prompt.wav"
+  },
+  {
+    "file": "dyatlov_pass_short.mp4",
+    "sha256": "4c261275da64cebaa83f1772741fe48271282134db7857db0628baa9c31fcab3",
+    "seconds": 55.4,
+    "frames": 1662,
+    "fullDecode": true,
+    "codec": "H264/yuv420p/AAC",
+    "priorNarrationAsrRetainedUnchangedVoice": true
+  },
+  {
+    "file": "dyatlov_pass_no_music.mp4",
+    "sha256": "92afac09a95e9ae28514c7d7f48807454590548e5e9ec9a0edea07fd7bf53e64",
+    "seconds": 55.4,
+    "frames": 1662,
+    "fullDecode": true,
+    "codec": "H264/yuv420p/AAC",
+    "priorNarrationAsrRetainedUnchangedVoice": true
+  }
+]

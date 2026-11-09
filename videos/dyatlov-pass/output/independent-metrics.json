@@ -1,0 +1,12 @@
+{
+  "dyatlov_pass_short.mp4": {
+    "videoStreamHash": "SHA256=71af2926ec65e37f4d48c88bf8a73cc10b84bd40d06f14034c9c498d51683207",
+    "audioPeak": 0.7094599604606628,
+    "clippedSamples": 0
+  },
+  "dyatlov_pass_no_music.mp4": {
+    "videoStreamHash": "SHA256=71af2926ec65e37f4d48c88bf8a73cc10b84bd40d06f14034c9c498d51683207",
+    "audioPeak": 0.7183917760848999,
+    "clippedSamples": 0
+  }
+}
