@@ -1,0 +1,9 @@
+ORIGINAL DYATLOV PROJECT MUSIC
+
+Applies to dyatlov_pass_music.wav, dyatlov_pass_music.mp3 and the corresponding music layer in this project's video.
+
+This score was newly composed and synthesized locally for the requesting user with tools/score.py. Felt-piano-like, pad/string-like, bass and bell-like tones come from mathematical oscillators. It uses no third-party recordings, sample packs or intentionally copied commercial melody.
+
+The requesting user may use, edit, publish and monetize this music in YouTube videos and other projects without a music fee or attribution requirement. No paid music subscription or third-party track license was used.
+
+Provenance: 45.833seconds,72BPM,E-minor/add9 tonal center,48kHz stereo. Source code and music_report.json are included.

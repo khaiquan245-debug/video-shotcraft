@@ -1,0 +1,774 @@
+[
+  {
+    "id": 0,
+    "from": 0,
+    "duration": 153,
+    "text": "These photos were taken by nine hikers. Days later... Every one of them was dead.",
+    "words": [
+      {
+        "text": "these",
+        "from": 4,
+        "to": 11
+      },
+      {
+        "text": "photos",
+        "from": 11,
+        "to": 21
+      },
+      {
+        "text": "were",
+        "from": 21,
+        "to": 23
+      },
+      {
+        "text": "taken",
+        "from": 23,
+        "to": 32
+      },
+      {
+        "text": "by",
+        "from": 32,
+        "to": 36
+      },
+      {
+        "text": "nine",
+        "from": 36,
+        "to": 45
+      },
+      {
+        "text": "hikers",
+        "from": 45,
+        "to": 64
+      },
+      {
+        "text": "days",
+        "from": 64,
+        "to": 73
+      },
+      {
+        "text": "later",
+        "from": 73,
+        "to": 86
+      },
+      {
+        "text": "every",
+        "from": 104,
+        "to": 112
+      },
+      {
+        "text": "one",
+        "from": 112,
+        "to": 118
+      },
+      {
+        "text": "of",
+        "from": 118,
+        "to": 122
+      },
+      {
+        "text": "them",
+        "from": 122,
+        "to": 128
+      },
+      {
+        "text": "was",
+        "from": 128,
+        "to": 134
+      },
+      {
+        "text": "dead",
+        "from": 134,
+        "to": 149
+      }
+    ],
+    "tempo": 1.0,
+    "quietGapEdits": [],
+    "breaks": [
+      6,
+      8,
+      14
+    ],
+    "voiceSeconds": 4.969333333333333
+  },
+  {
+    "id": 1,
+    "from": 153,
+    "duration": 278,
+    "text": "In February 1959, the group crossed Russia's frozen Ural Mountains. They photographed each other smiling, skiing, and preparing their final campsite.",
+    "words": [
+      {
+        "text": "in",
+        "from": 155,
+        "to": 158
+      },
+      {
+        "text": "february",
+        "from": 158,
+        "to": 173
+      },
+      {
+        "text": "nineteen",
+        "from": 173,
+        "to": 185
+      },
+      {
+        "text": "fifty",
+        "from": 185,
+        "to": 193
+      },
+      {
+        "text": "nine",
+        "from": 193,
+        "to": 206
+      },
+      {
+        "text": "the",
+        "from": 206,
+        "to": 212
+      },
+      {
+        "text": "group",
+        "from": 212,
+        "to": 221
+      },
+      {
+        "text": "crossed",
+        "from": 221,
+        "to": 233
+      },
+      {
+        "text": "russia's",
+        "from": 233,
+        "to": 246
+      },
+      {
+        "text": "frozen",
+        "from": 246,
+        "to": 262
+      },
+      {
+        "text": "ural",
+        "from": 262,
+        "to": 271
+      },
+      {
+        "text": "mountains",
+        "from": 271,
+        "to": 291
+      },
+      {
+        "text": "they",
+        "from": 291,
+        "to": 297
+      },
+      {
+        "text": "photographed",
+        "from": 297,
+        "to": 315
+      },
+      {
+        "text": "each",
+        "from": 315,
+        "to": 320
+      },
+      {
+        "text": "other",
+        "from": 320,
+        "to": 325
+      },
+      {
+        "text": "smiling",
+        "from": 325,
+        "to": 343
+      },
+      {
+        "text": "skiing",
+        "from": 343,
+        "to": 362
+      },
+      {
+        "text": "and",
+        "from": 362,
+        "to": 372
+      },
+      {
+        "text": "preparing",
+        "from": 372,
+        "to": 389
+      },
+      {
+        "text": "their",
+        "from": 389,
+        "to": 392
+      },
+      {
+        "text": "final",
+        "from": 392,
+        "to": 403
+      },
+      {
+        "text": "campsite",
+        "from": 403,
+        "to": 428
+      }
+    ],
+    "tempo": 1.0,
+    "quietGapEdits": [
+      {
+        "between": [
+          "nine",
+          "the"
+        ],
+        "oldSeconds": 0.3,
+        "newSeconds": 0.1
+      }
+    ],
+    "breaks": [
+      11,
+      22
+    ],
+    "voiceSeconds": 9.16
+  },
+  {
+    "id": 2,
+    "from": 431,
+    "duration": 190,
+    "text": "One of their last photos shows them cutting into a snowy slope to pitch their tent. That night... Something went terribly wrong.",
+    "words": [
+      {
+        "text": "one",
+        "from": 435,
+        "to": 440
+      },
+      {
+        "text": "of",
+        "from": 440,
+        "to": 442
+      },
+      {
+        "text": "their",
+        "from": 442,
+        "to": 446
+      },
+      {
+        "text": "last",
+        "from": 446,
+        "to": 455
+      },
+      {
+        "text": "photos",
+        "from": 455,
+        "to": 465
+      },
+      {
+        "text": "shows",
+        "from": 465,
+        "to": 475
+      },
+      {
+        "text": "them",
+        "from": 475,
+        "to": 479
+      },
+      {
+        "text": "cutting",
+        "from": 479,
+        "to": 489
+      },
+      {
+        "text": "into",
+        "from": 489,
+        "to": 495
+      },
+      {
+        "text": "a",
+        "from": 495,
+        "to": 496
+      },
+      {
+        "text": "snowy",
+        "from": 496,
+        "to": 509
+      },
+      {
+        "text": "slope",
+        "from": 509,
+        "to": 521
+      },
+      {
+        "text": "to",
+        "from": 521,
+        "to": 524
+      },
+      {
+        "text": "pitch",
+        "from": 524,
+        "to": 533
+      },
+      {
+        "text": "their",
+        "from": 533,
+        "to": 537
+      },
+      {
+        "text": "tent",
+        "from": 537,
+        "to": 555
+      },
+      {
+        "text": "that",
+        "from": 555,
+        "to": 560
+      },
+      {
+        "text": "night",
+        "from": 560,
+        "to": 569
+      },
+      {
+        "text": "something",
+        "from": 575,
+        "to": 587
+      },
+      {
+        "text": "went",
+        "from": 587,
+        "to": 592
+      },
+      {
+        "text": "terribly",
+        "from": 592,
+        "to": 605
+      },
+      {
+        "text": "wrong",
+        "from": 605,
+        "to": 618
+      }
+    ],
+    "tempo": 1.0,
+    "quietGapEdits": [
+      {
+        "between": [
+          "night",
+          "something"
+        ],
+        "oldSeconds": 0.3,
+        "newSeconds": 0.2
+      }
+    ],
+    "breaks": [
+      15,
+      17,
+      21
+    ],
+    "voiceSeconds": 6.225333333333333
+  },
+  {
+    "id": 3,
+    "from": 621,
+    "duration": 275,
+    "text": "When rescuers arrived weeks later, they found the tent cut open from the inside. Boots and winter clothes were left behind. Footprints led downhill into the deadly cold.",
+    "words": [
+      {
+        "text": "when",
+        "from": 621,
+        "to": 628
+      },
+      {
+        "text": "rescuers",
+        "from": 628,
+        "to": 643
+      },
+      {
+        "text": "arrived",
+        "from": 643,
+        "to": 653
+      },
+      {
+        "text": "weeks",
+        "from": 653,
+        "to": 662
+      },
+      {
+        "text": "later",
+        "from": 662,
+        "to": 679
+      },
+      {
+        "text": "they",
+        "from": 679,
+        "to": 682
+      },
+      {
+        "text": "found",
+        "from": 682,
+        "to": 690
+      },
+      {
+        "text": "the",
+        "from": 690,
+        "to": 691
+      },
+      {
+        "text": "tent",
+        "from": 691,
+        "to": 702
+      },
+      {
+        "text": "cut",
+        "from": 702,
+        "to": 708
+      },
+      {
+        "text": "open",
+        "from": 708,
+        "to": 715
+      },
+      {
+        "text": "from",
+        "from": 715,
+        "to": 720
+      },
+      {
+        "text": "the",
+        "from": 720,
+        "to": 724
+      },
+      {
+        "text": "inside",
+        "from": 724,
+        "to": 745
+      },
+      {
+        "text": "boots",
+        "from": 745,
+        "to": 754
+      },
+      {
+        "text": "and",
+        "from": 754,
+        "to": 757
+      },
+      {
+        "text": "winter",
+        "from": 757,
+        "to": 764
+      },
+      {
+        "text": "clothes",
+        "from": 764,
+        "to": 775
+      },
+      {
+        "text": "were",
+        "from": 775,
+        "to": 777
+      },
+      {
+        "text": "left",
+        "from": 777,
+        "to": 784
+      },
+      {
+        "text": "behind",
+        "from": 784,
+        "to": 799
+      },
+      {
+        "text": "footprints",
+        "from": 805,
+        "to": 823
+      },
+      {
+        "text": "led",
+        "from": 823,
+        "to": 832
+      },
+      {
+        "text": "downhill",
+        "from": 832,
+        "to": 850
+      },
+      {
+        "text": "into",
+        "from": 850,
+        "to": 859
+      },
+      {
+        "text": "the",
+        "from": 859,
+        "to": 862
+      },
+      {
+        "text": "deadly",
+        "from": 862,
+        "to": 875
+      },
+      {
+        "text": "cold",
+        "from": 875,
+        "to": 892
+      }
+    ],
+    "tempo": 1.0,
+    "quietGapEdits": [],
+    "breaks": [
+      13,
+      20,
+      27
+    ],
+    "voiceSeconds": 9.04
+  },
+  {
+    "id": 4,
+    "from": 896,
+    "duration": 217,
+    "text": "All nine were eventually found dead. Some had suffered devastating injuries. Why would experienced hikers flee into the snow?",
+    "words": [
+      {
+        "text": "all",
+        "from": 900,
+        "to": 906
+      },
+      {
+        "text": "nine",
+        "from": 906,
+        "to": 918
+      },
+      {
+        "text": "were",
+        "from": 918,
+        "to": 924
+      },
+      {
+        "text": "eventually",
+        "from": 924,
+        "to": 938
+      },
+      {
+        "text": "found",
+        "from": 938,
+        "to": 947
+      },
+      {
+        "text": "dead",
+        "from": 947,
+        "to": 956
+      },
+      {
+        "text": "some",
+        "from": 962,
+        "to": 971
+      },
+      {
+        "text": "had",
+        "from": 971,
+        "to": 976
+      },
+      {
+        "text": "suffered",
+        "from": 976,
+        "to": 988
+      },
+      {
+        "text": "devastating",
+        "from": 988,
+        "to": 1007
+      },
+      {
+        "text": "injuries",
+        "from": 1007,
+        "to": 1027
+      },
+      {
+        "text": "why",
+        "from": 1027,
+        "to": 1033
+      },
+      {
+        "text": "would",
+        "from": 1033,
+        "to": 1038
+      },
+      {
+        "text": "experienced",
+        "from": 1038,
+        "to": 1058
+      },
+      {
+        "text": "hikers",
+        "from": 1058,
+        "to": 1071
+      },
+      {
+        "text": "flee",
+        "from": 1071,
+        "to": 1081
+      },
+      {
+        "text": "into",
+        "from": 1081,
+        "to": 1088
+      },
+      {
+        "text": "the",
+        "from": 1088,
+        "to": 1091
+      },
+      {
+        "text": "snow",
+        "from": 1091,
+        "to": 1110
+      }
+    ],
+    "tempo": 1.0,
+    "quietGapEdits": [],
+    "breaks": [
+      5,
+      10,
+      18
+    ],
+    "voiceSeconds": 7.12
+  },
+  {
+    "id": 5,
+    "from": 1113,
+    "duration": 262,
+    "text": "Decades later, scientists proposed a small avalanche, followed by deadly cold. But nobody knows exactly what happened that night. Their final photos remain.",
+    "words": [
+      {
+        "text": "decades",
+        "from": 1113,
+        "to": 1127
+      },
+      {
+        "text": "later",
+        "from": 1127,
+        "to": 1141
+      },
+      {
+        "text": "scientists",
+        "from": 1141,
+        "to": 1154
+      },
+      {
+        "text": "proposed",
+        "from": 1154,
+        "to": 1166
+      },
+      {
+        "text": "a",
+        "from": 1166,
+        "to": 1167
+      },
+      {
+        "text": "small",
+        "from": 1167,
+        "to": 1181
+      },
+      {
+        "text": "avalanche",
+        "from": 1181,
+        "to": 1199
+      },
+      {
+        "text": "followed",
+        "from": 1199,
+        "to": 1213
+      },
+      {
+        "text": "by",
+        "from": 1213,
+        "to": 1217
+      },
+      {
+        "text": "deadly",
+        "from": 1217,
+        "to": 1227
+      },
+      {
+        "text": "cold",
+        "from": 1227,
+        "to": 1239
+      },
+      {
+        "text": "but",
+        "from": 1239,
+        "to": 1249
+      },
+      {
+        "text": "nobody",
+        "from": 1249,
+        "to": 1259
+      },
+      {
+        "text": "knows",
+        "from": 1259,
+        "to": 1268
+      },
+      {
+        "text": "exactly",
+        "from": 1268,
+        "to": 1283
+      },
+      {
+        "text": "what",
+        "from": 1283,
+        "to": 1289
+      },
+      {
+        "text": "happened",
+        "from": 1289,
+        "to": 1300
+      },
+      {
+        "text": "that",
+        "from": 1300,
+        "to": 1305
+      },
+      {
+        "text": "night",
+        "from": 1305,
+        "to": 1315
+      },
+      {
+        "text": "their",
+        "from": 1321,
+        "to": 1325
+      },
+      {
+        "text": "final",
+        "from": 1325,
+        "to": 1335
+      },
+      {
+        "text": "photos",
+        "from": 1335,
+        "to": 1346
+      },
+      {
+        "text": "remain",
+        "from": 1346,
+        "to": 1362
+      }
+    ],
+    "tempo": 1.0,
+    "quietGapEdits": [
+      {
+        "between": [
+          "night",
+          "their"
+        ],
+        "oldSeconds": 0.3,
+        "newSeconds": 0.2
+      }
+    ],
+    "breaks": [
+      10,
+      18,
+      22
+    ],
+    "voiceSeconds": 8.3
+  }
+]

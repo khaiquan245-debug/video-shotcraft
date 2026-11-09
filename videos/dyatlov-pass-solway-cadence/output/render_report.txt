@@ -1,0 +1,7 @@
+Completed Dyatlov narration cadence revision
+Duration45.833333s;1375frames;1080x1920;30fps;H264/yuv420p;AAC48kHz
+Main stereo / no-music mono; full decode pass both
+Same script130 normalized tokens; same native voice source, tempo1.0
+Reference uploaded Solway verified byte-for-byte
+Original score regenerated to edited timeline; narration-driven ducking
+Persistent channel profile stored in videos/CHANNEL_VOICE_PROFILE.json and videos/AGENTS.md

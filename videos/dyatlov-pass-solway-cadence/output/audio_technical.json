@@ -1,0 +1,20 @@
+[
+  {
+    "stem": "master",
+    "seconds": 45.833333333333336,
+    "peak": 0.72491455078125,
+    "clippedSamples": 0
+  },
+  {
+    "stem": "narration",
+    "seconds": 45.833333333333336,
+    "peak": 0.7081298828125,
+    "clippedSamples": 0
+  },
+  {
+    "stem": "narration-sfx",
+    "seconds": 45.833333333333336,
+    "peak": 0.708953857421875,
+    "clippedSamples": 0
+  }
+]

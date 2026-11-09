@@ -1,0 +1,1 @@
+Ảnh gốc chưa được tải do kết nối đến nguồn ảnh bị chặn. Chạy download_images.py trên Codex/PC có mạng để tạo 3 JPG trong thư mục anh_that. Không được ghi nhầm ZIP này đã chứa 3 ảnh thật.

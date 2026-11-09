@@ -1,0 +1,22 @@
+{
+  "dyatlov_pass_short": {
+    "decodedPeak": 0.7239515781402588,
+    "clippedSamples": 0,
+    "audioLagSamples3Probes": [
+      0,
+      0,
+      0
+    ],
+    "videoHash": "SHA256=2ddc95408397b7dd5a473ea793e0b6eb19845769876386bd471f8e7bca3f020a"
+  },
+  "dyatlov_pass_no_music": {
+    "decodedPeak": 0.7090849280357361,
+    "clippedSamples": 0,
+    "audioLagSamples3Probes": [
+      0,
+      0,
+      0
+    ],
+    "videoHash": "SHA256=2ddc95408397b7dd5a473ea793e0b6eb19845769876386bd471f8e7bca3f020a"
+  }
+}

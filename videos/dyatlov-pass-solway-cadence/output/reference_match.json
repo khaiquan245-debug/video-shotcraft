@@ -1,0 +1,7 @@
+{
+  "uploadedSolwayEqualsLocalReference": true,
+  "allSixOriginalNarrationUtterancesPreserved": true,
+  "referenceVoiceConditioning": "/workspace/ten-seconds/reference/prompt.wav",
+  "tempo": 1.0,
+  "note": "Matches synthesis speaker and pacing policy. Different text retains its own sentence prosody; subjective identical intonation is not claimed."
+}

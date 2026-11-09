@@ -1,0 +1,12 @@
+{
+  "reference": "solway_spaceman_scored.mp4",
+  "referenceSha256": "11ea64b5b781c36e20c52f369140e6b8c15abf9ba42aa1f7503d77666efbab65",
+  "speakerReferenceSha256": "202a0aecd38e616d19e0c2c428d812926de0535f7243ab71979ba9b99c1a38ac",
+  "tempo": 1.0,
+  "pitchShift": false,
+  "sentencePauseTargetSeconds": 0.2,
+  "internalPauseTargetSeconds": 0.1,
+  "scenePaddingFrames": 3,
+  "endingPaddingFrames": 12,
+  "instruction": "Channel default for all subsequent videos unless the user changes it. Keep speaker, native delivery and connected phrase pacing; align video and captions to speech, never stretch voice to a fixed duration."
+}

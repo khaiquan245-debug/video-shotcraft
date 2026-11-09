@@ -1,0 +1,3 @@
+# Channel voice preference
+
+For all new videos and narration revisions, use CHANNEL_VOICE_PROFILE.json. The user selected solway_spaceman_scored.mp4 as the persistent voice/cadence reference. Same male English narrator, native 1.0 tempo and pitch, connected delivery; target 0.20s sentence pauses and 0.10s internal quiet gaps, no artificial multi-second scene padding. Align captions, scene changes and SFX to the actual resulting speech. Reuse the same PocketTTS conditioning and generation settings from the Solway project. Do not slow narration to satisfy old duration estimates. Preserve scripts unless asked to edit.
