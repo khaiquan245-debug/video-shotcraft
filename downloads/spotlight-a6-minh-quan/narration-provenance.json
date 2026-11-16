@@ -1,0 +1,143 @@
+{
+  "engine": "VieNeu-TTS v3 Turbo",
+  "package_version": "3.8.4",
+  "actual_backend": "onnx",
+  "engine_class": "OnnxV3LiteEngine",
+  "model_directory": "/workspace/tts-runtime/models/vieneu-v3-turbo",
+  "session_providers": {
+    "sess_pre": [
+      "CPUExecutionProvider"
+    ],
+    "sess_dec": [
+      "CPUExecutionProvider"
+    ],
+    "sess_ac": [
+      "CPUExecutionProvider"
+    ],
+    "sess_codec_dec": [
+      "CPUExecutionProvider"
+    ]
+  },
+  "inference_offline": true,
+  "model_source": "https://huggingface.co/pnnbao-ump/VieNeu-TTS-v3-Turbo",
+  "canonical_voice": "Hải Đăng",
+  "voice_metadata": {
+    "gender": "male",
+    "description": "Nam · Bắc · Phong cách tự nhiên",
+    "aliases": [
+      "Minh Quân Pro",
+      "Minh Quân"
+    ]
+  },
+  "preset_sha256": "e1f13cd2c2e0d29fdab5e15bfd7a30f3d7b768e6132bb43dd2b853f8efefdce9",
+  "speed_method": "native at 1.0; pitch-preserving FFmpeg atempo otherwise",
+  "model_inventory": {
+    "repo": "pnnbao-ump/VieNeu-TTS-v3-Turbo",
+    "revision": "61b85e3d937fbbacb387714180e8182823512523",
+    "license": "apache-2.0",
+    "codec_repo": "OpenMOSS-Team/MOSS-Audio-Tokenizer-Nano-ONNX",
+    "codec_revision": "ceff0d0749bfb3fa2d61149794ec6feef0d1e1ae",
+    "files": {
+      "tokenizer.json": "7ed8df3a1fa39a3a35a1ab4b72f9faa35980bea0b930ba4aa82f847d21c583af",
+      "README.md": "5d5bb2de661fabc0e073b3b844dc131696fac3dddd5ea882d10fd9a849108eb7",
+      "config.json": "eee8e032cb936a60312f594a8156c086173a9c0255a545bd11a448f22a7c77ae",
+      "onnx_update/vieneu_backbone_shared.data": "c7c072193db33d0542457e2612c7272c44c4279d1cafaf0aa4c379964911db2f",
+      "onnx_update/vieneu_decode_step.onnx": "bedc379cea61ea5d616312750d95ad3924e055856662d19187a889a5edc24ceb",
+      "onnx_update/vieneu_v3_heads.npz": "fb22484baa424bbb775133a6e5f0d00d6299b2b256fbe3312a864b85b9aed01e",
+      "onnx_update/vieneu_acoustic_cached.onnx": "f631e3387c788c3d8b9a5ac5df94952af5bc4c4d1049ff8a751e76a246fff2d4",
+      "onnx_update/vieneu_prefill.onnx": "27f8b064f6b57b5448e95d095f1959588c005d614678045c2b97ecccf3b7a0f7",
+      "onnx_update/tokenizer.json": "6cc6bcbe380b8c37bd9f2514e37c5dfa3e00e122c6e3125dae5c4afe48e39158",
+      "onnx_update/config.json": "17d89d414ee302a82db7b330bf57b4cdf8541569392119c81f552178cafcb79b"
+    },
+    "codec_files": {
+      "moss_audio_tokenizer_encode.onnx": "eadea4a645abdcf98714c7aead122ee2ce7da6e080f9f80b977cd1ca8e19473a",
+      "moss_audio_tokenizer_decode_full.onnx": "0fbbafe3fd4afa2a019af5c5ced204af6e2d1db044fa40f021525d2aee95b4ac",
+      "codec_browser_onnx_meta.json": "3e291c883bb7d11ff2fe8e964e3e495519760358859f35c951254c7741592731",
+      "moss_audio_tokenizer_decode_shared.data": "e69d52e0f4e84ca27850557ee54face46632d3a5a16c89bd246c7c408466dcad",
+      "moss_audio_tokenizer_decode_step.onnx": "9527c86a29e1837edec1f74db57d5eeaadb3a715af3382703566460afed25855",
+      "moss_audio_tokenizer_encode.data": "aa751265b2bab2887eac224484546b194875aa7494b607115439b3dc6b228a2c",
+      "README.md": "3c7b9e9ef1c8c5e5c829a077a1d32c1f7aea1668f2bf17ead318ff04bf1e6fe4"
+    }
+  },
+  "language": "vi-VN",
+  "requested_voice": "Minh Quân",
+  "speed": 1.0,
+  "text": "Bạn đã bao giờ bước vào một căn phòng, rồi cảm thấy tất cả mọi người đang nhìn mình chưa?\n\nBạn vội chỉnh tóc, kéo lại áo. Trong đầu chỉ có một câu hỏi: Mình trông kỳ lắm sao?\n\nNhưng sự thật là, phần lớn mọi người chẳng chú ý đến bạn nhiều như bạn nghĩ.\n\nTrong tâm lý học, hiện tượng này được gọi là hiệu ứng ánh đèn sân khấu.\n\nVì bạn luôn nhìn thế giới từ góc nhìn của mình, nên bạn dễ tưởng rằng người khác cũng đang để ý từng hành động của bạn.\n\nNhưng hãy nhìn xung quanh.\n\nNgười bên cạnh đang lo lắng về ngoại hình của chính họ. Người phía trước lại đang nhớ về một chuyện xấu hổ hôm qua.\n\nAi cũng bận với những suy nghĩ riêng.\n\nVậy nên, lần tới khi bạn sợ người khác đánh giá mình, hãy nhớ điều này.\n\nBạn là nhân vật chính trong cuộc đời mình, nhưng không phải là tâm điểm trong cuộc đời của tất cả mọi người.\n\nVà đôi khi, nhận ra điều đó chính là cách để bạn tự tin hơn.\n",
+  "duration": 43.28,
+  "sample_rate": 48000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "execution_provider": "CPUExecutionProvider",
+  "start_offset": 0,
+  "captions": [
+    {
+      "text": "Bạn đã bao giờ bước vào một căn phòng, rồi cảm thấy tất cả mọi người đang nhìn mình chưa?",
+      "start": 0.0,
+      "end": 4.16
+    },
+    {
+      "text": "Bạn vội chỉnh tóc, kéo lại áo.",
+      "start": 4.34,
+      "end": 6.26
+    },
+    {
+      "text": "Trong đầu chỉ có một câu hỏi: Mình trông kỳ lắm sao?",
+      "start": 6.44,
+      "end": 9.16
+    },
+    {
+      "text": "Nhưng sự thật là, phần lớn mọi người chẳng chú ý đến bạn nhiều như bạn nghĩ.",
+      "start": 9.34,
+      "end": 12.94
+    },
+    {
+      "text": "Trong tâm lý học, hiện tượng này được gọi là hiệu ứng ánh đèn sân khấu.",
+      "start": 13.12,
+      "end": 16.8
+    },
+    {
+      "text": "Vì bạn luôn nhìn thế giới từ góc nhìn của mình, nên bạn dễ tưởng rằng người khác cũng đang để ý từng hành động của bạn.",
+      "start": 16.98,
+      "end": 22.1
+    },
+    {
+      "text": "Nhưng hãy nhìn xung quanh.",
+      "start": 22.28,
+      "end": 23.64
+    },
+    {
+      "text": "Người bên cạnh đang lo lắng về ngoại hình của chính họ.",
+      "start": 23.82,
+      "end": 26.3
+    },
+    {
+      "text": "Người phía trước lại đang nhớ về một chuyện xấu hổ hôm qua.",
+      "start": 26.48,
+      "end": 29.28
+    },
+    {
+      "text": "Ai cũng bận với những suy nghĩ riêng.",
+      "start": 29.46,
+      "end": 31.06
+    },
+    {
+      "text": "Vậy nên, lần tới khi bạn sợ người khác đánh giá mình, hãy nhớ điều này.",
+      "start": 31.24,
+      "end": 35.08
+    },
+    {
+      "text": "Bạn là nhân vật chính trong cuộc đời mình, nhưng không phải là tâm điểm trong cuộc đời của tất cả mọi người.",
+      "start": 35.26,
+      "end": 39.82
+    },
+    {
+      "text": "Và đôi khi, nhận ra điều đó chính là cách để bạn tự tin hơn.",
+      "start": 40.0,
+      "end": 43.28
+    }
+  ],
+  "alignment": "measured sentence audio spans; no word-level alignment",
+  "peak_before_gain": 0.9476207494735718,
+  "gain": 1.0,
+  "wav_sha256": "c050e2a1a3d4fb23ef12522d8419bafaa24eba829fe09a754a305f3198961999"
+}

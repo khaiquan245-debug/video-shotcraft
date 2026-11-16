@@ -1,0 +1,8 @@
+{
+  "samples": 28576,
+  "maxLengthError": 9.947598300641403e-14,
+  "unreachable": 0,
+  "stanceSamples": 446,
+  "maxGroundError": 0,
+  "maxFootSlide": 2.2737367544323206e-13
+}
