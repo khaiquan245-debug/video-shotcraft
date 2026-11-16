@@ -1,0 +1,7 @@
+{
+  "frame_times": 720,
+  "joint_samples": 5760,
+  "unreachable": 0,
+  "max_length_error": 5.684341886080802e-14,
+  "white_neck_connection": "Single continuous filled head-neck path; no horizontal jaw line across neck."
+}

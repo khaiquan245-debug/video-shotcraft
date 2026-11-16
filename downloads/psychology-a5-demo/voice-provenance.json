@@ -1,0 +1,11 @@
+{
+  "engine": "sherpa-onnx OfflineTts / VITS Piper",
+  "model": "vi_VN-vais1000-medium",
+  "speaker": 0,
+  "rate": "native default, no tempo stretch",
+  "provider": "Local CPU; no voice API calls",
+  "source": "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/vits-piper-vi_VN-vais1000-medium.tar.bz2",
+  "model_sha256": "df1512ef3265609f147ae23726b8c8867c6d28e60acb9ffca3545e11783b809f",
+  "model_card": "VOICE-MODEL-CARD.md",
+  "dataset_license_recorded_in_model_card": "CC BY 4.0; VAIS1000 corpus, https://ieee-dataport.org/documents/vais-1000-vietnamese-speech-synthesis-corpus"
+}
