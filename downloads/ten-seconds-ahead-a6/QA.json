@@ -1,0 +1,76 @@
+{
+  "edition": "A6 Amber Noir \u2014 approved local 2D adaptation",
+  "route": "Original reference-guided local drawing/animation and the installed A6 finishing helper. Not a Flow/Veo or Renoise result.",
+  "duration_seconds": 30,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 24,
+  "frames": 720,
+  "video": "H.264",
+  "audio": "AAC stereo, original voice retained with a new mix",
+  "decode": "pass",
+  "aligned_words": 65,
+  "semantic_caption_cues": 18,
+  "title": "Pure white upper-left TEN SECONDS / AHEAD",
+  "caption_treatment": "Uppercase cream text, black outline, positional amber active-word highlight and phrase-entry pop; approved Anton font substitute.",
+  "rig": {
+    "stanceSamples": 73,
+    "maxGroundError": 2.2737367544323206e-13,
+    "maxFootSlide": 5.684341886080802e-14,
+    "samples": 5131,
+    "maxLengthError": 9.947598300641403e-14,
+    "unreachable": 0,
+    "armUpper": 115,
+    "armLower": 115,
+    "legUpper": 125,
+    "legLower": 125
+  },
+  "extra_sound_cues": 23,
+  "paid_apis_used": false,
+  "existing_repository_files_changed": false,
+  "sha256": "8c101f30bfe6fcf6a26b549f9c735a571c9221172e7891adc20f91162af900c4",
+  "inspection_scope": "Full-frame numerical IK checks for every one of 720 source frames; all encoded frames decoded. Selected encoded action/caption frames inspected separately.",
+  "limitations": [
+    "Numerical rig checks establish connected endpoints, fixed bone lengths and stance-foot placement, not every perceptual quality.",
+    "Full normal-speed audiovisual listening and real-device review are not certified with the tools available in this session.",
+    "User acceptance of this exact encode is not inferred."
+  ],
+  "automated_muted_browser_playback": {
+    "duration": 30,
+    "width": 1080,
+    "height": 1920,
+    "currentTime": 2.330593,
+    "paused": false,
+    "error": null
+  },
+  "integrated_loudness_lufs": -16.1,
+  "true_peak_dbtp": -1.4,
+  "decoded_frame_observations": [
+    {
+      "time": 3.25,
+      "observation": "Cup is supported by the connected wrist/palm; caption highlights SPILL at its aligned speech interval."
+    },
+    {
+      "time": 5.2,
+      "observation": "Rider hands reach the handlebars; legs meet distinct crank endpoints; primary character remains connected."
+    },
+    {
+      "time": 18.3,
+      "observation": "Running leg joints remain attached and one foot lifts while the stance foot stays grounded."
+    },
+    {
+      "time": 20.3,
+      "observation": "Stopping feet transfer support sequentially before the rescue grip."
+    },
+    {
+      "time": 21.6,
+      "observation": "Hero and child hand contact is visible, without duplicated limb trails; UNDERSTANDS is highlighted."
+    },
+    {
+      "time": 26.7,
+      "observation": "Lowered pose remains connected above readable NEXT caption; title stays white."
+    }
+  ]
+}

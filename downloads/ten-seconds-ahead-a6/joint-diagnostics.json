@@ -1,0 +1,12 @@
+{
+  "stanceSamples": 73,
+  "maxGroundError": 2.2737367544323206e-13,
+  "maxFootSlide": 5.684341886080802e-14,
+  "samples": 5131,
+  "maxLengthError": 9.947598300641403e-14,
+  "unreachable": 0,
+  "armUpper": 115,
+  "armLower": 115,
+  "legUpper": 125,
+  "legLower": 125
+}
