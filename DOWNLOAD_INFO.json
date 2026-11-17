@@ -1,0 +1,21 @@
+{
+  "file": "MiniGo24_B4_Full_Vietnamese_1080p_Download.mp4",
+  "bytes": 100185524,
+  "sha256": "49aac092c52cd2b26cbc26d17d31259ff44559ad509249473e39100301a86138",
+  "duration_seconds": 863.208333,
+  "scenes": 18,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "frames": 20717,
+  "codec": "H264/AAC128 stereo48k",
+  "master_bytes_not_committed": 126684835,
+  "master_sha256_not_committed": "4e66978974fc7f9cf875afaf507049d23c55d824cf1a11002e79e5e97c10c32b",
+  "master_exclusion_reason": "exceeds GitHub100MiB file limit; retained locally",
+  "model_weights_published": false,
+  "paid_apis_used": false,
+  "formal_B4_certification": "not completed",
+  "human_audio_audition": "not performed"
+}
