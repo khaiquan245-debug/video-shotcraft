@@ -6,6 +6,6 @@ Mở `CaDem2317_Full_Vietnamese_1080p.mp4` bằng trình phát MP4; phụ đề 
 
 Hình ảnh hoạt hình vector 2D nhiều lớp / 2.5D mềm, với chuyển động tay chân IK, bước đi, tương tác đạo cụ và góc máy theo shot list. Không phải mô hình Blender 3D. VieNeu-TTS v3 Turbo chạy trên CPU cục bộ; nhạc và SFX tổng hợp tại máy. Xem CREDITS.md.
 
-Kiểm tra: so sánh toàn bộ câu thoại với kịch bản; kiểm tra thời gian và khung hình từng cảnh; kiểm tra hình giữa của 153 shot; kiểm tra toán học độ dài xương ở các pha mẫu và trong render; giải mã toàn bộ MP4 bằng FFmpeg. Các kiểm tra tự động không thay thế việc nghe duyệt diễn xuất giọng và đánh giá thẩm mỹ bởi con người.
+Kiểm tra: so sánh toàn bộ câu thoại với kịch bản; kiểm tra thời gian và khung hình từng cảnh; kiểm tra hình giữa của 153 shot; kiểm tra toán học độ dài xương ở các pha mẫu và trong render; giải mã toàn bộ MP4 bằng FFmpeg; phát toàn bộ MP4 ở tốc độ 1× bằng Chromium (tắt tiếng), đến cuối file, không lỗi phát. Các kiểm tra tự động không thay thế việc nghe duyệt diễn xuất giọng và đánh giá thẩm mỹ bởi con người.
 
 Không sửa các dự án Video Shotcraft có trước, không đưa model weights vào Git, không sử dụng API trả phí.

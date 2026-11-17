@@ -1,0 +1,15 @@
+{
+  "duration_seconds": 260.7916666667,
+  "resolution": "1920x1080",
+  "fps": 24,
+  "scenes": 18,
+  "shots": 153,
+  "spoken_lines": 87,
+  "messages_on_screen": 2,
+  "max_narration_quiet_seconds": 2.52,
+  "full_decode": "passed",
+  "browser_1x_muted": "ended; no playback error",
+  "loudness_LUFS": -15.9,
+  "true_peak_dBFS": -1.7,
+  "scope": "Technical checks and sampled visual inspection; no claim of human listening or aesthetic approval."
+}
