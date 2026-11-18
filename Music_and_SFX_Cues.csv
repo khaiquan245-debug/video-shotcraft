@@ -1,0 +1,19 @@
+scene,start_seconds,end_seconds,phase,direction
+1,0,70,suspense,"Giảm nhạc hoàn toàn 1 giây khi nhìn mắt Nam. Lấy tiếng bíp làm sound bridge, không dùng flash hiệu ứng vô cớ."
+2,70,160,warm,Từ tiếng đường phố sang máy lạnh và tiếng “ding” cửa; cuối cảnh máy quét kêu bíp sang cảnh đếm tiền.
+3,160,250,suspense,"Tiếng tiền, bút, máy in hóa đơn. Nhạc dừng khi Khang nói “Hỏng rồi”."
+4,250,340,warm,Beep máy quét tạo nhịp hài; tiếng khóa kéo của túi đen làm J-cut sang cảnh 05.
+5,340,425,suspense,Tờ giấy máy in rít thành nền sound bridge; tiếng điện thoại Tín rung kéo qua cảnh 06.
+6,425,515,suspense,Tiếng gọi điện bị lọc nhỏ; im một nhịp sau lời đe dọa.
+7,515,600,suspense,Đầu dây nội bộ có tiếng nhiễu nhẹ. Kết cảnh bằng tiếng “ding” khách vào.
+8,600,690,warm,"Hài từ nhịp máy quét, không chèn tiếng cười giả; fade sang chuông điện thoại Nam."
+9,690,780,human,"Tiếng xe xa, cuộc gọi yếu hơn; tiếng nắp chai bật nối sang tiếng mở ngăn kéo cảnh 10."
+10,780,870,suspense,Tiếng khóa két và khóa kéo được làm nổi; kết bằng nhịp chân Khang biến thành nhịp chân Tín ở cảnh 11.
+11,870,960,confession,Bỏ nhạc trong lời thú nhận; tiếng quạt tủ lạnh đều đặn tạo cảm giác thật.
+12,960,1050,suspense,"Tiếng chuột, quạt máy, tiếng bíp nhắc giờ; tiếng Khang gọi làm L-cut sang cảnh sau."
+13,1050,1140,suspense,Một nốt bass bắt đầu khi ghép đủ dữ kiện; tiếng cửa mở khóa sang cảnh 14.
+14,1140,1230,suspense,"Tiếng cửa đóng lớn hơn bình thường, nhưng không cần nhạc jumpscare."
+15,1230,1320,choice,Cắt hết nhạc ngay trước từ “Không”; không chèn hồi tưởng giả giữa cao trào lựa chọn. Cắt theo tiếng bút lăn trên bàn.
+16,1320,1410,countdown,"Nhạc rút dần; tiếng “ding” cửa kéo qua cut, cùng khuôn gương cầu từ cảnh mở."
+17,1410,1620,climax,"Nhấn tiếng hiện trường (khóa kéo, lon rơi, bước chân, hơi thở), nhạc dồn từ 17.06–17.15 rồi tắt hẳn ở 17.16. Không lạm dụng rung máy hoặc ánh chớp để che động tác nhân vật. Không biến cảnh an toàn thành hướng dẫn đánh nhau."
+18,1620,1698,human,"Không nhạc những giây đầu. Thêm giai điệu rất nhẹ khi giọng mẹ xuất hiện, kết bằng tiếng xe sáng sớm và cửa tự động."
