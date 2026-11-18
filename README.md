@@ -1,3 +1,11 @@
+# Tải video bằng một file
+
+Bấm [ChiLon_HanhDong_VIDEO.zip](./ChiLon_HanhDong_VIDEO.zip), rồi bấm **Download raw file** (biểu tượng tải xuống ở phía trên bên phải). Giải nén ZIP để lấy MP4 1080p bản xem nhanh; không cần Python hoặc ghép file.
+
+Nếu video mở ra để phát thay vì tải, dùng menu **⋮ → Tải xuống** hoặc nhấn chuột phải **Lưu video thành…**.
+
+Gói ZIP này chứa bản MP4 xem nhanh, không phải master 10 Mbps. Muốn lấy master, tải hai phần `.part001`, `.part002` và `join_master.py` theo hướng dẫn dưới đây.
+
 # Trì hoãn → Hành động · Review V3
 
 Bản sửa theo đủ 12 điểm nhận xét. 1920×1080, 24 fps, video CBR 10 Mbps, khoảng 5:50; nhanh hơn bản trước 30 giây mà không tăng tốc giọng đọc. File PREVIEW chỉ để xem nhanh; dùng MP4 trong gói MASTER cho bản xuất chất lượng cao.
