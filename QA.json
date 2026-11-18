@@ -1,0 +1,19 @@
+{
+  "duration_seconds": 379.6666666667,
+  "frames": 9112,
+  "resolution": "1920x1080",
+  "fps": 24,
+  "scenes": 10,
+  "source_shots": 91,
+  "original_dialogue_and_narration_lines": 39,
+  "source_text_preserved": true,
+  "maximum_voice_quiet_seconds": 2.46,
+  "voice_time_stretch": false,
+  "style": "user-selected previous-film layered2D/soft2.5D",
+  "full_decode": "passed",
+  "technical_playback": "26second proof at1x; full film at4x; muted Chromium, ended without error",
+  "LUFS": -16.0,
+  "true_peak_dBFS": -1.9,
+  "github_download_hash_matches": true,
+  "scope": "Sampled visual inspection and technical checks; no claim of human listening or aesthetic approval"
+}

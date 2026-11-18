@@ -9,3 +9,5 @@ Mở ChiLon_HanhDong_Vietnamese_1080p.mp4 để xem. Phụ đề Việt đã ghi
 VieNeu-TTS v3 Turbo ONNX CPU offline. Người dẫn: Minh Đức; Minh: Hải Đăng; Huy: Thiện Minh. Model Apache-2.0, trọng số ngoài Git. Nhạc/SFX được tổng hợp mới cục bộ theo từng cảnh và hạ dưới thoại; không lấy bản ghi từ video tham chiếu, không API trả phí hay thuê GPU.
 
 Giới hạn: chuyển động miệng theo biên độ WAV, chưa là lip-sync âm vị. Phụ đề căn theo đoạn đọc, câu dài chia theo tỷ lệ từ, chưa forced alignment từng từ. Kiểm tra tự động và hình lấy mẫu không thay thế nghe duyệt diễn xuất/thẩm mỹ bởi người xem. Các phim và tệp Video Shotcraft có trước được giữ nguyên.
+
+Kiểm tra hoàn tất: đủ 9.112 khung hình, giải mã toàn bộ MP4; đoạn thử 26 giây phát ở 1×, toàn phim phát kỹ thuật ở 4× trong Chromium có tắt tiếng, đều đến cuối không lỗi phát. Âm lượng −16,0 LUFS, true peak −1,9 dBFS. File tải thử từ GitHub HTTP 200, SHA-256 khớp file gốc.
