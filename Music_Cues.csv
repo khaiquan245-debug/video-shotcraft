@@ -1,0 +1,11 @@
+scene,start,duration,phase,source,ducking
+1,0.0,28.958333333333332,deadline tension,original NumPy synthesis; no external recordings,measured speech envelope
+2,28.958333333333332,37.541666666666664,warm possibility,original NumPy synthesis; no external recordings,measured speech envelope
+3,66.5,37.666666666666664,repetitive preparation,original NumPy synthesis; no external recordings,measured speech envelope
+4,104.16666666666667,38.166666666666664,avoidance,original NumPy synthesis; no external recordings,measured speech envelope
+5,142.33333333333334,41.5,small progress,original NumPy synthesis; no external recordings,measured speech envelope
+6,183.83333333333334,41.291666666666664,quiet comparison,original NumPy synthesis; no external recordings,measured speech envelope
+7,225.125,32.375,imagined triumph then reality,original NumPy synthesis; no external recordings,measured speech envelope
+8,257.5,35.291666666666664,deadline pressure then silence,original NumPy synthesis; no external recordings,measured speech envelope
+9,292.7916666666667,52.958333333333336,acceptance and practice,original NumPy synthesis; no external recordings,measured speech envelope
+10,345.75,33.916666666666664,modest new beginning,original NumPy synthesis; no external recordings,measured speech envelope
