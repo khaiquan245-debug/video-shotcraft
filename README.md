@@ -11,3 +11,5 @@ Soundtrack theo từng giai đoạn: đời thường vui nhẹ → nghi vấn v
 VieNeu-TTS v3 Turbo ONNX CPU offline, model Apache-2.0. Không API trả phí, không thuê GPU, trọng số ngoài Git. Giữ các dự án và bản phim cũ.
 
 Giới hạn: phụ đề theo đầu/cuối câu WAV, câu dài chia theo tỷ lệ số từ; chưa forced alignment từng từ. Miệng theo nhịp thoại, chưa căn âm vị. Các kiểm tra tự động và ảnh lấy mẫu không thay thế nghe duyệt diễn xuất/thẩm mỹ bởi con người.
+
+Kiểm tra hoàn tất: 40.752 khung hình, giải mã toàn bộ MP4 bằng FFmpeg; cảnh đầu 70 giây phát thử 1×, toàn phim phát thử kỹ thuật 8× trong Chromium (tắt tiếng), đều đến cuối không lỗi phát. Âm lượng đo −16,0 LUFS, true peak −1,4 dBFS. File GitHub tải thử HTTP 200, SHA-256 khớp file gốc.

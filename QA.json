@@ -1,0 +1,24 @@
+{
+  "duration_seconds": 1698,
+  "duration": "28:18",
+  "resolution": "1920x1080",
+  "fps": 24,
+  "frames": 40752,
+  "scenes": 18,
+  "original_shots": 158,
+  "spoken_lines": 179,
+  "original_narration_preserved": true,
+  "voice_time_stretch": false,
+  "action_only_passages_over3s": "explicitly authorized by user",
+  "music_cues": 18,
+  "sfx_events": 383,
+  "full_FFmpeg_decode": "passed",
+  "browser_playback": {
+    "first70s": "1x muted, ended without playback error",
+    "full_film": "8x muted technical playback, ended without playback error"
+  },
+  "integrated_loudness_LUFS": -16.0,
+  "true_peak_dBFS": -1.4,
+  "github_download_sha256_matches_local": true,
+  "scope": "All158 shot midpoint images and encoded action samples inspected; fixed-length IK checked numerically during render. These checks do not replace human listening/aesthetic approval."
+}
