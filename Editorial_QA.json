@@ -1,0 +1,35 @@
+{
+  "duration": 349.6666666666667,
+  "previous_duration": 379.6666666667,
+  "time_saved_seconds": 30.00000000003331,
+  "original_narration_files_preserved": 37,
+  "voice_speed_change": false,
+  "captions": 72,
+  "all_caption_words_preserved": true,
+  "max_voice_quiet_seconds": 1.12,
+  "hook": {
+    "id": "01.hook",
+    "scene": 1,
+    "role": "LỜI DẪN",
+    "stage_direction": "LỜI DẪN",
+    "text": "Trong vài phút tới, cậu sẽ thấy cách Minh thoát trì hoãn và bắt đầu làm thật.",
+    "voice": "Minh Đức",
+    "duration": 4.4891875,
+    "cache": "audio/review-927a5fd5a2bfaef9ac28.wav",
+    "chunks": [
+      {
+        "text": "Trong vài phút tới, cậu sẽ thấy cách Minh thoát trì hoãn và bắt đầu làm thật.",
+        "cache": "audio/cache/927a5fd5a2bfaef9ac284e4c.wav"
+      }
+    ],
+    "source_sha256": "eb7bd3c8bb1b0ff0daeac77c9d88c8f0b43122e7b1ad6dd41edfd3d55e745b32",
+    "old_start": 13.1,
+    "old_end": 17.5891875,
+    "start": 3.449999999999999,
+    "end": 7.939187499999999,
+    "start_absolute": 3.449999999999999,
+    "end_absolute": 7.939187499999999
+  },
+  "end_screen_duration": 8.083333333333334,
+  "alignment_limitation": "Chunk duration and energy based; no forced phoneme/word alignment."
+}

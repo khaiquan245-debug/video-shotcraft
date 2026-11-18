@@ -1,0 +1,329 @@
+{
+  "integrated_lufs": -14.0,
+  "true_peak_dbfs": -1.8,
+  "streams": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1920,
+        "height": 1080,
+        "coded_width": 1920,
+        "coded_height": 1080,
+        "closed_captions": 0,
+        "film_grain": 0,
+        "has_b_frames": 2,
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "chroma_location": "left",
+        "field_order": "progressive",
+        "refs": 1,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1",
+        "time_base": "1/12288",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 4296704,
+        "duration": "349.666667",
+        "bit_rate": "10004643",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "8392",
+        "nb_read_packets": "8392",
+        "extradata_size": 58,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc61.19.101 libx264"
+        }
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 16785600,
+        "duration": "349.700000",
+        "bit_rate": "191096",
+        "nb_frames": "16392",
+        "nb_read_packets": "16392",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "/workspace/video-shotcraft/output/ambition-review-v3/final/ChiLon_HanhDong_ReviewV3_1080p_10Mbps.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "349.700000",
+      "size": "445882827",
+      "bit_rate": "10200350",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf61.7.103"
+      }
+    }
+  },
+  "decode": "full FFmpeg decode passed",
+  "voice_count": 41,
+  "sha256": "0e741c0e5dde394ba52001f6fd1c58cd08ba96cdbbee0446c09444ff9235c4e8",
+  "filesize": 445882827,
+  "qa_scope": "Revised key shots inspected; all 92 shot layouts rendered in preflight; fixed-length IK checked at four shot phases and all rendered frames. Encoded action samples inspected separately. Automated full decode and browser playback do not replace a human listening/aesthetic review.",
+  "editorial": {
+    "duration": 349.6666666666667,
+    "previous_duration": 379.6666666667,
+    "time_saved_seconds": 30.00000000003331,
+    "original_narration_files_preserved": 37,
+    "voice_speed_change": false,
+    "captions": 72,
+    "all_caption_words_preserved": true,
+    "max_voice_quiet_seconds": 1.12,
+    "hook": {
+      "id": "01.hook",
+      "scene": 1,
+      "role": "LỜI DẪN",
+      "stage_direction": "LỜI DẪN",
+      "text": "Trong vài phút tới, cậu sẽ thấy cách Minh thoát trì hoãn và bắt đầu làm thật.",
+      "voice": "Minh Đức",
+      "duration": 4.4891875,
+      "cache": "audio/review-927a5fd5a2bfaef9ac28.wav",
+      "chunks": [
+        {
+          "text": "Trong vài phút tới, cậu sẽ thấy cách Minh thoát trì hoãn và bắt đầu làm thật.",
+          "cache": "audio/cache/927a5fd5a2bfaef9ac284e4c.wav"
+        }
+      ],
+      "source_sha256": "eb7bd3c8bb1b0ff0daeac77c9d88c8f0b43122e7b1ad6dd41edfd3d55e745b32",
+      "old_start": 13.1,
+      "old_end": 17.5891875,
+      "start": 3.449999999999999,
+      "end": 7.939187499999999,
+      "start_absolute": 3.449999999999999,
+      "end_absolute": 7.939187499999999
+    },
+    "end_screen_duration": 8.083333333333334,
+    "alignment_limitation": "Chunk duration and energy based; no forced phoneme/word alignment."
+  },
+  "browser": {
+    "scope": "Complete film 4x muted Chromium technical playback; not human listening or aesthetic acceptance",
+    "samples": [
+      {
+        "time": 0.345333,
+        "ended": false,
+        "error": null,
+        "width": 1920,
+        "height": 1080,
+        "quality": {}
+      },
+      {
+        "time": 349.7,
+        "ended": true,
+        "error": null,
+        "width": 1920,
+        "height": 1080,
+        "quality": {}
+      }
+    ]
+  },
+  "rig_render_reports": [
+    {
+      "scene": 1,
+      "frames": 713,
+      "duration": 29.708333333333332,
+      "rig": {
+        "bone_samples": 1424,
+        "unreachable": 0,
+        "max_bone_error": 2.2737367544323206e-13
+      },
+      "method": "original layered2D/soft2.5D; user-selected previous-film style"
+    },
+    {
+      "scene": 2,
+      "frames": 771,
+      "duration": 32.125,
+      "rig": {
+        "bone_samples": 4304,
+        "unreachable": 0,
+        "max_bone_error": 2.2737367544323206e-13
+      },
+      "method": "original layered2D/soft2.5D; user-selected previous-film style"
+    },
+    {
+      "scene": 3,
+      "frames": 815,
+      "duration": 33.958333333333336,
+      "rig": {
+        "bone_samples": 8720,
+        "unreachable": 0,
+        "max_bone_error": 2.2737367544323206e-13
+      },
+      "method": "original layered2D/soft2.5D; user-selected previous-film style"
+    },
+    {
+      "scene": 4,
+      "frames": 810,
+      "duration": 33.75,
+      "rig": {
+        "bone_samples": 11468,
+        "unreachable": 0,
+        "max_bone_error": 3.410605131648481e-13
+      },
+      "method": "original layered2D/soft2.5D; user-selected previous-film style"
+    },
+    {
+      "scene": 5,
+      "frames": 880,
+      "duration": 36.666666666666664,
+      "rig": {
+        "bone_samples": 2903,
+        "unreachable": 0,
+        "max_bone_error": 7.105427357601002e-14
+      },
+      "method": "original layered2D/soft2.5D; user-selected previous-film style"
+    },
+    {
+      "scene": 6,
+      "frames": 848,
+      "duration": 35.333333333333336,
+      "rig": {
+        "bone_samples": 5146,
+        "unreachable": 0,
+        "max_bone_error": 7.105427357601002e-14
+      },
+      "method": "original layered2D/soft2.5D; user-selected previous-film style"
+    },
+    {
+      "scene": 7,
+      "frames": 715,
+      "duration": 29.791666666666668,
+      "rig": {
+        "bone_samples": 7666,
+        "unreachable": 0,
+        "max_bone_error": 7.105427357601002e-14
+      },
+      "method": "original layered2D/soft2.5D; user-selected previous-film style"
+    },
+    {
+      "scene": 8,
+      "frames": 768,
+      "duration": 32,
+      "rig": {
+        "bone_samples": 8756,
+        "unreachable": 0,
+        "max_bone_error": 7.105427357601002e-14
+      },
+      "method": "original layered2D/soft2.5D; user-selected previous-film style"
+    },
+    {
+      "scene": 9,
+      "frames": 1134,
+      "duration": 47.25,
+      "rig": {
+        "bone_samples": 4960,
+        "unreachable": 0,
+        "max_bone_error": 2.8421709430404007e-13
+      },
+      "method": "original layered2D/soft2.5D; user-selected previous-film style"
+    },
+    {
+      "scene": 10,
+      "frames": 744,
+      "duration": 31,
+      "rig": {
+        "bone_samples": 7212,
+        "unreachable": 0,
+        "max_bone_error": 2.8421709430404007e-13
+      },
+      "method": "original layered2D/soft2.5D; user-selected previous-film style"
+    },
+    {
+      "scene": 11,
+      "frames": 194,
+      "duration": 8.083333333333334,
+      "rig": {
+        "bone_samples": 7600,
+        "unreachable": 0,
+        "max_bone_error": 2.8421709430404007e-13
+      },
+      "method": "original layered2D/soft2.5D; user-selected previous-film style"
+    }
+  ],
+  "encoded_visual_review": "Encoded key shots 1,4,23,35,44,67,77,78,89,91,92 inspected in final-contact.jpg; checked glyph, captions, splitter, character contrast, research visuals and endcard.",
+  "zip_master_bit_identical": true
+}
