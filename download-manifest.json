@@ -1,0 +1,76 @@
+{
+  "version": "P0P1_V2",
+  "duration": 509.8,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "scenes": 24,
+  "shots": 120,
+  "files": [
+    {
+      "file": "Busy_Not_Progressing_P0P1_V2_1080p.mp4",
+      "bytes": 63983662,
+      "sha256": "64ccaae7053fafc554a03697374ad78e877663a55a83c393ade2b57cd0fa4315"
+    },
+    {
+      "file": "Busy_Not_Progressing_P0P1_V2_DOWNLOAD.zip",
+      "bytes": 75803516,
+      "sha256": "f3d26b3fcfd4f115de319685d11ebe676faf7283a9c88f1b61461e9963fad82f"
+    },
+    {
+      "file": "Busy_Not_Progressing_P0P1_V2_SOURCE.zip",
+      "bytes": 39091240,
+      "sha256": "54624e8e55c9973c8e532c6a811d625fbb47cbf399aea9c83c2ca79d3cd905d2"
+    },
+    {
+      "file": "Demo_Mat_Co_Hoi_20s.mp4",
+      "bytes": 2511657,
+      "sha256": "f9198f07dcf3d618b4ecb57e62739dccfbd0d3f2463d96cf28501257ca7b1308"
+    },
+    {
+      "file": "Demo_Mo_Dau_15s.mp4",
+      "bytes": 1788318,
+      "sha256": "4afd5dad78c0264f593c5140d40bcc1e55fa2ba40e6ac5c319e9c7d85cae31b0"
+    },
+    {
+      "file": "Demo_Cao_Trao_18s.mp4",
+      "bytes": 2713412,
+      "sha256": "c5d6d8031790a601e9e6379551e36c36a434b465977f8cee631094b18299cc3c"
+    },
+    {
+      "file": "Demo_Co_Hoi_04m45_20s.mp4",
+      "bytes": 2510058,
+      "sha256": "01bc2c7fedb745b13086b3870f8e42bafd1dad5a9ae2568fc3dd36935792e0c3"
+    },
+    {
+      "file": "QA_report.md",
+      "bytes": 6536,
+      "sha256": "1bcd0f151a5b237037aef914089cc4a56843a7d1044162bb7c78acbc750bd417"
+    },
+    {
+      "file": "CREDITS.md",
+      "bytes": 1093,
+      "sha256": "50acdc38cb2de47c6a12a9aa7cfdad1402eeedc1a95597ce93d7c8439f879079"
+    },
+    {
+      "file": "Busy_Not_Progressing_Vietnamese.srt",
+      "bytes": 14131,
+      "sha256": "f6f72975dd3cf5a580ccfa2ad9fcc057def73d26d6254d00f225839fa4341e6f"
+    },
+    {
+      "file": "Shotlist_P0P1_V2.json",
+      "bytes": 68025,
+      "sha256": "2c6da5ad5b64361f6fa97c40dc271cdcaa18dd34535ea13a6a570d7336e2c307"
+    },
+    {
+      "file": "Shotlist_P0P1_V2.csv",
+      "bytes": 12878,
+      "sha256": "cd8a09cca893b0a910bacb33d029283f2f34cffd56e8860efc78036a8b0282c2"
+    },
+    {
+      "file": "Before_After.jpg",
+      "bytes": 303242,
+      "sha256": "f9c0cc79ab7b6148422cbf8e812f7d44899137d6d363252c7932c7a0a2a3845d"
+    }
+  ]
+}

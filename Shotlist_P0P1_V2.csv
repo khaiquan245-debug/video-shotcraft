@@ -1,0 +1,121 @@
+﻿Shot,Start_seconds,Duration_seconds,Location,Camera,Action,Story_purpose
+V2-01-01,0.0,1.9,home,CU,fatigue,"Mắt Minh nặng, vai rũ; nhìn sang hồ sơ chưa làm"
+V2-01-02,1.9,1.2,study,ECU,deadline,23:48 và ngón tay gõ; đồng hồ chỉ lướt qua
+V2-01-03,3.1,1.9,study,OTS,type,"Hai tay gõ, rồi dừng rõ"
+V2-01-04,5.0,1.7,home,CU,neck,"Duỗi vai cứng, quay đầu"
+V2-01-05,6.7,1.7,study,DETAIL,check,Bút gạch một việc; dừng trước mục tiêu chưa tích
+V2-01-06,8.4,1.5,home,ECU,eyes,"Mắt chớp, nhìn xuống bản nháp"
+V2-01-07,9.9,1.7,study,HAND,phone,Điện thoại sáng; tay nhận rồi đặt xuống
+V2-01-08,11.6,2.066666666666667,study,POV,unfinished,Bản thiết kế dang dở dưới tay Minh; 0% xuất hiện ngắn
+V2-01-09,13.667,2.2666666666666666,home,PROFILE,exhale,Thả vai và bàn tay về đùi
+V2-01-10,15.933,2.066666666666667,home,WIDE,small,"Kéo rộng: Minh giữa góc phòng tối, một ngày bận kết thúc"
+V2-02-01,18.0,3.5,study,DETAIL,type,"Cận bàn phím; cụm gõ ngắn, tay rời phím"
+V2-02-02,21.5,3.5,home,HAND,cup,Đẩy cốc cà phê nguội rồi thả tay
+V2-02-03,25.0,3.533333333333333,home,PROFILE,neck,"Bóp cổ vai, nghiêng người vì mệt"
+V2-02-04,28.533,3.5,study,OTS,close_tabs,"Tay đóng các cửa sổ, dừng một nhịp"
+V2-02-05,32.033,3.5,home,CU,relief,"Nhấc vai rồi thở ra, nhẹ nhõm ngắn ngủi"
+V2-02-06,35.533,3.5,study,SIDE,close_laptop,"Nắm mép laptop, khép nắp, ánh mặt tắt"
+V2-03-01,39.033,3.2,bedroom,DETAIL,alarm,06:30; tay tắt chuông
+V2-03-02,42.233,3.2,bedroom,WIDE,rise,"Ngồi dậy ở mép giường, hạ chân và đứng"
+V2-03-03,45.433,3.2,entry,SIDE,bag,"Nhấc balo, đặt quai lên vai, đi qua cửa"
+V2-03-04,48.633,3.2,street,TRACK,walk,Bước nhanh ở phố sáng; chân trụ theo mặt đường
+V2-03-05,51.833,3.2,bus,OTS,lesson,"Cửa xe, ghế và người đi làm; Minh chạm lưu bài học"
+V2-03-06,55.033,3.2,street,CU,resolve,"Ánh sáng ban mai, Minh nhìn về tòa nhà công ty"
+V2-04-01,58.233,3.1,office,WIDE,arrive,Nhiều bàn và đồng nghiệp; Minh đi tới ghế
+V2-04-02,61.333,3.1333333333333333,office,OTS,type,Sửa báo cáo bằng hai tay
+V2-04-03,64.467,3.1,office,HAND,phone,Nhận thông báo; mắt dẫn trước khi đầu quay
+V2-04-04,67.567,3.1333333333333333,meeting,TRACK,papers,"Mang giấy đến bàn họp, đặt xuống"
+V2-04-05,70.7,3.1,meeting,MS,listen,"Ngồi nghe cuộc họp, ghi vài nét vào sổ"
+V2-04-06,73.8,3.1333333333333333,office,PROFILE,stack,Một chồng hồ sơ mới được đặt tới; Minh nhận
+V2-04-07,76.933,3.1,office,CU,question,"Dừng bút, ngẩng nhìn lịch, nỗi phân vân xuất hiện"
+V2-05-01,80.033,4.733333333333333,office,SIDE,window,"Rời mắt khỏi việc hiện tại, nhìn qua cửa kính"
+V2-05-02,84.767,4.733333333333333,studio,WIDE,dream,"Hình dung studio thiết kế ấm, Minh bước tới bảng thiết kế"
+V2-05-03,89.5,4.7,studio,TRACK,choose,Tưởng tượng chọn và treo poster của chính mình
+V2-05-04,94.2,4.733333333333333,home,CU,defer,"Nụ cười nhỏ tắt, khép sổ để quay lại công việc"
+V2-06-01,98.933,4.133333333333334,study,SIDE,sit_learn,"Kéo ghế, ngồi, cầm bút học"
+V2-06-02,103.067,4.1,study,HAND,book,"Bàn tay đổi giữa hai tài liệu, mở trang mới"
+V2-06-03,107.167,4.133333333333334,home,CU,distracted,Ánh mắt bị kéo trái rồi phải; ngón tay ngập ngừng
+V2-06-04,111.3,4.1,bus,MS,save,"Trên xe, lưu thêm bài học; khuôn mặt sáng màn hình"
+V2-06-05,115.4,4.133333333333334,study,WIDE,pile,"Chồng tài liệu cao lên, tờ bản nháp vẫn chưa bắt đầu"
+V2-07-01,119.533,5.533333333333333,home,TOP,sort,"Hai tay sắp giấy và thẻ màu, va chạm thật"
+V2-07-02,125.067,5.5,study,HAND,rename,Tay đổi nhãn và kéo hồ sơ vào khay
+V2-07-03,130.567,5.5,home,MS,board,"Đứng chỉnh tờ lộ trình, rồi quay lại chiếc ghế"
+V2-07-04,136.067,5.533333333333333,study,CU,hesitate,"Bút chạm sát bản nháp, tay rút lại; mắt lo"
+V2-08-01,141.6,5.3,office,HAND,done,Gạch xong một email rồi đặt bút
+V2-08-02,146.9,5.3,home,MS,clear,"Dọn đồ vào hộp, phủi tay, liếc bản nháp"
+V2-08-03,152.2,5.3,study,HAND,blank,"Đặt bút xuống giấy, không đi được nét đầu"
+V2-08-04,157.5,5.3,home,CU,avoid,"Minh quay tránh bản nháp, cầm tài liệu thay thế"
+V2-09-01,162.8,3.7,home,HAND,reserve,Khoanh một giờ dành cho mục tiêu
+V2-09-02,166.5,3.7333333333333334,office,CU,interrupt,Thông báo tới; đầu quay và tay nhận máy
+V2-09-03,170.233,3.7,meeting,MS,help,"Đồng nghiệp đưa giấy, Minh nhận và ký"
+V2-09-04,173.933,3.7333333333333334,street,TRACK,late,"Rời công ty lúc chiều tối, bước chậm hơn"
+V2-09-05,177.667,3.7,home,PROFILE,postpone,"Về nhà, đặt balo, tay buông khỏi sổ vì mệt"
+V2-10-01,181.367,4.433333333333334,office,TOP,urgent,"Hai tập giấy: việc gấp được kéo lên, mục tiêu bị để lại"
+V2-10-02,185.8,4.433333333333334,meeting,SIDE,handover,Minh mang giấy đáp một yêu cầu mới
+V2-10-03,190.233,4.466666666666667,office,TRACK,rush,"Chạy ngắn giữa hai dãy bàn, đồng nghiệp tiếp tục làm việc"
+V2-10-04,194.7,4.433333333333334,home,HAND,untouched,Một bản nháp nằm yên cạnh các giấy đã xử lý
+V2-10-05,199.133,4.433333333333334,office,CU,realize,"Nhận ra mục tiêu không phát thông báo, nhìn lại chỗ trống"
+V2-11-01,203.567,4.6,study,OTS,design,Tay đặt hai hình khối vào bản vẽ
+V2-11-02,208.167,4.6,home,HAND,phone,Bàn tay bỏ bút để nhận điện thoại
+V2-11-03,212.767,4.566666666666666,office,DETAIL,reply,Gõ một phản hồi rồi thả tay khỏi phím
+V2-11-04,217.333,4.6,study,CU,lost_focus,"Quay lại, ánh mắt tìm kiếm nét vẽ đang làm dở"
+V2-11-05,221.933,4.6,home,PROFILE,restart,Bóp trán rồi chạm bút lại vào bản nháp
+V2-12-01,226.533,5.233333333333333,street,TRACK,month1,"Tháng đầu: đi làm trong nắng sớm, cầm sổ mới"
+V2-12-02,231.767,5.233333333333333,office,SIDE,month3,"Tháng ba: áo khoác navy, mưa ngoài kính, giấy làm việc chất lên"
+V2-12-03,237.0,5.233333333333333,bedroom,MS,month5,"Tháng năm: về muộn, ngồi xuống mép giường, xoa vai"
+V2-12-04,242.233,5.233333333333333,study,HAND,month6,Tay lật đến tháng sáu; mở lại bản nháp chưa hoàn chỉnh
+V2-13-01,247.467,4.233333333333333,home,LOW,find_book,Cúi xuống nhặt cuốn sổ cũ khỏi hộp
+V2-13-02,251.7,4.2,home,HAND,goal_book,Ngón tay dõi mục tiêu năm thiết kế
+V2-13-03,255.9,4.233333333333333,home,DETAIL,pages,Lật vài trang đã tích rồi dừng đột ngột
+V2-13-04,260.133,4.2,home,CU,recognize,"Mắt chậm lại, hàm và vai trĩu xuống"
+V2-13-05,264.333,4.233333333333333,home,PROFILE,hold_book,"Ôm sổ thấp trước ngực, nhìn khoảng trống mục tiêu"
+V2-14-01,268.567,3.433333333333333,cafe,WIDE,cafe_arrive,Quán cà phê đang mở; Minh bước vào nhìn mảng tường trống
+V2-14-02,272.0,3.4,cafe,HAND,receive,Chủ quán đưa brief; hai bàn tay chạm cùng tờ giấy rồi nhường
+V2-14-03,275.4,3.433333333333333,cafe,CU,hope,"Minh ngẩng mặt, vai duỗi, mắt có hy vọng"
+V2-14-04,278.833,3.433333333333333,cafe,TOP,brief,"Tờ brief quán cà phê, ngón tay chỉ vị trí poster cần thiết"
+V2-14-05,282.267,3.4,studio,MS,imagine,Hình dung bộ ba poster trên đúng bức tường quán
+V2-14-06,285.667,3.433333333333333,entry,TRACK,return,"Mang brief về nhà, rảo bước qua cửa"
+V2-15-01,289.1,3.533333333333333,study,OTS,search,"Minh mở hồ sơ, thấy các bản nháp rời"
+V2-15-02,292.633,3.533333333333333,home,HAND,drafts,"Nhặt, lật và đặt ba bản nháp chưa hoàn tất"
+V2-15-03,296.167,3.533333333333333,home,CU,worry,Mắt lia tìm rồi hạ xuống; vai căng
+V2-15-04,299.7,3.566666666666667,study,HAND,send_hesitate,Ngón tay dừng trước nút GỬI vì chưa có sản phẩm
+V2-15-05,303.267,3.533333333333333,home,LOW,search_box,Cúi tìm trong hộp giấy; chỉ có ảnh tham khảo
+V2-15-06,306.8,3.533333333333333,home,PROFILE,phone_down,"Đặt điện thoại úp xuống, tay trượt về đùi"
+V2-16-01,310.333,4.466666666666667,study,HAND,rush_design,Vẽ bố cục nhanh rồi gạch sửa
+V2-16-02,314.8,4.5,home,CU,clock_reaction,"Nhìn giờ, nhíu mắt, lăn vai"
+V2-16-03,319.3,4.466666666666667,cafe,WIDE,other_designer,"Chủ quán nhận poster hoàn chỉnh từ người khác, Minh ở ngoài kính"
+V2-16-04,323.767,4.5,street,HAND,lost_message,Tay đọc tin dự án đã có người làm; nắm máy khựng lại
+V2-16-05,328.267,4.466666666666667,home,PROFILE,sit_loss,"Lùi ghế, ngồi nặng xuống, buông tay"
+V2-17-01,332.733,7.566666666666666,home,BACK,collapse,"Sau lưng: Minh gục dần; cổ, vai, tay cùng hạ, máy tiến gần"
+V2-17-02,340.3,5.7,home,HAND,open_hand,Bàn tay từ siết chặt mở ra cạnh sổ cũ
+V2-17-03,346.0,6.3,home,CU,exhaustion,"Mắt ướt sáng, vai theo hơi thở, tay xoa trán rồi buông"
+V2-18-01,352.3,7.5,home,SIDE,fear,"Giữ bút trước bản nháp, nhìn đi rồi nhìn lại; tay run nhẹ"
+V2-18-02,359.8,7.533333333333333,studio,WIDE,contrast,Ước mơ ấm chuyển sang chính Minh và bản nháp vụng; cùng tư thế tương phản
+V2-18-03,367.333,7.5,home,CU,decision,"Chậm hít vào, thẳng vai hơn, đặt bút vào nét đầu"
+V2-19-01,374.833,4.166666666666667,bedroom,MS,morning,Ánh sáng thật buổi sáng; Minh ngồi dậy bình tĩnh
+V2-19-02,379.0,4.166666666666667,home,HAND,discard,"Vò hai kế hoạch thừa, bỏ vào giỏ bằng tay"
+V2-19-03,383.167,4.2,study,DETAIL,one_result,Viết một kết quả lên giấy nhỏ rồi gạch chân
+V2-19-04,387.367,4.166666666666667,home,MS,pin,"Dán giấy bên mép kệ, lùi một bước nhìn lại"
+V2-19-05,391.533,4.166666666666667,study,CU,focus,"Tay nắm bút chắc, mắt tập trung vào bản vẽ"
+V2-20-01,395.7,4.6,study,HAND,timer,Chạm đồng hồ45phút rồi úp điện thoại
+V2-20-02,400.3,4.566666666666666,study,OTS,layout,Kéo ba hình vào bố cục theo chuyển động tay
+V2-20-03,404.867,4.6,home,CU,resist,"Muốn quay sang máy, rồi chủ động nhìn lại bản vẽ"
+V2-20-04,409.467,4.566666666666666,study,HAND,color,"Chọn màu, chỉnh lề, so mẫu; tay ra quyết định"
+V2-20-05,414.033,4.6,home,MS,first_result,"Nhấc bản thiết kế đầu tiên, nhìn lỗi nhưng vẫn đặt lên kệ"
+V2-21-01,418.633,4.6,entry,TRACK,tired_return,"Sau tăng ca, tháo balo ở móc rồi đi vào góc học"
+V2-21-02,423.233,4.6,study,TOP,compare,"Đặt bản1 và bản2 cạnh nhau, chỉ ra điểm phải sửa"
+V2-21-03,427.833,4.6,home,HAND,feedback,"Đọc ghi chú góp ý, khoanh một điểm trên bản nháp"
+V2-21-04,432.433,4.6,study,SIDE,revise,"Dùng tay sửa lề/chữ, ngồi nghiêng kiểm tra"
+V2-21-05,437.033,4.6,home,CU,save_relief,"Thả lỏng vai, nhìn sản phẩm vừa sửa, nở nhẹ bằng mắt"
+V2-22-01,441.633,5.533333333333333,street,TRACK,four_weeks,"Bốn tuần đi làm qua cùng cổng, trời sáng và áo khoác thay đổi có kiểm soát"
+V2-22-02,447.167,5.533333333333333,home,HAND,three_works,Lần lượt đặt ba bản hoàn chỉnh với thumbnail khác nhau
+V2-22-03,452.7,5.533333333333333,studio,MS,hang_works,Minh tự tay treo bộ ba lên bảng hồ sơ
+V2-22-04,458.233,5.533333333333333,home,WIDE,bookend_progress,"Trở lại nhà: ít tài liệu thừa, Minh cầm được kết quả thật"
+V2-23-01,463.767,7.666666666666667,shop,WIDE,close_shop,"Người làm ca đêm tắt đèn, khóa cửa, rời đi"
+V2-23-02,471.433,7.666666666666667,family,MS,care,Đặt cốc nước xuống cạnh người thân rồi đỡ vai
+V2-23-03,479.1,7.666666666666667,bedroom,MS,rest,"Minh nằm nghỉ; mở mắt nhìn khoảng thời gian nhỏ, không tự trách"
+V2-24-01,486.767,5.6,gym,TRACK,treadmill,"Chạy2bước/giây, băng chuyển nhưng vị trí không đổi"
+V2-24-02,492.367,4.8,gym,SIDE,step_off,"Tắt máy, bước xuống sàn, nhìn cánh cửa phía xa"
+V2-24-03,497.167,7.2,hall,HAND,turn_handle,"Tay chạm, nắm, xoay tay nắm; vai chuẩn bị đẩy"
+V2-24-04,504.367,3.0,hall,WIDE,enter_door,"Minh đẩy cửa, bước qua ngưỡng tới studio sáng thật"
+V2-24-05,507.367,2.4,studio,BACK,ending,"Từ sau lưng: đặt bản thiết kế lên bàn trong không gian mới, fade2giây"
