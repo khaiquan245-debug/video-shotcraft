@@ -14,13 +14,13 @@
     },
     {
       "file": "Busy_Not_Progressing_P0P1_V2_DOWNLOAD.zip",
-      "bytes": 75803516,
-      "sha256": "f3d26b3fcfd4f115de319685d11ebe676faf7283a9c88f1b61461e9963fad82f"
+      "bytes": 92949758,
+      "sha256": "f040b0dc2b002b7df87383dd86c033d77093724e07ef52921f03e9ddf9b90fc6"
     },
     {
       "file": "Busy_Not_Progressing_P0P1_V2_SOURCE.zip",
-      "bytes": 39091240,
-      "sha256": "54624e8e55c9973c8e532c6a811d625fbb47cbf399aea9c83c2ca79d3cd905d2"
+      "bytes": 39091204,
+      "sha256": "4a45bfc25804f59a099eb12709baddb651a614c91da5fbcabc51b0b3f2a72468"
     },
     {
       "file": "Demo_Mat_Co_Hoi_20s.mp4",
@@ -44,8 +44,8 @@
     },
     {
       "file": "QA_report.md",
-      "bytes": 6536,
-      "sha256": "1bcd0f151a5b237037aef914089cc4a56843a7d1044162bb7c78acbc750bd417"
+      "bytes": 6175,
+      "sha256": "fef50dfb3c11c2879ae404739a5feb7e20e9eda02e24bdbefe15e0766c2186c3"
     },
     {
       "file": "CREDITS.md",
