@@ -1,0 +1,30 @@
+{
+  "master_name": "Busy_Not_Progressing_1080p.mp4",
+  "master_bytes": 521457168,
+  "master_sha256": "9ddc3c9ae60931fc1ec99a0e1d29fcb31653526ddf60b408a62d8418abf5cb3f",
+  "zip_name": "Busy_Not_Progressing_MASTER.zip",
+  "zip_sha256": "2d8f07fcb5ac3083e05aa9b9c6ef80a6e9e07c8e3a03b1a88dd90a882a266b22",
+  "zip_bytes": 228480265,
+  "parts": [
+    {
+      "name": "Busy_Not_Progressing_MASTER.zip.part001",
+      "bytes": 94371840,
+      "sha256": "7ed3f297a52092af81aa5fd2996b80dd98b3cea8b0338e247074a52cdc0804be"
+    },
+    {
+      "name": "Busy_Not_Progressing_MASTER.zip.part002",
+      "bytes": 94371840,
+      "sha256": "acdc7f08c1704a920ce54313816e6594b93062ff7b04347472678bb3fec0fe7c"
+    },
+    {
+      "name": "Busy_Not_Progressing_MASTER.zip.part003",
+      "bytes": 39736585,
+      "sha256": "ae676777fa3f3bc7849ed4bc4b8da526753c4cc41ba7b8cab24a1fc7d3e5cfaf"
+    }
+  ],
+  "duration_seconds": 509.8,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "bit_rate": 7983405
+}
