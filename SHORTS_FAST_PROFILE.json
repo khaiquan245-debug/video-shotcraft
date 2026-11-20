@@ -1,0 +1,20 @@
+{
+  "name": "user-shorts-fast-reference-v1",
+  "reference_sha256": "2b47c5289cbed7b4416db2c033b44561b72e4f0230fd7601812a9a944ad36ca4",
+  "reference_duration": 38.220045,
+  "reference_space_units": 191,
+  "target_space_units_per_second": [
+    4.8,
+    5.2
+  ],
+  "hook_seconds": 2,
+  "event_cadence_typical_seconds": [
+    1.5,
+    3
+  ],
+  "event_count_is_not_cut_count": true,
+  "preserve_approved_words": true,
+  "avoid_padding": true,
+  "keep_original_audio_and_projects": true,
+  "scope": "User project production convention, not an official YouTube rule"
+}
