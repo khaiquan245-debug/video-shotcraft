@@ -1,0 +1,1854 @@
+{
+  "schema_version": 1,
+  "enabled": true,
+  "duration": 35.5,
+  "fps": 30.0,
+  "sample_rate": 48000,
+  "language": "vi-VN",
+  "source": {
+    "repository": "https://github.com/wyzowl/sfx-kit",
+    "commit": "92780e7ab0cdfb557497a988089c47f46e8c7412",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "license_file": "assets/sfx-kit/LICENSE",
+    "catalogue_sha256": "67f4debfc7077d15391a896bac71a5d12c5c596dc194564e6054a844a98c9726"
+  },
+  "animation_sha256": "e363fc63328ff40853d752a4717a6253a9a5ac86829facd3d0c47ee655094228",
+  "voiceover": "/workspace/outputs/flood-crane-floating-base-20261125/audio/voice-timeline.wav",
+  "voiceover_sha256": "3a3a7b8b2902abcad1d66ff92acb39871fc9cafaa5693a2414ca36c16e815206",
+  "voiceover_spans": [
+    [
+      0.065,
+      1.32
+    ],
+    [
+      1.5750000000000002,
+      2.28
+    ],
+    [
+      2.2750000000000004,
+      2.9499999999999997
+    ],
+    [
+      2.915,
+      3.73
+    ],
+    [
+      3.7150000000000003,
+      5.11
+    ],
+    [
+      5.075,
+      5.72
+    ],
+    [
+      5.705,
+      7.15
+    ],
+    [
+      7.135,
+      7.48
+    ],
+    [
+      7.455,
+      8.32
+    ],
+    [
+      8.545,
+      9.47
+    ],
+    [
+      9.475,
+      10.790000000000001
+    ],
+    [
+      10.915,
+      11.92
+    ],
+    [
+      12.105,
+      13.86
+    ],
+    [
+      13.845,
+      14.51
+    ],
+    [
+      14.575,
+      16.11
+    ],
+    [
+      16.085,
+      16.6
+    ],
+    [
+      16.805000000000003,
+      18.88
+    ],
+    [
+      18.865000000000002,
+      19.63
+    ],
+    [
+      19.615000000000002,
+      20.72
+    ],
+    [
+      20.725,
+      22.14
+    ],
+    [
+      22.195,
+      24.59
+    ],
+    [
+      24.875000000000004,
+      26.490000000000002
+    ],
+    [
+      26.465000000000003,
+      27.54
+    ],
+    [
+      27.525000000000002,
+      28.400000000000002
+    ],
+    [
+      28.385,
+      29.56
+    ],
+    [
+      29.685000000000002,
+      30.53
+    ],
+    [
+      30.515,
+      31.29
+    ],
+    [
+      31.275000000000002,
+      32.13
+    ],
+    [
+      32.115,
+      32.940000000000005
+    ],
+    [
+      33.095,
+      35.1
+    ]
+  ],
+  "input_rights": {
+    "music": {
+      "license": "OWN",
+      "source": "/workspace/outputs/flood-crane-floating-base-20261125/production/audio-prep.py",
+      "sha256": "b4a06097e2091d82851d0e968268b81ca7198d5ebd8a6a580b62404d4774f884",
+      "description": "Original local synthesis, not reference extraction"
+    },
+    "ambience": {
+      "license": "OWN",
+      "source": "/workspace/outputs/flood-crane-floating-base-20261125/production/audio-prep.py",
+      "sha256": "01dff8c40bec1ec00fba72b0a95567bed1afd109e0f2f76cbd9028d005d0237d",
+      "description": "Original local synthesis, not reference extraction"
+    }
+  },
+  "events": [
+    {
+      "scene_id": "flood",
+      "event_id": "ladder-cloth",
+      "frame": 32,
+      "visual_time_unquantized": 1.05,
+      "visual_quantization_error_frames": 0.5,
+      "action": "Clothing swishes while both arms and legs climb the tower ladder",
+      "visible": true,
+      "categories": [
+        "foley"
+      ],
+      "material": "fabric",
+      "required_tags": "fabric",
+      "query": "Clothing bags human touches sliding",
+      "action_duration": 0.4,
+      "sync_meets": "action-start",
+      "gain_db": -4.0,
+      "sound_id": "foley-fabric-slide",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-fabric-slide.wav",
+      "asset_relative": "sounds/foley/foley-fabric-slide.wav",
+      "sha256": "f84ce9c6e0855d9f8a92cbacd7e8c0a2fb1c4d57fd1a53c66866ffdef4bf4456",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-fabric-slide.wav",
+      "license": "CC0-1.0",
+      "event_time": 1.0666666666666667,
+      "sync_frame": 32,
+      "start": 1.060625,
+      "start_sample": 50910,
+      "untrimmed_start": 1.060625,
+      "trim_start_seconds": 0.0,
+      "end": 1.5039499370277079,
+      "rate": 0.9925,
+      "sync_at": 0.006,
+      "effective_sync_at": 0.006045340050377834,
+      "sync_how": "Start it with the move; its level follows a natural speed curve (fastest in the middle), so it suits an ease-in-out move of about the same length.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 33,
+      "selection_evidence": {
+        "use_for": [
+          "Clothing, bags and soft products",
+          "Gentle, human touches",
+          "Covers lifting",
+          "Something sliding into or across the frame"
+        ],
+        "avoid_for": [
+          "Single taps (use touch)"
+        ],
+        "tags": [
+          "foley",
+          "fabric",
+          "slide",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": [
+          0.35,
+          0.44
+        ],
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "To fit a longer or shorter move, change the rate a little; beyond that, fade the end."
+        }
+      },
+      "reason": "Clothing swishes while both arms and legs climb the tower ladder; metadata matches: Clothing, bags and soft products, Gentle, human touches. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "home",
+      "event_id": "control-engage",
+      "frame": 210,
+      "visual_time_unquantized": 7.001377833720033,
+      "visual_quantization_error_frames": 0.0413350116010065,
+      "action": "Hand turns and engages the physical crane control",
+      "visible": true,
+      "categories": [
+        "mechanical"
+      ],
+      "required_tags": "ratchet",
+      "query": "A dial or knob being turned tightening adjusting something",
+      "action_duration": 0.5,
+      "sync_meets": "action-start",
+      "gain_db": -2.0,
+      "sound_id": "mechanical-ratchet-heavy",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/mechanical/mechanical-ratchet-heavy.wav",
+      "asset_relative": "sounds/mechanical/mechanical-ratchet-heavy.wav",
+      "sha256": "7a1fcec1d77e924f6f817a58023118216f72bc4433f26bcf9ac58908a7b76506",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/mechanical/mechanical-ratchet-heavy.wav",
+      "license": "CC0-1.0",
+      "event_time": 7.0,
+      "sync_frame": 210,
+      "start": 7.0,
+      "start_sample": 336000,
+      "untrimmed_start": 7.0,
+      "trim_start_seconds": 0.0,
+      "end": 7.516504854368932,
+      "rate": 1.03,
+      "sync_at": 0,
+      "effective_sync_at": 0.0,
+      "sync_how": "Start it with the turn; trim or fade it to the turn's length.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 26,
+      "selection_evidence": {
+        "use_for": [
+          "A dial or knob being turned",
+          "Values stepping up or down",
+          "Tightening or adjusting something"
+        ],
+        "avoid_for": [
+          "Small, delicate UI (use light)"
+        ],
+        "tags": [
+          "mechanical",
+          "ratchet",
+          "heavy",
+          "physical",
+          "natural"
+        ],
+        "fits_seconds": [
+          0.46,
+          0.57
+        ],
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Faster sounds smaller and lighter, slower bigger: keep changes small."
+        }
+      },
+      "reason": "Hand turns and engages the physical crane control; metadata matches: A dial or knob being turned, Values stepping up or down. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "home",
+      "event_id": "container-up",
+      "frame": 221,
+      "visual_time_unquantized": 7.351377833720033,
+      "visual_quantization_error_frames": 0.4586649883990219,
+      "action": "The trolley wheel spins as the container rises",
+      "visible": true,
+      "categories": [
+        "bounce-spin-zoom"
+      ],
+      "required_tags": "spin",
+      "query": "A wheel spinning loading refreshing",
+      "action_duration": 1.1,
+      "sync_meets": "action-start",
+      "gain_db": -5.0,
+      "sound_id": "move-spin",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/bounce-spin-zoom/move-spin.wav",
+      "asset_relative": "sounds/bounce-spin-zoom/move-spin.wav",
+      "sha256": "c90e45abcbd143b0742d03b45bce9f47f4e14a40928a108c69a3896d8ba1e2f2",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/bounce-spin-zoom/move-spin.wav",
+      "license": "CC0-1.0",
+      "event_time": 7.366666666666666,
+      "sync_frame": 221,
+      "start": 7.3596875,
+      "start_sample": 353265,
+      "untrimmed_start": 7.3596875,
+      "trim_start_seconds": 0.0,
+      "end": 8.495622164246823,
+      "rate": 1.0018181818181817,
+      "sync_at": 0.007,
+      "effective_sync_at": 0.006987295825771326,
+      "sync_how": "Start it with the move.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 20,
+      "selection_evidence": {
+        "use_for": [
+          "A logo, icon or wheel spinning",
+          "Loading and refreshing",
+          "A coin or a globe turning"
+        ],
+        "avoid_for": [
+          "Small, subtle moves (use a soft whoosh)"
+        ],
+        "tags": [
+          "motion",
+          "spin",
+          "animation",
+          "natural"
+        ],
+        "fits_seconds": [
+          0.92,
+          1.3
+        ],
+        "adapt": {
+          "rate": [
+            0.85,
+            1.2
+          ],
+          "notes": "Change the rate to fit the move's length."
+        }
+      },
+      "reason": "The trolley wheel spins as the container rises; metadata matches: A logo, icon or wheel spinning, Loading and refreshing. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "home",
+      "event_id": "container-land",
+      "frame": 268,
+      "visual_time_unquantized": 8.92233582749565,
+      "visual_quantization_error_frames": 0.32992517513054054,
+      "action": "The heavy container lands on the fixed support platform",
+      "visible": true,
+      "categories": [
+        "impacts"
+      ],
+      "required_tags": "heavy",
+      "query": "Big elements landing a product set down with weight gentle friendly landings",
+      "intensity": "soft",
+      "sync_meets": "instant",
+      "gain_db": -2.0,
+      "sound_id": "impact-heavy-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/impacts/impact-heavy-soft.wav",
+      "asset_relative": "sounds/impacts/impact-heavy-soft.wav",
+      "sha256": "7e2d91a2ebccc3be2d82f5293ec442c8490548e0823c22f73eddaa43f74b8076",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/impacts/impact-heavy-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 8.933333333333334,
+      "sync_frame": 268,
+      "start": 8.915333333333333,
+      "start_sample": 427936,
+      "untrimmed_start": 8.915333333333333,
+      "trim_start_seconds": 0.0,
+      "end": 9.235333333333333,
+      "rate": 1.0,
+      "sync_at": 0.018,
+      "effective_sync_at": 0.018,
+      "sync_how": "Put the sync point (the moment of contact) exactly where the thing lands: usually the last frame of its move, or the first frame it's at rest.",
+      "under_voiceover_db": -4,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 36,
+      "selection_evidence": {
+        "use_for": [
+          "Big elements landing",
+          "A product or device set down with weight",
+          "Section openers and emphatic beats",
+          "Gentle, friendly landings"
+        ],
+        "avoid_for": [
+          "Small elements",
+          "Moments that need a crisp edge"
+        ],
+        "tags": [
+          "impact",
+          "hit",
+          "land",
+          "drop",
+          "thud",
+          "heavy",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.92,
+            1.1
+          ],
+          "notes": "Small rate changes only: faster sounds lighter and slower heavier, so for a different weight use the next weight instead."
+        }
+      },
+      "reason": "The heavy container lands on the fixed support platform; metadata matches: Big elements landing, A product or device set down with weight. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "gear",
+      "event_id": "tank-lift",
+      "frame": 313,
+      "visual_time_unquantized": 10.418115069978505,
+      "visual_quantization_error_frames": 0.45654790064486406,
+      "action": "The tank swings through the air on a visible sling",
+      "visible": true,
+      "categories": [
+        "whooshes"
+      ],
+      "query": "Objects moving through frame smooth sliding motion",
+      "sync_meets": "move-peak",
+      "action_duration": 0.55,
+      "intensity": "soft",
+      "gain_db": -4.0,
+      "reason": "The tank swings through the air on a visible sling; metadata matches: Standard scene transitions, Cards and screens sliding across. One movement accent per meaningful salvage action; no sound on unrelated cuts",
+      "sound_id": "whoosh-medium-medium",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/whooshes/whoosh-medium-medium.wav",
+      "asset_relative": "sounds/whooshes/whoosh-medium-medium.wav",
+      "sha256": "f044a68bb41007a7c926b4d09c8755700c4770ac737a62a88f87af896c69a534",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/whooshes/whoosh-medium-medium.wav",
+      "license": "CC0-1.0",
+      "event_time": 10.433333333333334,
+      "sync_frame": 313,
+      "start": 10.224333333333334,
+      "start_sample": 490768,
+      "untrimmed_start": 10.224333333333334,
+      "trim_start_seconds": 0.0,
+      "end": 10.741333333333333,
+      "rate": 1.0,
+      "sync_at": 0.209,
+      "effective_sync_at": 0.209,
+      "sync_how": "Ease-in-out: put the sync point at the middle of the move. Ease-out (fast start, slowing to a stop): about a quarter of the way in. Ease-in (slow start, fast exit): about three quarters of the way in.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 20,
+      "selection_evidence": {
+        "use_for": [
+          "Standard scene transitions",
+          "Cards and screens sliding across",
+          "A device moving into frame",
+          "Titles moving into place"
+        ],
+        "avoid_for": [
+          "Tiny UI details",
+          "Very slow moves"
+        ],
+        "tags": [
+          "whoosh",
+          "swish",
+          "transition",
+          "movement",
+          "air",
+          "natural",
+          "standard",
+          "balanced"
+        ],
+        "fits_seconds": [
+          0.28,
+          0.81
+        ],
+        "adapt": {
+          "rate": [
+            0.85,
+            1.2
+          ],
+          "notes": "To fit a move up to about 15% shorter or 20% longer, play it faster or slower (its pitch moves with it); beyond that, use the next speed. Adjust level with gain, but for a clearly softer or harder sound use the other intensity rather than a big gain change."
+        }
+      },
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "gear",
+      "event_id": "tank-set",
+      "frame": 324,
+      "visual_time_unquantized": 10.797615069978505,
+      "visual_quantization_error_frames": 0.07154790064487315,
+      "action": "The filled tank settles onto the container roof",
+      "visible": true,
+      "categories": [
+        "impacts"
+      ],
+      "query": "A product or device set down small firm landing",
+      "required_tags": "medium",
+      "intensity": "soft",
+      "sync_meets": "instant",
+      "gain_db": -3.0,
+      "sound_id": "impact-medium-firm",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/impacts/impact-medium-firm.wav",
+      "asset_relative": "sounds/impacts/impact-medium-firm.wav",
+      "sha256": "23666447a7ece5c661abe9fa2fdcd70d08a937612d88e7916cafddc5800ebeee",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/impacts/impact-medium-firm.wav",
+      "license": "CC0-1.0",
+      "event_time": 10.8,
+      "sync_frame": 324,
+      "start": 10.788,
+      "start_sample": 517824,
+      "untrimmed_start": 10.788,
+      "trim_start_seconds": 0.0,
+      "end": 10.963000000000001,
+      "rate": 1.0,
+      "sync_at": 0.012,
+      "effective_sync_at": 0.012,
+      "sync_how": "Put the sync point (the moment of contact) exactly where the thing lands: usually the last frame of its move, or the first frame it's at rest.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 5,
+      "selection_evidence": {
+        "use_for": [
+          "Cards and panels landing",
+          "Objects dropping into frame",
+          "A title setting into place",
+          "Natural, everyday landings"
+        ],
+        "avoid_for": [
+          "Tiny details"
+        ],
+        "tags": [
+          "impact",
+          "hit",
+          "land",
+          "drop",
+          "knock",
+          "medium",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.92,
+            1.1
+          ],
+          "notes": "Small rate changes only: faster sounds lighter and slower heavier, so for a different weight use the next weight instead."
+        }
+      },
+      "reason": "The filled tank settles onto the container roof; metadata matches: Cards and panels landing, Objects dropping into frame. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "gear",
+      "event_id": "solar-lift",
+      "frame": 331,
+      "visual_time_unquantized": 11.049413804953376,
+      "visual_quantization_error_frames": 0.48241414860126497,
+      "action": "The solar swings through the air on a visible sling",
+      "visible": true,
+      "categories": [
+        "whooshes"
+      ],
+      "query": "Objects moving through frame smooth sliding motion",
+      "sync_meets": "move-peak",
+      "action_duration": 0.68,
+      "intensity": "soft",
+      "gain_db": -4.0,
+      "reason": "The solar swings through the air on a visible sling; metadata matches: Panels sliding in, Gentle card reveals. One movement accent per meaningful salvage action; no sound on unrelated cuts",
+      "sound_id": "whoosh-medium-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/whooshes/whoosh-medium-soft.wav",
+      "asset_relative": "sounds/whooshes/whoosh-medium-soft.wav",
+      "sha256": "a114611a09e02ab26cfbd8d796279eac358b6df4c3923db3f269ac34c340eeac",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/whooshes/whoosh-medium-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 11.033333333333333,
+      "sync_frame": 331,
+      "start": 10.804333333333334,
+      "start_sample": 518608,
+      "untrimmed_start": 10.804333333333334,
+      "trim_start_seconds": 0.0,
+      "end": 11.347333333333333,
+      "rate": 1.0,
+      "sync_at": 0.229,
+      "effective_sync_at": 0.229,
+      "sync_how": "Ease-in-out: put the sync point at the middle of the move. Ease-out (fast start, slowing to a stop): about a quarter of the way in. Ease-in (slow start, fast exit): about three quarters of the way in.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 20,
+      "selection_evidence": {
+        "use_for": [
+          "Panels sliding in",
+          "Gentle card reveals",
+          "Backgrounds shifting",
+          "Calm transitions between explainer scenes"
+        ],
+        "avoid_for": [
+          "Snappy, quick moves",
+          "Energetic edits"
+        ],
+        "tags": [
+          "whoosh",
+          "swish",
+          "transition",
+          "movement",
+          "air",
+          "natural",
+          "standard",
+          "subtle"
+        ],
+        "fits_seconds": [
+          0.28,
+          0.81
+        ],
+        "adapt": {
+          "rate": [
+            0.85,
+            1.2
+          ],
+          "notes": "To fit a move up to about 15% shorter or 20% longer, play it faster or slower (its pitch moves with it); beyond that, use the next speed. Adjust level with gain, but for a clearly softer or harder sound use the other intensity rather than a big gain change."
+        }
+      },
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "gear",
+      "event_id": "solar-glass-contact",
+      "frame": 346,
+      "visual_time_unquantized": 11.518613804953375,
+      "visual_quantization_error_frames": 0.4415858513987132,
+      "action": "The glass solar panel is set onto its roof supports",
+      "visible": true,
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "glass",
+      "material": "glass",
+      "query": "Glass screens panels being touched set down",
+      "sync_meets": "instant",
+      "gain_db": -4.0,
+      "sound_id": "foley-glass-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-glass-touch.wav",
+      "asset_relative": "sounds/foley/foley-glass-touch.wav",
+      "sha256": "cf673adf193ee40cceefed956b500212b312397b43cfb18257584d42c8694953",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-glass-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 11.533333333333333,
+      "sync_frame": 346,
+      "start": 11.522333333333334,
+      "start_sample": 553072,
+      "untrimmed_start": 11.522333333333334,
+      "trim_start_seconds": 0.0,
+      "end": 11.992333333333335,
+      "rate": 1.0,
+      "sync_at": 0.011,
+      "effective_sync_at": 0.011,
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 35,
+      "selection_evidence": {
+        "use_for": [
+          "Glasses and bottles",
+          "Glass screens and panels",
+          "A toast or a clink of success",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)",
+          "Rapid repeats: it rings"
+        ],
+        "tags": [
+          "foley",
+          "glass",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "The glass solar panel is set onto its roof supports; metadata matches: Glasses and bottles, Glass screens and panels. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "gear",
+      "event_id": "bed-lift",
+      "frame": 369,
+      "visual_time_unquantized": 12.294444186561407,
+      "visual_quantization_error_frames": 0.16667440315779913,
+      "action": "The bed swings through the air on a visible sling",
+      "visible": true,
+      "categories": [
+        "whooshes"
+      ],
+      "query": "Objects moving through frame smooth sliding motion",
+      "sync_meets": "move-peak",
+      "action_duration": 0.85,
+      "intensity": "soft",
+      "gain_db": -4.0,
+      "reason": "The bed swings through the air on a visible sling; metadata matches: Slow camera drifts, Large shapes moving gently. One movement accent per meaningful salvage action; no sound on unrelated cuts",
+      "sound_id": "whoosh-slow-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/whooshes/whoosh-slow-soft.wav",
+      "asset_relative": "sounds/whooshes/whoosh-slow-soft.wav",
+      "sha256": "9eadf61f7476f2ca0a6d6acd95a7be26a2ac57ed6c0ea7e76473051a926a2baa",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/whooshes/whoosh-slow-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 12.3,
+      "sync_frame": 369,
+      "start": 11.848,
+      "start_sample": 568704,
+      "untrimmed_start": 11.848,
+      "trim_start_seconds": 0.0,
+      "end": 12.897,
+      "rate": 1.0,
+      "sync_at": 0.452,
+      "effective_sync_at": 0.452,
+      "sync_how": "Ease-in-out: put the sync point at the middle of the move. Ease-out (fast start, slowing to a stop): about a quarter of the way in. Ease-in (slow start, fast exit): about three quarters of the way in.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 19,
+      "selection_evidence": {
+        "use_for": [
+          "Slow camera drifts",
+          "Large shapes moving gently",
+          "Soft moves between calm scenes"
+        ],
+        "avoid_for": [
+          "Quick moves",
+          "Anything that needs energy"
+        ],
+        "tags": [
+          "whoosh",
+          "swish",
+          "transition",
+          "movement",
+          "air",
+          "natural",
+          "slow",
+          "subtle"
+        ],
+        "fits_seconds": [
+          0.52,
+          1.5
+        ],
+        "adapt": {
+          "rate": [
+            0.85,
+            1.2
+          ],
+          "notes": "To fit a move up to about 15% shorter or 20% longer, play it faster or slower (its pitch moves with it); beyond that, use the next speed. Adjust level with gain, but for a clearly softer or harder sound use the other intensity rather than a big gain change."
+        }
+      },
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "gear",
+      "event_id": "bed-feet-contact",
+      "frame": 386,
+      "visual_time_unquantized": 12.880944186561406,
+      "visual_quantization_error_frames": 0.4283255968421713,
+      "action": "Wood bed feet settle on the wood interior floor",
+      "visible": true,
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "wood",
+      "material": "wood",
+      "query": "Wood furniture being set down touch knocking",
+      "sync_meets": "instant",
+      "gain_db": -1.0,
+      "sound_id": "foley-wood-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-wood-touch.wav",
+      "asset_relative": "sounds/foley/foley-wood-touch.wav",
+      "sha256": "bcd88241dcd12a07ce335806e3d58f6deb85cb6971aa997dfa984edc1bc81db7",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-wood-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 12.866666666666667,
+      "sync_frame": 386,
+      "start": 12.854666666666667,
+      "start_sample": 617024,
+      "untrimmed_start": 12.854666666666667,
+      "trim_start_seconds": 0.0,
+      "end": 12.982666666666667,
+      "rate": 1.0,
+      "sync_at": 0.012,
+      "effective_sync_at": 0.012,
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 30,
+      "selection_evidence": {
+        "use_for": [
+          "Wooden objects and furniture",
+          "Knocking on a surface",
+          "Natural, crafted products",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "wood",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "Wood bed feet settle on the wood interior floor; metadata matches: Wooden objects and furniture, Knocking on a surface. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "fish",
+      "event_id": "fishing-rod",
+      "frame": 440,
+      "visual_time_unquantized": 14.663911143575149,
+      "visual_quantization_error_frames": 0.08266569274553603,
+      "action": "The thin fishing rod flicks outward during the cast",
+      "visible": true,
+      "categories": [
+        "swishes-and-zips"
+      ],
+      "required_tags": "swish",
+      "query": "A thin rod cutting the air quick flick movement",
+      "sync_meets": "move-peak",
+      "intensity": "soft",
+      "gain_db": -4.0,
+      "sound_id": "swish-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/swishes-and-zips/swish-soft.wav",
+      "asset_relative": "sounds/swishes-and-zips/swish-soft.wav",
+      "sha256": "c18c581c43ac848b10c946e2a3c402b79370d99b057c2399b832d39f9d9236ab",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/swishes-and-zips/swish-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 14.666666666666666,
+      "sync_frame": 440,
+      "start": 14.581666666666667,
+      "start_sample": 699920,
+      "untrimmed_start": 14.581666666666667,
+      "trim_start_seconds": 0.0,
+      "end": 14.804666666666668,
+      "rate": 1.0,
+      "sync_at": 0.085,
+      "effective_sync_at": 0.085,
+      "sync_how": "Put the sync point where the move is fastest: the middle of an ease-in-out move.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 22,
+      "selection_evidence": {
+        "use_for": [
+          "Text, icons or arrows flicked into place",
+          "Quick cuts, wipes and whip transitions",
+          "A line or pointer sweeping across"
+        ],
+        "avoid_for": [
+          "Big, heavy moves (use a whoosh)"
+        ],
+        "tags": [
+          "swish",
+          "movement",
+          "air",
+          "quick",
+          "soft",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.85,
+            1.2
+          ],
+          "notes": "To fit a quicker or slower move, change the rate a little (its pitch moves with it); for a much longer move, use a whoosh."
+        }
+      },
+      "reason": "The thin fishing rod flicks outward during the cast; metadata matches: Text, icons or arrows flicked into place, Quick cuts, wipes and whip transitions. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "fish",
+      "event_id": "float-water-contact",
+      "frame": 445,
+      "visual_time_unquantized": 14.843911143575149,
+      "visual_quantization_error_frames": 0.31733430725444123,
+      "action": "The fishing float touches the flooded street water",
+      "visible": true,
+      "categories": [
+        "everyday-props"
+      ],
+      "required_tags": "splash",
+      "query": "Something dropping into water",
+      "sync_meets": "instant",
+      "gain_db": -4.0,
+      "sound_id": "props-splash",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/everyday-props/props-splash.wav",
+      "asset_relative": "sounds/everyday-props/props-splash.wav",
+      "sha256": "88f6f171cda211e2edfee3189c6cc9a7c133029c073e4acc5246c337125a4a37",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/everyday-props/props-splash.wav",
+      "license": "CC0-1.0",
+      "event_time": 14.833333333333334,
+      "sync_frame": 445,
+      "start": 14.820333333333334,
+      "start_sample": 711376,
+      "untrimmed_start": 14.820333333333334,
+      "trim_start_seconds": 0.0,
+      "end": 15.493333333333334,
+      "rate": 1.0,
+      "sync_at": 0.013,
+      "effective_sync_at": 0.013,
+      "sync_how": "Sync point on the frame it happens; for a gesture, start it with the move.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 13,
+      "selection_evidence": {
+        "use_for": [
+          "Something dropping into water",
+          "Diving in, taking the plunge",
+          "Drinks, water and cleaning"
+        ],
+        "avoid_for": [
+          "Abstract ideas better shown with a UI or motion sound"
+        ],
+        "tags": [
+          "props",
+          "objects",
+          "foley",
+          "splash",
+          "water",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.85,
+            1.15
+          ],
+          "notes": "Small rate changes to fit the move."
+        }
+      },
+      "reason": "The fishing float touches the flooded street water; metadata matches: Something dropping into water, Diving in, taking the plunge. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "fish",
+      "event_id": "fish-water",
+      "frame": 465,
+      "visual_time_unquantized": 15.497223961487224,
+      "visual_quantization_error_frames": 0.08328115538330394,
+      "action": "The caught fish breaks the water surface",
+      "visible": true,
+      "categories": [
+        "everyday-props"
+      ],
+      "required_tags": "splash",
+      "query": "Something water splash",
+      "sync_meets": "instant",
+      "gain_db": -5.0,
+      "sound_id": "props-splash",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/everyday-props/props-splash.wav",
+      "asset_relative": "sounds/everyday-props/props-splash.wav",
+      "sha256": "88f6f171cda211e2edfee3189c6cc9a7c133029c073e4acc5246c337125a4a37",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/everyday-props/props-splash.wav",
+      "license": "CC0-1.0",
+      "event_time": 15.5,
+      "sync_frame": 465,
+      "start": 15.487,
+      "start_sample": 743376,
+      "untrimmed_start": 15.487,
+      "trim_start_seconds": 0.0,
+      "end": 16.16,
+      "rate": 1.0,
+      "sync_at": 0.013,
+      "effective_sync_at": 0.013,
+      "sync_how": "Sync point on the frame it happens; for a gesture, start it with the move.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 9,
+      "selection_evidence": {
+        "use_for": [
+          "Something dropping into water",
+          "Diving in, taking the plunge",
+          "Drinks, water and cleaning"
+        ],
+        "avoid_for": [
+          "Abstract ideas better shown with a UI or motion sound"
+        ],
+        "tags": [
+          "props",
+          "objects",
+          "foley",
+          "splash",
+          "water",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.85,
+            1.15
+          ],
+          "notes": "Small rate changes to fit the move."
+        }
+      },
+      "reason": "The caught fish breaks the water surface; metadata matches: Something dropping into water, Diving in, taking the plunge. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "base",
+      "event_id": "amenities-reveal",
+      "frame": 489,
+      "visual_time_unquantized": 16.297223961487223,
+      "visual_quantization_error_frames": 0.08328115538330394,
+      "action": "The finished small home, tank, solar and bed are revealed together",
+      "visible": true,
+      "categories": [
+        "shimmers"
+      ],
+      "query": "Positive reveals a result a product gentle highlights",
+      "intensity": "soft",
+      "sync_meets": "instant",
+      "gain_db": -7.0,
+      "sound_id": "shimmer-long-bright",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/shimmers/shimmer-long-bright.wav",
+      "asset_relative": "sounds/shimmers/shimmer-long-bright.wav",
+      "sha256": "56b8d16ab1c31bc443ad29f9ddb81e4e722fc514c0ccbd580664e575e611e481",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/shimmers/shimmer-long-bright.wav",
+      "license": "CC0-1.0",
+      "event_time": 16.3,
+      "sync_frame": 489,
+      "start": 16.29,
+      "start_sample": 781920,
+      "untrimmed_start": 16.29,
+      "trim_start_seconds": 0.0,
+      "end": 18.362,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_how": "Sync point near the start: put it on the frame the highlight or reveal appears; the shimmer trails after.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 20,
+      "selection_evidence": {
+        "use_for": [
+          "Positive reveals: a result, a product, a logo",
+          "Elements lighting up or being highlighted",
+          "A slow, lingering reveal"
+        ],
+        "avoid_for": [
+          "Negative or serious moments",
+          "Fast edits"
+        ],
+        "tags": [
+          "shimmer",
+          "sparkle",
+          "glint",
+          "reveal",
+          "magic",
+          "bright",
+          "long",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the glints. For a shorter shimmer, fade the end; for longer, use the next length."
+        }
+      },
+      "reason": "The finished small home, tank, solar and bed are revealed together; metadata matches: Positive reveals: a result, a product, a logo, Elements lighting up or being highlighted. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "unstable",
+      "event_id": "foundation-crack",
+      "frame": 722,
+      "visual_time_unquantized": 24.078814638681227,
+      "visual_quantization_error_frames": 0.3644391604367456,
+      "action": "The exposed foundation slab cracks as soil washes away",
+      "visible": true,
+      "categories": [
+        "impacts"
+      ],
+      "query": "A crisp solid hit a short bright edge",
+      "required_tags": "medium",
+      "sync_meets": "instant",
+      "gain_db": -4.0,
+      "sound_id": "impact-medium-hard",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/impacts/impact-medium-hard.wav",
+      "asset_relative": "sounds/impacts/impact-medium-hard.wav",
+      "sha256": "2d4d40bae6b436f563b182d55f8bf1b15729e581731d841269b9436ab013a4a4",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/impacts/impact-medium-hard.wav",
+      "license": "CC0-1.0",
+      "event_time": 24.066666666666666,
+      "sync_frame": 722,
+      "start": 24.05666666666667,
+      "start_sample": 1154720,
+      "untrimmed_start": 24.05666666666667,
+      "trim_start_seconds": 0.0,
+      "end": 24.218666666666667,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_how": "Put the sync point (the moment of contact) exactly where the thing lands: usually the last frame of its move, or the first frame it's at rest.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 16,
+      "selection_evidence": {
+        "use_for": [
+          "Cards and panels landing",
+          "Objects dropping into frame",
+          "A title setting into place",
+          "Crisp, confident landings"
+        ],
+        "avoid_for": [
+          "Tiny details",
+          "Calm, softly spoken films"
+        ],
+        "tags": [
+          "impact",
+          "hit",
+          "land",
+          "drop",
+          "crisp",
+          "medium",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.92,
+            1.1
+          ],
+          "notes": "Small rate changes only: faster sounds lighter and slower heavier, so for a different weight use the next weight instead."
+        }
+      },
+      "reason": "The exposed foundation slab cracks as soil washes away; metadata matches: Cards and panels landing, Objects dropping into frame. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "unstable",
+      "event_id": "tilt-anticipation",
+      "frame": 743,
+      "visual_time_unquantized": 24.77266564457705,
+      "visual_quantization_error_frames": 0.17996933731149056,
+      "action": "Tension leads to the first unmistakable crane tilt",
+      "visible": true,
+      "categories": [
+        "risers-and-fallers"
+      ],
+      "required_tags": "riser",
+      "query": "Building up to a reveal",
+      "sync_meets": "arrival",
+      "action_duration": 0.9,
+      "intensity": "soft",
+      "gain_db": -4.0,
+      "sound_id": "riser-1s-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/risers-and-fallers/riser-1s-soft.wav",
+      "asset_relative": "sounds/risers-and-fallers/riser-1s-soft.wav",
+      "sha256": "fca1d503b69d4ac32cd7f307cf497fa36c2db8589b878b075c8d372ac3f4fe61",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/risers-and-fallers/riser-1s-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 24.766666666666666,
+      "sync_frame": 743,
+      "start": 23.786854166666668,
+      "start_sample": 1141769,
+      "untrimmed_start": 23.786854166666668,
+      "trim_start_seconds": 0.0,
+      "end": 24.974215585735404,
+      "rate": 1.0022222222222221,
+      "sync_at": 0.982,
+      "effective_sync_at": 0.9798226164079823,
+      "sync_how": "Place it so its end (the sync point) lands on the reveal: start = reveal − sync.at.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 19,
+      "selection_evidence": {
+        "use_for": [
+          "Building up to a reveal: a logo, a product, a big number",
+          "Leading into a new section",
+          "A short lift before something appears"
+        ],
+        "avoid_for": [
+          "Reveals that land before the rise ends: the peak is at its end",
+          "Big, energetic moments (use strong)"
+        ],
+        "tags": [
+          "riser",
+          "build",
+          "swell",
+          "1s",
+          "soft",
+          "air",
+          "natural"
+        ],
+        "fits_seconds": [
+          0.82,
+          1
+        ],
+        "adapt": {
+          "rate": [
+            0.9,
+            1.1
+          ],
+          "notes": "For other lengths, change the rate a little (its pitch moves with it), or take the next longer one and trim its quiet start (risers) or its quiet end (fallers)."
+        }
+      },
+      "reason": "Tension leads to the first unmistakable crane tilt; metadata matches: Building up to a reveal: a logo, a product, a big number, Leading into a new section. ",
+      "layer": "cinematic"
+    },
+    {
+      "scene_id": "unstable",
+      "event_id": "tilt-structure",
+      "frame": 749,
+      "visual_time_unquantized": 24.97266564457705,
+      "visual_quantization_error_frames": 0.17996933731149056,
+      "action": "The whole crane shifts with a heavy structural jolt",
+      "visible": true,
+      "categories": [
+        "impacts"
+      ],
+      "required_tags": "heavy",
+      "query": "Big elements landing a product set down with weight",
+      "intensity": "soft",
+      "sync_meets": "instant",
+      "gain_db": -3.0,
+      "sound_id": "impact-heavy-firm",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/impacts/impact-heavy-firm.wav",
+      "asset_relative": "sounds/impacts/impact-heavy-firm.wav",
+      "sha256": "c819342771d35a29d67e525daaee4029f78c4fc39271f3fa6018db6b4547e563",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/impacts/impact-heavy-firm.wav",
+      "license": "CC0-1.0",
+      "event_time": 24.966666666666665,
+      "sync_frame": 749,
+      "start": 24.955666666666666,
+      "start_sample": 1197872,
+      "untrimmed_start": 24.955666666666666,
+      "trim_start_seconds": 0.0,
+      "end": 25.255666666666666,
+      "rate": 1.0,
+      "sync_at": 0.011,
+      "effective_sync_at": 0.011,
+      "sync_how": "Put the sync point (the moment of contact) exactly where the thing lands: usually the last frame of its move, or the first frame it's at rest.",
+      "under_voiceover_db": -4,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 27,
+      "selection_evidence": {
+        "use_for": [
+          "Big elements landing",
+          "A product or device set down with weight",
+          "Section openers and emphatic beats",
+          "Natural, everyday landings"
+        ],
+        "avoid_for": [
+          "Small elements"
+        ],
+        "tags": [
+          "impact",
+          "hit",
+          "land",
+          "drop",
+          "knock",
+          "heavy",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.92,
+            1.1
+          ],
+          "notes": "Small rate changes only: faster sounds lighter and slower heavier, so for a different weight use the next weight instead."
+        }
+      },
+      "reason": "The whole crane shifts with a heavy structural jolt; metadata matches: Big elements landing, A product or device set down with weight. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "ship",
+      "event_id": "ship-reveal",
+      "frame": 797,
+      "visual_time_unquantized": 26.554226141455736,
+      "visual_quantization_error_frames": 0.3732157563279088,
+      "action": "The escape option appears: a stranded red cargo ship",
+      "visible": true,
+      "categories": [
+        "notifications"
+      ],
+      "required_tags": "attention",
+      "query": "Asking the viewer to look",
+      "intensity": "soft",
+      "sync_meets": "instant",
+      "gain_db": -5.0,
+      "sound_id": "notification-attention-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/notifications/notification-attention-soft.wav",
+      "asset_relative": "sounds/notifications/notification-attention-soft.wav",
+      "sha256": "f4d75e08bdcfa6dc9f939cee8a973e2b9a7c96c6ef33d07ffebd20854dbde44a",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/notifications/notification-attention-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 26.566666666666666,
+      "sync_frame": 797,
+      "start": 26.566666666666666,
+      "start_sample": 1275200,
+      "untrimmed_start": 26.566666666666666,
+      "trim_start_seconds": 0.0,
+      "end": 26.894666666666666,
+      "rate": 1.0,
+      "sync_at": 0,
+      "effective_sync_at": 0.0,
+      "sync_how": "Sync point on the frame the notification, tick or message appears.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 20,
+      "selection_evidence": {
+        "use_for": [
+          "Asking the viewer to look",
+          "A gentle prompt or tip",
+          "Knocking: someone's here, something new"
+        ],
+        "avoid_for": [
+          "Under busy music: it's gentle",
+          "Moments that must cut through loud music (use clear)"
+        ],
+        "tags": [
+          "notification",
+          "attention",
+          "soft",
+          "ui",
+          "tone",
+          "marimba",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the notes."
+        }
+      },
+      "reason": "The escape option appears: a stranded red cargo ship; metadata matches: Asking the viewer to look, A gentle prompt or tip. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "escape",
+      "event_id": "evacuation-control",
+      "frame": 853,
+      "visual_time_unquantized": 28.421763306891123,
+      "visual_quantization_error_frames": 0.3471007932663497,
+      "action": "Crane control and pulley resume to lower the complete furnished pod",
+      "visible": true,
+      "categories": [
+        "mechanical"
+      ],
+      "required_tags": "ratchet",
+      "query": "A dial knob turned tightening adjusting",
+      "action_duration": 0.5,
+      "sync_meets": "action-start",
+      "gain_db": -3.0,
+      "sound_id": "mechanical-ratchet-heavy",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/mechanical/mechanical-ratchet-heavy.wav",
+      "asset_relative": "sounds/mechanical/mechanical-ratchet-heavy.wav",
+      "sha256": "7a1fcec1d77e924f6f817a58023118216f72bc4433f26bcf9ac58908a7b76506",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/mechanical/mechanical-ratchet-heavy.wav",
+      "license": "CC0-1.0",
+      "event_time": 28.433333333333334,
+      "sync_frame": 853,
+      "start": 28.433333333333334,
+      "start_sample": 1364800,
+      "untrimmed_start": 28.433333333333334,
+      "trim_start_seconds": 0.0,
+      "end": 28.949838187702266,
+      "rate": 1.03,
+      "sync_at": 0,
+      "effective_sync_at": 0.0,
+      "sync_how": "Start it with the turn; trim or fade it to the turn's length.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 20,
+      "selection_evidence": {
+        "use_for": [
+          "A dial or knob being turned",
+          "Values stepping up or down",
+          "Tightening or adjusting something"
+        ],
+        "avoid_for": [
+          "Small, delicate UI (use light)"
+        ],
+        "tags": [
+          "mechanical",
+          "ratchet",
+          "heavy",
+          "physical",
+          "natural"
+        ],
+        "fits_seconds": [
+          0.46,
+          0.57
+        ],
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Faster sounds smaller and lighter, slower bigger: keep changes small."
+        }
+      },
+      "reason": "Crane control and pulley resume to lower the complete furnished pod; metadata matches: A dial or knob being turned, Values stepping up or down. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "escape",
+      "event_id": "evacuation-wheel",
+      "frame": 855,
+      "visual_time_unquantized": 28.50176330689112,
+      "visual_quantization_error_frames": 0.05289920673362758,
+      "action": "Trolley wheel spins during the controlled lowering",
+      "visible": true,
+      "categories": [
+        "bounce-spin-zoom"
+      ],
+      "required_tags": "spin",
+      "query": "A wheel spinning",
+      "action_duration": 1.1,
+      "sync_meets": "action-start",
+      "gain_db": -5.0,
+      "sound_id": "move-spin",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/bounce-spin-zoom/move-spin.wav",
+      "asset_relative": "sounds/bounce-spin-zoom/move-spin.wav",
+      "sha256": "c90e45abcbd143b0742d03b45bce9f47f4e14a40928a108c69a3896d8ba1e2f2",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/bounce-spin-zoom/move-spin.wav",
+      "license": "CC0-1.0",
+      "event_time": 28.5,
+      "sync_frame": 855,
+      "start": 28.493020833333333,
+      "start_sample": 1367665,
+      "untrimmed_start": 28.493020833333333,
+      "trim_start_seconds": 0.0,
+      "end": 29.628955497580158,
+      "rate": 1.0018181818181817,
+      "sync_at": 0.007,
+      "effective_sync_at": 0.006987295825771326,
+      "sync_how": "Start it with the move.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 9,
+      "selection_evidence": {
+        "use_for": [
+          "A logo, icon or wheel spinning",
+          "Loading and refreshing",
+          "A coin or a globe turning"
+        ],
+        "avoid_for": [
+          "Small, subtle moves (use a soft whoosh)"
+        ],
+        "tags": [
+          "motion",
+          "spin",
+          "animation",
+          "natural"
+        ],
+        "fits_seconds": [
+          0.92,
+          1.3
+        ],
+        "adapt": {
+          "rate": [
+            0.85,
+            1.2
+          ],
+          "notes": "Change the rate to fit the move's length."
+        }
+      },
+      "reason": "Trolley wheel spins during the controlled lowering; metadata matches: A logo, icon or wheel spinning, Loading and refreshing. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "escape",
+      "event_id": "pod-deck-contact",
+      "frame": 887,
+      "visual_time_unquantized": 29.5798754716642,
+      "visual_quantization_error_frames": 0.3962641499259689,
+      "action": "The complete container home settles onto the ship deck",
+      "visible": true,
+      "categories": [
+        "impacts"
+      ],
+      "required_tags": "heavy",
+      "query": "Big elements landing a product set down with weight gentle friendly landings",
+      "intensity": "soft",
+      "sync_meets": "instant",
+      "gain_db": -2.0,
+      "sound_id": "impact-heavy-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/impacts/impact-heavy-soft.wav",
+      "asset_relative": "sounds/impacts/impact-heavy-soft.wav",
+      "sha256": "7e2d91a2ebccc3be2d82f5293ec442c8490548e0823c22f73eddaa43f74b8076",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/impacts/impact-heavy-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 29.566666666666666,
+      "sync_frame": 887,
+      "start": 29.548666666666666,
+      "start_sample": 1418336,
+      "untrimmed_start": 29.548666666666666,
+      "trim_start_seconds": 0.0,
+      "end": 29.868666666666666,
+      "rate": 1.0,
+      "sync_at": 0.018,
+      "effective_sync_at": 0.018,
+      "sync_how": "Put the sync point (the moment of contact) exactly where the thing lands: usually the last frame of its move, or the first frame it's at rest.",
+      "under_voiceover_db": -4,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 29,
+      "selection_evidence": {
+        "use_for": [
+          "Big elements landing",
+          "A product or device set down with weight",
+          "Section openers and emphatic beats",
+          "Gentle, friendly landings"
+        ],
+        "avoid_for": [
+          "Small elements",
+          "Moments that need a crisp edge"
+        ],
+        "tags": [
+          "impact",
+          "hit",
+          "land",
+          "drop",
+          "thud",
+          "heavy",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.92,
+            1.1
+          ],
+          "notes": "Small rate changes only: faster sounds lighter and slower heavier, so for a different weight use the next weight instead."
+        }
+      },
+      "reason": "The complete container home settles onto the ship deck; metadata matches: Big elements landing, A product or device set down with weight. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "escape",
+      "event_id": "escape-cloth",
+      "frame": 899,
+      "visual_time_unquantized": 29.9798754716642,
+      "visual_quantization_error_frames": 0.3962641499260826,
+      "action": "Clothing shifts as the character climbs down the ladder",
+      "visible": true,
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "fabric",
+      "material": "fabric",
+      "query": "Clothing bags gentle human touches sliding",
+      "action_duration": 0.4,
+      "sync_meets": "action-start",
+      "gain_db": -5.0,
+      "sound_id": "foley-fabric-slide",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-fabric-slide.wav",
+      "asset_relative": "sounds/foley/foley-fabric-slide.wav",
+      "sha256": "f84ce9c6e0855d9f8a92cbacd7e8c0a2fb1c4d57fd1a53c66866ffdef4bf4456",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-fabric-slide.wav",
+      "license": "CC0-1.0",
+      "event_time": 29.966666666666665,
+      "sync_frame": 899,
+      "start": 29.960625,
+      "start_sample": 1438110,
+      "untrimmed_start": 29.960625,
+      "trim_start_seconds": 0.0,
+      "end": 30.403949937027708,
+      "rate": 0.9925,
+      "sync_at": 0.006,
+      "effective_sync_at": 0.006045340050377834,
+      "sync_how": "Start it with the move; its level follows a natural speed curve (fastest in the middle), so it suits an ease-in-out move of about the same length.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 34,
+      "selection_evidence": {
+        "use_for": [
+          "Clothing, bags and soft products",
+          "Gentle, human touches",
+          "Covers lifting",
+          "Something sliding into or across the frame"
+        ],
+        "avoid_for": [
+          "Single taps (use touch)"
+        ],
+        "tags": [
+          "foley",
+          "fabric",
+          "slide",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": [
+          0.35,
+          0.44
+        ],
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "To fit a longer or shorter move, change the rate a little; beyond that, fade the end."
+        }
+      },
+      "reason": "Clothing shifts as the character climbs down the ladder; metadata matches: Clothing, bags and soft products, Gentle, human touches. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "floating",
+      "event_id": "shoe-deck-contact",
+      "frame": 938,
+      "visual_time_unquantized": 31.281219798352918,
+      "visual_quantization_error_frames": 0.4365939505875076,
+      "action": "Both shoes land on the timber ship deck",
+      "visible": true,
+      "categories": [
+        "impacts"
+      ],
+      "required_tags": "light",
+      "query": "A light wooden tap small landing",
+      "intensity": "soft",
+      "sync_meets": "instant",
+      "gain_db": -4.0,
+      "sound_id": "impact-light-firm",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/impacts/impact-light-firm.wav",
+      "asset_relative": "sounds/impacts/impact-light-firm.wav",
+      "sha256": "751a1ec3b67f4f11a90e410d0ada78c0f0e64859fb06352994181abe737725c5",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/impacts/impact-light-firm.wav",
+      "license": "CC0-1.0",
+      "event_time": 31.266666666666666,
+      "sync_frame": 938,
+      "start": 31.255666666666666,
+      "start_sample": 1500272,
+      "untrimmed_start": 31.255666666666666,
+      "trim_start_seconds": 0.0,
+      "end": 31.354666666666667,
+      "rate": 1.0,
+      "sync_at": 0.011,
+      "effective_sync_at": 0.011,
+      "sync_how": "Put the sync point (the moment of contact) exactly where the thing lands: usually the last frame of its move, or the first frame it's at rest.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 13,
+      "selection_evidence": {
+        "use_for": [
+          "Small elements landing or snapping into place",
+          "Icons dropping into a grid",
+          "Labels and tags settling",
+          "Natural, everyday landings"
+        ],
+        "avoid_for": [
+          "Big, heavy moves"
+        ],
+        "tags": [
+          "impact",
+          "hit",
+          "land",
+          "drop",
+          "knock",
+          "light",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.92,
+            1.1
+          ],
+          "notes": "Small rate changes only: faster sounds lighter and slower heavier, so for a different weight use the next weight instead."
+        }
+      },
+      "reason": "Both shoes land on the timber ship deck; metadata matches: Small elements landing or snapping into place, Icons dropping into a grid. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "floating",
+      "event_id": "floating-base-reveal",
+      "frame": 1023,
+      "visual_time_unquantized": 34.1,
+      "visual_quantization_error_frames": 0.0,
+      "action": "Wide reveal of the fully furnished floating base",
+      "visible": true,
+      "categories": [
+        "shimmers"
+      ],
+      "query": "Positive reveals a result product gentle highlight",
+      "sync_meets": "instant",
+      "intensity": "soft",
+      "gain_db": -6.0,
+      "sound_id": "shimmer-long-bright",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/shimmers/shimmer-long-bright.wav",
+      "asset_relative": "sounds/shimmers/shimmer-long-bright.wav",
+      "sha256": "56b8d16ab1c31bc443ad29f9ddb81e4e722fc514c0ccbd580664e575e611e481",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/shimmers/shimmer-long-bright.wav",
+      "license": "CC0-1.0",
+      "event_time": 34.1,
+      "sync_frame": 1023,
+      "start": 34.09,
+      "start_sample": 1636320,
+      "untrimmed_start": 34.09,
+      "trim_start_seconds": 0.0,
+      "end": 35.5,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_how": "Sync point near the start: put it on the frame the highlight or reveal appears; the shimmer trails after.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.04,
+      "tail_trimmed": true,
+      "selection_score": 24,
+      "selection_evidence": {
+        "use_for": [
+          "Positive reveals: a result, a product, a logo",
+          "Elements lighting up or being highlighted",
+          "A slow, lingering reveal"
+        ],
+        "avoid_for": [
+          "Negative or serious moments",
+          "Fast edits"
+        ],
+        "tags": [
+          "shimmer",
+          "sparkle",
+          "glint",
+          "reveal",
+          "magic",
+          "bright",
+          "long",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the glints. For a shorter shimmer, fade the end; for longer, use the next length."
+        }
+      },
+      "reason": "Wide reveal of the fully furnished floating base; metadata matches: Positive reveals: a result, a product, a logo, Elements lighting up or being highlighted. ",
+      "layer": "sfx"
+    }
+  ],
+  "missing_assets": [],
+  "skipped": [],
+  "notes": [
+    "Context is supplied by authored animation/shot markers, not inferred by audio transcription or image recognition.",
+    "Frame checks certify authored markers and arithmetic; compare visible contact frames during picture review."
+  ]
+}

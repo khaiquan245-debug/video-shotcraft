@@ -1,0 +1,825 @@
+{
+  "schema_version": 1,
+  "enabled": true,
+  "duration": 10.0,
+  "fps": 30.0,
+  "sample_rate": 48000,
+  "language": "en-US",
+  "source": {
+    "repository": "https://github.com/wyzowl/sfx-kit",
+    "commit": "92780e7ab0cdfb557497a988089c47f46e8c7412",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "license_file": "assets/sfx-kit/LICENSE",
+    "catalogue_sha256": "67f4debfc7077d15391a896bac71a5d12c5c596dc194564e6054a844a98c9726"
+  },
+  "animation_sha256": "19f9921f41e0ee5beede0a905e61c4d1c6addde2539978baab8e3551421d5c7b",
+  "voiceover": "/workspace/outputs/wyzowl-sfx-demo-20261125/audio/narration-working.wav",
+  "voiceover_sha256": "5c17ee38a763d11ec4f49f8f201eeb4aea3e0c54b190a3ae09b8cc01755f54f9",
+  "voiceover_spans": [
+    [
+      2.105,
+      3.09
+    ],
+    [
+      4.495,
+      5.53
+    ],
+    [
+      6.175,
+      6.96
+    ],
+    [
+      7.715,
+      8.3
+    ],
+    [
+      8.455,
+      9.57
+    ]
+  ],
+  "input_rights": {
+    "music": {
+      "license": "OWN",
+      "source": "/workspace/outputs/duplicate-atm-bright-20261124/audio/music.wav",
+      "sha256": "219148c8b82f5e8f17f4e4d4d12ccc445745b7c83f8713aab1774abd8105f994",
+      "description": "Original locally synthesized stem from the previous approved project, read-only source, new excerpt with fade"
+    },
+    "ambience": {
+      "license": "OWN",
+      "source": "/workspace/outputs/duplicate-atm-bright-20261124/audio/ambience.wav",
+      "sha256": "217eb27b25229deccfa2721976724b7b49c758f06604bf9f2b0a66a06452d30d",
+      "description": "Original locally synthesized stem from the previous approved project, read-only source, new excerpt with fade"
+    }
+  },
+  "events": [
+    {
+      "scene_id": "1",
+      "event_id": "run-clothing",
+      "frame": 26,
+      "action": "Clothing swishes as the character runs toward the ATM",
+      "visible": true,
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "fabric",
+      "material": "fabric",
+      "query": "Clothing bags gentle human touches sliding",
+      "action_duration": 0.4,
+      "sync_meets": "action-start",
+      "gain_db": -2.0,
+      "body": "Arms and legs pump during the run",
+      "sound_id": "foley-fabric-slide",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-fabric-slide.wav",
+      "asset_relative": "sounds/foley/foley-fabric-slide.wav",
+      "sha256": "f84ce9c6e0855d9f8a92cbacd7e8c0a2fb1c4d57fd1a53c66866ffdef4bf4456",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-fabric-slide.wav",
+      "license": "CC0-1.0",
+      "event_time": 0.8666666666666667,
+      "sync_frame": 26,
+      "start": 0.860625,
+      "start_sample": 41310,
+      "untrimmed_start": 0.860625,
+      "trim_start_seconds": 0.0,
+      "end": 1.3039499370277077,
+      "rate": 0.9925,
+      "sync_at": 0.006,
+      "effective_sync_at": 0.006045340050377834,
+      "sync_how": "Start it with the move; its level follows a natural speed curve (fastest in the middle), so it suits an ease-in-out move of about the same length.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 37,
+      "selection_evidence": {
+        "use_for": [
+          "Clothing, bags and soft products",
+          "Gentle, human touches",
+          "Covers lifting",
+          "Something sliding into or across the frame"
+        ],
+        "avoid_for": [
+          "Single taps (use touch)"
+        ],
+        "tags": [
+          "foley",
+          "fabric",
+          "slide",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": [
+          0.35,
+          0.44
+        ],
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "To fit a longer or shorter move, change the rate a little; beyond that, fade the end."
+        }
+      },
+      "reason": "Clothing swishes as the character runs toward the ATM; metadata matches: Clothing, bags and soft products, Gentle, human touches. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "2",
+      "event_id": "banknote-slide",
+      "frame": 72,
+      "action": "One banknote slides into the fixed ATM intake",
+      "visible": true,
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "paper",
+      "material": "paper",
+      "query": "Documents letters notes being handled sliding across",
+      "action_duration": 0.45,
+      "sync_meets": "action-start",
+      "object": "One green dollar, attached to right wrist",
+      "gain_db": 0.0,
+      "sound_id": "foley-paper-slide",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-paper-slide.wav",
+      "asset_relative": "sounds/foley/foley-paper-slide.wav",
+      "sha256": "5c46a7e86caeb6f71249fa294b5e654866f283c0470d39ab756b671f7c4c2e17",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-paper-slide.wav",
+      "license": "CC0-1.0",
+      "event_time": 2.4,
+      "sync_frame": 72,
+      "start": 2.3940208333333333,
+      "start_sample": 114913,
+      "untrimmed_start": 2.3940208333333333,
+      "trim_start_seconds": 0.0,
+      "end": 2.8838438421828907,
+      "rate": 1.0044444444444445,
+      "sync_at": 0.006,
+      "effective_sync_at": 0.005973451327433628,
+      "sync_how": "Start it with the move; its level follows a natural speed curve (fastest in the middle), so it suits an ease-in-out move of about the same length.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 40,
+      "selection_evidence": {
+        "use_for": [
+          "Documents, letters and invoices appearing",
+          "Pages turning or notes being handled",
+          "Paperwork and forms",
+          "Something sliding into or across the frame"
+        ],
+        "avoid_for": [
+          "Single taps (use touch)"
+        ],
+        "tags": [
+          "foley",
+          "paper",
+          "slide",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": [
+          0.4,
+          0.5
+        ],
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "To fit a longer or shorter move, change the rate a little; beyond that, fade the end."
+        }
+      },
+      "reason": "One banknote slides into the fixed ATM intake; metadata matches: Documents, letters and invoices appearing, Pages turning or notes being handled. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "2",
+      "event_id": "button-contact",
+      "frame": 105,
+      "action": "Finger presses the physical copy switch",
+      "visible": true,
+      "categories": [
+        "mechanical"
+      ],
+      "required_tags": "switch",
+      "query": "A setting switched on power tools and machinery",
+      "sync_meets": "instant",
+      "gain_db": -2.0,
+      "sound_id": "mechanical-switch-heavy",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/mechanical/mechanical-switch-heavy.wav",
+      "asset_relative": "sounds/mechanical/mechanical-switch-heavy.wav",
+      "sha256": "8efa3f5ffb984eb05f381f39c21d6588c841f13941673657f0648e6511e81e17",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/mechanical/mechanical-switch-heavy.wav",
+      "license": "CC0-1.0",
+      "event_time": 3.5,
+      "sync_frame": 105,
+      "start": 3.479,
+      "start_sample": 166992,
+      "untrimmed_start": 3.479,
+      "trim_start_seconds": 0.0,
+      "end": 3.5780000000000003,
+      "rate": 1.0,
+      "sync_at": 0.021,
+      "effective_sync_at": 0.021,
+      "sync_how": "Sync point on the frame it switches.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 23,
+      "selection_evidence": {
+        "use_for": [
+          "A setting switched on",
+          "Lights or power coming on",
+          "A physical-feeling toggle"
+        ],
+        "avoid_for": [
+          "Small, delicate UI (use light)"
+        ],
+        "tags": [
+          "mechanical",
+          "switch",
+          "heavy",
+          "physical",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Faster sounds smaller and lighter, slower bigger: keep changes small."
+        }
+      },
+      "reason": "Finger presses the physical copy switch; metadata matches: A setting switched on, Lights or power coming on. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "3",
+      "event_id": "process-start",
+      "frame": 120,
+      "action": "Display processes and the visible rollers turn",
+      "visible": true,
+      "categories": [
+        "digital"
+      ],
+      "required_tags": "process",
+      "query": "Something loading or computing Data being processed AI automation at work",
+      "action_duration": 0.95,
+      "sync_meets": "action-start",
+      "gain_db": -2.0,
+      "intensity": "subtle",
+      "sound_id": "digital-process-subtle",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/digital/digital-process-subtle.wav",
+      "asset_relative": "sounds/digital/digital-process-subtle.wav",
+      "sha256": "27d1efc4dff9b7074c45d9b3702f6c0e8b32d692da96dce4d6ea61f5a2c4fcce",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/digital/digital-process-subtle.wav",
+      "license": "CC0-1.0",
+      "event_time": 4.0,
+      "sync_frame": 120,
+      "start": 3.9048958333333332,
+      "start_sample": 187435,
+      "untrimmed_start": 3.9048958333333332,
+      "trim_start_seconds": 0.0,
+      "end": 5.0491907741298885,
+      "rate": 0.9778947368421054,
+      "sync_at": 0.093,
+      "effective_sync_at": 0.09510226049515608,
+      "sync_how": "Start it with the process; fade or trim to its length.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 42,
+      "selection_evidence": {
+        "use_for": [
+          "Something loading or computing",
+          "Data being processed",
+          "AI or automation at work"
+        ],
+        "avoid_for": [
+          "Natural, physical subjects (use foley, impacts or whooshes)",
+          "Moments that must cut through music (use clear)"
+        ],
+        "tags": [
+          "digital",
+          "process",
+          "subtle",
+          "tech",
+          "data"
+        ],
+        "fits_seconds": [
+          0.81,
+          1.03
+        ],
+        "adapt": {
+          "rate": [
+            0.9,
+            1.15
+          ],
+          "notes": "Loop the middle of a process run for longer processes, with a short crossfade."
+        }
+      },
+      "reason": "Display processes and the visible rollers turn; metadata matches: Something loading or computing, Data being processed. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "3",
+      "event_id": "two-notes-count",
+      "frame": 156,
+      "action": "The character counts the two banknotes dispensed onto the tray",
+      "visible": true,
+      "categories": [
+        "money"
+      ],
+      "required_tags": "notes",
+      "material": "paper banknotes",
+      "query": "Counting money cash payments saving up",
+      "action_duration": 0.78,
+      "sync_meets": "action-start",
+      "gain_db": -1.0,
+      "sound_id": "money-notes",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/money/money-notes.wav",
+      "asset_relative": "sounds/money/money-notes.wav",
+      "sha256": "c89cbb7e5791699261afe20e41a3bf5e81e41a6f19e5ac5ad0427da89938b21b",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/money/money-notes.wav",
+      "license": "CC0-1.0",
+      "event_time": 5.2,
+      "sync_frame": 156,
+      "start": 5.2,
+      "start_sample": 249600,
+      "untrimmed_start": 5.2,
+      "trim_start_seconds": 0.0,
+      "end": 6.008,
+      "rate": 1.0,
+      "sync_at": 0,
+      "effective_sync_at": 0.0,
+      "sync_how": "Start it as the counting starts.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 34,
+      "selection_evidence": {
+        "use_for": [
+          "Counting money, cash payments",
+          "Wages, budgets and costs",
+          "Saving up"
+        ],
+        "avoid_for": [
+          "Abstract money moments that are better as a chart or a number (use data sounds)"
+        ],
+        "tags": [
+          "money",
+          "cash",
+          "payment",
+          "notes",
+          "natural"
+        ],
+        "fits_seconds": [
+          0.7,
+          0.87
+        ],
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes are fine."
+        }
+      },
+      "reason": "The character counts the two banknotes dispensed onto the tray; metadata matches: Counting money, cash payments, Wages, budgets and costs. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "4",
+      "event_id": "surprise",
+      "frame": 186,
+      "action": "A stream of new banknotes sparkles into view",
+      "visible": true,
+      "categories": [
+        "shimmers"
+      ],
+      "query": "Magic moments something new delightful",
+      "required_tags": "sparkle",
+      "emotion": "delighted",
+      "gain_db": -3.0,
+      "sound_id": "shimmer-long-sparkle",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/shimmers/shimmer-long-sparkle.wav",
+      "asset_relative": "sounds/shimmers/shimmer-long-sparkle.wav",
+      "sha256": "30218af6dabf4f68e2f5f960cf628b7df4d15a7d65cc266835d8fdb30f0b82f6",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/shimmers/shimmer-long-sparkle.wav",
+      "license": "CC0-1.0",
+      "event_time": 6.2,
+      "sync_frame": 186,
+      "start": 6.19,
+      "start_sample": 297120,
+      "untrimmed_start": 6.19,
+      "trim_start_seconds": 0.0,
+      "end": 8.044,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_meets": "instant",
+      "sync_how": "Sync point near the start: put it on the frame the highlight or reveal appears; the shimmer trails after.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 17,
+      "selection_evidence": {
+        "use_for": [
+          "Magic moments: something new, delightful or premium",
+          "Elements lighting up or being highlighted",
+          "A slow, lingering reveal"
+        ],
+        "avoid_for": [
+          "Negative or serious moments",
+          "Fast edits"
+        ],
+        "tags": [
+          "shimmer",
+          "sparkle",
+          "glint",
+          "reveal",
+          "magic",
+          "long",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the glints. For a shorter shimmer, fade the end; for longer, use the next length."
+        }
+      },
+      "reason": "A stream of new banknotes sparkles into view; metadata matches: Magic moments: something new, delightful or premium, Elements lighting up or being highlighted. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "4",
+      "event_id": "cash-handling",
+      "frame": 209,
+      "action": "The stream of cash reaches his hands",
+      "visible": true,
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "paper",
+      "material": "paper",
+      "query": "Paper notes handled contact touched set down",
+      "sync_meets": "instant",
+      "gain_db": -4.0,
+      "sound_id": "foley-paper-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-paper-touch.wav",
+      "asset_relative": "sounds/foley/foley-paper-touch.wav",
+      "sha256": "37c6dd31840b0910df0f61b5714a8aba916c704a33eee6293a92603cea9e1360",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-paper-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 6.966666666666667,
+      "sync_frame": 209,
+      "start": 6.9446666666666665,
+      "start_sample": 333344,
+      "untrimmed_start": 6.9446666666666665,
+      "trim_start_seconds": 0.0,
+      "end": 7.254666666666666,
+      "rate": 1.0,
+      "sync_at": 0.022,
+      "effective_sync_at": 0.022,
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 32,
+      "selection_evidence": {
+        "use_for": [
+          "Documents, letters and invoices appearing",
+          "Pages turning or notes being handled",
+          "Paperwork and forms",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "paper",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "The stream of cash reaches his hands; metadata matches: Documents, letters and invoices appearing, Pages turning or notes being handled. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "5",
+      "event_id": "ratchet-rattle",
+      "frame": 240,
+      "action": "The machine shakes and its front dial starts turning rapidly",
+      "visible": true,
+      "categories": [
+        "mechanical"
+      ],
+      "required_tags": "ratchet",
+      "query": "A dial or knob being turned tightening adjusting",
+      "action_duration": 0.5,
+      "sync_meets": "action-start",
+      "danger": "Machine is losing control",
+      "gain_db": -1.0,
+      "sound_id": "mechanical-ratchet-heavy",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/mechanical/mechanical-ratchet-heavy.wav",
+      "asset_relative": "sounds/mechanical/mechanical-ratchet-heavy.wav",
+      "sha256": "7a1fcec1d77e924f6f817a58023118216f72bc4433f26bcf9ac58908a7b76506",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/mechanical/mechanical-ratchet-heavy.wav",
+      "license": "CC0-1.0",
+      "event_time": 8.0,
+      "sync_frame": 240,
+      "start": 8.0,
+      "start_sample": 384000,
+      "untrimmed_start": 8.0,
+      "trim_start_seconds": 0.0,
+      "end": 8.516504854368932,
+      "rate": 1.03,
+      "sync_at": 0,
+      "effective_sync_at": 0.0,
+      "sync_how": "Start it with the turn; trim or fade it to the turn's length.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 23,
+      "selection_evidence": {
+        "use_for": [
+          "A dial or knob being turned",
+          "Values stepping up or down",
+          "Tightening or adjusting something"
+        ],
+        "avoid_for": [
+          "Small, delicate UI (use light)"
+        ],
+        "tags": [
+          "mechanical",
+          "ratchet",
+          "heavy",
+          "physical",
+          "natural"
+        ],
+        "fits_seconds": [
+          0.46,
+          0.57
+        ],
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Faster sounds smaller and lighter, slower bigger: keep changes small."
+        }
+      },
+      "reason": "The machine shakes and its front dial starts turning rapidly; metadata matches: A dial or knob being turned, Values stepping up or down. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "5",
+      "event_id": "twist-build",
+      "frame": 267,
+      "action": "Build anticipation into the ATM reversal reveal",
+      "visible": true,
+      "categories": [
+        "risers-and-fallers"
+      ],
+      "required_tags": "riser",
+      "query": "Building up to a reveal a product big number",
+      "sync_meets": "arrival",
+      "action_duration": 0.9,
+      "emotion": "tension",
+      "gain_db": -4.0,
+      "intensity": "soft",
+      "sound_id": "riser-1s-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/risers-and-fallers/riser-1s-soft.wav",
+      "asset_relative": "sounds/risers-and-fallers/riser-1s-soft.wav",
+      "sha256": "fca1d503b69d4ac32cd7f307cf497fa36c2db8589b878b075c8d372ac3f4fe61",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/risers-and-fallers/riser-1s-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 8.9,
+      "sync_frame": 267,
+      "start": 7.9201875,
+      "start_sample": 380169,
+      "untrimmed_start": 7.9201875,
+      "trim_start_seconds": 0.0,
+      "end": 9.107548919068737,
+      "rate": 1.0022222222222221,
+      "sync_at": 0.982,
+      "effective_sync_at": 0.9798226164079823,
+      "sync_how": "Place it so its end (the sync point) lands on the reveal: start = reveal − sync.at.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 28,
+      "selection_evidence": {
+        "use_for": [
+          "Building up to a reveal: a logo, a product, a big number",
+          "Leading into a new section",
+          "A short lift before something appears"
+        ],
+        "avoid_for": [
+          "Reveals that land before the rise ends: the peak is at its end",
+          "Big, energetic moments (use strong)"
+        ],
+        "tags": [
+          "riser",
+          "build",
+          "swell",
+          "1s",
+          "soft",
+          "air",
+          "natural"
+        ],
+        "fits_seconds": [
+          0.82,
+          1
+        ],
+        "adapt": {
+          "rate": [
+            0.9,
+            1.1
+          ],
+          "notes": "For other lengths, change the rate a little (its pitch moves with it), or take the next longer one and trim its quiet start (risers) or its quiet end (fallers)."
+        }
+      },
+      "reason": "Build anticipation into the ATM reversal reveal; metadata matches: Building up to a reveal: a logo, a product, a big number, Leading into a new section. ",
+      "layer": "cinematic"
+    },
+    {
+      "scene_id": "5",
+      "event_id": "reverse-warning",
+      "frame": 267,
+      "action": "RETURN ALL error lights appear on the ATM",
+      "visible": true,
+      "categories": [
+        "notifications"
+      ],
+      "required_tags": "error",
+      "query": "A failed action or wrong input A cross or warning icon Something needs fixing",
+      "sync_meets": "instant",
+      "gain_db": -2.0,
+      "sound_id": "notification-error-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/notifications/notification-error-soft.wav",
+      "asset_relative": "sounds/notifications/notification-error-soft.wav",
+      "sha256": "a4fbba71503798c6c3f375b41e69d2f4dcf43866a1a29273eaa54a0280c8f339",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/notifications/notification-error-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 8.9,
+      "sync_frame": 267,
+      "start": 8.9,
+      "start_sample": 427200,
+      "untrimmed_start": 8.9,
+      "trim_start_seconds": 0.0,
+      "end": 9.467,
+      "rate": 1.0,
+      "sync_at": 0,
+      "effective_sync_at": 0.0,
+      "sync_how": "Sync point on the frame the notification, tick or message appears.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 41,
+      "selection_evidence": {
+        "use_for": [
+          "A failed action or a wrong input",
+          "A cross or warning icon",
+          "Something that needs fixing"
+        ],
+        "avoid_for": [
+          "Positive moments",
+          "Moments that must cut through loud music (use clear)"
+        ],
+        "tags": [
+          "notification",
+          "error",
+          "soft",
+          "ui",
+          "tone",
+          "marimba",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the notes."
+        }
+      },
+      "reason": "RETURN ALL error lights appear on the ATM; metadata matches: A failed action or a wrong input, A cross or warning icon. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "5",
+      "event_id": "suction-arrival",
+      "frame": 288,
+      "action": "Banknotes collapse back into the ATM opening",
+      "visible": true,
+      "categories": [
+        "reverse-whooshes"
+      ],
+      "query": "Something collapsing or shrinking into a point",
+      "sync_meets": "arrival",
+      "action_duration": 0.6,
+      "emotion": "surprised",
+      "gain_db": -1.0,
+      "sound_id": "reverse-whoosh-medium-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/reverse-whooshes/reverse-whoosh-medium-soft.wav",
+      "asset_relative": "sounds/reverse-whooshes/reverse-whoosh-medium-soft.wav",
+      "sha256": "200b74d413d51459fa3274b82616f70dc8ba6dc93430912a18d611e03dd5ae6d",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/reverse-whooshes/reverse-whoosh-medium-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 9.6,
+      "sync_frame": 288,
+      "start": 8.924375,
+      "start_sample": 428370,
+      "untrimmed_start": 8.924375,
+      "trim_start_seconds": 0.0,
+      "end": 9.781091417910448,
+      "rate": 1.0050000000000001,
+      "sync_at": 0.679,
+      "effective_sync_at": 0.6756218905472636,
+      "sync_how": "Place it so its end (the sync point) lands on the moment of collapse, the cut or the hit: start = that moment − sync.at.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 24,
+      "selection_evidence": {
+        "use_for": [
+          "Something collapsing or shrinking into a point",
+          "The build into a hard cut, a hit or a reveal",
+          "An element pulled back into a button or icon",
+          "A quick suck-in transition"
+        ],
+        "avoid_for": [
+          "Moments that should land softly (it stops dead)",
+          "Big, energetic moments (use strong)"
+        ],
+        "tags": [
+          "reverse",
+          "whoosh",
+          "suck",
+          "build",
+          "collapse",
+          "air",
+          "medium",
+          "soft",
+          "natural"
+        ],
+        "fits_seconds": [
+          0.52,
+          0.71
+        ],
+        "adapt": {
+          "rate": [
+            0.85,
+            1.15
+          ],
+          "notes": "For other lengths, pick the nearest one and trim its quiet start rather than changing the rate."
+        }
+      },
+      "reason": "Banknotes collapse back into the ATM opening; metadata matches: Something collapsing or shrinking into a point, The build into a hard cut, a hit or a reveal. ",
+      "layer": "cinematic"
+    }
+  ],
+  "missing_assets": [],
+  "skipped": [],
+  "notes": [
+    "Context is supplied by authored animation/shot markers, not inferred by audio transcription or image recognition.",
+    "Frame checks certify authored markers and arithmetic; compare visible contact frames during picture review."
+  ]
+}
