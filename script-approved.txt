@@ -1,0 +1,25 @@
+An engineer was tasked with building a skyscraper in an area frequently hit by strong winds and earthquakes.
+
+He started by connecting massive steel columns to form a structural framework, then built the skyscraper one floor at a time.
+
+But once the building was completed, powerful winds caused the upper floors to sway back and forth, shaking everything inside.
+
+He immediately added diagonal steel braces to make the structure more rigid. The building became more stable, but it still swayed enough to make people inside uncomfortable.
+
+That's when he came up with an unusual solution.
+
+He installed a massive steel sphere near the top of the skyscraper, suspended it from heavy-duty steel cables, and connected it to a series of dampers.
+
+When the wind pushed the building to the left, inertia caused the sphere to resist the movement, making it move in the opposite direction relative to the building.
+
+As the building changed direction, the sphere continued swinging out of sync, generating a force that counteracted some of the building's motion.
+
+The dampers absorbed the energy from these oscillations and dissipated it as heat.
+
+As a result, the building's movements became less pronounced.
+
+When another powerful windstorm hit, the massive steel sphere began swinging back and forth, while the people inside could continue working more comfortably.
+
+It turns out that the secret to keeping a skyscraper stable isn't always making it more rigid...
+
+It's knowing how to control the way it moves.

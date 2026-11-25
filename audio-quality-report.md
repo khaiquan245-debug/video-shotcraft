@@ -1,0 +1,33 @@
+# Audio Quality Report
+
+Status: PASS
+Events: 14; distinct Wyzowl assets: 11
+
+## Measurements
+
+- duration_seconds: 40.6
+- clipped_samples: 0
+- sample_peak: 0.7944490909576416
+- channel_rms: [0.14476299285888672, 0.144766703248024]
+- channel_difference_db: 0.00022262331633476868
+- integrated_lufs: -14.0
+- true_peak_dbtp: -1.6
+- max_sync_error_frames: 0.0
+- max_effect_to_voice_db_in_voiced_100ms: -6.161651134490967
+- end_edge_peak: 6.711483001708984e-05
+- video: {'width': 1080, 'height': 1920, 'fps': '30/1', 'duration': 40.6}
+
+## Errors
+
+- None.
+
+## Warnings
+
+- None.
+
+## Scope
+
+Against animation markers and sampled actual encoded frames; not automatic image contact detection.
+Ducking plus a measured effect/voice proxy; not a human listening guarantee.
+
+All selected library sources are CC0 with source URL, commit and SHA-256 retained in sfx-timeline.json. No paid API. Native approved voice files are read-only inputs.
