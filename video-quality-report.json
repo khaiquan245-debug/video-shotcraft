@@ -1,0 +1,151 @@
+{
+  "file": "/workspace/outputs/vietnam-snow-20261125/output/Neu_Viet_Nam_Co_Tuyet_34_9s_1080x1920.mp4",
+  "sha256": "42ee3d5c90644fa49a26a9102a3113a8b7c69c5af272cdee17ced5af93930188",
+  "bytes": 12142515,
+  "duration": 34.86666666666667,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "frames": 1046,
+  "narration": {
+    "duration": 34.86666666666667,
+    "vo_duration": 34.509375,
+    "offset": 0.04,
+    "native_duration": 46.44,
+    "pitch_preserving_tempo": 1.2384057971014493,
+    "native_sha256": "422a178b6e0c6948e2b2626ac8d4bf2b9bb2c36087a7754462c7e5371d558c88",
+    "model": "VieNeu-TTS v3 Turbo",
+    "canonical_voice": "Hải Đăng",
+    "requested_voice": "Minh Quân",
+    "sentence_spans": [
+      {
+        "text": "Nếu một ngày cả Việt Nam đột nhiên có tuyết rơi thì chuyện gì sẽ xảy ra?",
+        "start": 0.04,
+        "end": 2.6771704944411936
+      },
+      {
+        "text": "Ban đầu, mọi người sẽ vô cùng thích thú, đổ ra đường chụp ảnh, nặn người tuyết và tổ chức những trận ném tuyết.",
+        "start": 2.7135174078408424,
+        "end": 6.998414643066121
+      },
+      {
+        "text": "Nhưng niềm vui chẳng kéo dài được lâu.",
+        "start": 7.034761556465769,
+        "end": 8.282672249853714
+      },
+      {
+        "text": "Những chiếc xe máy bắt đầu trượt ngã vì mặt đường đóng băng, khiến giao thông trở nên hỗn loạn.",
+        "start": 8.319019163253364,
+        "end": 11.699282109420713
+      },
+      {
+        "text": "Mọi người lập tức chạy đi mua áo ấm, trong khi các cửa hàng nhanh chóng bán hết máy sưởi.",
+        "start": 11.735629022820362,
+        "end": 14.768577018724399
+      },
+      {
+        "text": "Những căn nhà vốn được thiết kế để chống nóng giờ đây lại khó giữ được nhiệt.",
+        "start": 14.804923932124048,
+        "end": 17.57940498829725
+      },
+      {
+        "text": "Ở miền Tây, những vườn sầu riêng, ruộng lúa và nhiều loại cây nhiệt đới có thể bị thiệt hại nghiêm trọng vì giá rét.",
+        "start": 17.6157519016969,
+        "end": 21.69064474839087
+      },
+      {
+        "text": "Nếu tình trạng này kéo dài, người dân sẽ phải cải tạo nhà cửa, thay đổi phương tiện di chuyển và chuyển sang trồng những loại cây chịu lạnh.",
+        "start": 21.72699166179052,
+        "end": 26.859983543007605
+      },
+      {
+        "text": "Các tiệm bán đá lạnh có thể trở nên ế ẩm, còn những quán lẩu lại đông nghịt khách.",
+        "start": 26.896330456407252,
+        "end": 29.808122074312458
+      },
+      {
+        "text": "Và thứ khiến người Việt sợ nhất mỗi sáng có lẽ không còn là kẹt xe...",
+        "start": 29.84446898771211,
+        "end": 32.635104227618484
+      },
+      {
+        "text": "Mà là phải chui ra khỏi chiếc chăn ấm để đi làm!",
+        "start": 32.67145114101814,
+        "end": 34.549375
+      }
+    ],
+    "word_units": 207,
+    "units_per_second": 5.998370008149959,
+    "offline": true
+  },
+  "rig": {
+    "samples": 6848,
+    "unreachable": 0,
+    "maxBoneError": 4.263256414560601e-14,
+    "viewKinds": {
+      "hook": 81,
+      "photo": 75,
+      "snowman": 33,
+      "snowball": 22,
+      "turn": 39,
+      "traffic": 102,
+      "coat": 64,
+      "heater": 28,
+      "house": 84,
+      "orchard": 35,
+      "rice": 89,
+      "adapt": 53,
+      "retrofit": 32,
+      "car": 37,
+      "cabbage": 33,
+      "ice": 50,
+      "hotpot": 38,
+      "morning": 85,
+      "blanket": 66
+    }
+  },
+  "audio": {
+    "passed": true,
+    "errors": [],
+    "warnings": [],
+    "checks": {
+      "duration_seconds": 34.86666666666667,
+      "clipped_samples": 0,
+      "sample_peak": 0.7481696605682373,
+      "channel_rms": [
+        0.15009765326976776,
+        0.1500987559556961
+      ],
+      "channel_difference_db": 6.381027876822887e-05,
+      "integrated_lufs": -13.9,
+      "true_peak_dbtp": -2.3,
+      "max_sync_error_frames": 0.0,
+      "max_effect_to_voice_db_in_voiced_100ms": -6.381781578063965,
+      "end_edge_peak": 5.960464477539062e-07,
+      "video": {
+        "width": 1080,
+        "height": 1920,
+        "fps": "30/1",
+        "duration": 34.866667
+      }
+    },
+    "events": 7,
+    "unique_assets": 5,
+    "metadata_based_selection": true,
+    "visual_sync_scope": "Against animation markers and sampled actual encoded frames; not automatic image contact detection.",
+    "voice_clarity_scope": "Ducking plus a measured effect/voice proxy; not a human listening guarantee.",
+    "paid_apis": false,
+    "library_license": "CC0-1.0",
+    "master_sha256": "94adef9c9e7729b8cba631abf65b73cb2b9b784f368a426bcca7eae60c1d262f",
+    "video_sha256": "42ee3d5c90644fa49a26a9102a3113a8b7c69c5af272cdee17ced5af93930188"
+  },
+  "all_effects_to_voice_db_including_original": -6.372528553009033,
+  "script_caption_exact": true,
+  "caption_cues": 67,
+  "paid_apis": false,
+  "native_preserved": true,
+  "shots": 19,
+  "existing_projects_unchanged": true,
+  "visual_review": "Draft encoded contact/pose frames inspected; snow-grip and phone-tap unreachable poses repaired. Ending expression/rise and planting movement reviewed after localized repair. Final animation performs IK checks during encoding.",
+  "scope": "Sentence/phrase timing, not word forced alignment; hypothetical weather illustration. Muted technical playback does not substitute for human listening."
+}

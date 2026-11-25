@@ -1,0 +1,712 @@
+{
+  "schema_version": 1,
+  "enabled": true,
+  "duration": 34.86666666666667,
+  "fps": 30.0,
+  "sample_rate": 48000,
+  "language": "vi-VN",
+  "source": {
+    "repository": "https://github.com/wyzowl/sfx-kit",
+    "commit": "92780e7ab0cdfb557497a988089c47f46e8c7412",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "license_file": "assets/sfx-kit/LICENSE",
+    "catalogue_sha256": "67f4debfc7077d15391a896bac71a5d12c5c596dc194564e6054a844a98c9726"
+  },
+  "animation_sha256": "c50de83ad40513fd694c4539a22f511a1a964f416a357fce6aaca95c100c25d7",
+  "voiceover": "/workspace/outputs/vietnam-snow-20261125/audio/voice-timeline.wav",
+  "voiceover_sha256": "a24bf77311934ab59a9e4cc474c27cb938e68286263c5a58473152f4432eb4c0",
+  "voiceover_spans": [
+    [
+      0.025,
+      1.6900000000000002
+    ],
+    [
+      1.715,
+      2.7399999999999998
+    ],
+    [
+      2.705,
+      3.09
+    ],
+    [
+      3.205,
+      4.34
+    ],
+    [
+      4.364999999999999,
+      5.19
+    ],
+    [
+      5.295,
+      5.91
+    ],
+    [
+      5.895,
+      7.06
+    ],
+    [
+      7.0249999999999995,
+      8.34
+    ],
+    [
+      8.305,
+      10.49
+    ],
+    [
+      10.735,
+      11.75
+    ],
+    [
+      11.735,
+      13.06
+    ],
+    [
+      13.165,
+      16.66
+    ],
+    [
+      16.765,
+      18.16
+    ],
+    [
+      18.175,
+      21.17
+    ],
+    [
+      21.275000000000002,
+      22.29
+    ],
+    [
+      22.255000000000003,
+      22.740000000000002
+    ],
+    [
+      22.935000000000002,
+      24.18
+    ],
+    [
+      24.325000000000003,
+      25.400000000000002
+    ],
+    [
+      25.415000000000003,
+      28.45
+    ],
+    [
+      28.615000000000002,
+      29.69
+    ],
+    [
+      29.655,
+      29.86
+    ],
+    [
+      29.835,
+      31.5
+    ],
+    [
+      31.535000000000004,
+      32.25000000000001
+    ],
+    [
+      32.215,
+      32.690000000000005
+    ],
+    [
+      32.665,
+      33.120000000000005
+    ],
+    [
+      33.085,
+      34.59
+    ]
+  ],
+  "input_rights": {
+    "music": {
+      "license": "OWN",
+      "source": "/workspace/outputs/vietnam-snow-20261125/production/audio-prep.py",
+      "sha256": "a6791be01882b67e410f9cc3501dbd0bf7fd83493bafee455830ad2ae544dcc6",
+      "description": "Original local score or wind bed; documented original snow, engine, skid, simmer and short soft clock motif"
+    },
+    "ambience": {
+      "license": "OWN",
+      "source": "/workspace/outputs/vietnam-snow-20261125/production/audio-prep.py",
+      "sha256": "48b6de9acb33ea8dc61092bd211f6deb780a0110b82ba8a331c0d124eff30e5c",
+      "description": "Original local score or wind bed; documented original snow, engine, skid, simmer and short soft clock motif"
+    }
+  },
+  "events": [
+    {
+      "scene_id": "photo",
+      "event_id": "camera-shutter",
+      "frame": 146,
+      "visual_time_unquantized": 4.866666666666666,
+      "visual_quantization_error_frames": 0.0,
+      "action": "The phone takes a photograph and its visible flash fires",
+      "visible": true,
+      "categories": [
+        "mechanical"
+      ],
+      "required_tags": [
+        "shutter",
+        "light"
+      ],
+      "query": "A screenshot or photo being taken",
+      "sync_meets": "instant",
+      "gain_db": -1.0,
+      "baseline_gain_db": -3,
+      "sound_id": "mechanical-shutter-heavy",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/mechanical/mechanical-shutter-heavy.wav",
+      "asset_relative": "sounds/mechanical/mechanical-shutter-heavy.wav",
+      "sha256": "e3a881f2e86471f577b474ad37ab9601c6a47cb9c9847d52db36b1690a5f88b2",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/mechanical/mechanical-shutter-heavy.wav",
+      "license": "CC0-1.0",
+      "event_time": 4.866666666666666,
+      "sync_frame": 146,
+      "start": 4.8566666666666665,
+      "start_sample": 233120,
+      "untrimmed_start": 4.8566666666666665,
+      "trim_start_seconds": 0.0,
+      "end": 5.040666666666667,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_how": "Sync point on the flash or the frame freezing.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 12,
+      "selection_evidence": {
+        "use_for": [
+          "A screenshot or photo being taken",
+          "Capturing a moment, snapshot transitions",
+          "Camera icons"
+        ],
+        "avoid_for": [
+          "Small, delicate UI (use light)"
+        ],
+        "tags": [
+          "mechanical",
+          "shutter",
+          "heavy",
+          "physical",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Faster sounds smaller and lighter, slower bigger: keep changes small."
+        }
+      },
+      "reason": "The phone takes a photograph and its visible flash fires; metadata matches: A screenshot or photo being taken, Capturing a moment, snapshot transitions. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "snowball",
+      "event_id": "snowball-flight",
+      "frame": 199,
+      "visual_time_unquantized": 6.625,
+      "visual_quantization_error_frames": 0.25,
+      "action": "The thrown snowball passes the fastest point of its short flight",
+      "visible": true,
+      "categories": [
+        "swishes-and-zips"
+      ],
+      "required_tags": "swish",
+      "query": "A quick small element flicked across the scene",
+      "sync_meets": "move-peak",
+      "intensity": "soft",
+      "gain_db": -4.0,
+      "baseline_gain_db": -6,
+      "sound_id": "swish-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/swishes-and-zips/swish-soft.wav",
+      "asset_relative": "sounds/swishes-and-zips/swish-soft.wav",
+      "sha256": "c18c581c43ac848b10c946e2a3c402b79370d99b057c2399b832d39f9d9236ab",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/swishes-and-zips/swish-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 6.633333333333334,
+      "sync_frame": 199,
+      "start": 6.548333333333333,
+      "start_sample": 314320,
+      "untrimmed_start": 6.548333333333333,
+      "trim_start_seconds": 0.0,
+      "end": 6.771333333333333,
+      "rate": 1.0,
+      "sync_at": 0.085,
+      "effective_sync_at": 0.085,
+      "sync_how": "Put the sync point where the move is fastest: the middle of an ease-in-out move.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 24,
+      "selection_evidence": {
+        "use_for": [
+          "Text, icons or arrows flicked into place",
+          "Quick cuts, wipes and whip transitions",
+          "A line or pointer sweeping across"
+        ],
+        "avoid_for": [
+          "Big, heavy moves (use a whoosh)"
+        ],
+        "tags": [
+          "swish",
+          "movement",
+          "air",
+          "quick",
+          "soft",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.85,
+            1.2
+          ],
+          "notes": "To fit a quicker or slower move, change the rate a little (its pitch moves with it); for a much longer move, use a whoosh."
+        }
+      },
+      "reason": "The thrown snowball passes the fastest point of its short flight; metadata matches: Text, icons or arrows flicked into place, Quick cuts, wipes and whip transitions. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "coat",
+      "event_id": "winter-coat",
+      "frame": 388,
+      "visual_time_unquantized": 12.92,
+      "visual_quantization_error_frames": 0.39999999999997726,
+      "action": "The man pulls on his winter coat",
+      "visible": true,
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "fabric",
+      "material": "fabric",
+      "query": "Clothing and soft products being touched",
+      "sync_meets": "instant",
+      "gain_db": -1.0,
+      "baseline_gain_db": -3,
+      "sound_id": "foley-fabric-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-fabric-touch.wav",
+      "asset_relative": "sounds/foley/foley-fabric-touch.wav",
+      "sha256": "b624d47da4c0a331f3f73e04ce81f649ff3c71613f75681b7d00cc2845f3b7e4",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-fabric-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 12.933333333333334,
+      "sync_frame": 388,
+      "start": 12.911333333333333,
+      "start_sample": 619744,
+      "untrimmed_start": 12.911333333333333,
+      "trim_start_seconds": 0.0,
+      "end": 13.176333333333334,
+      "rate": 1.0,
+      "sync_at": 0.022,
+      "effective_sync_at": 0.022,
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 28,
+      "selection_evidence": {
+        "use_for": [
+          "Clothing, bags and soft products",
+          "Gentle, human touches",
+          "Covers lifting",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "fabric",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "The man pulls on his winter coat; metadata matches: Clothing, bags and soft products, Gentle, human touches. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "house",
+      "event_id": "shiver-coat",
+      "frame": 508,
+      "visual_time_unquantized": 16.933333333333334,
+      "visual_quantization_error_frames": 0.0,
+      "action": "The man draws his coat close while shivering at the drafty window",
+      "visible": true,
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "fabric",
+      "material": "fabric",
+      "query": "Clothing and soft products gentle human touches",
+      "sync_meets": "instant",
+      "gain_db": -3.0,
+      "baseline_gain_db": -5,
+      "sound_id": "foley-fabric-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-fabric-touch.wav",
+      "asset_relative": "sounds/foley/foley-fabric-touch.wav",
+      "sha256": "b624d47da4c0a331f3f73e04ce81f649ff3c71613f75681b7d00cc2845f3b7e4",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-fabric-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 16.933333333333334,
+      "sync_frame": 508,
+      "start": 16.911333333333335,
+      "start_sample": 811744,
+      "untrimmed_start": 16.911333333333335,
+      "trim_start_seconds": 0.0,
+      "end": 17.176333333333336,
+      "rate": 1.0,
+      "sync_at": 0.022,
+      "effective_sync_at": 0.022,
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 33,
+      "selection_evidence": {
+        "use_for": [
+          "Clothing, bags and soft products",
+          "Gentle, human touches",
+          "Covers lifting",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "fabric",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "The man draws his coat close while shivering at the drafty window; metadata matches: Clothing, bags and soft products, Gentle, human touches. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "retrofit",
+      "event_id": "window-seal",
+      "frame": 706,
+      "visual_time_unquantized": 23.55,
+      "visual_quantization_error_frames": 0.5,
+      "action": "The hand presses insulating strip along the window frame",
+      "visible": true,
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "plastic",
+      "material": "plastic",
+      "query": "Plastic products and soft tape touched",
+      "sync_meets": "instant",
+      "gain_db": -2.0,
+      "baseline_gain_db": -4,
+      "sound_id": "foley-plastic-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-plastic-touch.wav",
+      "asset_relative": "sounds/foley/foley-plastic-touch.wav",
+      "sha256": "c61e0be4b1f150b55f4efc7088991b137d73562b0f75302061348291091482f4",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-plastic-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 23.533333333333335,
+      "sync_frame": 706,
+      "start": 23.523333333333333,
+      "start_sample": 1129120,
+      "untrimmed_start": 23.523333333333333,
+      "trim_start_seconds": 0.0,
+      "end": 23.602333333333334,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 23,
+      "selection_evidence": {
+        "use_for": [
+          "Plastic products and packaging",
+          "Devices and cases",
+          "Containers opening or being set down",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "plastic",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "The hand presses insulating strip along the window frame; metadata matches: Plastic products and packaging, Devices and cases. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "morning",
+      "event_id": "phone-check",
+      "frame": 904,
+      "visual_time_unquantized": 30.14446898771211,
+      "visual_quantization_error_frames": 0.3340696313632634,
+      "action": "The man checks the phone before leaving for work",
+      "visible": true,
+      "categories": [
+        "interface"
+      ],
+      "required_tags": "tap",
+      "query": "Finger tapping a phone touchscreen",
+      "sync_meets": "instant",
+      "gain_db": -3.0,
+      "baseline_gain_db": -5,
+      "sound_id": "click-tap-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/interface/click-tap-soft.wav",
+      "asset_relative": "sounds/interface/click-tap-soft.wav",
+      "sha256": "e870f882b03aed3036011235a06350e626ae69a92dd5c138eb370d87194c6784",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/interface/click-tap-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 30.133333333333333,
+      "sync_frame": 904,
+      "start": 30.124333333333333,
+      "start_sample": 1445968,
+      "untrimmed_start": 30.124333333333333,
+      "trim_start_seconds": 0.0,
+      "end": 30.14033333333333,
+      "rate": 1.0,
+      "sync_at": 0.009,
+      "effective_sync_at": 0.009,
+      "sync_how": "Put the sync point on the frame the press lands.",
+      "under_voiceover_db": -1,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 18,
+      "selection_evidence": {
+        "use_for": [
+          "Touchscreen taps in app demos",
+          "A finger tapping a card or tile",
+          "Selecting an item on a phone screen"
+        ],
+        "avoid_for": [
+          "Moments that need to be noticed over music",
+          "Mouse clicks (use mouse)"
+        ],
+        "tags": [
+          "click",
+          "tap",
+          "soft",
+          "ui",
+          "interface",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.15
+          ],
+          "notes": "Rate changes shift the pitch a little: faster sounds lighter, slower heavier."
+        }
+      },
+      "reason": "The man checks the phone before leaving for work; metadata matches: Touchscreen taps in app demos, A finger tapping a card or tile. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "blanket",
+      "event_id": "blanket-pull",
+      "frame": 1008,
+      "visual_time_unquantized": 33.6,
+      "visual_quantization_error_frames": 0.0,
+      "action": "The sleeper pulls the warm blanket back toward his face",
+      "visible": true,
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "fabric",
+      "material": "fabric",
+      "query": "Covers lifting clothing soft products gentle touch",
+      "sync_meets": "instant",
+      "gain_db": -1.0,
+      "baseline_gain_db": -3,
+      "sound_id": "foley-fabric-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-fabric-touch.wav",
+      "asset_relative": "sounds/foley/foley-fabric-touch.wav",
+      "sha256": "b624d47da4c0a331f3f73e04ce81f649ff3c71613f75681b7d00cc2845f3b7e4",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-fabric-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 33.6,
+      "sync_frame": 1008,
+      "start": 33.578,
+      "start_sample": 1611744,
+      "untrimmed_start": 33.578,
+      "trim_start_seconds": 0.0,
+      "end": 33.843,
+      "rate": 1.0,
+      "sync_at": 0.022,
+      "effective_sync_at": 0.022,
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 33,
+      "selection_evidence": {
+        "use_for": [
+          "Clothing, bags and soft products",
+          "Gentle, human touches",
+          "Covers lifting",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "fabric",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "The sleeper pulls the warm blanket back toward his face; metadata matches: Clothing, bags and soft products, Gentle, human touches. ",
+      "layer": "foley"
+    }
+  ],
+  "missing_assets": [],
+  "skipped": [],
+  "notes": [
+    "Context is supplied by authored animation/shot markers, not inferred by audio transcription or image recognition.",
+    "Frame checks certify authored markers and arithmetic; compare visible contact frames during picture review."
+  ],
+  "supplemental_original_events": [
+    {
+      "event_id": "snow-shaping",
+      "action": "Hands lift and shape a snowball in front of the snowman",
+      "time": 5.266666666666667,
+      "sync_frame": 158,
+      "file": "/workspace/outputs/vietnam-snow-20261125/audio/original-snow-shaping.wav",
+      "duration": 0.45,
+      "gain_db": -22.436974992327126,
+      "license": "OWN",
+      "sha256": "dd30ba2a5734b00509acdb2a7d967954caca837577a261ea0479e9205422315d",
+      "method": "Original offline deterministic filtered noise and oscillator Foley; no extracted reference soundtrack",
+      "source": "/workspace/outputs/vietnam-snow-20261125/production/audio-prep.py"
+    },
+    {
+      "event_id": "snowball-contact",
+      "action": "Snowball reaches the receiver and breaks into visible particles",
+      "time": 6.8,
+      "sync_frame": 204,
+      "file": "/workspace/outputs/vietnam-snow-20261125/audio/original-snowball-contact.wav",
+      "duration": 0.22,
+      "gain_db": -18.0,
+      "license": "OWN",
+      "sha256": "69be4d52c1fa6d597de06c9ac2b2f4081f0f81f2330b38509fd79d240d27d192",
+      "method": "Original offline deterministic filtered noise and oscillator Foley; no extracted reference soundtrack",
+      "source": "/workspace/outputs/vietnam-snow-20261125/production/audio-prep.py"
+    },
+    {
+      "event_id": "motorcycle-engine",
+      "action": "The visible scooter moves on the icy roadway",
+      "time": 8.333333333333334,
+      "sync_frame": 250,
+      "file": "/workspace/outputs/vietnam-snow-20261125/audio/original-motorcycle-engine.wav",
+      "duration": 1.1809808367466363,
+      "gain_db": -35.72113295386327,
+      "license": "OWN",
+      "sha256": "0fc3fd1aa4b3ef2f8fc159dafd9547750ef1bc67fb954c8ef27f26d1c34be706",
+      "method": "Original offline deterministic filtered noise and oscillator Foley; no extracted reference soundtrack",
+      "source": "/workspace/outputs/vietnam-snow-20261125/production/audio-prep.py"
+    },
+    {
+      "event_id": "tire-skid",
+      "action": "The scooter tilts and slides sideways",
+      "time": 9.0,
+      "sync_frame": 270,
+      "file": "/workspace/outputs/vietnam-snow-20261125/audio/original-tire-skid.wav",
+      "duration": 0.55,
+      "gain_db": -30.39577516576788,
+      "license": "OWN",
+      "sha256": "81bc8bfaa7531081fc8f3f7b211d57222918f192ef6c1ef99560db51fad12ec1",
+      "method": "Original offline deterministic filtered noise and oscillator Foley; no extracted reference soundtrack",
+      "source": "/workspace/outputs/vietnam-snow-20261125/production/audio-prep.py"
+    },
+    {
+      "event_id": "soup-simmer",
+      "action": "The visible hotpot simmers and sends steam upward",
+      "time": 28.6,
+      "sync_frame": 858,
+      "file": "/workspace/outputs/vietnam-snow-20261125/audio/original-soup-simmer.wav",
+      "duration": 1.227802321045442,
+      "gain_db": -29.70053304058364,
+      "license": "OWN",
+      "sha256": "d03fc96a7f3b1a8024a423c1e8f25c45c9fb30e5c03b6c90a21f1200d5d3ce34",
+      "method": "Original offline deterministic filtered noise and oscillator Foley; no extracted reference soundtrack",
+      "source": "/workspace/outputs/vietnam-snow-20261125/production/audio-prep.py"
+    },
+    {
+      "event_id": "morning-soft-alarm",
+      "action": "A deliberately quiet clock motif when the bedside alarm first becomes visible; kept short and ducked under speech",
+      "time": 32.733333333333334,
+      "sync_frame": 982,
+      "file": "/workspace/outputs/vietnam-snow-20261125/audio/original-morning-soft-alarm.wav",
+      "duration": 0.26,
+      "gain_db": -31.151546383555875,
+      "license": "OWN",
+      "sha256": "27f581acfa6cbab4f031d878c7caddf735c34449e815ae4ac2198f0eaaa68433",
+      "method": "Original offline deterministic filtered noise and oscillator Foley; no extracted reference soundtrack",
+      "source": "/workspace/outputs/vietnam-snow-20261125/production/audio-prep.py"
+    }
+  ],
+  "original_audio_scope": "Locally authored snow, motor, skid, simmer and quiet short clock motif; all are in the ducked additional ambience stem, included in combined-effects proxy."
+}

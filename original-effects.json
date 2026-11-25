@@ -1,0 +1,80 @@
+[
+  {
+    "event_id": "snow-shaping",
+    "action": "Hands lift and shape a snowball in front of the snowman",
+    "time": 5.266666666666667,
+    "sync_frame": 158,
+    "file": "/workspace/outputs/vietnam-snow-20261125/audio/original-snow-shaping.wav",
+    "duration": 0.45,
+    "gain_db": -22.436974992327126,
+    "license": "OWN",
+    "sha256": "dd30ba2a5734b00509acdb2a7d967954caca837577a261ea0479e9205422315d",
+    "method": "Original offline deterministic filtered noise and oscillator Foley; no extracted reference soundtrack",
+    "source": "/workspace/outputs/vietnam-snow-20261125/production/audio-prep.py"
+  },
+  {
+    "event_id": "snowball-contact",
+    "action": "Snowball reaches the receiver and breaks into visible particles",
+    "time": 6.8,
+    "sync_frame": 204,
+    "file": "/workspace/outputs/vietnam-snow-20261125/audio/original-snowball-contact.wav",
+    "duration": 0.22,
+    "gain_db": -18.0,
+    "license": "OWN",
+    "sha256": "69be4d52c1fa6d597de06c9ac2b2f4081f0f81f2330b38509fd79d240d27d192",
+    "method": "Original offline deterministic filtered noise and oscillator Foley; no extracted reference soundtrack",
+    "source": "/workspace/outputs/vietnam-snow-20261125/production/audio-prep.py"
+  },
+  {
+    "event_id": "motorcycle-engine",
+    "action": "The visible scooter moves on the icy roadway",
+    "time": 8.333333333333334,
+    "sync_frame": 250,
+    "file": "/workspace/outputs/vietnam-snow-20261125/audio/original-motorcycle-engine.wav",
+    "duration": 1.1809808367466363,
+    "gain_db": -35.72113295386327,
+    "license": "OWN",
+    "sha256": "0fc3fd1aa4b3ef2f8fc159dafd9547750ef1bc67fb954c8ef27f26d1c34be706",
+    "method": "Original offline deterministic filtered noise and oscillator Foley; no extracted reference soundtrack",
+    "source": "/workspace/outputs/vietnam-snow-20261125/production/audio-prep.py"
+  },
+  {
+    "event_id": "tire-skid",
+    "action": "The scooter tilts and slides sideways",
+    "time": 9.0,
+    "sync_frame": 270,
+    "file": "/workspace/outputs/vietnam-snow-20261125/audio/original-tire-skid.wav",
+    "duration": 0.55,
+    "gain_db": -30.39577516576788,
+    "license": "OWN",
+    "sha256": "81bc8bfaa7531081fc8f3f7b211d57222918f192ef6c1ef99560db51fad12ec1",
+    "method": "Original offline deterministic filtered noise and oscillator Foley; no extracted reference soundtrack",
+    "source": "/workspace/outputs/vietnam-snow-20261125/production/audio-prep.py"
+  },
+  {
+    "event_id": "soup-simmer",
+    "action": "The visible hotpot simmers and sends steam upward",
+    "time": 28.6,
+    "sync_frame": 858,
+    "file": "/workspace/outputs/vietnam-snow-20261125/audio/original-soup-simmer.wav",
+    "duration": 1.227802321045442,
+    "gain_db": -29.70053304058364,
+    "license": "OWN",
+    "sha256": "d03fc96a7f3b1a8024a423c1e8f25c45c9fb30e5c03b6c90a21f1200d5d3ce34",
+    "method": "Original offline deterministic filtered noise and oscillator Foley; no extracted reference soundtrack",
+    "source": "/workspace/outputs/vietnam-snow-20261125/production/audio-prep.py"
+  },
+  {
+    "event_id": "morning-soft-alarm",
+    "action": "A deliberately quiet clock motif when the bedside alarm first becomes visible; kept short and ducked under speech",
+    "time": 32.733333333333334,
+    "sync_frame": 982,
+    "file": "/workspace/outputs/vietnam-snow-20261125/audio/original-morning-soft-alarm.wav",
+    "duration": 0.26,
+    "gain_db": -31.151546383555875,
+    "license": "OWN",
+    "sha256": "27f581acfa6cbab4f031d878c7caddf735c34449e815ae4ac2198f0eaaa68433",
+    "method": "Original offline deterministic filtered noise and oscillator Foley; no extracted reference soundtrack",
+    "source": "/workspace/outputs/vietnam-snow-20261125/production/audio-prep.py"
+  }
+]

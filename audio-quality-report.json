@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "errors": [],
+  "warnings": [],
+  "checks": {
+    "duration_seconds": 34.86666666666667,
+    "clipped_samples": 0,
+    "sample_peak": 0.7481696605682373,
+    "channel_rms": [
+      0.15009765326976776,
+      0.1500987559556961
+    ],
+    "channel_difference_db": 6.381027876822887e-05,
+    "integrated_lufs": -13.9,
+    "true_peak_dbtp": -2.3,
+    "max_sync_error_frames": 0.0,
+    "max_effect_to_voice_db_in_voiced_100ms": -6.381781578063965,
+    "end_edge_peak": 5.960464477539062e-07,
+    "video": {
+      "width": 1080,
+      "height": 1920,
+      "fps": "30/1",
+      "duration": 34.866667
+    }
+  },
+  "events": 7,
+  "unique_assets": 5,
+  "metadata_based_selection": true,
+  "visual_sync_scope": "Against animation markers and sampled actual encoded frames; not automatic image contact detection.",
+  "voice_clarity_scope": "Ducking plus a measured effect/voice proxy; not a human listening guarantee.",
+  "paid_apis": false,
+  "library_license": "CC0-1.0",
+  "master_sha256": "94adef9c9e7729b8cba631abf65b73cb2b9b784f368a426bcca7eae60c1d262f",
+  "video_sha256": "42ee3d5c90644fa49a26a9102a3113a8b7c69c5af272cdee17ced5af93930188"
+}
