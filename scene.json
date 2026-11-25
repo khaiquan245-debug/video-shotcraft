@@ -1,0 +1,39 @@
+{
+  "id": "vietnam-street",
+  "seed": 245,
+  "style": "cartoon",
+  "mode": "2.5d",
+  "density": 1,
+  "layout": "street",
+  "duration": 15,
+  "fps": 60,
+  "width": 1080,
+  "height": 1920,
+  "phases": [
+    {
+      "start": 0,
+      "end": 3,
+      "action": "establish city"
+    },
+    {
+      "start": 3,
+      "end": 6,
+      "action": "track walking hero"
+    },
+    {
+      "start": 6,
+      "end": 9,
+      "action": "cool sky, wind, first snow"
+    },
+    {
+      "start": 9,
+      "end": 12,
+      "action": "stop, look up, accumulation"
+    },
+    {
+      "start": 12,
+      "end": 15,
+      "action": "pull back to snowy city"
+    }
+  ]
+}

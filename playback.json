@@ -1,0 +1,11 @@
+{
+  "duration": 15,
+  "currentTime": 15,
+  "ended": true,
+  "width": 1080,
+  "height": 1920,
+  "totalVideoFrames": 900,
+  "droppedVideoFrames": 0,
+  "mutedTechnicalPlaybackOnly": true,
+  "errors": []
+}
