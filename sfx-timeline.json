@@ -1,0 +1,1365 @@
+{
+  "schema_version": 1,
+  "enabled": true,
+  "duration": 72.7,
+  "fps": 30.0,
+  "sample_rate": 48000,
+  "language": "en-US",
+  "source": {
+    "repository": "https://github.com/wyzowl/sfx-kit",
+    "commit": "92780e7ab0cdfb557497a988089c47f46e8c7412",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "license_file": "assets/sfx-kit/LICENSE",
+    "catalogue_sha256": "67f4debfc7077d15391a896bac71a5d12c5c596dc194564e6054a844a98c9726"
+  },
+  "animation_sha256": "218828098010b0a57df34cd95e08131b354dcb156a041d486ac1e19f376b60e1",
+  "voiceover": "/workspace/outputs/skyscraper-tuned-mass-damper-20261125/audio/voice-timeline.wav",
+  "voiceover_sha256": "77ff166e58ec496ead4e41ce94ae0e49e811f1e2ebd26c9eb8334d0a784e5bfd",
+  "voiceover_spans": [
+    [
+      0.025,
+      1.2100000000000002
+    ],
+    [
+      1.245,
+      3.05
+    ],
+    [
+      3.305,
+      3.9699999999999998
+    ],
+    [
+      3.935,
+      5.43
+    ],
+    [
+      5.444999999999999,
+      5.64
+    ],
+    [
+      5.635,
+      6.5
+    ],
+    [
+      6.475,
+      9.27
+    ],
+    [
+      9.655,
+      10.6
+    ],
+    [
+      10.565,
+      12.05
+    ],
+    [
+      12.025,
+      13.46
+    ],
+    [
+      13.795,
+      16.37
+    ],
+    [
+      16.365000000000002,
+      16.65
+    ],
+    [
+      16.985000000000003,
+      18.3
+    ],
+    [
+      18.315,
+      20.65
+    ],
+    [
+      20.825000000000003,
+      21.12
+    ],
+    [
+      21.105,
+      22.17
+    ],
+    [
+      22.165000000000003,
+      23.56
+    ],
+    [
+      23.835,
+      25.09
+    ],
+    [
+      25.065,
+      26.5
+    ],
+    [
+      26.495,
+      27.3
+    ],
+    [
+      27.265,
+      27.62
+    ],
+    [
+      27.635,
+      28.75
+    ],
+    [
+      28.725,
+      31.88
+    ],
+    [
+      32.225,
+      32.870000000000005
+    ],
+    [
+      32.855000000000004,
+      34.220000000000006
+    ],
+    [
+      34.225,
+      34.36000000000001
+    ],
+    [
+      34.585,
+      36.36000000000001
+    ],
+    [
+      36.375,
+      36.53
+    ],
+    [
+      36.505,
+      38.1
+    ],
+    [
+      38.515,
+      40.75000000000001
+    ],
+    [
+      41.075,
+      42.160000000000004
+    ],
+    [
+      42.125,
+      43.970000000000006
+    ],
+    [
+      43.935,
+      45.330000000000005
+    ],
+    [
+      45.635000000000005,
+      47.56
+    ],
+    [
+      47.945,
+      48.720000000000006
+    ],
+    [
+      48.705000000000005,
+      50.870000000000005
+    ],
+    [
+      50.875,
+      53.470000000000006
+    ],
+    [
+      53.835,
+      54.84
+    ],
+    [
+      54.815000000000005,
+      55.03
+    ],
+    [
+      55.005,
+      55.64000000000001
+    ],
+    [
+      55.855000000000004,
+      57.67
+    ],
+    [
+      57.685,
+      57.86000000000001
+    ],
+    [
+      57.835,
+      59.57000000000001
+    ],
+    [
+      59.865,
+      62.230000000000004
+    ],
+    [
+      62.215,
+      62.480000000000004
+    ],
+    [
+      62.915000000000006,
+      65.55000000000001
+    ],
+    [
+      65.52499999999999,
+      66.86
+    ],
+    [
+      66.82499999999999,
+      68.37
+    ],
+    [
+      68.63499999999999,
+      70.25
+    ],
+    [
+      70.295,
+      72.12
+    ],
+    [
+      72.155,
+      72.34
+    ]
+  ],
+  "input_rights": {
+    "music": {
+      "license": "OWN",
+      "source": "/workspace/outputs/skyscraper-tuned-mass-damper-20261125/production/audio-prep.py",
+      "sha256": "be273798f451658e6aeca9952bfc4e777081f96d8a50839456ba5f2fd3d1dc58",
+      "description": "Original local instrumental score or wind/mechanical additional bed; all original cues documented in original-effects.json"
+    },
+    "ambience": {
+      "license": "OWN",
+      "source": "/workspace/outputs/skyscraper-tuned-mass-damper-20261125/production/audio-prep.py",
+      "sha256": "83f5a6d4e0f084508f7aacb1e4f7889be53ca51ef5a0dd9c6bc5428fb1b37d1e",
+      "description": "Original local instrumental score or wind/mechanical additional bed; all original cues documented in original-effects.json"
+    }
+  },
+  "events": [
+    {
+      "scene_id": "brief",
+      "event_id": "site-paper",
+      "frame": 38,
+      "visual_time_unquantized": 1.25,
+      "visual_quantization_error_frames": 0.5,
+      "action": "The engineer handles the paper building brief",
+      "visible": true,
+      "categories": [
+        "foley"
+      ],
+      "material": "paper",
+      "required_tags": "paper",
+      "query": "Documents letters paper being touched handled",
+      "sync_meets": "instant",
+      "gain_db": -3.0,
+      "baseline_gain_db": -5,
+      "sound_id": "foley-paper-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-paper-touch.wav",
+      "asset_relative": "sounds/foley/foley-paper-touch.wav",
+      "sha256": "37c6dd31840b0910df0f61b5714a8aba916c704a33eee6293a92603cea9e1360",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-paper-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 1.2666666666666666,
+      "sync_frame": 38,
+      "start": 1.2446666666666666,
+      "start_sample": 59744,
+      "untrimmed_start": 1.2446666666666666,
+      "trim_start_seconds": 0.0,
+      "end": 1.5546666666666666,
+      "rate": 1.0,
+      "sync_at": 0.022,
+      "effective_sync_at": 0.022,
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 28,
+      "selection_evidence": {
+        "use_for": [
+          "Documents, letters and invoices appearing",
+          "Pages turning or notes being handled",
+          "Paperwork and forms",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "paper",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "The engineer handles the paper building brief; metadata matches: Documents, letters and invoices appearing, Pages turning or notes being handled. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "frame",
+      "event_id": "first-fastener",
+      "frame": 219,
+      "visual_time_unquantized": 7.296403540156769,
+      "visual_quantization_error_frames": 0.10789379529694543,
+      "action": "A wrench tightens a physical steel connection",
+      "visible": true,
+      "categories": [
+        "mechanical"
+      ],
+      "required_tags": "ratchet",
+      "query": "Tightening or adjusting something a dial knob turned",
+      "action_duration": 0.5,
+      "sync_meets": "action-start",
+      "gain_db": -1.0,
+      "baseline_gain_db": -3,
+      "sound_id": "mechanical-ratchet-heavy",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/mechanical/mechanical-ratchet-heavy.wav",
+      "asset_relative": "sounds/mechanical/mechanical-ratchet-heavy.wav",
+      "sha256": "7a1fcec1d77e924f6f817a58023118216f72bc4433f26bcf9ac58908a7b76506",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/mechanical/mechanical-ratchet-heavy.wav",
+      "license": "CC0-1.0",
+      "event_time": 7.3,
+      "sync_frame": 219,
+      "start": 7.3,
+      "start_sample": 350400,
+      "untrimmed_start": 7.3,
+      "trim_start_seconds": 0.0,
+      "end": 7.816504854368932,
+      "rate": 1.03,
+      "sync_at": 0,
+      "effective_sync_at": 0.0,
+      "sync_how": "Start it with the turn; trim or fade it to the turn's length.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 26,
+      "selection_evidence": {
+        "use_for": [
+          "A dial or knob being turned",
+          "Values stepping up or down",
+          "Tightening or adjusting something"
+        ],
+        "avoid_for": [
+          "Small, delicate UI (use light)"
+        ],
+        "tags": [
+          "mechanical",
+          "ratchet",
+          "heavy",
+          "physical",
+          "natural"
+        ],
+        "fits_seconds": [
+          0.46,
+          0.57
+        ],
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Faster sounds smaller and lighter, slower bigger: keep changes small."
+        }
+      },
+      "reason": "A wrench tightens a physical steel connection; metadata matches: A dial or knob being turned, Values stepping up or down. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "wind",
+      "event_id": "cup-spill",
+      "frame": 501,
+      "visual_time_unquantized": 16.701898420416025,
+      "visual_quantization_error_frames": 0.05695261248075667,
+      "action": "A visible drop spills from the swaying office cup",
+      "visible": true,
+      "categories": [
+        "everyday-props"
+      ],
+      "required_tags": "drip",
+      "query": "A leak drip water",
+      "sync_meets": "instant",
+      "gain_db": -5.0,
+      "baseline_gain_db": -7,
+      "sound_id": "props-drip",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/everyday-props/props-drip.wav",
+      "asset_relative": "sounds/everyday-props/props-drip.wav",
+      "sha256": "3e90eecb64acdb60e54f3d7e003086ba337544fa9a2b41cc9cd8b85b5b1e98e2",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/everyday-props/props-drip.wav",
+      "license": "CC0-1.0",
+      "event_time": 16.7,
+      "sync_frame": 501,
+      "start": 16.7,
+      "start_sample": 801600,
+      "untrimmed_start": 16.7,
+      "trim_start_seconds": 0.0,
+      "end": 18.117,
+      "rate": 1.0,
+      "sync_at": 0,
+      "effective_sync_at": 0.0,
+      "sync_how": "Sync point on the frame it happens; for a gesture, start it with the move.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 19,
+      "selection_evidence": {
+        "use_for": [
+          "A leak, a drip, waste",
+          "Water, plumbing and saving water",
+          "Time passing slowly"
+        ],
+        "avoid_for": [
+          "Abstract ideas better shown with a UI or motion sound"
+        ],
+        "tags": [
+          "props",
+          "objects",
+          "foley",
+          "drip",
+          "water",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.85,
+            1.15
+          ],
+          "notes": "Small rate changes to fit the move."
+        }
+      },
+      "reason": "A visible drop spills from the swaying office cup; metadata matches: A leak, a drip, waste, Water, plumbing and saving water. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "brace",
+      "event_id": "brace-fastener",
+      "frame": 595,
+      "visual_time_unquantized": 19.819217760587062,
+      "visual_quantization_error_frames": 0.42346718238809444,
+      "action": "The diagonal brace connection is tightened at the centerline crossing",
+      "visible": true,
+      "categories": [
+        "mechanical"
+      ],
+      "required_tags": "ratchet",
+      "query": "Tightening adjusting a physical mechanism",
+      "action_duration": 0.5,
+      "sync_meets": "action-start",
+      "gain_db": -1.0,
+      "baseline_gain_db": -3,
+      "sound_id": "mechanical-ratchet-heavy",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/mechanical/mechanical-ratchet-heavy.wav",
+      "asset_relative": "sounds/mechanical/mechanical-ratchet-heavy.wav",
+      "sha256": "7a1fcec1d77e924f6f817a58023118216f72bc4433f26bcf9ac58908a7b76506",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/mechanical/mechanical-ratchet-heavy.wav",
+      "license": "CC0-1.0",
+      "event_time": 19.833333333333332,
+      "sync_frame": 595,
+      "start": 19.833333333333332,
+      "start_sample": 952000,
+      "untrimmed_start": 19.833333333333332,
+      "trim_start_seconds": 0.0,
+      "end": 20.349838187702264,
+      "rate": 1.03,
+      "sync_at": 0,
+      "effective_sync_at": 0.0,
+      "sync_how": "Start it with the turn; trim or fade it to the turn's length.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 14,
+      "selection_evidence": {
+        "use_for": [
+          "A dial or knob being turned",
+          "Values stepping up or down",
+          "Tightening or adjusting something"
+        ],
+        "avoid_for": [
+          "Small, delicate UI (use light)"
+        ],
+        "tags": [
+          "mechanical",
+          "ratchet",
+          "heavy",
+          "physical",
+          "natural"
+        ],
+        "fits_seconds": [
+          0.46,
+          0.57
+        ],
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Faster sounds smaller and lighter, slower bigger: keep changes small."
+        }
+      },
+      "reason": "The diagonal brace connection is tightened at the centerline crossing; metadata matches: A dial or knob being turned, Values stepping up or down. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "discomfort",
+      "event_id": "uneasy-clothing",
+      "frame": 683,
+      "visual_time_unquantized": 22.7615374036464,
+      "visual_quantization_error_frames": 0.15387789060798696,
+      "action": "The uncomfortable worker braces and clothing shifts",
+      "visible": true,
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "fabric",
+      "material": "fabric",
+      "query": "Clothing gentle human touches",
+      "sync_meets": "instant",
+      "gain_db": -5.0,
+      "baseline_gain_db": -7,
+      "sound_id": "foley-fabric-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-fabric-touch.wav",
+      "asset_relative": "sounds/foley/foley-fabric-touch.wav",
+      "sha256": "b624d47da4c0a331f3f73e04ce81f649ff3c71613f75681b7d00cc2845f3b7e4",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-fabric-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 22.766666666666666,
+      "sync_frame": 683,
+      "start": 22.744666666666667,
+      "start_sample": 1091744,
+      "untrimmed_start": 22.744666666666667,
+      "trim_start_seconds": 0.0,
+      "end": 23.009666666666668,
+      "rate": 1.0,
+      "sync_at": 0.022,
+      "effective_sync_at": 0.022,
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 27,
+      "selection_evidence": {
+        "use_for": [
+          "Clothing, bags and soft products",
+          "Gentle, human touches",
+          "Covers lifting",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "fabric",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "The uncomfortable worker braces and clothing shifts; metadata matches: Clothing, bags and soft products, Gentle, human touches. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "idea",
+      "event_id": "solution-drawing",
+      "frame": 797,
+      "visual_time_unquantized": 26.56631573912092,
+      "visual_quantization_error_frames": 0.010527826372367599,
+      "action": "The sphere solution is drawn onto the board",
+      "visible": true,
+      "categories": [
+        "writing-and-drawing"
+      ],
+      "required_tags": "draw",
+      "query": "Lines shapes diagrams being drawn",
+      "action_duration": 1.25,
+      "sync_meets": "action-start",
+      "gain_db": -3.0,
+      "baseline_gain_db": -5,
+      "sound_id": "writing-pen-draw",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/writing-and-drawing/writing-pen-draw.wav",
+      "asset_relative": "sounds/writing-and-drawing/writing-pen-draw.wav",
+      "sha256": "0b6c3ac88aa4888a076865edef35e626bd8ca30c57b83276b031b73e51c08576",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/writing-and-drawing/writing-pen-draw.wav",
+      "license": "CC0-1.0",
+      "event_time": 26.566666666666666,
+      "sync_frame": 797,
+      "start": 26.566666666666666,
+      "start_sample": 1275200,
+      "untrimmed_start": 26.566666666666666,
+      "trim_start_seconds": 0.0,
+      "end": 27.842813086618396,
+      "rate": 0.9944000000000001,
+      "sync_at": 0,
+      "effective_sync_at": 0.0,
+      "sync_how": "Start it as the line starts to draw; trim or fade to the length of the stroke.",
+      "under_voiceover_db": -1,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 19,
+      "selection_evidence": {
+        "use_for": [
+          "Lines, arrows, shapes and diagrams being drawn",
+          "Whiteboard animations",
+          "Sketching an idea"
+        ],
+        "avoid_for": [
+          "Typed text (use keyboard)",
+          "Loud moments: it's a quiet, close sound"
+        ],
+        "tags": [
+          "writing",
+          "drawing",
+          "pen",
+          "draw",
+          "handwriting",
+          "natural"
+        ],
+        "fits_seconds": [
+          1.04,
+          1.46
+        ],
+        "adapt": {
+          "rate": [
+            0.85,
+            1.2
+          ],
+          "notes": "For longer writing, chain two runs with a short gap; for shorter, fade the end at a gap between strokes."
+        }
+      },
+      "reason": "The sphere solution is drawn onto the board; metadata matches: Lines, arrows, shapes and diagrams being drawn, Whiteboard animations. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "install",
+      "event_id": "rigging-cable-grip",
+      "frame": 992,
+      "visual_time_unquantized": 33.06254778649557,
+      "visual_quantization_error_frames": 0.12356640513280581,
+      "action": "Work clothing shifts while the engineer reaches the cable attachment",
+      "visible": true,
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "fabric",
+      "material": "fabric",
+      "query": "Clothing human touches",
+      "sync_meets": "instant",
+      "gain_db": -4.0,
+      "baseline_gain_db": -6,
+      "sound_id": "foley-fabric-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-fabric-touch.wav",
+      "asset_relative": "sounds/foley/foley-fabric-touch.wav",
+      "sha256": "b624d47da4c0a331f3f73e04ce81f649ff3c71613f75681b7d00cc2845f3b7e4",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-fabric-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 33.06666666666667,
+      "sync_frame": 992,
+      "start": 33.044666666666664,
+      "start_sample": 1586144,
+      "untrimmed_start": 33.044666666666664,
+      "trim_start_seconds": 0.0,
+      "end": 33.309666666666665,
+      "rate": 1.0,
+      "sync_at": 0.022,
+      "effective_sync_at": 0.022,
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 20,
+      "selection_evidence": {
+        "use_for": [
+          "Clothing, bags and soft products",
+          "Gentle, human touches",
+          "Covers lifting",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "fabric",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "Work clothing shifts while the engineer reaches the cable attachment; metadata matches: Clothing, bags and soft products, Gentle, human touches. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "install",
+      "event_id": "suspension-lock",
+      "frame": 1005,
+      "visual_time_unquantized": 33.512547786495574,
+      "visual_quantization_error_frames": 0.3764335948671942,
+      "action": "The four visible suspension anchor pins finish closing",
+      "visible": true,
+      "categories": [
+        "mechanical"
+      ],
+      "required_tags": "latch",
+      "query": "A lid panel or gate latch closing",
+      "sync_meets": "instant",
+      "gain_db": 0.0,
+      "baseline_gain_db": -2,
+      "sound_id": "mechanical-latch-heavy",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/mechanical/mechanical-latch-heavy.wav",
+      "asset_relative": "sounds/mechanical/mechanical-latch-heavy.wav",
+      "sha256": "11e11c062b5cb8be8079000faeac50934eb56547868c5c9c89130ec63b5ecd53",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/mechanical/mechanical-latch-heavy.wav",
+      "license": "CC0-1.0",
+      "event_time": 33.5,
+      "sync_frame": 1005,
+      "start": 33.422,
+      "start_sample": 1604256,
+      "untrimmed_start": 33.422,
+      "trim_start_seconds": 0.0,
+      "end": 33.613,
+      "rate": 1.0,
+      "sync_at": 0.078,
+      "effective_sync_at": 0.078,
+      "sync_how": "Sync point on the frame it closes.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 16,
+      "selection_evidence": {
+        "use_for": [
+          "A door, lid or panel closing",
+          "Something clicking securely into place",
+          "Locking a card or module in"
+        ],
+        "avoid_for": [
+          "Small, delicate UI (use light)"
+        ],
+        "tags": [
+          "mechanical",
+          "latch",
+          "heavy",
+          "physical",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Faster sounds smaller and lighter, slower bigger: keep changes small."
+        }
+      },
+      "reason": "The four visible suspension anchor pins finish closing; metadata matches: A door, lid or panel closing, Something clicking securely into place. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "install",
+      "event_id": "damper-mount-bolt",
+      "frame": 1065,
+      "visual_time_unquantized": 35.49201135681076,
+      "visual_quantization_error_frames": 0.23965929567725652,
+      "action": "The lower hydraulic-damper bracket is tightened with a wrench",
+      "visible": true,
+      "categories": [
+        "mechanical"
+      ],
+      "required_tags": "ratchet",
+      "query": "Tightening adjusting something a physical mechanism",
+      "action_duration": 0.4,
+      "sync_meets": "action-start",
+      "gain_db": -1.0,
+      "baseline_gain_db": -3,
+      "sound_id": "mechanical-ratchet-light",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/mechanical/mechanical-ratchet-light.wav",
+      "asset_relative": "sounds/mechanical/mechanical-ratchet-light.wav",
+      "sha256": "f29795c9e691320214b33fb0be1952a840569548dab3e43b6d7ebd41d7b599b3",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/mechanical/mechanical-ratchet-light.wav",
+      "license": "CC0-1.0",
+      "event_time": 35.5,
+      "sync_frame": 1065,
+      "start": 35.5,
+      "start_sample": 1704000,
+      "untrimmed_start": 35.5,
+      "trim_start_seconds": 0.0,
+      "end": 35.90925449871465,
+      "rate": 0.9725,
+      "sync_at": 0,
+      "effective_sync_at": 0.0,
+      "sync_how": "Start it with the turn; trim or fade it to the turn's length.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 17,
+      "selection_evidence": {
+        "use_for": [
+          "A dial or knob being turned",
+          "Values stepping up or down",
+          "Tightening or adjusting something"
+        ],
+        "avoid_for": [
+          "Big, heavy objects (use heavy)"
+        ],
+        "tags": [
+          "mechanical",
+          "ratchet",
+          "light",
+          "physical",
+          "natural"
+        ],
+        "fits_seconds": [
+          0.35,
+          0.43
+        ],
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Faster sounds smaller and lighter, slower bigger: keep changes small."
+        }
+      },
+      "reason": "The lower hydraulic-damper bracket is tightened with a wrench; metadata matches: A dial or knob being turned, Values stepping up or down. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "inertia",
+      "event_id": "relative-motion-arrow",
+      "frame": 1144,
+      "visual_time_unquantized": 38.14466400709912,
+      "visual_quantization_error_frames": 0.3399202129735386,
+      "action": "The relative-motion arrow highlights inertia against the leftward building motion",
+      "visible": true,
+      "categories": [
+        "swishes-and-zips"
+      ],
+      "required_tags": "swish",
+      "query": "Icons or arrows flicked into place",
+      "intensity": "soft",
+      "sync_meets": "move-peak",
+      "gain_db": -5.0,
+      "reason": "The relative-motion arrow highlights inertia against the leftward building motion; metadata matches: Text, icons or arrows flicked into place, Quick cuts, wipes and whip transitions. Quiet visual explanation accent, not a fictional collision of the sphere",
+      "baseline_gain_db": -7,
+      "sound_id": "swish-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/swishes-and-zips/swish-soft.wav",
+      "asset_relative": "sounds/swishes-and-zips/swish-soft.wav",
+      "sha256": "c18c581c43ac848b10c946e2a3c402b79370d99b057c2399b832d39f9d9236ab",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/swishes-and-zips/swish-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 38.13333333333333,
+      "sync_frame": 1144,
+      "start": 38.04833333333333,
+      "start_sample": 1826320,
+      "untrimmed_start": 38.04833333333333,
+      "trim_start_seconds": 0.0,
+      "end": 38.27133333333333,
+      "rate": 1.0,
+      "sync_at": 0.085,
+      "effective_sync_at": 0.085,
+      "sync_how": "Put the sync point where the move is fastest: the middle of an ease-in-out move.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 25,
+      "selection_evidence": {
+        "use_for": [
+          "Text, icons or arrows flicked into place",
+          "Quick cuts, wipes and whip transitions",
+          "A line or pointer sweeping across"
+        ],
+        "avoid_for": [
+          "Big, heavy moves (use a whoosh)"
+        ],
+        "tags": [
+          "swish",
+          "movement",
+          "air",
+          "quick",
+          "soft",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.85,
+            1.2
+          ],
+          "notes": "To fit a quicker or slower move, change the rate a little (its pitch moves with it); for a much longer move, use a whoosh."
+        }
+      },
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "outphase",
+      "event_id": "reaction-arrow",
+      "frame": 1321,
+      "visual_time_unquantized": 44.04736142052081,
+      "visual_quantization_error_frames": 0.420842615624224,
+      "action": "The reaction-force diagram appears as the oscillation changes direction",
+      "visible": true,
+      "categories": [
+        "swishes-and-zips"
+      ],
+      "required_tags": "swish",
+      "query": "Icons arrows flicked into place",
+      "intensity": "soft",
+      "sync_meets": "move-peak",
+      "gain_db": -5.0,
+      "baseline_gain_db": -7,
+      "sound_id": "swish-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/swishes-and-zips/swish-soft.wav",
+      "asset_relative": "sounds/swishes-and-zips/swish-soft.wav",
+      "sha256": "c18c581c43ac848b10c946e2a3c402b79370d99b057c2399b832d39f9d9236ab",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/swishes-and-zips/swish-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 44.03333333333333,
+      "sync_frame": 1321,
+      "start": 43.94833333333333,
+      "start_sample": 2109520,
+      "untrimmed_start": 43.94833333333333,
+      "trim_start_seconds": 0.0,
+      "end": 44.17133333333333,
+      "rate": 1.0,
+      "sync_at": 0.085,
+      "effective_sync_at": 0.085,
+      "sync_how": "Put the sync point where the move is fastest: the middle of an ease-in-out move.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 22,
+      "selection_evidence": {
+        "use_for": [
+          "Text, icons or arrows flicked into place",
+          "Quick cuts, wipes and whip transitions",
+          "A line or pointer sweeping across"
+        ],
+        "avoid_for": [
+          "Big, heavy moves (use a whoosh)"
+        ],
+        "tags": [
+          "swish",
+          "movement",
+          "air",
+          "quick",
+          "soft",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.85,
+            1.2
+          ],
+          "notes": "To fit a quicker or slower move, change the rate a little (its pitch moves with it); for a much longer move, use a whoosh."
+        }
+      },
+      "reason": "The reaction-force diagram appears as the oscillation changes direction; metadata matches: Text, icons or arrows flicked into place, Quick cuts, wipes and whip transitions. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "heat",
+      "event_id": "heat-highlight",
+      "frame": 1530,
+      "visual_time_unquantized": 50.99095632653618,
+      "visual_quantization_error_frames": 0.27131020391470884,
+      "action": "The cutaway highlights conversion of motion into heat",
+      "visible": true,
+      "categories": [
+        "tones"
+      ],
+      "required_tags": "ding",
+      "query": "Highlighting a key point a feature",
+      "sync_meets": "instant",
+      "gain_db": -8.0,
+      "baseline_gain_db": -10,
+      "sound_id": "tone-ding-high",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/tones/tone-ding-high.wav",
+      "asset_relative": "sounds/tones/tone-ding-high.wav",
+      "sha256": "4a77d6a7a7d10956997e9bf8353fc1aaa6bb5f191f5e1ffbb36c33471b162f92",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/tones/tone-ding-high.wav",
+      "license": "CC0-1.0",
+      "event_time": 51.0,
+      "sync_frame": 1530,
+      "start": 51.0,
+      "start_sample": 2448000,
+      "untrimmed_start": 51.0,
+      "trim_start_seconds": 0.0,
+      "end": 51.812,
+      "rate": 1.0,
+      "sync_at": 0,
+      "effective_sync_at": 0.0,
+      "sync_how": "Sync point on the frame the highlight appears.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 16,
+      "selection_evidence": {
+        "use_for": [
+          "Highlighting a key point, a feature or a benefit",
+          "A tick, an answer or a result appearing",
+          "An idea: the lightbulb moment"
+        ],
+        "avoid_for": [
+          "Errors or warnings"
+        ],
+        "tags": [
+          "tone",
+          "ding",
+          "bell",
+          "high",
+          "note",
+          "musical",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the note."
+        }
+      },
+      "reason": "The cutaway highlights conversion of motion into heat; metadata matches: Highlighting a key point, a feature or a benefit, A tick, an answer or a result appearing. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "storm",
+      "event_id": "calm-keyboard",
+      "frame": 1889,
+      "visual_time_unquantized": 62.96224058237424,
+      "visual_quantization_error_frames": 0.13278252877262275,
+      "action": "Visible hands type normally at the calm office desk",
+      "visible": true,
+      "categories": [
+        "keyboard"
+      ],
+      "required_tags": "typing",
+      "query": "Typing on a keyboard steady short phrase",
+      "action_duration": 1.5,
+      "sync_meets": "action-start",
+      "gain_db": -8.0,
+      "baseline_gain_db": -10,
+      "sound_id": "keyboard-typing-steady-medium",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/keyboard/keyboard-typing-steady-medium.wav",
+      "asset_relative": "sounds/keyboard/keyboard-typing-steady-medium.wav",
+      "sha256": "bb6371b868eccd0510e31645eb78ed490df3418ad34fae185bbbd18bbe550c9c",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/keyboard/keyboard-typing-steady-medium.wav",
+      "license": "CC0-1.0",
+      "event_time": 62.96666666666667,
+      "sync_frame": 1889,
+      "start": 62.96666666666667,
+      "start_sample": 3022400,
+      "untrimmed_start": 62.96666666666667,
+      "trim_start_seconds": 0.0,
+      "end": 64.5278079710145,
+      "rate": 0.9813333333333333,
+      "sync_at": 0,
+      "effective_sync_at": 0.0,
+      "sync_how": "Start the run so its onset (timing.onset) meets the first character; it doesn't need to match every character exactly, only the rhythm.",
+      "under_voiceover_db": -1,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 18,
+      "selection_evidence": {
+        "use_for": [
+          "Text being typed into a field or document",
+          "Typing that lasts about 1.6 seconds",
+          "Calm, deliberate typing: forms, documents"
+        ],
+        "avoid_for": [
+          "Text that appears all at once (use a single key or nothing)",
+          "Typing much longer than the run: loop a medium run instead of stretching it"
+        ],
+        "tags": [
+          "keyboard",
+          "typing",
+          "key",
+          "steady",
+          "medium",
+          "natural"
+        ],
+        "fits_seconds": [
+          1.34,
+          1.64
+        ],
+        "adapt": {
+          "rate": [
+            0.9,
+            1.1
+          ],
+          "notes": "To cover longer text, chain runs with a short gap, or loop a medium run; fade the end out over the last 50 ms."
+        }
+      },
+      "reason": "Visible hands type normally at the calm office desk; metadata matches: Text being typed into a field or document, Typing that lasts about 1.6 seconds. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "control",
+      "event_id": "final-reveal",
+      "frame": 2115,
+      "visual_time_unquantized": 70.49073620526278,
+      "visual_quantization_error_frames": 0.2779138421165044,
+      "action": "The final pull-back reveals the working tower and its damper",
+      "visible": true,
+      "categories": [
+        "shimmers"
+      ],
+      "query": "A gentle highlight a result positive reveal",
+      "intensity": "soft",
+      "sync_meets": "instant",
+      "gain_db": -5.0,
+      "baseline_gain_db": -7,
+      "sound_id": "shimmer-long-bright",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/shimmers/shimmer-long-bright.wav",
+      "asset_relative": "sounds/shimmers/shimmer-long-bright.wav",
+      "sha256": "56b8d16ab1c31bc443ad29f9ddb81e4e722fc514c0ccbd580664e575e611e481",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/shimmers/shimmer-long-bright.wav",
+      "license": "CC0-1.0",
+      "event_time": 70.5,
+      "sync_frame": 2115,
+      "start": 70.49,
+      "start_sample": 3383520,
+      "untrimmed_start": 70.49,
+      "trim_start_seconds": 0.0,
+      "end": 72.562,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_how": "Sync point near the start: put it on the frame the highlight or reveal appears; the shimmer trails after.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 23,
+      "selection_evidence": {
+        "use_for": [
+          "Positive reveals: a result, a product, a logo",
+          "Elements lighting up or being highlighted",
+          "A slow, lingering reveal"
+        ],
+        "avoid_for": [
+          "Negative or serious moments",
+          "Fast edits"
+        ],
+        "tags": [
+          "shimmer",
+          "sparkle",
+          "glint",
+          "reveal",
+          "magic",
+          "bright",
+          "long",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the glints. For a shorter shimmer, fade the end; for longer, use the next length."
+        }
+      },
+      "reason": "The final pull-back reveals the working tower and its damper; metadata matches: Positive reveals: a result, a product, a logo, Elements lighting up or being highlighted. ",
+      "layer": "sfx"
+    }
+  ],
+  "missing_assets": [],
+  "skipped": [],
+  "notes": [
+    "Context is supplied by authored animation/shot markers, not inferred by audio transcription or image recognition.",
+    "Frame checks certify authored markers and arithmetic; compare visible contact frames during picture review."
+  ],
+  "supplemental_original_events": [
+    {
+      "scene_id": "skyscraper",
+      "event_id": "first-steel",
+      "start": 7.233333333333333,
+      "sync_frame": 217,
+      "duration": 0.32,
+      "sync_at": 0,
+      "file": "/workspace/outputs/skyscraper-tuned-mass-damper-20261125/audio/original-first-steel.wav",
+      "gain_db": -19.93820026016113,
+      "pan": -0.1,
+      "fade_in": 0.015,
+      "fade_out": 0.09,
+      "action": "Steel column connector is secured",
+      "source": "/workspace/outputs/skyscraper-tuned-mass-damper-20261125/production/audio-prep.py",
+      "license": "OWN",
+      "sha256": "adfb3610ec4b95da26044cd8f4b9680b184f636f38ed8cdcce6d5d32b337b82b",
+      "method": "Original local oscillator/noise synthesis; not a claimed field recording"
+    },
+    {
+      "scene_id": "skyscraper",
+      "event_id": "floor-5",
+      "start": 8.766666666666667,
+      "sync_frame": 263,
+      "duration": 0.26,
+      "sync_at": 0,
+      "file": "/workspace/outputs/skyscraper-tuned-mass-damper-20261125/audio/original-floor-5.wav",
+      "gain_db": -23.19274621011512,
+      "pan": 0,
+      "fade_in": 0.015,
+      "fade_out": 0.09,
+      "action": "A floor beam reaches its completed height",
+      "source": "/workspace/outputs/skyscraper-tuned-mass-damper-20261125/production/audio-prep.py",
+      "license": "OWN",
+      "sha256": "ab87c22f52c67721aa2f0c60be09cc090c73bd61e65e4a4b4d84abc6dbde32df",
+      "method": "Original local oscillator/noise synthesis; not a claimed field recording"
+    },
+    {
+      "scene_id": "skyscraper",
+      "event_id": "floor-11",
+      "start": 9.9,
+      "sync_frame": 297,
+      "duration": 0.26,
+      "sync_at": 0,
+      "file": "/workspace/outputs/skyscraper-tuned-mass-damper-20261125/audio/original-floor-11.wav",
+      "gain_db": -23.19274621011512,
+      "pan": 0,
+      "fade_in": 0.015,
+      "fade_out": 0.09,
+      "action": "A floor beam reaches its completed height",
+      "source": "/workspace/outputs/skyscraper-tuned-mass-damper-20261125/production/audio-prep.py",
+      "license": "OWN",
+      "sha256": "d2cb4c64d3139c414bd6477625594ffbf3d35e7c1f3659ce2c4aac4c2561cf1e",
+      "method": "Original local oscillator/noise synthesis; not a claimed field recording"
+    },
+    {
+      "scene_id": "skyscraper",
+      "event_id": "floor-16",
+      "start": 10.933333333333334,
+      "sync_frame": 328,
+      "duration": 0.26,
+      "sync_at": 0,
+      "file": "/workspace/outputs/skyscraper-tuned-mass-damper-20261125/audio/original-floor-16.wav",
+      "gain_db": -23.19274621011512,
+      "pan": 0,
+      "fade_in": 0.015,
+      "fade_out": 0.09,
+      "action": "A floor beam reaches its completed height",
+      "source": "/workspace/outputs/skyscraper-tuned-mass-damper-20261125/production/audio-prep.py",
+      "license": "OWN",
+      "sha256": "6b3f236ebb9ef6a31568d7d229cb3d6501b1f5eb4992fe2a4191223df9154e32",
+      "method": "Original local oscillator/noise synthesis; not a claimed field recording"
+    },
+    {
+      "scene_id": "skyscraper",
+      "event_id": "first-gust",
+      "start": 13.833333333333334,
+      "sync_frame": 415,
+      "duration": 2.25,
+      "sync_at": 0,
+      "file": "/workspace/outputs/skyscraper-tuned-mass-damper-20261125/audio/original-first-gust.wav",
+      "gain_db": -15.721132953863265,
+      "pan": 0.05,
+      "fade_in": 0.015,
+      "fade_out": 0.09,
+      "action": "Visible wind drives the exterior tower and white gust trails",
+      "source": "/workspace/outputs/skyscraper-tuned-mass-damper-20261125/production/audio-prep.py",
+      "license": "OWN",
+      "sha256": "1ba321a92c5f52dd03472ce5d285f73d198103ba649f29cd9e1c32f74bef1ce3",
+      "method": "Original local oscillator/noise synthesis; not a claimed field recording"
+    },
+    {
+      "scene_id": "skyscraper",
+      "event_id": "hoist-motor",
+      "start": 29.833333333333332,
+      "sync_frame": 895,
+      "duration": 3.3691953554727645,
+      "sync_at": 0,
+      "file": "/workspace/outputs/skyscraper-tuned-mass-damper-20261125/audio/original-hoist-motor.wav",
+      "gain_db": -29.70053304058364,
+      "pan": 0.08,
+      "fade_in": 0.015,
+      "fade_out": 0.09,
+      "action": "Visible lifting cable lowers the sphere into its machine room",
+      "source": "/workspace/outputs/skyscraper-tuned-mass-damper-20261125/production/audio-prep.py",
+      "license": "OWN",
+      "sha256": "f3fca6f3e25c5952e039e46c0da1f44c89f4178d4fe608586911973be5abc569",
+      "method": "Original local oscillator/noise synthesis; not a claimed field recording"
+    },
+    {
+      "scene_id": "skyscraper",
+      "event_id": "second-gust",
+      "start": 57.93333333333333,
+      "sync_frame": 1738,
+      "duration": 2.5,
+      "sync_at": 0,
+      "file": "/workspace/outputs/skyscraper-tuned-mass-damper-20261125/audio/original-second-gust.wav",
+      "gain_db": -15.721132953863265,
+      "pan": 0.05,
+      "fade_in": 0.015,
+      "fade_out": 0.09,
+      "action": "The later storm pushes the completed damped tower",
+      "source": "/workspace/outputs/skyscraper-tuned-mass-damper-20261125/production/audio-prep.py",
+      "license": "OWN",
+      "sha256": "368a249c0e484159148a8588075633228a359aec0ee913edc1278e9b07b86330",
+      "method": "Original local oscillator/noise synthesis; not a claimed field recording"
+    },
+    {
+      "event_id": "hydraulic-flow",
+      "start": 36.510322511207086,
+      "end": 72.7,
+      "file": "/workspace/outputs/skyscraper-tuned-mass-damper-20261125/audio/original-foley.wav",
+      "source": "/workspace/outputs/skyscraper-tuned-mass-damper-20261125/production/audio-prep.py",
+      "license": "OWN",
+      "method": "Filtered-noise level proportional to model relative speed; mixed into the separate original Foley stem",
+      "sha256": "515444bf370a0e4e039747f580291d5619cc98ec53353dea13f436d142ced5be"
+    }
+  ],
+  "effects_gain_relative_previous_db": 2
+}
