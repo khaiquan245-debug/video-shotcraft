@@ -1,0 +1,74 @@
+[
+  {
+    "event_id": "step-1",
+    "time": 2.6,
+    "frame": 156,
+    "method": "Original local decaying foot-to-wood impulse/noise synthesis",
+    "license": "OWN",
+    "controller": "DEMO_STEPS end, exactly when both the drawn heel and sole arrive at ground"
+  },
+  {
+    "event_id": "step-2",
+    "time": 3.1,
+    "frame": 186,
+    "method": "Original local decaying foot-to-wood impulse/noise synthesis",
+    "license": "OWN",
+    "controller": "DEMO_STEPS end, exactly when both the drawn heel and sole arrive at ground"
+  },
+  {
+    "event_id": "step-3",
+    "time": 3.6,
+    "frame": 216,
+    "method": "Original local decaying foot-to-wood impulse/noise synthesis",
+    "license": "OWN",
+    "controller": "DEMO_STEPS end, exactly when both the drawn heel and sole arrive at ground"
+  },
+  {
+    "event_id": "step-4",
+    "time": 4.05,
+    "frame": 243,
+    "method": "Original local decaying foot-to-wood impulse/noise synthesis",
+    "license": "OWN",
+    "controller": "DEMO_STEPS end, exactly when both the drawn heel and sole arrive at ground"
+  },
+  {
+    "event_id": "step-5",
+    "time": 4.4,
+    "frame": 264,
+    "method": "Original local decaying foot-to-wood impulse/noise synthesis",
+    "license": "OWN",
+    "controller": "DEMO_STEPS end, exactly when both the drawn heel and sole arrive at ground"
+  },
+  {
+    "event_id": "step-6",
+    "time": 4.75,
+    "frame": 285,
+    "method": "Original local decaying foot-to-wood impulse/noise synthesis",
+    "license": "OWN",
+    "controller": "DEMO_STEPS end, exactly when both the drawn heel and sole arrive at ground"
+  },
+  {
+    "event_id": "step-7",
+    "time": 5.1,
+    "frame": 306,
+    "method": "Original local decaying foot-to-wood impulse/noise synthesis",
+    "license": "OWN",
+    "controller": "DEMO_STEPS end, exactly when both the drawn heel and sole arrive at ground"
+  },
+  {
+    "event_id": "step-8",
+    "time": 5.5,
+    "frame": 330,
+    "method": "Original local decaying foot-to-wood impulse/noise synthesis",
+    "license": "OWN",
+    "controller": "DEMO_STEPS end, exactly when both the drawn heel and sole arrive at ground"
+  },
+  {
+    "event_id": "step-9",
+    "time": 5.85,
+    "frame": 351,
+    "method": "Original local decaying foot-to-wood impulse/noise synthesis",
+    "license": "OWN",
+    "controller": "DEMO_STEPS end, exactly when both the drawn heel and sole arrive at ground"
+  }
+]

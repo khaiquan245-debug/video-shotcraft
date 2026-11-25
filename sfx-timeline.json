@@ -1,0 +1,242 @@
+{
+  "schema_version": 1,
+  "enabled": true,
+  "duration": 10.0,
+  "fps": 60.0,
+  "sample_rate": 48000,
+  "language": "vi-VN",
+  "source": {
+    "repository": "https://github.com/wyzowl/sfx-kit",
+    "commit": "92780e7ab0cdfb557497a988089c47f46e8c7412",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "license_file": "assets/sfx-kit/LICENSE",
+    "catalogue_sha256": "67f4debfc7077d15391a896bac71a5d12c5c596dc194564e6054a844a98c9726"
+  },
+  "animation_sha256": "384e713a1d6dd42cd2cf7d4978dae92c39105c6e4f3138093d88bda2f638e984",
+  "voiceover": null,
+  "voiceover_sha256": null,
+  "voiceover_spans": [],
+  "input_rights": {
+    "music": {
+      "license": "OWN",
+      "source": "/workspace/video-shotcraft/integrations/rigby2d/demo-sound.py",
+      "sha256": "66419ec2479a75ecadad587972c9976366d3024c623beaa90be8dadc0a006659",
+      "description": "Original local score or physically timed foot-contact synthesis"
+    },
+    "ambience": {
+      "license": "OWN",
+      "source": "/workspace/video-shotcraft/integrations/rigby2d/demo-sound.py",
+      "sha256": "4cdfccbb1bbe45f79d147634032611afd440f5d530cd0a9e78ac7098bbe3f8ec",
+      "description": "Original local score or physically timed foot-contact synthesis"
+    }
+  },
+  "events": [
+    {
+      "scene_id": "pickup",
+      "event_id": "cloth-bend",
+      "frame": 369,
+      "action": "Clothing moves as the authored crouch begins",
+      "visible": true,
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "fabric",
+      "material": "fabric",
+      "query": "Clothing and soft products gentle human touches",
+      "sync_meets": "instant",
+      "gain_db": -3.0,
+      "sound_id": "foley-fabric-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-fabric-touch.wav",
+      "asset_relative": "sounds/foley/foley-fabric-touch.wav",
+      "sha256": "b624d47da4c0a331f3f73e04ce81f649ff3c71613f75681b7d00cc2845f3b7e4",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-fabric-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 6.15,
+      "sync_frame": 369,
+      "start": 6.128,
+      "start_sample": 294144,
+      "untrimmed_start": 6.128,
+      "trim_start_seconds": 0.0,
+      "end": 6.393,
+      "rate": 1.0,
+      "sync_at": 0.022,
+      "effective_sync_at": 0.022,
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 36,
+      "selection_evidence": {
+        "use_for": [
+          "Clothing, bags and soft products",
+          "Gentle, human touches",
+          "Covers lifting",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "fabric",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "Clothing moves as the authored crouch begins; metadata matches: Clothing, bags and soft products, Gentle, human touches. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "pickup",
+      "event_id": "ball-contact",
+      "frame": 434,
+      "action": "The right hand grips the plastic ball at the authored attachment handoff",
+      "visible": true,
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "plastic",
+      "material": "plastic",
+      "query": "Plastic products containers being touched",
+      "sync_meets": "instant",
+      "gain_db": -2.0,
+      "sound_id": "foley-plastic-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-plastic-touch.wav",
+      "asset_relative": "sounds/foley/foley-plastic-touch.wav",
+      "sha256": "c61e0be4b1f150b55f4efc7088991b137d73562b0f75302061348291091482f4",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-plastic-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 7.233333333333333,
+      "sync_frame": 434,
+      "start": 7.223333333333334,
+      "start_sample": 346720,
+      "untrimmed_start": 7.223333333333334,
+      "trim_start_seconds": 0.0,
+      "end": 7.302333333333333,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 27,
+      "selection_evidence": {
+        "use_for": [
+          "Plastic products and packaging",
+          "Devices and cases",
+          "Containers opening or being set down",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "plastic",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "The right hand grips the plastic ball at the authored attachment handoff; metadata matches: Plastic products and packaging, Devices and cases. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "reaction",
+      "event_id": "surprise-highlight",
+      "frame": 483,
+      "action": "Eyebrows and O mouth become visibly surprised; quiet editorial highlight",
+      "visible": true,
+      "categories": [
+        "shimmers"
+      ],
+      "query": "A gentle highlight or reveal",
+      "intensity": "soft",
+      "sync_meets": "instant",
+      "gain_db": -7.0,
+      "sound_id": "shimmer-long-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/shimmers/shimmer-long-soft.wav",
+      "asset_relative": "sounds/shimmers/shimmer-long-soft.wav",
+      "sha256": "f0c56b1acc05f60d7b4e2e417e8295250b09a94e8cd3df3fff71c7c9daa372e8",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/shimmers/shimmer-long-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 8.05,
+      "sync_frame": 483,
+      "start": 8.04,
+      "start_sample": 385920,
+      "untrimmed_start": 8.04,
+      "trim_start_seconds": 0.0,
+      "end": 9.963,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_how": "Sync point near the start: put it on the frame the highlight or reveal appears; the shimmer trails after.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 21,
+      "selection_evidence": {
+        "use_for": [
+          "Gentle highlights: a feature, a benefit, a tick",
+          "Elements lighting up or being highlighted",
+          "A slow, lingering reveal"
+        ],
+        "avoid_for": [
+          "Negative or serious moments",
+          "Fast edits"
+        ],
+        "tags": [
+          "shimmer",
+          "sparkle",
+          "glint",
+          "reveal",
+          "magic",
+          "soft",
+          "long",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the glints. For a shorter shimmer, fade the end; for longer, use the next length."
+        }
+      },
+      "reason": "Eyebrows and O mouth become visibly surprised; quiet editorial highlight; metadata matches: Gentle highlights: a feature, a benefit, a tick, Elements lighting up or being highlighted. ",
+      "layer": "sfx"
+    }
+  ],
+  "missing_assets": [],
+  "skipped": [],
+  "notes": [
+    "Context is supplied by authored animation/shot markers, not inferred by audio transcription or image recognition.",
+    "Frame checks certify authored markers and arithmetic; compare visible contact frames during picture review."
+  ]
+}

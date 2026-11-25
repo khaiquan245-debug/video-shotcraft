@@ -1,0 +1,176 @@
+{
+  "upstream": {
+    "tag": "v0.6.1",
+    "commit": "8fdea6dd7689355bfea54a11371f275fa1391dd3",
+    "license": "MIT OR Apache-2.0",
+    "node": "v24.22.1",
+    "packageLockSha256": "4b6bffb6a4d2cbb181a89a99cbbd59464f6ce6f6481eeb4dcfd1ce7e21c382e2"
+  },
+  "dependencies": {
+    "@anthropic-ai/mcpb": "2.1.2",
+    "@emnapi/runtime": "1.11.3",
+    "@huggingface/transformers": "4.3.1",
+    "@img/sharp-wasm32": "0.35.5",
+    "@lucide/lab": "0.13.0",
+    "@tauri-apps/api": "2.12.3",
+    "@tauri-apps/cli": "2.12.2",
+    "@tauri-apps/plugin-dialog": "2.8.2",
+    "@tauri-apps/plugin-fs": "2.7.0",
+    "@tauri-apps/plugin-http": "2.8.3",
+    "@tauri-apps/plugin-opener": "2.7.2",
+    "@tauri-apps/plugin-process": "2.4.0",
+    "@tauri-apps/plugin-updater": "2.14.1",
+    "ag-psd": "31.0.3",
+    "highlight.js": "11.12.0",
+    "lucide": "1.73.0",
+    "marked": "18.1.1",
+    "pixi.js": "8.22.0",
+    "playwright": "1.64.1",
+    "pyodide": "314.0.7",
+    "tslib": "2.8.1",
+    "tsup": "8.5.1",
+    "tsx": "4.23.15",
+    "typescript": "5.9.3",
+    "vite": "8.3.4"
+  },
+  "adapterDependencies": {
+    "@napi-rs/canvas": "0.1.100"
+  },
+  "tests": {
+    "upstream": {
+      "tests": 402,
+      "pass": 400,
+      "fail": 0,
+      "skipped": 2
+    },
+    "integration": {
+      "tests": 13,
+      "pass": 13,
+      "fail": 0
+    },
+    "existingApplication": {
+      "pass": 23,
+      "fail": 0
+    },
+    "nativeValidationDemo": {
+      "file": "/workspace/video-shotcraft/output/rigby2d/characters/hero-demo-v5.rigby",
+      "format": "rigby",
+      "valid": true,
+      "errors": [],
+      "warnings": [],
+      "checks": {
+        "structure": "ok",
+        "images": "ok",
+        "jsonRoundTrip": "ok",
+        "binaryExport": "ok"
+      }
+    },
+    "nativeValidation50": {
+      "file": "/workspace/video-shotcraft/output/rigby2d/characters/hero-library-50-v3.rigby",
+      "format": "rigby",
+      "valid": true,
+      "errors": [],
+      "warnings": [],
+      "checks": {
+        "structure": "ok",
+        "images": "ok",
+        "jsonRoundTrip": "ok",
+        "binaryExport": "ok"
+      }
+    },
+    "nativeBrowserRender": "2realPNGframes,270x480,Playwright + systemChromium + SwiftShaderCPU",
+    "remotion": "Separate composition bundled and rendered to actual1080x1920still with a transparent Rigby layer",
+    "pipeline": "Actual5second270x48012fpsMP4 from a local script/timing fixture, silentByDesign"
+  },
+  "mcp": {
+    "version": "0.6.1",
+    "tools": 60,
+    "stdioHandshakePassed": true,
+    "outsideRootRejected": true,
+    "explicitCodexConfigRecognized": true,
+    "currentSessionHotRegistration": false,
+    "projectConfigAutoLoadedByCLI": false
+  },
+  "networkErrors": [
+    {
+      "host": "rigby2d.com",
+      "error": "HTTP403 on official web docs; official checked-out Markdown used instead"
+    },
+    {
+      "host": "api.nuget.org",
+      "error": "onnxruntime-node postinstall getaddrinfoEAI_AGAIN on additionalGPU binaries; official ONNXRUNTIME_NODE_INSTALL=skip resolved installation; bundled CPU backend loaded"
+    },
+    {
+      "host": "cdn.playwright.dev",
+      "error": "HTTP403 Domainforbidden downloading Chrome forTesting156.0.8078.4; systemChromium156.0.8078.79 is controlled through installedPlaywright1.64.1 instead"
+    }
+  ],
+  "demo": {
+    "frames": 600,
+    "maxBoneError": 2.842170943040401e-14,
+    "maxIKTargetError": 9.953940410498703e-14,
+    "maxStanceFootDrift": 1.7763568394002505e-15,
+    "minForwardKneeOffset": 37.860430781593834,
+    "minOutwardLiftingElbowOffset": 14.092695927736386,
+    "negativeMeshTriangles": 0,
+    "maxFrameJointStep": 8.673280191628283,
+    "scope": "Exact native evaluated joints and authored contact windows; not an automatic aesthetic or human listening approval.",
+    "animationCount": 50,
+    "librarySampledPoses": 3024,
+    "file": "/workspace/video-shotcraft/output/rigby2d_animation_demo.mp4",
+    "sha256": "ccd99e56089a92a8f4d094b1e7c82a522a2f6923482c4d9c22c613d42a0d0b27",
+    "bytes": 1471203,
+    "video": {
+      "width": 1080,
+      "height": 1920,
+      "fps": "60/1",
+      "frames": 600,
+      "duration": 10
+    },
+    "audio": {
+      "passed": true,
+      "errors": [],
+      "warnings": [],
+      "checks": {
+        "duration_seconds": 10,
+        "clipped_samples": 0,
+        "sample_peak": 0.7994427680969238,
+        "channel_rms": [
+          0.14400087296962738,
+          0.1444290578365326
+        ],
+        "channel_difference_db": 0.025789065790766955,
+        "integrated_lufs": -14.5,
+        "true_peak_dbtp": -1.9,
+        "max_sync_error_frames": 0,
+        "max_effect_to_voice_db_in_voiced_100ms": null,
+        "end_edge_peak": 0,
+        "video": {
+          "width": 1080,
+          "height": 1920,
+          "fps": "60/1",
+          "duration": 10
+        }
+      },
+      "events": 3,
+      "unique_assets": 3,
+      "metadata_based_selection": true,
+      "visual_sync_scope": "Against animation markers and sampled actual encoded frames; not automatic image contact detection.",
+      "voice_clarity_scope": "Ducking plus a measured effect/voice proxy; not a human listening guarantee.",
+      "paid_apis": false,
+      "library_license": "CC0-1.0",
+      "master_sha256": "f1d2e092784402a4ea350978ad62460b01b42cd1d38cc03e1253b8a6970095ff",
+      "video_sha256": "ccd99e56089a92a8f4d094b1e7c82a522a2f6923482c4d9c22c613d42a0d0b27",
+      "original_video_sha256": "ef4f0171ca511579a1993f343bcd690811dbc54b5d464446f11384ea50c571fe",
+      "aac_bitstream_preserved": true,
+      "aac_sha256": "50da05044858f12a71a03ddfd23ac3b519da933314b4efe798a560cc4d7665dc",
+      "scope_of_reuse": "Existing measured master and identicalAACstream retained through a picture-only joint/transition repair. New MP4 fully decoded and played to end."
+    },
+    "playback": {
+      "ended": true,
+      "rate": 1,
+      "scope": "MutedChromiumtechnicalplayback,notcriticalhumanlistening"
+    }
+  },
+  "paidApis": false
+}

@@ -1,0 +1,191 @@
+{
+  "files": [
+    {
+      "path": "integrations/rigby2d/.gitignore",
+      "bytes": 14,
+      "sha256": "4d56952b0fb13bf8f9b6c13a6d4c34a075bac3af447636a1df4335d7576e2f97"
+    },
+    {
+      "path": "integrations/rigby2d/package-lock.json",
+      "bytes": 8089,
+      "sha256": "bd172af0528c8f43003ab495032de8c16d4e8b623b4e844825854506323e20e5"
+    },
+    {
+      "path": "integrations/rigby2d/mcp-check.mjs",
+      "bytes": 2130,
+      "sha256": "9ad530655c2ef4c10edf72da8f61242dd989058b8aa81a195499b02bc7cdd4e0"
+    },
+    {
+      "path": "integrations/rigby2d/motion-library.json",
+      "bytes": 16087,
+      "sha256": "1f964fb81785fc964969503e18fedf64f65eff3c8107ce9178dd46b869d911f0"
+    },
+    {
+      "path": "integrations/rigby2d/adapter.mjs",
+      "bytes": 11127,
+      "sha256": "9ddd5425bd5644598ee5b4635471fc0a9d9d81cc06dc4c3593d76badc4e5a89e"
+    },
+    {
+      "path": "integrations/rigby2d/package.json",
+      "bytes": 227,
+      "sha256": "27f973149443be096f2a573ace0fe3014dc75e949baf514a1ba19e7736966ddf"
+    },
+    {
+      "path": "integrations/rigby2d/cli.mjs",
+      "bytes": 5929,
+      "sha256": "6eff2e80acae49a218d2e320cc2736bc4f98d3acc1e4526ad289449995338c21"
+    },
+    {
+      "path": "integrations/rigby2d/motions.mjs",
+      "bytes": 10912,
+      "sha256": "fab863482f87984cf7a88663f6c29af6934d314224bc95f69cba09e158ae5101"
+    },
+    {
+      "path": "integrations/rigby2d/character.mjs",
+      "bytes": 8704,
+      "sha256": "9bd6fcc08ad2264c9e2de426e9d6a55e9feaf5ddcaef53076e589161f8a086ca"
+    },
+    {
+      "path": "integrations/rigby2d/codex-launch.mjs",
+      "bytes": 451,
+      "sha256": "92a906997e74711f1188cc7f5d02c29dbe4e4a7a647e532736dbae9db3793ddd"
+    },
+    {
+      "path": "integrations/rigby2d/environment.mjs",
+      "bytes": 1740,
+      "sha256": "cc73fb3c804059fafd95f63a750eef23e99978c90d19f69ca7b115fd938f4855"
+    },
+    {
+      "path": "integrations/rigby2d/installation-report.mjs",
+      "bytes": 9311,
+      "sha256": "00c32e4d70df0659b8d53080c3303379dabaeae04c06bdc2206b4e368851d589"
+    },
+    {
+      "path": "integrations/rigby2d/planner.mjs",
+      "bytes": 4959,
+      "sha256": "6dfe936349b10f19525af4f94f5fc6d8867c6e1899667d8804f8d499dca427e0"
+    },
+    {
+      "path": "integrations/rigby2d/pipeline.mjs",
+      "bytes": 4839,
+      "sha256": "210bd81ad7453eb8c8450116abe258f000772b2d603eb3d94b4d55e8b7ec839e"
+    },
+    {
+      "path": "integrations/rigby2d/README.md",
+      "bytes": 8161,
+      "sha256": "80ec8046eb234040a819a7e40e9fb9c7b4c313108f6bb35a8cbb137bda53b5e4"
+    },
+    {
+      "path": "integrations/rigby2d/qa.mjs",
+      "bytes": 3670,
+      "sha256": "797053c2f2f803acbd33a8ea8ef621bf806efffb0ccb6cd22550c41bdd273ad3"
+    },
+    {
+      "path": "integrations/rigby2d/demo-sound.py",
+      "bytes": 3061,
+      "sha256": "f4f405648421855069451999edce084893158993efa4c078e36f0b7e5e68b0e1"
+    },
+    {
+      "path": "integrations/rigby2d/setup.mjs",
+      "bytes": 1947,
+      "sha256": "4e86e96aedcb2198da94060179c8c0f11f2833f64592872d885a7a477351f70c"
+    },
+    {
+      "path": "integrations/rigby2d/remotion.tsx",
+      "bytes": 1385,
+      "sha256": "fb649057acd248bc924fa80ef4608ecc7c957d8f3c33b6cf88ddce15753bbef0"
+    },
+    {
+      "path": "integrations/rigby2d/render.mjs",
+      "bytes": 4843,
+      "sha256": "5f0b7bab7c49cd0f65b518cc0652fe17460dd403020ef6dc75d77099aa06aebb"
+    },
+    {
+      "path": "integrations/rigby2d/tests/runtime.test.mjs",
+      "bytes": 7550,
+      "sha256": "40a69c15e5a4d7e1ba8f793b591f02d54d75720071e356614506e4ce95289417"
+    },
+    {
+      "path": "integrations/rigby2d/assets/Nunito.ttf",
+      "bytes": 132164,
+      "sha256": "e67d3588b1bcf9879f814de3696f44d52153a573bf8e41d3be37837e9295ec82"
+    },
+    {
+      "path": "integrations/rigby2d/assets/OFL-Nunito.txt",
+      "bytes": 4384,
+      "sha256": "ee9491ad3ea5d390878695bd6cce49beb3cacd5c4312f8ab574b541e9f7afa21"
+    },
+    {
+      "path": "integrations/rigby2d/examples/remotion-entry.tsx",
+      "bytes": 420,
+      "sha256": "317de87337a3439a2d617b28a4793859bf3c0aedfaded26577b87e3a0563c0e1"
+    },
+    {
+      "path": "integrations/rigby2d/examples/door-script.txt",
+      "bytes": 67,
+      "sha256": "ef14026eb2ec4c52e4bdcdcff4880dd4579bdc0ef12c204b64c64f32127a5937"
+    },
+    {
+      "path": "integrations/rigby2d/examples/custom-wave.json",
+      "bytes": 266,
+      "sha256": "3eca3cfe7f7c09a964a494f37b2959d9855cde9c8227c9fbbaa941dfbcd7846b"
+    },
+    {
+      "path": "integrations/rigby2d/examples/word-timings.json",
+      "bytes": 80,
+      "sha256": "f4db0bc6103a5396fa01f9112eb427882232c8eb89c66f6507b28f8bd2596209"
+    },
+    {
+      "path": "integrations/rigby2d/examples/door-timings.json",
+      "bytes": 98,
+      "sha256": "242b6ee3296acb217b2d7cbe00d0c4486c15c9a1862d23d3930c9400fe0c4e2e"
+    },
+    {
+      "path": ".agents/skills/rigby2d-character-animation/SKILL.md",
+      "bytes": 6944,
+      "sha256": "6e47ee2426e4228cdb18117aa6601372c6e50a8599b33472c88b56fb2e911434"
+    },
+    {
+      "path": ".agents/skills/rigby2d-character-animation/references/capabilities.md",
+      "bytes": 1906,
+      "sha256": "cd76b468b4c4a653fb1691f242af00cc18ac03620debb45b0ba847432bc34810"
+    },
+    {
+      "path": ".agents/skills/rigby2d-character-animation/scripts/rigby.mjs",
+      "bytes": 296,
+      "sha256": "d35a5531db851155ec980de5d77e2a873f8ced49767e05559b982eae12e16570"
+    },
+    {
+      "path": ".agents/skills/rigby2d-character-animation/examples/custom-wave.json",
+      "bytes": 266,
+      "sha256": "3eca3cfe7f7c09a964a494f37b2959d9855cde9c8227c9fbbaa941dfbcd7846b"
+    },
+    {
+      "path": ".agents/skills/rigby2d-character-animation/examples/commands.md",
+      "bytes": 864,
+      "sha256": "7c1afcfe056066aa7b69e42ac688a4a5a37d852f78c99a7cf835e65dc9623cfd"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 2509,
+      "sha256": "d15fead42f02054eff5da6e3d29e2d1a1079f4957b937e7b6dbfb0bc00163a4d"
+    },
+    {
+      "path": ".codex/config.toml",
+      "bytes": 291,
+      "sha256": "1160e853e391495a2390a486f5171062156cb236018f71bf5ef578605ed5404d"
+    },
+    {
+      "path": "tools/.gitignore",
+      "bytes": 90,
+      "sha256": "f193112020a2d1ac373953be0b1eb1c0961d90bec687524aee1310e4310a3cfe"
+    },
+    {
+      "path": "vitest.config.ts",
+      "bytes": 361,
+      "sha256": "0018f490f40f3dd009725ae0e12fbfdd823a7957499cbdf458c31c6381d204f5"
+    }
+  ],
+  "upstream_checkout": "tools/rigby2d (ignored, pinned and recreated by setup)",
+  "existing_runtime_code_changes": "None; existing AGENTS.md instructions retained and appended. vitest.config.ts is additive vendor-test isolation."
+}

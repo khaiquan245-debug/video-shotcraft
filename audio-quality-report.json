@@ -1,0 +1,39 @@
+{
+  "passed": true,
+  "errors": [],
+  "warnings": [],
+  "checks": {
+    "duration_seconds": 10,
+    "clipped_samples": 0,
+    "sample_peak": 0.7994427680969238,
+    "channel_rms": [
+      0.14400087296962738,
+      0.1444290578365326
+    ],
+    "channel_difference_db": 0.025789065790766955,
+    "integrated_lufs": -14.5,
+    "true_peak_dbtp": -1.9,
+    "max_sync_error_frames": 0,
+    "max_effect_to_voice_db_in_voiced_100ms": null,
+    "end_edge_peak": 0,
+    "video": {
+      "width": 1080,
+      "height": 1920,
+      "fps": "60/1",
+      "duration": 10
+    }
+  },
+  "events": 3,
+  "unique_assets": 3,
+  "metadata_based_selection": true,
+  "visual_sync_scope": "Against animation markers and sampled actual encoded frames; not automatic image contact detection.",
+  "voice_clarity_scope": "Ducking plus a measured effect/voice proxy; not a human listening guarantee.",
+  "paid_apis": false,
+  "library_license": "CC0-1.0",
+  "master_sha256": "f1d2e092784402a4ea350978ad62460b01b42cd1d38cc03e1253b8a6970095ff",
+  "video_sha256": "ccd99e56089a92a8f4d094b1e7c82a522a2f6923482c4d9c22c613d42a0d0b27",
+  "original_video_sha256": "ef4f0171ca511579a1993f343bcd690811dbc54b5d464446f11384ea50c571fe",
+  "aac_bitstream_preserved": true,
+  "aac_sha256": "50da05044858f12a71a03ddfd23ac3b519da933314b4efe798a560cc4d7665dc",
+  "scope_of_reuse": "Existing measured master and identicalAACstream retained through a picture-only joint/transition repair. New MP4 fully decoded and played to end."
+}

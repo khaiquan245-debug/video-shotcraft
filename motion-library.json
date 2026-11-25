@@ -1,0 +1,752 @@
+[
+  {
+    "id": "idle",
+    "name": "Đứng yên",
+    "number": 1,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "walk",
+    "name": "Đi bộ",
+    "number": 2,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "walk_slow",
+    "name": "Đi chậm",
+    "number": 3,
+    "loop": true,
+    "defaultDuration": 2.4,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "walk_fast",
+    "name": "Đi nhanh",
+    "number": 4,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "run",
+    "name": "Chạy",
+    "number": 5,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "sprint",
+    "name": "Chạy nước rút",
+    "number": 6,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "jump",
+    "name": "Nhảy",
+    "number": 7,
+    "loop": false,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "land",
+    "name": "Tiếp đất",
+    "number": 8,
+    "loop": false,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "sit_down",
+    "name": "Ngồi xuống",
+    "number": 9,
+    "loop": false,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "stand_up",
+    "name": "Đứng dậy",
+    "number": 10,
+    "loop": false,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "hold",
+    "name": "Cầm đồ vật",
+    "number": 11,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "pick_up",
+    "name": "Nhặt đồ vật",
+    "number": 12,
+    "loop": false,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "put_down",
+    "name": "Đặt đồ vật xuống",
+    "number": 13,
+    "loop": false,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "throw",
+    "name": "Ném đồ vật",
+    "number": 14,
+    "loop": false,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "pull",
+    "name": "Kéo",
+    "number": 15,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "push",
+    "name": "Đẩy",
+    "number": 16,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "heavy_lift",
+    "name": "Nâng vật nặng",
+    "number": 17,
+    "loop": false,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "open_door",
+    "name": "Mở cửa",
+    "number": 18,
+    "loop": false,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "close_door",
+    "name": "Đóng cửa",
+    "number": 19,
+    "loop": false,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "climb_ladder",
+    "name": "Leo thang",
+    "number": 20,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "dig",
+    "name": "Đào đất",
+    "number": 21,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "build",
+    "name": "Xây dựng",
+    "number": 22,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "hammer",
+    "name": "Dùng búa",
+    "number": 23,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "shovel",
+    "name": "Dùng xẻng",
+    "number": 24,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "carry",
+    "name": "Mang vác đồ vật",
+    "number": 25,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "surprised",
+    "name": "Ngạc nhiên",
+    "number": 26,
+    "loop": false,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "scared",
+    "name": "Hoảng sợ",
+    "number": 27,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "angry",
+    "name": "Tức giận",
+    "number": 28,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "sad",
+    "name": "Buồn bã",
+    "number": 29,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "happy",
+    "name": "Vui vẻ",
+    "number": 30,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "think",
+    "name": "Suy nghĩ",
+    "number": 31,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "confused",
+    "name": "Bối rối",
+    "number": 32,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "laugh",
+    "name": "Cười",
+    "number": 33,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "cry",
+    "name": "Khóc",
+    "number": 34,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "shout",
+    "name": "La hét",
+    "number": 35,
+    "loop": false,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "nod",
+    "name": "Gật đầu",
+    "number": 36,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "shake_head",
+    "name": "Lắc đầu",
+    "number": 37,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "point",
+    "name": "Chỉ tay",
+    "number": 38,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "wave",
+    "name": "Vẫy tay",
+    "number": 39,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "cross_arms",
+    "name": "Khoanh tay",
+    "number": 40,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "dodge",
+    "name": "Né tránh",
+    "number": 41,
+    "loop": false,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "trip",
+    "name": "Vấp ngã",
+    "number": 42,
+    "loop": false,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "fall",
+    "name": "Ngã xuống",
+    "number": 43,
+    "loop": false,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "crawl",
+    "name": "Bò",
+    "number": 44,
+    "loop": true,
+    "defaultDuration": 2.4,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "slide",
+    "name": "Trượt",
+    "number": 45,
+    "loop": false,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "balance",
+    "name": "Mất thăng bằng",
+    "number": 46,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "turn",
+    "name": "Quay người",
+    "number": 47,
+    "loop": false,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "look_around",
+    "name": "Nhìn xung quanh",
+    "number": 48,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "talk_gesture",
+    "name": "Nói chuyện kết hợp cử chỉ",
+    "number": 49,
+    "loop": true,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  },
+  {
+    "id": "transition",
+    "name": "Chuyển tiếp tự nhiên",
+    "number": 50,
+    "loop": false,
+    "defaultDuration": 2,
+    "parameters": [
+      "speed",
+      "direction",
+      "intensity",
+      "duration",
+      "loop"
+    ],
+    "origin": "Shotcraft authored controllers, evaluated and keyed through Rigby2D v0.6.1"
+  }
+]

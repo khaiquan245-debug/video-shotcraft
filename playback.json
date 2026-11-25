@@ -1,0 +1,104 @@
+{
+  "file": "rigby2d_animation_demo.mp4",
+  "sha256": "ccd99e56089a92a8f4d094b1e7c82a522a2f6923482c4d9c22c613d42a0d0b27",
+  "rate": 1,
+  "scope": "Muted Chromium technical playback. No claim of listening or subjective aesthetic acceptance.",
+  "samples": [
+    {
+      "time": 0.003468,
+      "ended": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "quality": {}
+    },
+    {
+      "time": 0.966293,
+      "ended": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "quality": {}
+    },
+    {
+      "time": 1.968509,
+      "ended": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "quality": {}
+    },
+    {
+      "time": 2.971339,
+      "ended": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "quality": {}
+    },
+    {
+      "time": 3.975212,
+      "ended": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "quality": {}
+    },
+    {
+      "time": 4.976427,
+      "ended": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "quality": {}
+    },
+    {
+      "time": 5.97938,
+      "ended": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "quality": {}
+    },
+    {
+      "time": 6.981973,
+      "ended": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "quality": {}
+    },
+    {
+      "time": 7.984036,
+      "ended": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "quality": {}
+    },
+    {
+      "time": 8.986428,
+      "ended": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "quality": {}
+    },
+    {
+      "time": 9.988271,
+      "ended": false,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "quality": {}
+    },
+    {
+      "time": 10,
+      "ended": true,
+      "error": null,
+      "width": 1080,
+      "height": 1920,
+      "quality": {}
+    }
+  ]
+}
