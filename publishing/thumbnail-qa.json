@@ -1,0 +1,19 @@
+{
+  "size": [
+    1080,
+    1920
+  ],
+  "aspect_ratio": "9:16",
+  "mobile_review": "270x480 actual rendered preview inspected; headline legible and face/props consistent with the film.",
+  "creation": "Local procedural Canvas using copied video artwork/rig. No paid API.",
+  "files": {
+    "Neu_Viet_Nam_Co_Tuyet_SHORTS_1080x1920.png": {
+      "bytes": 265174,
+      "sha256": "8078ab043e7b8893eedd79271f9b6c6456855a868493c2a37bbc7cebcea0593e"
+    },
+    "metadata.md": {
+      "bytes": 2683,
+      "sha256": "5229c8c4dd6a7f5e6057922aa972f8d13d9aef74a66de99bc85975930a9a15ca"
+    }
+  }
+}
