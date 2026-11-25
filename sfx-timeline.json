@@ -1,0 +1,1574 @@
+{
+  "schema_version": 1,
+  "enabled": true,
+  "duration": 32.0,
+  "fps": 30.0,
+  "sample_rate": 48000,
+  "language": "vi-VN",
+  "source": {
+    "repository": "https://github.com/wyzowl/sfx-kit",
+    "commit": "92780e7ab0cdfb557497a988089c47f46e8c7412",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "license_file": "assets/sfx-kit/LICENSE",
+    "catalogue_sha256": "67f4debfc7077d15391a896bac71a5d12c5c596dc194564e6054a844a98c9726"
+  },
+  "animation_sha256": "c00427d44a2c83efc23875c69fc650ba810428c82d2999df980d67cab862a8b7",
+  "voiceover": "/workspace/outputs/swamp-pile-foundation-20261125/audio/voice-timeline.wav",
+  "voiceover_sha256": "9097ce33fcfede0b37734e87d7a74bfecc8e3bd4745d17e8f6d3d1553cfe9c96",
+  "voiceover_spans": [
+    [
+      0.025,
+      1.27
+    ],
+    [
+      1.235,
+      1.9800000000000002
+    ],
+    [
+      2.1350000000000002,
+      2.98
+    ],
+    [
+      2.975,
+      3.85
+    ],
+    [
+      3.835,
+      5.04
+    ],
+    [
+      5.0649999999999995,
+      5.88
+    ],
+    [
+      5.875,
+      6.55
+    ],
+    [
+      6.615,
+      7.84
+    ],
+    [
+      7.935,
+      8.35
+    ],
+    [
+      8.345,
+      9.27
+    ],
+    [
+      9.245,
+      11.24
+    ],
+    [
+      11.225,
+      13.040000000000001
+    ],
+    [
+      13.015,
+      13.44
+    ],
+    [
+      13.535,
+      14.93
+    ],
+    [
+      14.995,
+      16.51
+    ],
+    [
+      16.535,
+      17.19
+    ],
+    [
+      17.175,
+      17.64
+    ],
+    [
+      17.715000000000003,
+      20.21
+    ],
+    [
+      20.185000000000002,
+      20.63
+    ],
+    [
+      20.805000000000003,
+      22.61
+    ],
+    [
+      22.645000000000003,
+      23.35
+    ],
+    [
+      23.335,
+      23.740000000000002
+    ],
+    [
+      23.735000000000003,
+      24.87
+    ],
+    [
+      24.925,
+      26.03
+    ],
+    [
+      26.005000000000003,
+      26.46
+    ],
+    [
+      26.485000000000003,
+      27.57
+    ],
+    [
+      27.695,
+      28.490000000000002
+    ],
+    [
+      28.465000000000003,
+      28.91
+    ],
+    [
+      29.035000000000004,
+      31.61
+    ]
+  ],
+  "input_rights": {
+    "music": {
+      "license": "OWN",
+      "source": "/workspace/outputs/swamp-pile-foundation-20261125/production/audio-prep.py",
+      "sha256": "1ad64b6fa677221c265e61a628c983676d1cd35d4477a6d58cdf0e59184f56fe",
+      "description": "Original local synthesis; ambience includes the explicitly documented original concrete/mud/crack Foley in manifests/original-effects.json"
+    },
+    "ambience": {
+      "license": "OWN",
+      "source": "/workspace/outputs/swamp-pile-foundation-20261125/production/audio-prep.py",
+      "sha256": "f29aa089ed00d100843aac9342809c0db4619fcffe1cb88b1dd2dead0577e4d9",
+      "description": "Original local synthesis; ambience includes the explicitly documented original concrete/mud/crack Foley in manifests/original-effects.json"
+    }
+  },
+  "events": [
+    {
+      "scene_id": "buy",
+      "event_id": "contract-paper",
+      "frame": 33,
+      "visual_time_unquantized": 1.1,
+      "visual_quantization_error_frames": 0.0,
+      "action": "The man handles the paper sale contract",
+      "visible": true,
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "paper",
+      "material": "paper",
+      "query": "Documents letters notes being handled touch",
+      "sync_meets": "instant",
+      "gain_db": -2.0,
+      "baseline_gain_db": -4,
+      "sound_id": "foley-paper-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-paper-touch.wav",
+      "asset_relative": "sounds/foley/foley-paper-touch.wav",
+      "sha256": "37c6dd31840b0910df0f61b5714a8aba916c704a33eee6293a92603cea9e1360",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-paper-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 1.1,
+      "sync_frame": 33,
+      "start": 1.078,
+      "start_sample": 51744,
+      "untrimmed_start": 1.078,
+      "trim_start_seconds": 0.0,
+      "end": 1.3880000000000001,
+      "rate": 1.0,
+      "sync_at": 0.022,
+      "effective_sync_at": 0.022,
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 31,
+      "selection_evidence": {
+        "use_for": [
+          "Documents, letters and invoices appearing",
+          "Pages turning or notes being handled",
+          "Paperwork and forms",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "paper",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "The man handles the paper sale contract; metadata matches: Documents, letters and invoices appearing, Pages turning or notes being handled. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "pour",
+      "event_id": "bucket-grip",
+      "frame": 128,
+      "visual_time_unquantized": 4.261414320537907,
+      "visual_quantization_error_frames": 0.15757038386280442,
+      "action": "The blue plastic bucket is handled before concrete pours",
+      "visible": true,
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "plastic",
+      "material": "plastic",
+      "query": "Plastic products containers being touched",
+      "sync_meets": "instant",
+      "gain_db": -2.0,
+      "baseline_gain_db": -4,
+      "sound_id": "foley-plastic-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-plastic-touch.wav",
+      "asset_relative": "sounds/foley/foley-plastic-touch.wav",
+      "sha256": "c61e0be4b1f150b55f4efc7088991b137d73562b0f75302061348291091482f4",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-plastic-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 4.266666666666667,
+      "sync_frame": 128,
+      "start": 4.256666666666667,
+      "start_sample": 204320,
+      "untrimmed_start": 4.256666666666667,
+      "trim_start_seconds": 0.0,
+      "end": 4.335666666666667,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 27,
+      "selection_evidence": {
+        "use_for": [
+          "Plastic products and packaging",
+          "Devices and cases",
+          "Containers opening or being set down",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "plastic",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "The blue plastic bucket is handled before concrete pours; metadata matches: Plastic products and packaging, Devices and cases. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "pour",
+      "event_id": "brick-placement",
+      "frame": 155,
+      "visual_time_unquantized": 5.168047768835664,
+      "visual_quantization_error_frames": 0.04143306506992417,
+      "action": "A masonry block is placed into the growing wall",
+      "visible": true,
+      "categories": [
+        "impacts"
+      ],
+      "required_tags": "light",
+      "query": "Small elements landing or snapping into place",
+      "sync_meets": "instant",
+      "gain_db": -2.0,
+      "baseline_gain_db": -4,
+      "sound_id": "impact-light-hard",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/impacts/impact-light-hard.wav",
+      "asset_relative": "sounds/impacts/impact-light-hard.wav",
+      "sha256": "0ba62ffedc7c411e3e1ddca74c2fb732861af545516c5c694fcaee465d1bbd34",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/impacts/impact-light-hard.wav",
+      "license": "CC0-1.0",
+      "event_time": 5.166666666666667,
+      "sync_frame": 155,
+      "start": 5.156666666666666,
+      "start_sample": 247520,
+      "untrimmed_start": 5.156666666666666,
+      "trim_start_seconds": 0.0,
+      "end": 5.243666666666666,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_how": "Put the sync point (the moment of contact) exactly where the thing lands: usually the last frame of its move, or the first frame it's at rest.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 17,
+      "selection_evidence": {
+        "use_for": [
+          "Small elements landing or snapping into place",
+          "Icons dropping into a grid",
+          "Labels and tags settling",
+          "Crisp, confident landings"
+        ],
+        "avoid_for": [
+          "Big, heavy moves",
+          "Calm, softly spoken films"
+        ],
+        "tags": [
+          "impact",
+          "hit",
+          "land",
+          "drop",
+          "crisp",
+          "light",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.92,
+            1.1
+          ],
+          "notes": "Small rate changes only: faster sounds lighter and slower heavier, so for a different weight use the next weight instead."
+        }
+      },
+      "reason": "A masonry block is placed into the growing wall; metadata matches: Small elements landing or snapping into place, Icons dropping into a grid. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "sink",
+      "event_id": "jammed-door-touch",
+      "frame": 251,
+      "visual_time_unquantized": 8.376886234393586,
+      "visual_quantization_error_frames": 0.30658703180759517,
+      "action": "The hand pushes the wooden door, which remains blocked by its warped frame",
+      "visible": true,
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "wood",
+      "material": "wood",
+      "query": "Wooden objects being touched knocking on a surface",
+      "sync_meets": "instant",
+      "gain_db": -1.0,
+      "baseline_gain_db": -3,
+      "sound_id": "foley-wood-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-wood-touch.wav",
+      "asset_relative": "sounds/foley/foley-wood-touch.wav",
+      "sha256": "bcd88241dcd12a07ce335806e3d58f6deb85cb6971aa997dfa984edc1bc81db7",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-wood-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 8.366666666666667,
+      "sync_frame": 251,
+      "start": 8.354666666666667,
+      "start_sample": 401024,
+      "untrimmed_start": 8.354666666666667,
+      "trim_start_seconds": 0.0,
+      "end": 8.482666666666667,
+      "rate": 1.0,
+      "sync_at": 0.012,
+      "effective_sync_at": 0.012,
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 31,
+      "selection_evidence": {
+        "use_for": [
+          "Wooden objects and furniture",
+          "Knocking on a surface",
+          "Natural, crafted products",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "wood",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "The hand pushes the wooden door, which remains blocked by its warped frame; metadata matches: Wooden objects and furniture, Knocking on a surface. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "piles",
+      "event_id": "driver-control",
+      "frame": 427,
+      "visual_time_unquantized": 14.22090963319704,
+      "visual_quantization_error_frames": 0.3727110040887851,
+      "action": "The physical pile-driver control is engaged",
+      "visible": true,
+      "categories": [
+        "mechanical"
+      ],
+      "required_tags": "switch",
+      "query": "A setting switched on power tools machinery",
+      "sync_meets": "instant",
+      "gain_db": -1.0,
+      "baseline_gain_db": -3,
+      "sound_id": "mechanical-switch-heavy",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/mechanical/mechanical-switch-heavy.wav",
+      "asset_relative": "sounds/mechanical/mechanical-switch-heavy.wav",
+      "sha256": "8efa3f5ffb984eb05f381f39c21d6588c841f13941673657f0648e6511e81e17",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/mechanical/mechanical-switch-heavy.wav",
+      "license": "CC0-1.0",
+      "event_time": 14.233333333333333,
+      "sync_frame": 427,
+      "start": 14.212333333333333,
+      "start_sample": 682192,
+      "untrimmed_start": 14.212333333333333,
+      "trim_start_seconds": 0.0,
+      "end": 14.311333333333334,
+      "rate": 1.0,
+      "sync_at": 0.021,
+      "effective_sync_at": 0.021,
+      "sync_how": "Sync point on the frame it switches.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 19,
+      "selection_evidence": {
+        "use_for": [
+          "A setting switched on",
+          "Lights or power coming on",
+          "A physical-feeling toggle"
+        ],
+        "avoid_for": [
+          "Small, delicate UI (use light)"
+        ],
+        "tags": [
+          "mechanical",
+          "switch",
+          "heavy",
+          "physical",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Faster sounds smaller and lighter, slower bigger: keep changes small."
+        }
+      },
+      "reason": "The physical pile-driver control is engaged; metadata matches: A setting switched on, Lights or power coming on. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "piles",
+      "event_id": "pile-1-blow-1",
+      "frame": 438,
+      "visual_time_unquantized": 14.607126656409019,
+      "visual_quantization_error_frames": 0.21379969227058382,
+      "action": "The heavy hammer makes visible contact with concrete pile 1",
+      "visible": true,
+      "categories": [
+        "impacts"
+      ],
+      "required_tags": "heavy",
+      "query": "Big elements landing weight a solid heavy hit",
+      "sync_meets": "instant",
+      "gain_db": 0.0,
+      "reason": "The heavy hammer makes visible contact with concrete pile 1; metadata matches: Big elements landing, A product or device set down with weight. Eight physical pile-driving strikes, not decorative cinematic hits; the source variant is selected by metadata and repetition limits",
+      "baseline_gain_db": -2,
+      "sound_id": "impact-heavy-hard",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/impacts/impact-heavy-hard.wav",
+      "asset_relative": "sounds/impacts/impact-heavy-hard.wav",
+      "sha256": "94fd8e05f4f2dc85ce474925800474a1882bd7eeef29ffa09805a0d13ebdc61d",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/impacts/impact-heavy-hard.wav",
+      "license": "CC0-1.0",
+      "event_time": 14.6,
+      "sync_frame": 438,
+      "start": 14.59,
+      "start_sample": 700320,
+      "untrimmed_start": 14.59,
+      "trim_start_seconds": 0.0,
+      "end": 14.89,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_how": "Put the sync point (the moment of contact) exactly where the thing lands: usually the last frame of its move, or the first frame it's at rest.",
+      "under_voiceover_db": -4,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 19,
+      "selection_evidence": {
+        "use_for": [
+          "Big elements landing",
+          "A product or device set down with weight",
+          "Section openers and emphatic beats",
+          "Crisp, confident landings"
+        ],
+        "avoid_for": [
+          "Small elements",
+          "Calm, softly spoken films"
+        ],
+        "tags": [
+          "impact",
+          "hit",
+          "land",
+          "drop",
+          "crisp",
+          "heavy",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.92,
+            1.1
+          ],
+          "notes": "Small rate changes only: faster sounds lighter and slower heavier, so for a different weight use the next weight instead."
+        }
+      },
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "piles",
+      "event_id": "pile-1-blow-2",
+      "frame": 448,
+      "visual_time_unquantized": 14.926355839058123,
+      "visual_quantization_error_frames": 0.2093248282562854,
+      "action": "The heavy hammer makes visible contact with concrete pile 1",
+      "visible": true,
+      "categories": [
+        "impacts"
+      ],
+      "required_tags": "heavy",
+      "query": "Big elements landing weight a solid heavy hit",
+      "sync_meets": "instant",
+      "gain_db": 1.0,
+      "reason": "The heavy hammer makes visible contact with concrete pile 1; metadata matches: Big elements landing, A product or device set down with weight. Eight physical pile-driving strikes, not decorative cinematic hits; the source variant is selected by metadata and repetition limits",
+      "baseline_gain_db": -1,
+      "sound_id": "impact-heavy-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/impacts/impact-heavy-soft.wav",
+      "asset_relative": "sounds/impacts/impact-heavy-soft.wav",
+      "sha256": "7e2d91a2ebccc3be2d82f5293ec442c8490548e0823c22f73eddaa43f74b8076",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/impacts/impact-heavy-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 14.933333333333334,
+      "sync_frame": 448,
+      "start": 14.915333333333333,
+      "start_sample": 715936,
+      "untrimmed_start": 14.915333333333333,
+      "trim_start_seconds": 0.0,
+      "end": 15.235333333333333,
+      "rate": 1.0,
+      "sync_at": 0.018,
+      "effective_sync_at": 0.018,
+      "sync_how": "Put the sync point (the moment of contact) exactly where the thing lands: usually the last frame of its move, or the first frame it's at rest.",
+      "under_voiceover_db": -4,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 19,
+      "selection_evidence": {
+        "use_for": [
+          "Big elements landing",
+          "A product or device set down with weight",
+          "Section openers and emphatic beats",
+          "Gentle, friendly landings"
+        ],
+        "avoid_for": [
+          "Small elements",
+          "Moments that need a crisp edge"
+        ],
+        "tags": [
+          "impact",
+          "hit",
+          "land",
+          "drop",
+          "thud",
+          "heavy",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.92,
+            1.1
+          ],
+          "notes": "Small rate changes only: faster sounds lighter and slower heavier, so for a different weight use the next weight instead."
+        }
+      },
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "piles",
+      "event_id": "pile-2-blow-1",
+      "frame": 458,
+      "visual_time_unquantized": 15.272187453594656,
+      "visual_quantization_error_frames": 0.16562360783967733,
+      "action": "The heavy hammer makes visible contact with concrete pile 2",
+      "visible": true,
+      "categories": [
+        "impacts"
+      ],
+      "required_tags": "heavy",
+      "query": "Big elements landing weight a solid heavy hit",
+      "sync_meets": "instant",
+      "gain_db": 0.0,
+      "reason": "The heavy hammer makes visible contact with concrete pile 2; metadata matches: Big elements landing, A product or device set down with weight. Eight physical pile-driving strikes, not decorative cinematic hits; the source variant is selected by metadata and repetition limits",
+      "baseline_gain_db": -2,
+      "sound_id": "impact-heavy-firm",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/impacts/impact-heavy-firm.wav",
+      "asset_relative": "sounds/impacts/impact-heavy-firm.wav",
+      "sha256": "c819342771d35a29d67e525daaee4029f78c4fc39271f3fa6018db6b4547e563",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/impacts/impact-heavy-firm.wav",
+      "license": "CC0-1.0",
+      "event_time": 15.266666666666667,
+      "sync_frame": 458,
+      "start": 15.255666666666666,
+      "start_sample": 732272,
+      "untrimmed_start": 15.255666666666666,
+      "trim_start_seconds": 0.0,
+      "end": 15.555666666666667,
+      "rate": 1.0,
+      "sync_at": 0.011,
+      "effective_sync_at": 0.011,
+      "sync_how": "Put the sync point (the moment of contact) exactly where the thing lands: usually the last frame of its move, or the first frame it's at rest.",
+      "under_voiceover_db": -4,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 18,
+      "selection_evidence": {
+        "use_for": [
+          "Big elements landing",
+          "A product or device set down with weight",
+          "Section openers and emphatic beats",
+          "Natural, everyday landings"
+        ],
+        "avoid_for": [
+          "Small elements"
+        ],
+        "tags": [
+          "impact",
+          "hit",
+          "land",
+          "drop",
+          "knock",
+          "heavy",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.92,
+            1.1
+          ],
+          "notes": "Small rate changes only: faster sounds lighter and slower heavier, so for a different weight use the next weight instead."
+        }
+      },
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "piles",
+      "event_id": "pile-2-blow-2",
+      "frame": 468,
+      "visual_time_unquantized": 15.59141663624376,
+      "visual_quantization_error_frames": 0.2575009126871919,
+      "action": "The heavy hammer makes visible contact with concrete pile 2",
+      "visible": true,
+      "categories": [
+        "impacts"
+      ],
+      "required_tags": "heavy",
+      "query": "Big elements landing weight a solid heavy hit",
+      "sync_meets": "instant",
+      "gain_db": 1.0,
+      "reason": "The heavy hammer makes visible contact with concrete pile 2; metadata matches: Big elements landing, A product or device set down with weight. Eight physical pile-driving strikes, not decorative cinematic hits; the source variant is selected by metadata and repetition limits",
+      "baseline_gain_db": -1,
+      "sound_id": "impact-heavy-hard",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/impacts/impact-heavy-hard.wav",
+      "asset_relative": "sounds/impacts/impact-heavy-hard.wav",
+      "sha256": "94fd8e05f4f2dc85ce474925800474a1882bd7eeef29ffa09805a0d13ebdc61d",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/impacts/impact-heavy-hard.wav",
+      "license": "CC0-1.0",
+      "event_time": 15.6,
+      "sync_frame": 468,
+      "start": 15.59,
+      "start_sample": 748320,
+      "untrimmed_start": 15.59,
+      "trim_start_seconds": 0.0,
+      "end": 15.89,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_how": "Put the sync point (the moment of contact) exactly where the thing lands: usually the last frame of its move, or the first frame it's at rest.",
+      "under_voiceover_db": -4,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 16,
+      "selection_evidence": {
+        "use_for": [
+          "Big elements landing",
+          "A product or device set down with weight",
+          "Section openers and emphatic beats",
+          "Crisp, confident landings"
+        ],
+        "avoid_for": [
+          "Small elements",
+          "Calm, softly spoken films"
+        ],
+        "tags": [
+          "impact",
+          "hit",
+          "land",
+          "drop",
+          "crisp",
+          "heavy",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.92,
+            1.1
+          ],
+          "notes": "Small rate changes only: faster sounds lighter and slower heavier, so for a different weight use the next weight instead."
+        }
+      },
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "piles",
+      "event_id": "pile-3-blow-1",
+      "frame": 478,
+      "visual_time_unquantized": 15.937248250780291,
+      "visual_quantization_error_frames": 0.117447523408714,
+      "action": "The heavy hammer makes visible contact with concrete pile 3",
+      "visible": true,
+      "categories": [
+        "impacts"
+      ],
+      "required_tags": "heavy",
+      "query": "Big elements landing weight a solid heavy hit",
+      "sync_meets": "instant",
+      "gain_db": 0.0,
+      "reason": "The heavy hammer makes visible contact with concrete pile 3; metadata matches: Big elements landing, A product or device set down with weight. Eight physical pile-driving strikes, not decorative cinematic hits; the source variant is selected by metadata and repetition limits",
+      "baseline_gain_db": -2,
+      "sound_id": "impact-heavy-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/impacts/impact-heavy-soft.wav",
+      "asset_relative": "sounds/impacts/impact-heavy-soft.wav",
+      "sha256": "7e2d91a2ebccc3be2d82f5293ec442c8490548e0823c22f73eddaa43f74b8076",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/impacts/impact-heavy-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 15.933333333333334,
+      "sync_frame": 478,
+      "start": 15.915333333333333,
+      "start_sample": 763936,
+      "untrimmed_start": 15.915333333333333,
+      "trim_start_seconds": 0.0,
+      "end": 16.235333333333333,
+      "rate": 1.0,
+      "sync_at": 0.018,
+      "effective_sync_at": 0.018,
+      "sync_how": "Put the sync point (the moment of contact) exactly where the thing lands: usually the last frame of its move, or the first frame it's at rest.",
+      "under_voiceover_db": -4,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 16,
+      "selection_evidence": {
+        "use_for": [
+          "Big elements landing",
+          "A product or device set down with weight",
+          "Section openers and emphatic beats",
+          "Gentle, friendly landings"
+        ],
+        "avoid_for": [
+          "Small elements",
+          "Moments that need a crisp edge"
+        ],
+        "tags": [
+          "impact",
+          "hit",
+          "land",
+          "drop",
+          "thud",
+          "heavy",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.92,
+            1.1
+          ],
+          "notes": "Small rate changes only: faster sounds lighter and slower heavier, so for a different weight use the next weight instead."
+        }
+      },
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "piles",
+      "event_id": "pile-3-blow-2",
+      "frame": 488,
+      "visual_time_unquantized": 16.256477433429396,
+      "visual_quantization_error_frames": 0.30567699711809837,
+      "action": "The heavy hammer makes visible contact with concrete pile 3",
+      "visible": true,
+      "categories": [
+        "impacts"
+      ],
+      "required_tags": "heavy",
+      "query": "Big elements landing weight a solid heavy hit",
+      "sync_meets": "instant",
+      "gain_db": 1.0,
+      "reason": "The heavy hammer makes visible contact with concrete pile 3; metadata matches: Big elements landing, A product or device set down with weight. Eight physical pile-driving strikes, not decorative cinematic hits; the source variant is selected by metadata and repetition limits",
+      "baseline_gain_db": -1,
+      "sound_id": "impact-heavy-firm",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/impacts/impact-heavy-firm.wav",
+      "asset_relative": "sounds/impacts/impact-heavy-firm.wav",
+      "sha256": "c819342771d35a29d67e525daaee4029f78c4fc39271f3fa6018db6b4547e563",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/impacts/impact-heavy-firm.wav",
+      "license": "CC0-1.0",
+      "event_time": 16.266666666666666,
+      "sync_frame": 488,
+      "start": 16.255666666666666,
+      "start_sample": 780272,
+      "untrimmed_start": 16.255666666666666,
+      "trim_start_seconds": 0.0,
+      "end": 16.555666666666667,
+      "rate": 1.0,
+      "sync_at": 0.011,
+      "effective_sync_at": 0.011,
+      "sync_how": "Put the sync point (the moment of contact) exactly where the thing lands: usually the last frame of its move, or the first frame it's at rest.",
+      "under_voiceover_db": -4,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 15,
+      "selection_evidence": {
+        "use_for": [
+          "Big elements landing",
+          "A product or device set down with weight",
+          "Section openers and emphatic beats",
+          "Natural, everyday landings"
+        ],
+        "avoid_for": [
+          "Small elements"
+        ],
+        "tags": [
+          "impact",
+          "hit",
+          "land",
+          "drop",
+          "knock",
+          "heavy",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.92,
+            1.1
+          ],
+          "notes": "Small rate changes only: faster sounds lighter and slower heavier, so for a different weight use the next weight instead."
+        }
+      },
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "piles",
+      "event_id": "pile-4-blow-1",
+      "frame": 498,
+      "visual_time_unquantized": 16.602309047965928,
+      "visual_quantization_error_frames": 0.06927143897786436,
+      "action": "The heavy hammer makes visible contact with concrete pile 4",
+      "visible": true,
+      "categories": [
+        "impacts"
+      ],
+      "required_tags": "heavy",
+      "query": "Big elements landing weight a solid heavy hit",
+      "sync_meets": "instant",
+      "gain_db": 0.0,
+      "reason": "The heavy hammer makes visible contact with concrete pile 4; metadata matches: Big elements landing, A product or device set down with weight. Eight physical pile-driving strikes, not decorative cinematic hits; the source variant is selected by metadata and repetition limits",
+      "baseline_gain_db": -2,
+      "sound_id": "impact-heavy-hard",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/impacts/impact-heavy-hard.wav",
+      "asset_relative": "sounds/impacts/impact-heavy-hard.wav",
+      "sha256": "94fd8e05f4f2dc85ce474925800474a1882bd7eeef29ffa09805a0d13ebdc61d",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/impacts/impact-heavy-hard.wav",
+      "license": "CC0-1.0",
+      "event_time": 16.6,
+      "sync_frame": 498,
+      "start": 16.59,
+      "start_sample": 796320,
+      "untrimmed_start": 16.59,
+      "trim_start_seconds": 0.0,
+      "end": 16.89,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_how": "Put the sync point (the moment of contact) exactly where the thing lands: usually the last frame of its move, or the first frame it's at rest.",
+      "under_voiceover_db": -4,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 13,
+      "selection_evidence": {
+        "use_for": [
+          "Big elements landing",
+          "A product or device set down with weight",
+          "Section openers and emphatic beats",
+          "Crisp, confident landings"
+        ],
+        "avoid_for": [
+          "Small elements",
+          "Calm, softly spoken films"
+        ],
+        "tags": [
+          "impact",
+          "hit",
+          "land",
+          "drop",
+          "crisp",
+          "heavy",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.92,
+            1.1
+          ],
+          "notes": "Small rate changes only: faster sounds lighter and slower heavier, so for a different weight use the next weight instead."
+        }
+      },
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "piles",
+      "event_id": "pile-4-blow-2",
+      "frame": 508,
+      "visual_time_unquantized": 16.921538230615035,
+      "visual_quantization_error_frames": 0.353853081548948,
+      "action": "The heavy hammer makes visible contact with concrete pile 4",
+      "visible": true,
+      "categories": [
+        "impacts"
+      ],
+      "required_tags": "heavy",
+      "query": "Big elements landing weight a solid heavy hit",
+      "sync_meets": "instant",
+      "gain_db": 1.0,
+      "reason": "The heavy hammer makes visible contact with concrete pile 4; metadata matches: Big elements landing, A product or device set down with weight. Eight physical pile-driving strikes, not decorative cinematic hits; the source variant is selected by metadata and repetition limits",
+      "baseline_gain_db": -1,
+      "sound_id": "impact-heavy-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/impacts/impact-heavy-soft.wav",
+      "asset_relative": "sounds/impacts/impact-heavy-soft.wav",
+      "sha256": "7e2d91a2ebccc3be2d82f5293ec442c8490548e0823c22f73eddaa43f74b8076",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/impacts/impact-heavy-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 16.933333333333334,
+      "sync_frame": 508,
+      "start": 16.915333333333333,
+      "start_sample": 811936,
+      "untrimmed_start": 16.915333333333333,
+      "trim_start_seconds": 0.0,
+      "end": 17.235333333333333,
+      "rate": 1.0,
+      "sync_at": 0.018,
+      "effective_sync_at": 0.018,
+      "sync_how": "Put the sync point (the moment of contact) exactly where the thing lands: usually the last frame of its move, or the first frame it's at rest.",
+      "under_voiceover_db": -4,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 13,
+      "selection_evidence": {
+        "use_for": [
+          "Big elements landing",
+          "A product or device set down with weight",
+          "Section openers and emphatic beats",
+          "Gentle, friendly landings"
+        ],
+        "avoid_for": [
+          "Small elements",
+          "Moments that need a crisp edge"
+        ],
+        "tags": [
+          "impact",
+          "hit",
+          "land",
+          "drop",
+          "thud",
+          "heavy",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.92,
+            1.1
+          ],
+          "notes": "Small rate changes only: faster sounds lighter and slower heavier, so for a different weight use the next weight instead."
+        }
+      },
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "cap",
+      "event_id": "cap-bucket",
+      "frame": 550,
+      "visual_time_unquantized": 18.3294939939046,
+      "visual_quantization_error_frames": 0.11518018286199094,
+      "action": "The plastic bucket is tipped to fill the pile cap",
+      "visible": true,
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "plastic",
+      "material": "plastic",
+      "query": "Plastic products being handled touched",
+      "sync_meets": "instant",
+      "gain_db": -2.0,
+      "baseline_gain_db": -4,
+      "sound_id": "foley-plastic-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-plastic-touch.wav",
+      "asset_relative": "sounds/foley/foley-plastic-touch.wav",
+      "sha256": "c61e0be4b1f150b55f4efc7088991b137d73562b0f75302061348291091482f4",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-plastic-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 18.333333333333332,
+      "sync_frame": 550,
+      "start": 18.323333333333334,
+      "start_sample": 879520,
+      "untrimmed_start": 18.323333333333334,
+      "trim_start_seconds": 0.0,
+      "end": 18.402333333333335,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 20,
+      "selection_evidence": {
+        "use_for": [
+          "Plastic products and packaging",
+          "Devices and cases",
+          "Containers opening or being set down",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "plastic",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "The plastic bucket is tipped to fill the pile cap; metadata matches: Plastic products and packaging, Devices and cases. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "cap",
+      "event_id": "rebuild-block",
+      "frame": 584,
+      "visual_time_unquantized": 19.46574987287836,
+      "visual_quantization_error_frames": 0.0275038136492185,
+      "action": "The first block of the rebuilt house is set onto the stable cap",
+      "visible": true,
+      "categories": [
+        "impacts"
+      ],
+      "required_tags": "light",
+      "query": "Small elements landing or snapping into place",
+      "sync_meets": "instant",
+      "gain_db": -2.0,
+      "baseline_gain_db": -4,
+      "sound_id": "impact-light-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/impacts/impact-light-soft.wav",
+      "asset_relative": "sounds/impacts/impact-light-soft.wav",
+      "sha256": "45d0e503454aec241115f05482115d412d15d6d74d6c658a0193a78611382a94",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/impacts/impact-light-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 19.466666666666665,
+      "sync_frame": 584,
+      "start": 19.454666666666668,
+      "start_sample": 933824,
+      "untrimmed_start": 19.454666666666668,
+      "trim_start_seconds": 0.0,
+      "end": 19.62066666666667,
+      "rate": 1.0,
+      "sync_at": 0.012,
+      "effective_sync_at": 0.012,
+      "sync_how": "Put the sync point (the moment of contact) exactly where the thing lands: usually the last frame of its move, or the first frame it's at rest.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 18,
+      "selection_evidence": {
+        "use_for": [
+          "Small elements landing or snapping into place",
+          "Icons dropping into a grid",
+          "Labels and tags settling",
+          "Gentle, friendly landings"
+        ],
+        "avoid_for": [
+          "Big, heavy moves",
+          "Moments that need a crisp edge"
+        ],
+        "tags": [
+          "impact",
+          "hit",
+          "land",
+          "drop",
+          "thud",
+          "light",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.92,
+            1.1
+          ],
+          "notes": "Small rate changes only: faster sounds lighter and slower heavier, so for a different weight use the next weight instead."
+        }
+      },
+      "reason": "The first block of the rebuilt house is set onto the stable cap; metadata matches: Small elements landing or snapping into place, Icons dropping into a grid. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "load",
+      "event_id": "load-illustration",
+      "frame": 636,
+      "visual_time_unquantized": 21.214083850172084,
+      "visual_quantization_error_frames": 0.42251550516255065,
+      "action": "Load-path arrows start moving down the piles",
+      "visible": true,
+      "categories": [
+        "swishes-and-zips"
+      ],
+      "required_tags": "swish",
+      "query": "Text icons arrows flicked into place",
+      "sync_meets": "move-peak",
+      "intensity": "soft",
+      "gain_db": -5.0,
+      "reason": "Load-path arrows start moving down the piles; metadata matches: Text, icons or arrows flicked into place, Quick cuts, wipes and whip transitions. Quiet visual-annotation accent; not a claim that static structural load is audible",
+      "baseline_gain_db": -7,
+      "sound_id": "swish-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/swishes-and-zips/swish-soft.wav",
+      "asset_relative": "sounds/swishes-and-zips/swish-soft.wav",
+      "sha256": "c18c581c43ac848b10c946e2a3c402b79370d99b057c2399b832d39f9d9236ab",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/swishes-and-zips/swish-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 21.2,
+      "sync_frame": 636,
+      "start": 21.115,
+      "start_sample": 1013520,
+      "untrimmed_start": 21.115,
+      "trim_start_seconds": 0.0,
+      "end": 21.337999999999997,
+      "rate": 1.0,
+      "sync_at": 0.085,
+      "effective_sync_at": 0.085,
+      "sync_how": "Put the sync point where the move is fastest: the middle of an ease-in-out move.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 29,
+      "selection_evidence": {
+        "use_for": [
+          "Text, icons or arrows flicked into place",
+          "Quick cuts, wipes and whip transitions",
+          "A line or pointer sweeping across"
+        ],
+        "avoid_for": [
+          "Big, heavy moves (use a whoosh)"
+        ],
+        "tags": [
+          "swish",
+          "movement",
+          "air",
+          "quick",
+          "soft",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.85,
+            1.2
+          ],
+          "notes": "To fit a quicker or slower move, change the rate a little (its pitch moves with it); for a much longer move, use a whoosh."
+        }
+      },
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "friction",
+      "event_id": "friction-illustration",
+      "frame": 719,
+      "visual_time_unquantized": 23.95077144735233,
+      "visual_quantization_error_frames": 0.4768565794300912,
+      "action": "Upward interface arrows introduce shaft friction",
+      "visible": true,
+      "categories": [
+        "swishes-and-zips"
+      ],
+      "required_tags": "swish",
+      "query": "Text icons arrows flicked into place",
+      "sync_meets": "move-peak",
+      "intensity": "soft",
+      "gain_db": -5.0,
+      "baseline_gain_db": -7,
+      "sound_id": "swish-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/swishes-and-zips/swish-soft.wav",
+      "asset_relative": "sounds/swishes-and-zips/swish-soft.wav",
+      "sha256": "c18c581c43ac848b10c946e2a3c402b79370d99b057c2399b832d39f9d9236ab",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/swishes-and-zips/swish-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 23.966666666666665,
+      "sync_frame": 719,
+      "start": 23.881666666666668,
+      "start_sample": 1146320,
+      "untrimmed_start": 23.881666666666668,
+      "trim_start_seconds": 0.0,
+      "end": 24.104666666666667,
+      "rate": 1.0,
+      "sync_at": 0.085,
+      "effective_sync_at": 0.085,
+      "sync_how": "Put the sync point where the move is fastest: the middle of an ease-in-out move.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 26,
+      "selection_evidence": {
+        "use_for": [
+          "Text, icons or arrows flicked into place",
+          "Quick cuts, wipes and whip transitions",
+          "A line or pointer sweeping across"
+        ],
+        "avoid_for": [
+          "Big, heavy moves (use a whoosh)"
+        ],
+        "tags": [
+          "swish",
+          "movement",
+          "air",
+          "quick",
+          "soft",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.85,
+            1.2
+          ],
+          "notes": "To fit a quicker or slower move, change the rate a little (its pitch moves with it); for a much longer move, use a whoosh."
+        }
+      },
+      "reason": "Upward interface arrows introduce shaft friction; metadata matches: Text, icons or arrows flicked into place, Quick cuts, wipes and whip transitions. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "stable",
+      "event_id": "stable-door-latch",
+      "frame": 799,
+      "visual_time_unquantized": 26.63546334230158,
+      "visual_quantization_error_frames": 0.06390026904739443,
+      "action": "The undistorted door closes and catches correctly",
+      "visible": true,
+      "categories": [
+        "mechanical"
+      ],
+      "required_tags": "latch",
+      "query": "A door lid or panel closing",
+      "sync_meets": "instant",
+      "gain_db": 0.0,
+      "baseline_gain_db": -2,
+      "sound_id": "mechanical-latch-heavy",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/mechanical/mechanical-latch-heavy.wav",
+      "asset_relative": "sounds/mechanical/mechanical-latch-heavy.wav",
+      "sha256": "11e11c062b5cb8be8079000faeac50934eb56547868c5c9c89130ec63b5ecd53",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/mechanical/mechanical-latch-heavy.wav",
+      "license": "CC0-1.0",
+      "event_time": 26.633333333333333,
+      "sync_frame": 799,
+      "start": 26.555333333333333,
+      "start_sample": 1274656,
+      "untrimmed_start": 26.555333333333333,
+      "trim_start_seconds": 0.0,
+      "end": 26.746333333333332,
+      "rate": 1.0,
+      "sync_at": 0.078,
+      "effective_sync_at": 0.078,
+      "sync_how": "Sync point on the frame it closes.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 17,
+      "selection_evidence": {
+        "use_for": [
+          "A door, lid or panel closing",
+          "Something clicking securely into place",
+          "Locking a card or module in"
+        ],
+        "avoid_for": [
+          "Small, delicate UI (use light)"
+        ],
+        "tags": [
+          "mechanical",
+          "latch",
+          "heavy",
+          "physical",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Faster sounds smaller and lighter, slower bigger: keep changes small."
+        }
+      },
+      "reason": "The undistorted door closes and catches correctly; metadata matches: A door, lid or panel closing, Something clicking securely into place. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "hidden",
+      "event_id": "foundation-reveal",
+      "frame": 865,
+      "visual_time_unquantized": 28.827504096857044,
+      "visual_quantization_error_frames": 0.17487709428871767,
+      "action": "The final side-cutaway reveals the hidden pile foundation",
+      "visible": true,
+      "categories": [
+        "shimmers"
+      ],
+      "query": "Gentle highlights a result or a reveal",
+      "intensity": "soft",
+      "sync_meets": "instant",
+      "gain_db": -4.0,
+      "baseline_gain_db": -6,
+      "sound_id": "shimmer-long-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/shimmers/shimmer-long-soft.wav",
+      "asset_relative": "sounds/shimmers/shimmer-long-soft.wav",
+      "sha256": "f0c56b1acc05f60d7b4e2e417e8295250b09a94e8cd3df3fff71c7c9daa372e8",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/shimmers/shimmer-long-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 28.833333333333332,
+      "sync_frame": 865,
+      "start": 28.823333333333334,
+      "start_sample": 1383520,
+      "untrimmed_start": 28.823333333333334,
+      "trim_start_seconds": 0.0,
+      "end": 30.746333333333332,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_how": "Sync point near the start: put it on the frame the highlight or reveal appears; the shimmer trails after.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 23,
+      "selection_evidence": {
+        "use_for": [
+          "Gentle highlights: a feature, a benefit, a tick",
+          "Elements lighting up or being highlighted",
+          "A slow, lingering reveal"
+        ],
+        "avoid_for": [
+          "Negative or serious moments",
+          "Fast edits"
+        ],
+        "tags": [
+          "shimmer",
+          "sparkle",
+          "glint",
+          "reveal",
+          "magic",
+          "soft",
+          "long",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the glints. For a shorter shimmer, fade the end; for longer, use the next length."
+        }
+      },
+      "reason": "The final side-cutaway reveals the hidden pile foundation; metadata matches: Gentle highlights: a feature, a benefit, a tick, Elements lighting up or being highlighted. ",
+      "layer": "sfx"
+    }
+  ],
+  "missing_assets": [],
+  "skipped": [],
+  "notes": [
+    "Context is supplied by authored animation/shot markers, not inferred by audio transcription or image recognition.",
+    "Frame checks certify authored markers and arithmetic; compare visible contact frames during picture review."
+  ],
+  "supplemental_original_events": [
+    {
+      "scene_id": "construction",
+      "event_id": "concrete-first",
+      "action": "Wet concrete falls from the wrist-bound bucket into the first form",
+      "time": 4.266666666666667,
+      "sync_frame": 128,
+      "file": "/workspace/outputs/swamp-pile-foundation-20261125/audio/original-concrete-first.wav",
+      "duration": 0.7266334482977577,
+      "sync_at": 0,
+      "gain_db": -18.0,
+      "fade_in": 0.008,
+      "fade_out": 0.035,
+      "source": "/workspace/outputs/swamp-pile-foundation-20261125/production/audio-prep.py",
+      "license": "OWN",
+      "sha256": "bdb201518e789afc7afa4c6e3053e423f132e304acf5ea2e67d598f76bcd663b",
+      "method": "Original deterministic local oscillator and filtered-noise synthesis; no paid API or external recording"
+    },
+    {
+      "scene_id": "construction",
+      "event_id": "mud-settle",
+      "action": "Weak mud deforms as the first footing sinks",
+      "time": 6.966666666666667,
+      "sync_frame": 209,
+      "file": "/workspace/outputs/swamp-pile-foundation-20261125/audio/original-mud-settle.wav",
+      "duration": 0.65,
+      "sync_at": 0,
+      "gain_db": -16.416375079047505,
+      "fade_in": 0.008,
+      "fade_out": 0.035,
+      "source": "/workspace/outputs/swamp-pile-foundation-20261125/production/audio-prep.py",
+      "license": "OWN",
+      "sha256": "ce81bf501c0b6169d86f7fc165718069109b7f9e5ca22f650617d3bb33b5e6b0",
+      "method": "Original deterministic local oscillator and filtered-noise synthesis; no paid API or external recording"
+    },
+    {
+      "scene_id": "construction",
+      "event_id": "wall-crack",
+      "action": "The visible wall crack opens",
+      "time": 7.633333333333334,
+      "sync_frame": 229,
+      "file": "/workspace/outputs/swamp-pile-foundation-20261125/audio/original-wall-crack.wav",
+      "duration": 0.15,
+      "sync_at": 0,
+      "gain_db": -18.0,
+      "fade_in": 0.008,
+      "fade_out": 0.035,
+      "source": "/workspace/outputs/swamp-pile-foundation-20261125/production/audio-prep.py",
+      "license": "OWN",
+      "sha256": "cc23b93753951c60897a28a6430743417274e3b1261f95b904faa12f81ab30de",
+      "method": "Original deterministic local oscillator and filtered-noise synthesis; no paid API or external recording"
+    },
+    {
+      "scene_id": "construction",
+      "event_id": "mud-wide",
+      "action": "The wider footing still compresses the weak mud",
+      "time": 12.033333333333333,
+      "sync_frame": 361,
+      "file": "/workspace/outputs/swamp-pile-foundation-20261125/audio/original-mud-wide.wav",
+      "duration": 0.55,
+      "sync_at": 0,
+      "gain_db": -18.0,
+      "fade_in": 0.008,
+      "fade_out": 0.035,
+      "source": "/workspace/outputs/swamp-pile-foundation-20261125/production/audio-prep.py",
+      "license": "OWN",
+      "sha256": "049f1e242487e8b5ceff9a5380ac3984f34d17f10561155ff45c5d8c045920ac",
+      "method": "Original deterministic local oscillator and filtered-noise synthesis; no paid API or external recording"
+    },
+    {
+      "scene_id": "construction",
+      "event_id": "concrete-cap",
+      "action": "Concrete fills the pile-cap form around the linked pile heads",
+      "time": 18.333333333333332,
+      "sync_frame": 550,
+      "file": "/workspace/outputs/swamp-pile-foundation-20261125/audio/original-concrete-cap.wav",
+      "duration": 0.9562558789737601,
+      "sync_at": 0,
+      "gain_db": -18.0,
+      "fade_in": 0.008,
+      "fade_out": 0.035,
+      "source": "/workspace/outputs/swamp-pile-foundation-20261125/production/audio-prep.py",
+      "license": "OWN",
+      "sha256": "9b570964544f0960c9615c55b7845c8b2ce390284e76530839a6bd5377a8718b",
+      "method": "Original deterministic local oscillator and filtered-noise synthesis; no paid API or external recording"
+    }
+  ],
+  "effects_gain_relative_previous_db": 2
+}
