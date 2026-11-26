@@ -1,0 +1,203 @@
+{
+  "master": "/workspace/outputs/skill-copy-24h-20261126/revision-v2/mix-full/audio-master.wav",
+  "duration": 469.1666666666667,
+  "inputs": {
+    "voiceover": {
+      "path": "/workspace/outputs/skill-copy-24h-20261126/audio/narration-directed-v1.wav",
+      "sha256": "353fb665d5f809907e612538e99bac75e3e650f4608edd2f8c89902edd2b5172",
+      "source_frames": 22519181,
+      "copied_frames": 22519181,
+      "rights": {
+        "source": "VieNeu-TTS v3 Turbo localCPU, Minh Quân alias Hải Đăng; immutable new film narration",
+        "license": "OWN",
+        "sha256": "353fb665d5f809907e612538e99bac75e3e650f4608edd2f8c89902edd2b5172"
+      }
+    },
+    "music": {
+      "path": "/workspace/outputs/skill-copy-24h-20261126/audio/music-original.wav",
+      "sha256": "e87e8a8880b160b1c5957831ff1d376e4a71a1352bcf63f0895d9807d8d24fbf",
+      "source_frames": 22520000,
+      "copied_frames": 22520000,
+      "rights": {
+        "source": "Original offline synthesis in integrations/skill-copy-24h/sound.py, deterministic seed245",
+        "license": "OWN",
+        "sha256": "e87e8a8880b160b1c5957831ff1d376e4a71a1352bcf63f0895d9807d8d24fbf"
+      }
+    },
+    "ambience": {
+      "path": "/workspace/outputs/skill-copy-24h-20261126/audio/ambience-cinematic-full-v2.wav",
+      "sha256": "a8ebb2d00a6a6caf9e9eedd4db4d582388eaa9a8189022474c599ec5bec42f03",
+      "source_frames": 22520000,
+      "copied_frames": 22520000,
+      "rights": {
+        "source": "Original offline synthesis in integrations/skill-copy-24h/sound.py, deterministic seed245",
+        "license": "OWN",
+        "sha256": "a8ebb2d00a6a6caf9e9eedd4db4d582388eaa9a8189022474c599ec5bec42f03"
+      }
+    }
+  },
+  "pre_master_gain": 1.0,
+  "loudnorm": {
+    "input_i": "-20.60",
+    "input_tp": "-8.76",
+    "input_lra": "2.20",
+    "input_thresh": "-31.03",
+    "output_i": "-13.97",
+    "output_tp": "-2.10",
+    "output_lra": "2.30",
+    "output_thresh": "-24.39",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.03"
+  },
+  "initial_loudnorm": {
+    "input_i": "-19.95",
+    "input_tp": "-3.57",
+    "input_lra": "2.60",
+    "input_thresh": "-30.38",
+    "output_i": "-14.50",
+    "output_tp": "-2.00",
+    "output_lra": "2.40",
+    "output_thresh": "-24.93",
+    "normalization_type": "dynamic",
+    "target_offset": "0.50"
+  },
+  "peak_limiter": {
+    "ceiling_linear": 0.3568617492834812,
+    "attack_ms": 3,
+    "release_ms": 70,
+    "latency_compensated": true
+  },
+  "additional_voice_duck_db": -4,
+  "event_metrics": [
+    {
+      "event_id": "skill-contact-13",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.01043959241360426,
+      "start": 46.156666666666666,
+      "end": 48.07966666666667,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "skill-contact-22",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.01047962624579668,
+      "start": 73.78166666666667,
+      "end": 75.70466666666667,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "skill-contact-28",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.009490085765719414,
+      "start": 94.07233333333333,
+      "end": 95.20183333333334,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "skill-contact-31",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.012685452587902546,
+      "start": 105.113,
+      "end": 105.591,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "incoming-call-37",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.007459575776010752,
+      "start": 126.78733333333334,
+      "end": 127.21033333333334,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "skill-contact-46",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.010482375510036945,
+      "start": 154.44833333333332,
+      "end": 156.37133333333333,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "skill-contact-52",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.016694650053977966,
+      "start": 171.78166666666667,
+      "end": 173.63566666666668,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "skill-contact-67",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.009490085765719414,
+      "start": 222.82233333333335,
+      "end": 223.95183333333333,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "incoming-call-80",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.007459575776010752,
+      "start": 269.4956666666667,
+      "end": 269.91866666666664,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "skill-contact-94",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.012685452587902546,
+      "start": 323.238,
+      "end": 323.716,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "skill-contact-119",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.010439690202474594,
+      "start": 405.1566666666667,
+      "end": 407.07966666666664,
+      "source_unchanged": true
+    }
+  ],
+  "voiceover_input_unchanged": true,
+  "stems": {
+    "voiceover": "/workspace/outputs/skill-copy-24h-20261126/revision-v2/mix-full/voiceover.wav",
+    "sfx": "/workspace/outputs/skill-copy-24h-20261126/revision-v2/mix-full/sfx.wav",
+    "foley": "/workspace/outputs/skill-copy-24h-20261126/revision-v2/mix-full/foley.wav",
+    "cinematic": "/workspace/outputs/skill-copy-24h-20261126/revision-v2/mix-full/cinematic.wav",
+    "music": "/workspace/outputs/skill-copy-24h-20261126/revision-v2/mix-full/music.wav",
+    "ambience": "/workspace/outputs/skill-copy-24h-20261126/revision-v2/mix-full/ambience.wav"
+  }
+}

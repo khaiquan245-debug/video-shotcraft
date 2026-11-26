@@ -1,0 +1,2237 @@
+{
+  "schema_version": 1,
+  "enabled": true,
+  "duration": 469.1666666666667,
+  "fps": 24.0,
+  "sample_rate": 48000,
+  "language": "vi",
+  "source": {
+    "repository": "https://github.com/wyzowl/sfx-kit",
+    "commit": "92780e7ab0cdfb557497a988089c47f46e8c7412",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "license_file": "assets/sfx-kit/LICENSE",
+    "catalogue_sha256": "67f4debfc7077d15391a896bac71a5d12c5c596dc194564e6054a844a98c9726"
+  },
+  "animation_sha256": "7bd03c7df15dbd11b6ee096c81ab7fcf827ca84636e83e9a87ddd4dea068c319",
+  "voiceover": "/workspace/outputs/skill-copy-24h-20261126/audio/narration-directed-v1.wav",
+  "voiceover_sha256": "353fb665d5f809907e612538e99bac75e3e650f4608edd2f8c89902edd2b5172",
+  "voiceover_spans": [
+    [
+      0.015,
+      2.35
+    ],
+    [
+      2.6750000000000003,
+      4.75
+    ],
+    [
+      4.944999999999999,
+      5.51
+    ],
+    [
+      5.545,
+      6.56
+    ],
+    [
+      6.545,
+      7.87
+    ],
+    [
+      7.845,
+      8.39
+    ],
+    [
+      8.735,
+      9.0
+    ],
+    [
+      8.965,
+      10.08
+    ],
+    [
+      10.075,
+      11.18
+    ],
+    [
+      11.495,
+      12.98
+    ],
+    [
+      13.195,
+      14.7
+    ],
+    [
+      14.675,
+      14.96
+    ],
+    [
+      15.345,
+      17.35
+    ],
+    [
+      17.665000000000003,
+      18.11
+    ],
+    [
+      18.115000000000002,
+      18.85
+    ],
+    [
+      18.845000000000002,
+      19.89
+    ],
+    [
+      20.275000000000002,
+      21.0
+    ],
+    [
+      20.985000000000003,
+      21.23
+    ],
+    [
+      21.465000000000003,
+      22.28
+    ],
+    [
+      22.325000000000003,
+      24.03
+    ],
+    [
+      24.015,
+      25.07
+    ],
+    [
+      25.415000000000003,
+      27.12
+    ],
+    [
+      27.525000000000002,
+      28.77
+    ],
+    [
+      28.785000000000004,
+      29.31
+    ],
+    [
+      29.275000000000002,
+      29.88
+    ],
+    [
+      29.865000000000002,
+      30.76
+    ],
+    [
+      31.135,
+      32.52
+    ],
+    [
+      32.785000000000004,
+      34.18000000000001
+    ],
+    [
+      34.525000000000006,
+      36.49
+    ],
+    [
+      36.845,
+      37.400000000000006
+    ],
+    [
+      37.575,
+      38.52
+    ],
+    [
+      38.785000000000004,
+      39.480000000000004
+    ],
+    [
+      39.545,
+      40.67
+    ],
+    [
+      40.645,
+      40.910000000000004
+    ],
+    [
+      40.875,
+      41.38
+    ],
+    [
+      42.125,
+      43.71
+    ],
+    [
+      43.705000000000005,
+      44.160000000000004
+    ],
+    [
+      44.135000000000005,
+      44.510000000000005
+    ],
+    [
+      44.855000000000004,
+      45.24
+    ],
+    [
+      45.205000000000005,
+      45.790000000000006
+    ],
+    [
+      45.975,
+      46.690000000000005
+    ],
+    [
+      46.655,
+      47.57000000000001
+    ],
+    [
+      47.545,
+      48.980000000000004
+    ],
+    [
+      49.295,
+      51.39000000000001
+    ],
+    [
+      51.785000000000004,
+      53.06
+    ],
+    [
+      53.025000000000006,
+      53.36000000000001
+    ],
+    [
+      53.715,
+      57.52
+    ],
+    [
+      57.905,
+      58.7
+    ],
+    [
+      58.715,
+      58.93000000000001
+    ],
+    [
+      58.895,
+      59.78
+    ],
+    [
+      59.885000000000005,
+      60.620000000000005
+    ],
+    [
+      60.975,
+      62.42
+    ],
+    [
+      62.385000000000005,
+      62.92
+    ],
+    [
+      63.145,
+      63.75000000000001
+    ],
+    [
+      63.725,
+      64.16000000000001
+    ],
+    [
+      64.55499999999999,
+      65.49000000000001
+    ],
+    [
+      65.455,
+      66.5
+    ],
+    [
+      66.85499999999999,
+      67.87
+    ],
+    [
+      67.875,
+      68.58
+    ],
+    [
+      68.925,
+      70.57000000000001
+    ],
+    [
+      70.565,
+      71.10000000000001
+    ],
+    [
+      71.095,
+      72.10000000000001
+    ],
+    [
+      72.475,
+      72.91000000000001
+    ],
+    [
+      72.895,
+      74.61
+    ],
+    [
+      74.975,
+      75.85000000000001
+    ],
+    [
+      76.005,
+      76.69000000000001
+    ],
+    [
+      76.66499999999999,
+      77.80000000000001
+    ],
+    [
+      78.10499999999999,
+      79.68
+    ],
+    [
+      79.835,
+      81.13000000000001
+    ],
+    [
+      81.475,
+      83.21000000000001
+    ],
+    [
+      83.185,
+      83.84
+    ],
+    [
+      84.075,
+      85.36
+    ],
+    [
+      85.685,
+      87.99000000000001
+    ],
+    [
+      88.045,
+      89.12
+    ],
+    [
+      89.455,
+      90.18
+    ],
+    [
+      90.395,
+      92.06
+    ],
+    [
+      92.765,
+      93.48
+    ],
+    [
+      93.66499999999999,
+      95.17
+    ],
+    [
+      95.545,
+      96.24000000000001
+    ],
+    [
+      96.205,
+      96.56
+    ],
+    [
+      96.74499999999999,
+      99.99000000000001
+    ],
+    [
+      100.375,
+      101.53
+    ],
+    [
+      101.49499999999999,
+      101.78
+    ],
+    [
+      102.075,
+      102.35000000000001
+    ],
+    [
+      102.325,
+      103.5
+    ],
+    [
+      103.845,
+      104.49000000000001
+    ],
+    [
+      104.63499999999999,
+      106.23
+    ],
+    [
+      106.615,
+      108.24000000000001
+    ],
+    [
+      108.235,
+      108.65
+    ],
+    [
+      109.02499999999999,
+      109.93
+    ],
+    [
+      110.235,
+      111.80000000000001
+    ],
+    [
+      111.77499999999999,
+      113.68
+    ],
+    [
+      114.075,
+      114.77000000000001
+    ],
+    [
+      114.85499999999999,
+      115.26
+    ],
+    [
+      115.225,
+      116.7
+    ],
+    [
+      117.10499999999999,
+      118.57000000000001
+    ],
+    [
+      118.765,
+      119.98
+    ],
+    [
+      119.945,
+      120.12
+    ],
+    [
+      120.085,
+      120.26
+    ],
+    [
+      120.225,
+      120.77000000000001
+    ],
+    [
+      121.155,
+      121.61
+    ],
+    [
+      121.575,
+      121.94000000000001
+    ],
+    [
+      122.085,
+      124.95
+    ],
+    [
+      125.065,
+      125.69000000000001
+    ],
+    [
+      126.455,
+      127.85000000000001
+    ],
+    [
+      127.825,
+      128.27
+    ],
+    [
+      128.875,
+      130.81
+    ],
+    [
+      130.815,
+      131.31
+    ],
+    [
+      131.285,
+      132.0
+    ],
+    [
+      132.615,
+      133.58
+    ],
+    [
+      134.095,
+      135.22
+    ],
+    [
+      135.805,
+      137.15
+    ],
+    [
+      137.745,
+      138.28
+    ],
+    [
+      138.525,
+      139.86
+    ],
+    [
+      139.825,
+      141.36
+    ],
+    [
+      141.975,
+      143.57
+    ],
+    [
+      143.545,
+      144.51000000000002
+    ],
+    [
+      145.075,
+      147.38
+    ],
+    [
+      148.105,
+      149.89000000000001
+    ],
+    [
+      150.095,
+      152.81
+    ],
+    [
+      153.165,
+      154.04000000000002
+    ],
+    [
+      154.075,
+      154.43
+    ],
+    [
+      154.395,
+      155.93
+    ],
+    [
+      156.285,
+      158.5
+    ],
+    [
+      158.545,
+      159.62
+    ],
+    [
+      159.615,
+      159.81
+    ],
+    [
+      159.795,
+      160.12
+    ],
+    [
+      160.48499999999999,
+      162.41
+    ],
+    [
+      162.765,
+      163.74
+    ],
+    [
+      163.855,
+      165.11
+    ],
+    [
+      165.48499999999999,
+      166.35
+    ],
+    [
+      166.385,
+      167.23000000000002
+    ],
+    [
+      167.555,
+      168.81
+    ],
+    [
+      168.825,
+      169.48000000000002
+    ],
+    [
+      169.495,
+      170.08
+    ],
+    [
+      170.48499999999999,
+      171.66
+    ],
+    [
+      171.70499999999998,
+      173.38
+    ],
+    [
+      173.825,
+      175.04000000000002
+    ],
+    [
+      175.275,
+      176.27
+    ],
+    [
+      176.245,
+      177.03
+    ],
+    [
+      177.415,
+      178.35
+    ],
+    [
+      178.435,
+      178.95000000000002
+    ],
+    [
+      178.925,
+      179.32
+    ],
+    [
+      179.355,
+      180.4
+    ],
+    [
+      180.73499999999999,
+      181.82
+    ],
+    [
+      181.785,
+      183.16
+    ],
+    [
+      183.505,
+      183.96
+    ],
+    [
+      184.105,
+      184.93
+    ],
+    [
+      184.925,
+      185.24
+    ],
+    [
+      185.245,
+      185.66
+    ],
+    [
+      186.045,
+      186.86
+    ],
+    [
+      186.865,
+      187.31
+    ],
+    [
+      187.555,
+      188.69
+    ],
+    [
+      188.915,
+      189.43
+    ],
+    [
+      189.495,
+      190.66
+    ],
+    [
+      190.655,
+      191.04000000000002
+    ],
+    [
+      191.005,
+      191.26000000000002
+    ],
+    [
+      191.23499999999999,
+      191.49
+    ],
+    [
+      191.905,
+      192.8
+    ],
+    [
+      192.775,
+      194.43
+    ],
+    [
+      194.825,
+      196.96
+    ],
+    [
+      197.315,
+      199.25
+    ],
+    [
+      199.615,
+      202.11
+    ],
+    [
+      202.915,
+      204.5
+    ],
+    [
+      204.48499999999999,
+      204.71
+    ],
+    [
+      204.73499999999999,
+      205.4
+    ],
+    [
+      205.825,
+      206.35
+    ],
+    [
+      206.505,
+      207.14000000000001
+    ],
+    [
+      207.115,
+      207.61
+    ],
+    [
+      207.695,
+      208.0
+    ],
+    [
+      207.98499999999999,
+      208.67000000000002
+    ],
+    [
+      208.815,
+      210.45000000000002
+    ],
+    [
+      210.785,
+      211.26000000000002
+    ],
+    [
+      211.48499999999999,
+      213.72
+    ],
+    [
+      213.725,
+      215.1
+    ],
+    [
+      215.405,
+      215.89000000000001
+    ],
+    [
+      215.975,
+      217.6
+    ],
+    [
+      217.98499999999999,
+      218.43
+    ],
+    [
+      218.625,
+      221.12
+    ],
+    [
+      221.525,
+      222.01000000000002
+    ],
+    [
+      222.215,
+      223.85
+    ],
+    [
+      223.815,
+      224.12
+    ],
+    [
+      224.085,
+      224.64000000000001
+    ],
+    [
+      225.075,
+      227.54000000000002
+    ],
+    [
+      227.815,
+      229.12
+    ],
+    [
+      229.48499999999999,
+      231.20000000000002
+    ],
+    [
+      231.325,
+      232.92000000000002
+    ],
+    [
+      232.885,
+      233.72
+    ],
+    [
+      234.105,
+      234.71
+    ],
+    [
+      234.825,
+      236.04000000000002
+    ],
+    [
+      236.395,
+      237.85
+    ],
+    [
+      238.095,
+      240.05
+    ],
+    [
+      240.075,
+      240.29000000000002
+    ],
+    [
+      240.265,
+      240.47
+    ],
+    [
+      240.435,
+      240.62
+    ],
+    [
+      240.585,
+      241.01000000000002
+    ],
+    [
+      241.23499999999999,
+      242.34
+    ],
+    [
+      242.725,
+      243.67000000000002
+    ],
+    [
+      243.825,
+      244.48000000000002
+    ],
+    [
+      244.455,
+      245.36
+    ],
+    [
+      246.115,
+      250.17000000000002
+    ],
+    [
+      250.575,
+      252.61
+    ],
+    [
+      252.915,
+      253.67000000000002
+    ],
+    [
+      253.645,
+      254.0
+    ],
+    [
+      253.975,
+      254.55
+    ],
+    [
+      254.675,
+      255.46
+    ],
+    [
+      255.845,
+      258.21
+    ],
+    [
+      258.57500000000005,
+      259.47999999999996
+    ],
+    [
+      259.44500000000005,
+      260.56
+    ],
+    [
+      260.52500000000003,
+      260.95
+    ],
+    [
+      261.295,
+      262.96
+    ],
+    [
+      263.13500000000005,
+      265.40999999999997
+    ],
+    [
+      265.75500000000005,
+      267.81
+    ],
+    [
+      267.77500000000003,
+      268.10999999999996
+    ],
+    [
+      268.225,
+      268.77
+    ],
+    [
+      269.14500000000004,
+      269.95
+    ],
+    [
+      269.995,
+      271.10999999999996
+    ],
+    [
+      271.095,
+      271.68
+    ],
+    [
+      272.06500000000005,
+      273.40999999999997
+    ],
+    [
+      273.435,
+      273.71
+    ],
+    [
+      274.14500000000004,
+      276.47999999999996
+    ],
+    [
+      276.87500000000006,
+      278.97999999999996
+    ],
+    [
+      279.035,
+      279.87
+    ],
+    [
+      279.88500000000005,
+      280.84
+    ],
+    [
+      280.82500000000005,
+      281.12
+    ],
+    [
+      281.555,
+      283.26
+    ],
+    [
+      283.40500000000003,
+      284.54999999999995
+    ],
+    [
+      284.535,
+      286.26
+    ],
+    [
+      286.64500000000004,
+      288.2
+    ],
+    [
+      288.225,
+      288.78
+    ],
+    [
+      289.095,
+      290.56
+    ],
+    [
+      290.89500000000004,
+      292.87
+    ],
+    [
+      292.845,
+      293.56
+    ],
+    [
+      293.71500000000003,
+      293.94
+    ],
+    [
+      293.94500000000005,
+      295.16999999999996
+    ],
+    [
+      295.555,
+      296.51
+    ],
+    [
+      296.615,
+      297.7
+    ],
+    [
+      297.725,
+      299.04999999999995
+    ],
+    [
+      299.02500000000003,
+      299.39
+    ],
+    [
+      299.805,
+      300.59
+    ],
+    [
+      300.83500000000004,
+      302.57
+    ],
+    [
+      302.595,
+      303.87
+    ],
+    [
+      304.235,
+      304.99
+    ],
+    [
+      305.32500000000005,
+      305.62
+    ],
+    [
+      305.63500000000005,
+      306.26
+    ],
+    [
+      306.64500000000004,
+      308.99
+    ],
+    [
+      309.76500000000004,
+      310.24
+    ],
+    [
+      310.555,
+      311.54999999999995
+    ],
+    [
+      311.555,
+      311.83
+    ],
+    [
+      311.845,
+      312.78999999999996
+    ],
+    [
+      313.02500000000003,
+      315.44
+    ],
+    [
+      315.95500000000004,
+      318.12
+    ],
+    [
+      318.13500000000005,
+      319.31
+    ],
+    [
+      319.285,
+      320.09
+    ],
+    [
+      320.105,
+      320.28999999999996
+    ],
+    [
+      320.355,
+      320.59999999999997
+    ],
+    [
+      320.595,
+      321.34
+    ],
+    [
+      321.925,
+      323.9
+    ],
+    [
+      323.935,
+      324.15999999999997
+    ],
+    [
+      324.38500000000005,
+      325.22999999999996
+    ],
+    [
+      325.795,
+      327.08
+    ],
+    [
+      327.25500000000005,
+      327.65999999999997
+    ],
+    [
+      327.63500000000005,
+      327.85999999999996
+    ],
+    [
+      327.855,
+      328.29999999999995
+    ],
+    [
+      328.285,
+      328.7
+    ],
+    [
+      328.685,
+      329.12
+    ],
+    [
+      329.37500000000006,
+      331.7
+    ],
+    [
+      332.225,
+      332.93
+    ],
+    [
+      332.90500000000003,
+      333.18
+    ],
+    [
+      333.14500000000004,
+      334.29999999999995
+    ],
+    [
+      334.425,
+      335.53
+    ],
+    [
+      336.08500000000004,
+      337.66999999999996
+    ],
+    [
+      338.295,
+      339.21999999999997
+    ],
+    [
+      339.785,
+      340.77
+    ],
+    [
+      341.285,
+      342.44
+    ],
+    [
+      343.055,
+      344.72999999999996
+    ],
+    [
+      344.70500000000004,
+      345.53
+    ],
+    [
+      346.095,
+      347.25
+    ],
+    [
+      347.44500000000005,
+      348.49
+    ],
+    [
+      349.07500000000005,
+      350.12
+    ],
+    [
+      350.08500000000004,
+      350.66999999999996
+    ],
+    [
+      350.70500000000004,
+      350.96999999999997
+    ],
+    [
+      351.07500000000005,
+      351.84
+    ],
+    [
+      351.855,
+      352.21999999999997
+    ],
+    [
+      352.185,
+      353.07
+    ],
+    [
+      353.615,
+      354.71
+    ],
+    [
+      354.69500000000005,
+      355.71999999999997
+    ],
+    [
+      356.02500000000003,
+      356.7
+    ],
+    [
+      356.71500000000003,
+      357.32
+    ],
+    [
+      357.285,
+      358.09
+    ],
+    [
+      358.65500000000003,
+      359.9
+    ],
+    [
+      359.87500000000006,
+      360.27
+    ],
+    [
+      360.855,
+      362.03
+    ],
+    [
+      362.58500000000004,
+      363.5
+    ],
+    [
+      363.595,
+      365.24
+    ],
+    [
+      365.225,
+      365.91999999999996
+    ],
+    [
+      365.89500000000004,
+      366.37
+    ],
+    [
+      366.90500000000003,
+      368.65999999999997
+    ],
+    [
+      369.245,
+      370.40999999999997
+    ],
+    [
+      370.46500000000003,
+      371.21
+    ],
+    [
+      371.20500000000004,
+      371.9
+    ],
+    [
+      372.01500000000004,
+      372.96999999999997
+    ],
+    [
+      373.58500000000004,
+      374.88
+    ],
+    [
+      374.915,
+      375.82
+    ],
+    [
+      376.37500000000006,
+      378.27
+    ],
+    [
+      378.415,
+      380.09
+    ],
+    [
+      380.89500000000004,
+      381.71
+    ],
+    [
+      381.83500000000004,
+      383.39
+    ],
+    [
+      383.40500000000003,
+      384.09
+    ],
+    [
+      384.46500000000003,
+      385.06
+    ],
+    [
+      385.27500000000003,
+      386.88
+    ],
+    [
+      387.175,
+      388.37
+    ],
+    [
+      388.76500000000004,
+      391.02
+    ],
+    [
+      390.985,
+      391.34999999999997
+    ],
+    [
+      391.745,
+      392.46999999999997
+    ],
+    [
+      392.44500000000005,
+      393.45
+    ],
+    [
+      393.44500000000005,
+      393.71999999999997
+    ],
+    [
+      394.095,
+      395.40999999999997
+    ],
+    [
+      395.545,
+      397.34
+    ],
+    [
+      397.70500000000004,
+      399.56
+    ],
+    [
+      399.52500000000003,
+      400.52
+    ],
+    [
+      400.865,
+      403.5
+    ],
+    [
+      403.845,
+      404.22999999999996
+    ],
+    [
+      404.20500000000004,
+      405.07
+    ],
+    [
+      405.045,
+      405.68
+    ],
+    [
+      406.01500000000004,
+      406.68
+    ],
+    [
+      406.915,
+      407.35999999999996
+    ],
+    [
+      407.32500000000005,
+      408.68
+    ],
+    [
+      409.035,
+      411.16999999999996
+    ],
+    [
+      411.39500000000004,
+      412.13
+    ],
+    [
+      412.175,
+      413.2
+    ],
+    [
+      413.45500000000004,
+      414.59999999999997
+    ],
+    [
+      414.56500000000005,
+      414.81
+    ],
+    [
+      415.19500000000005,
+      416.40999999999997
+    ],
+    [
+      416.52500000000003,
+      417.37
+    ],
+    [
+      418.105,
+      418.71
+    ],
+    [
+      418.985,
+      421.21999999999997
+    ],
+    [
+      421.795,
+      423.34999999999997
+    ],
+    [
+      423.535,
+      424.56
+    ],
+    [
+      424.785,
+      426.46999999999997
+    ],
+    [
+      426.44500000000005,
+      426.94
+    ],
+    [
+      426.94500000000005,
+      427.58
+    ],
+    [
+      428.13500000000005,
+      428.88
+    ],
+    [
+      429.095,
+      429.93
+    ],
+    [
+      430.165,
+      430.64
+    ],
+    [
+      430.62500000000006,
+      432.89
+    ],
+    [
+      432.89500000000004,
+      433.46
+    ],
+    [
+      433.995,
+      435.64
+    ],
+    [
+      436.235,
+      437.10999999999996
+    ],
+    [
+      437.75500000000005,
+      438.65999999999997
+    ],
+    [
+      439.26500000000004,
+      440.93
+    ],
+    [
+      440.90500000000003,
+      441.38
+    ],
+    [
+      441.82500000000005,
+      443.68
+    ],
+    [
+      443.925,
+      444.53999999999996
+    ],
+    [
+      444.51500000000004,
+      445.34999999999997
+    ],
+    [
+      445.31500000000005,
+      446.46999999999997
+    ],
+    [
+      447.055,
+      448.38
+    ],
+    [
+      448.52500000000003,
+      450.41999999999996
+    ],
+    [
+      450.985,
+      451.77
+    ],
+    [
+      451.77500000000003,
+      452.55
+    ],
+    [
+      452.57500000000005,
+      453.69
+    ],
+    [
+      454.20500000000004,
+      455.44
+    ],
+    [
+      455.40500000000003,
+      455.68
+    ],
+    [
+      455.65500000000003,
+      456.53999999999996
+    ],
+    [
+      457.18500000000006,
+      459.06
+    ],
+    [
+      459.035,
+      459.74
+    ],
+    [
+      460.39500000000004,
+      462.60999999999996
+    ],
+    [
+      462.58500000000004,
+      462.96
+    ],
+    [
+      463.545,
+      464.53999999999996
+    ],
+    [
+      464.51500000000004,
+      465.51
+    ],
+    [
+      465.51500000000004,
+      466.88
+    ],
+    [
+      467.20500000000004,
+      467.84999999999997
+    ],
+    [
+      467.82500000000005,
+      468.59999999999997
+    ]
+  ],
+  "input_rights": {
+    "music": {
+      "source": "Original offline synthesis in integrations/skill-copy-24h/sound.py, deterministic seed245",
+      "license": "OWN",
+      "sha256": "e87e8a8880b160b1c5957831ff1d376e4a71a1352bcf63f0895d9807d8d24fbf"
+    },
+    "ambience": {
+      "source": "Original offline synthesis in integrations/skill-copy-24h/sound.py, deterministic seed245",
+      "license": "OWN",
+      "sha256": "a8ebb2d00a6a6caf9e9eedd4db4d582388eaa9a8189022474c599ec5bec42f03"
+    },
+    "voiceover": {
+      "source": "VieNeu-TTS v3 Turbo localCPU, Minh Quân alias Hải Đăng; immutable new film narration",
+      "license": "OWN",
+      "sha256": "353fb665d5f809907e612538e99bac75e3e650f4608edd2f8c89902edd2b5172"
+    }
+  },
+  "events": [
+    {
+      "scene_id": "13",
+      "event_id": "skill-contact-13",
+      "frame": 1108,
+      "action": "Handshake contact transfers one temporary skill; visible particle pulse",
+      "query": "gentle soft magic shimmer reveal",
+      "gain_db": -15.0,
+      "context": "Quiet motivated fantasy accent beneath Vietnamese narration",
+      "sound_id": "shimmer-long-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/shimmers/shimmer-long-soft.wav",
+      "asset_relative": "sounds/shimmers/shimmer-long-soft.wav",
+      "sha256": "f0c56b1acc05f60d7b4e2e417e8295250b09a94e8cd3df3fff71c7c9daa372e8",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/shimmers/shimmer-long-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 46.166666666666664,
+      "sync_frame": 1108,
+      "start": 46.156666666666666,
+      "start_sample": 2215520,
+      "untrimmed_start": 46.156666666666666,
+      "trim_start_seconds": 0.0,
+      "end": 48.07966666666667,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_meets": "instant",
+      "sync_how": "Sync point near the start: put it on the frame the highlight or reveal appears; the shimmer trails after.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 24,
+      "selection_evidence": {
+        "use_for": [
+          "Gentle highlights: a feature, a benefit, a tick",
+          "Elements lighting up or being highlighted",
+          "A slow, lingering reveal"
+        ],
+        "avoid_for": [
+          "Negative or serious moments",
+          "Fast edits"
+        ],
+        "tags": [
+          "shimmer",
+          "sparkle",
+          "glint",
+          "reveal",
+          "magic",
+          "soft",
+          "long",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the glints. For a shorter shimmer, fade the end; for longer, use the next length."
+        }
+      },
+      "reason": "Handshake contact transfers one temporary skill; visible particle pulse; metadata matches: Gentle highlights: a feature, a benefit, a tick, Elements lighting up or being highlighted. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "22",
+      "event_id": "skill-contact-22",
+      "frame": 1771,
+      "action": "Handshake contact transfers one temporary skill; visible particle pulse",
+      "query": "gentle soft magic shimmer reveal",
+      "gain_db": -15.0,
+      "context": "Quiet motivated fantasy accent beneath Vietnamese narration",
+      "sound_id": "shimmer-long-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/shimmers/shimmer-long-soft.wav",
+      "asset_relative": "sounds/shimmers/shimmer-long-soft.wav",
+      "sha256": "f0c56b1acc05f60d7b4e2e417e8295250b09a94e8cd3df3fff71c7c9daa372e8",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/shimmers/shimmer-long-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 73.79166666666667,
+      "sync_frame": 1771,
+      "start": 73.78166666666667,
+      "start_sample": 3541520,
+      "untrimmed_start": 73.78166666666667,
+      "trim_start_seconds": 0.0,
+      "end": 75.70466666666667,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_meets": "instant",
+      "sync_how": "Sync point near the start: put it on the frame the highlight or reveal appears; the shimmer trails after.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 21,
+      "selection_evidence": {
+        "use_for": [
+          "Gentle highlights: a feature, a benefit, a tick",
+          "Elements lighting up or being highlighted",
+          "A slow, lingering reveal"
+        ],
+        "avoid_for": [
+          "Negative or serious moments",
+          "Fast edits"
+        ],
+        "tags": [
+          "shimmer",
+          "sparkle",
+          "glint",
+          "reveal",
+          "magic",
+          "soft",
+          "long",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the glints. For a shorter shimmer, fade the end; for longer, use the next length."
+        }
+      },
+      "reason": "Handshake contact transfers one temporary skill; visible particle pulse; metadata matches: Gentle highlights: a feature, a benefit, a tick, Elements lighting up or being highlighted. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "28",
+      "event_id": "skill-contact-28",
+      "frame": 2258,
+      "action": "Handshake contact transfers one temporary skill; visible particle pulse",
+      "query": "gentle soft magic shimmer reveal",
+      "gain_db": -15.0,
+      "context": "Quiet motivated fantasy accent beneath Vietnamese narration",
+      "sound_id": "shimmer-medium-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/shimmers/shimmer-medium-soft.wav",
+      "asset_relative": "sounds/shimmers/shimmer-medium-soft.wav",
+      "sha256": "b6ca9eff8d1804b4b61d1bac5559c986549a0917d27a70a9d0e8831f43f20a45",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/shimmers/shimmer-medium-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 94.08333333333333,
+      "sync_frame": 2258,
+      "start": 94.07233333333333,
+      "start_sample": 4515472,
+      "untrimmed_start": 94.07233333333333,
+      "trim_start_seconds": 0.0,
+      "end": 95.20233333333333,
+      "rate": 1.0,
+      "sync_at": 0.011,
+      "effective_sync_at": 0.011,
+      "sync_meets": "instant",
+      "sync_how": "Sync point near the start: put it on the frame the highlight or reveal appears; the shimmer trails after.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 20,
+      "selection_evidence": {
+        "use_for": [
+          "Gentle highlights: a feature, a benefit, a tick",
+          "Elements lighting up or being highlighted",
+          "A quick highlight"
+        ],
+        "avoid_for": [
+          "Negative or serious moments"
+        ],
+        "tags": [
+          "shimmer",
+          "sparkle",
+          "glint",
+          "reveal",
+          "magic",
+          "soft",
+          "medium",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the glints. For a shorter shimmer, fade the end; for longer, use the next length."
+        }
+      },
+      "reason": "Handshake contact transfers one temporary skill; visible particle pulse; metadata matches: Gentle highlights: a feature, a benefit, a tick, Elements lighting up or being highlighted. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "31",
+      "event_id": "skill-contact-31",
+      "frame": 2523,
+      "action": "Handshake contact transfers one temporary skill; visible particle pulse",
+      "query": "gentle soft magic shimmer reveal",
+      "gain_db": -15.0,
+      "context": "Quiet motivated fantasy accent beneath Vietnamese narration",
+      "sound_id": "shimmer-short-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/shimmers/shimmer-short-soft.wav",
+      "asset_relative": "sounds/shimmers/shimmer-short-soft.wav",
+      "sha256": "c0cdc8cc61e6b1dd0b16732161ff3967ad6242e2f673957bef88a49805c6286e",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/shimmers/shimmer-short-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 105.125,
+      "sync_frame": 2523,
+      "start": 105.113,
+      "start_sample": 5045424,
+      "untrimmed_start": 105.113,
+      "trim_start_seconds": 0.0,
+      "end": 105.591,
+      "rate": 1.0,
+      "sync_at": 0.012,
+      "effective_sync_at": 0.012,
+      "sync_meets": "instant",
+      "sync_how": "Sync point near the start: put it on the frame the highlight or reveal appears; the shimmer trails after.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 20,
+      "selection_evidence": {
+        "use_for": [
+          "Gentle highlights: a feature, a benefit, a tick",
+          "Elements lighting up or being highlighted",
+          "A quick highlight"
+        ],
+        "avoid_for": [
+          "Negative or serious moments"
+        ],
+        "tags": [
+          "shimmer",
+          "sparkle",
+          "glint",
+          "reveal",
+          "magic",
+          "soft",
+          "short",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the glints. For a shorter shimmer, fade the end; for longer, use the next length."
+        }
+      },
+      "reason": "Handshake contact transfers one temporary skill; visible particle pulse; metadata matches: Gentle highlights: a feature, a benefit, a tick, Elements lighting up or being highlighted. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "37",
+      "event_id": "incoming-call-37",
+      "frame": 3044,
+      "action": "Visible phone screen lights up for incoming call",
+      "query": "phone notification message soft",
+      "gain_db": -16.0,
+      "context": "Visible incoming call; brief notification under speech",
+      "exclude": "vibration buzz table loud",
+      "sound_id": "notification-message-in-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/notifications/notification-message-in-soft.wav",
+      "asset_relative": "sounds/notifications/notification-message-in-soft.wav",
+      "sha256": "1ded331dcb7a44c658f4f56692ec33eea5820f1c4d0442574e7cd6aea50ed460",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/notifications/notification-message-in-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 126.83333333333333,
+      "sync_frame": 3044,
+      "start": 126.78733333333334,
+      "start_sample": 6085792,
+      "untrimmed_start": 126.78733333333334,
+      "trim_start_seconds": 0.0,
+      "end": 127.21033333333334,
+      "rate": 1.0,
+      "sync_at": 0.046,
+      "effective_sync_at": 0.046,
+      "sync_meets": "instant",
+      "sync_how": "Sync point on the frame the notification, tick or message appears.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 18,
+      "selection_evidence": {
+        "use_for": [
+          "A message or email arriving",
+          "A chat bubble appearing",
+          "A new notification on a phone"
+        ],
+        "avoid_for": [
+          "Sending (use message out)",
+          "Moments that must cut through loud music (use clear)"
+        ],
+        "tags": [
+          "notification",
+          "message in",
+          "soft",
+          "ui",
+          "tone",
+          "marimba",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the notes."
+        }
+      },
+      "reason": "Visible phone screen lights up for incoming call; metadata matches: A message or email arriving, A chat bubble appearing. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "46",
+      "event_id": "skill-contact-46",
+      "frame": 3707,
+      "action": "Handshake contact transfers one temporary skill; visible particle pulse",
+      "query": "gentle soft magic shimmer reveal",
+      "gain_db": -15.0,
+      "context": "Quiet motivated fantasy accent beneath Vietnamese narration",
+      "sound_id": "shimmer-long-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/shimmers/shimmer-long-soft.wav",
+      "asset_relative": "sounds/shimmers/shimmer-long-soft.wav",
+      "sha256": "f0c56b1acc05f60d7b4e2e417e8295250b09a94e8cd3df3fff71c7c9daa372e8",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/shimmers/shimmer-long-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 154.45833333333334,
+      "sync_frame": 3707,
+      "start": 154.44833333333332,
+      "start_sample": 7413520,
+      "untrimmed_start": 154.44833333333332,
+      "trim_start_seconds": 0.0,
+      "end": 156.37133333333333,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_meets": "instant",
+      "sync_how": "Sync point near the start: put it on the frame the highlight or reveal appears; the shimmer trails after.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 18,
+      "selection_evidence": {
+        "use_for": [
+          "Gentle highlights: a feature, a benefit, a tick",
+          "Elements lighting up or being highlighted",
+          "A slow, lingering reveal"
+        ],
+        "avoid_for": [
+          "Negative or serious moments",
+          "Fast edits"
+        ],
+        "tags": [
+          "shimmer",
+          "sparkle",
+          "glint",
+          "reveal",
+          "magic",
+          "soft",
+          "long",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the glints. For a shorter shimmer, fade the end; for longer, use the next length."
+        }
+      },
+      "reason": "Handshake contact transfers one temporary skill; visible particle pulse; metadata matches: Gentle highlights: a feature, a benefit, a tick, Elements lighting up or being highlighted. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "52",
+      "event_id": "skill-contact-52",
+      "frame": 4123,
+      "action": "Handshake contact transfers one temporary skill; visible particle pulse",
+      "query": "gentle soft magic shimmer reveal",
+      "gain_db": -15.0,
+      "context": "Quiet motivated fantasy accent beneath Vietnamese narration",
+      "sound_id": "shimmer-long-sparkle",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/shimmers/shimmer-long-sparkle.wav",
+      "asset_relative": "sounds/shimmers/shimmer-long-sparkle.wav",
+      "sha256": "30218af6dabf4f68e2f5f960cf628b7df4d15a7d65cc266835d8fdb30f0b82f6",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/shimmers/shimmer-long-sparkle.wav",
+      "license": "CC0-1.0",
+      "event_time": 171.79166666666666,
+      "sync_frame": 4123,
+      "start": 171.78166666666667,
+      "start_sample": 8245520,
+      "untrimmed_start": 171.78166666666667,
+      "trim_start_seconds": 0.0,
+      "end": 173.63566666666668,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_meets": "instant",
+      "sync_how": "Sync point near the start: put it on the frame the highlight or reveal appears; the shimmer trails after.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 18,
+      "selection_evidence": {
+        "use_for": [
+          "Magic moments: something new, delightful or premium",
+          "Elements lighting up or being highlighted",
+          "A slow, lingering reveal"
+        ],
+        "avoid_for": [
+          "Negative or serious moments",
+          "Fast edits"
+        ],
+        "tags": [
+          "shimmer",
+          "sparkle",
+          "glint",
+          "reveal",
+          "magic",
+          "long",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the glints. For a shorter shimmer, fade the end; for longer, use the next length."
+        }
+      },
+      "reason": "Handshake contact transfers one temporary skill; visible particle pulse; metadata matches: Magic moments: something new, delightful or premium, Elements lighting up or being highlighted. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "67",
+      "event_id": "skill-contact-67",
+      "frame": 5348,
+      "action": "Handshake contact transfers one temporary skill; visible particle pulse",
+      "query": "gentle soft magic shimmer reveal",
+      "gain_db": -15.0,
+      "context": "Quiet motivated fantasy accent beneath Vietnamese narration",
+      "sound_id": "shimmer-medium-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/shimmers/shimmer-medium-soft.wav",
+      "asset_relative": "sounds/shimmers/shimmer-medium-soft.wav",
+      "sha256": "b6ca9eff8d1804b4b61d1bac5559c986549a0917d27a70a9d0e8831f43f20a45",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/shimmers/shimmer-medium-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 222.83333333333334,
+      "sync_frame": 5348,
+      "start": 222.82233333333335,
+      "start_sample": 10695472,
+      "untrimmed_start": 222.82233333333335,
+      "trim_start_seconds": 0.0,
+      "end": 223.95233333333334,
+      "rate": 1.0,
+      "sync_at": 0.011,
+      "effective_sync_at": 0.011,
+      "sync_meets": "instant",
+      "sync_how": "Sync point near the start: put it on the frame the highlight or reveal appears; the shimmer trails after.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 17,
+      "selection_evidence": {
+        "use_for": [
+          "Gentle highlights: a feature, a benefit, a tick",
+          "Elements lighting up or being highlighted",
+          "A quick highlight"
+        ],
+        "avoid_for": [
+          "Negative or serious moments"
+        ],
+        "tags": [
+          "shimmer",
+          "sparkle",
+          "glint",
+          "reveal",
+          "magic",
+          "soft",
+          "medium",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the glints. For a shorter shimmer, fade the end; for longer, use the next length."
+        }
+      },
+      "reason": "Handshake contact transfers one temporary skill; visible particle pulse; metadata matches: Gentle highlights: a feature, a benefit, a tick, Elements lighting up or being highlighted. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "80",
+      "event_id": "incoming-call-80",
+      "frame": 6469,
+      "action": "Visible phone screen lights up for incoming call",
+      "query": "phone notification message soft",
+      "gain_db": -16.0,
+      "context": "Visible incoming call; brief notification under speech",
+      "exclude": "vibration buzz table loud",
+      "sound_id": "notification-message-in-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/notifications/notification-message-in-soft.wav",
+      "asset_relative": "sounds/notifications/notification-message-in-soft.wav",
+      "sha256": "1ded331dcb7a44c658f4f56692ec33eea5820f1c4d0442574e7cd6aea50ed460",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/notifications/notification-message-in-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 269.5416666666667,
+      "sync_frame": 6469,
+      "start": 269.4956666666667,
+      "start_sample": 12935792,
+      "untrimmed_start": 269.4956666666667,
+      "trim_start_seconds": 0.0,
+      "end": 269.9186666666667,
+      "rate": 1.0,
+      "sync_at": 0.046,
+      "effective_sync_at": 0.046,
+      "sync_meets": "instant",
+      "sync_how": "Sync point on the frame the notification, tick or message appears.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 15,
+      "selection_evidence": {
+        "use_for": [
+          "A message or email arriving",
+          "A chat bubble appearing",
+          "A new notification on a phone"
+        ],
+        "avoid_for": [
+          "Sending (use message out)",
+          "Moments that must cut through loud music (use clear)"
+        ],
+        "tags": [
+          "notification",
+          "message in",
+          "soft",
+          "ui",
+          "tone",
+          "marimba",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the notes."
+        }
+      },
+      "reason": "Visible phone screen lights up for incoming call; metadata matches: A message or email arriving, A chat bubble appearing. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "94",
+      "event_id": "skill-contact-94",
+      "frame": 7758,
+      "action": "Handshake contact transfers one temporary skill; visible particle pulse",
+      "query": "gentle soft magic shimmer reveal",
+      "gain_db": -15.0,
+      "context": "Quiet motivated fantasy accent beneath Vietnamese narration",
+      "sound_id": "shimmer-short-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/shimmers/shimmer-short-soft.wav",
+      "asset_relative": "sounds/shimmers/shimmer-short-soft.wav",
+      "sha256": "c0cdc8cc61e6b1dd0b16732161ff3967ad6242e2f673957bef88a49805c6286e",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/shimmers/shimmer-short-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 323.25,
+      "sync_frame": 7758,
+      "start": 323.238,
+      "start_sample": 15515424,
+      "untrimmed_start": 323.238,
+      "trim_start_seconds": 0.0,
+      "end": 323.716,
+      "rate": 1.0,
+      "sync_at": 0.012,
+      "effective_sync_at": 0.012,
+      "sync_meets": "instant",
+      "sync_how": "Sync point near the start: put it on the frame the highlight or reveal appears; the shimmer trails after.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 17,
+      "selection_evidence": {
+        "use_for": [
+          "Gentle highlights: a feature, a benefit, a tick",
+          "Elements lighting up or being highlighted",
+          "A quick highlight"
+        ],
+        "avoid_for": [
+          "Negative or serious moments"
+        ],
+        "tags": [
+          "shimmer",
+          "sparkle",
+          "glint",
+          "reveal",
+          "magic",
+          "soft",
+          "short",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the glints. For a shorter shimmer, fade the end; for longer, use the next length."
+        }
+      },
+      "reason": "Handshake contact transfers one temporary skill; visible particle pulse; metadata matches: Gentle highlights: a feature, a benefit, a tick, Elements lighting up or being highlighted. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "119",
+      "event_id": "skill-contact-119",
+      "frame": 9724,
+      "action": "Handshake contact transfers one temporary skill; visible particle pulse",
+      "query": "gentle soft magic shimmer reveal",
+      "gain_db": -15.0,
+      "context": "Quiet motivated fantasy accent beneath Vietnamese narration",
+      "sound_id": "shimmer-long-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/shimmers/shimmer-long-soft.wav",
+      "asset_relative": "sounds/shimmers/shimmer-long-soft.wav",
+      "sha256": "f0c56b1acc05f60d7b4e2e417e8295250b09a94e8cd3df3fff71c7c9daa372e8",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/shimmers/shimmer-long-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 405.1666666666667,
+      "sync_frame": 9724,
+      "start": 405.1566666666667,
+      "start_sample": 19447520,
+      "untrimmed_start": 405.1566666666667,
+      "trim_start_seconds": 0.0,
+      "end": 407.0796666666667,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_meets": "instant",
+      "sync_how": "Sync point near the start: put it on the frame the highlight or reveal appears; the shimmer trails after.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 15,
+      "selection_evidence": {
+        "use_for": [
+          "Gentle highlights: a feature, a benefit, a tick",
+          "Elements lighting up or being highlighted",
+          "A slow, lingering reveal"
+        ],
+        "avoid_for": [
+          "Negative or serious moments",
+          "Fast edits"
+        ],
+        "tags": [
+          "shimmer",
+          "sparkle",
+          "glint",
+          "reveal",
+          "magic",
+          "soft",
+          "long",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the glints. For a shorter shimmer, fade the end; for longer, use the next length."
+        }
+      },
+      "reason": "Handshake contact transfers one temporary skill; visible particle pulse; metadata matches: Gentle highlights: a feature, a benefit, a tick, Elements lighting up or being highlighted. ",
+      "layer": "sfx"
+    }
+  ],
+  "missing_assets": [],
+  "skipped": [],
+  "notes": [
+    "Context is supplied by authored animation/shot markers, not inferred by audio transcription or image recognition.",
+    "Frame checks certify authored markers and arithmetic; compare visible contact frames during picture review."
+  ]
+}

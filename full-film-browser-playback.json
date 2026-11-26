@@ -1,0 +1,49 @@
+{
+  "passed": true,
+  "samples": [
+    {
+      "label": "opening",
+      "start": 0,
+      "playedSeconds": 12.019803,
+      "time": 12.019803,
+      "duration": 469.166667,
+      "width": 1280,
+      "height": 720,
+      "error": null,
+      "quality": {
+        "totalVideoFrames": 293,
+        "droppedVideoFrames": 0
+      }
+    },
+    {
+      "label": "rescue",
+      "start": 408,
+      "playedSeconds": 8.020571000000018,
+      "time": 416.020571,
+      "duration": 469.166667,
+      "width": 1280,
+      "height": 720,
+      "error": null,
+      "quality": {
+        "totalVideoFrames": 491,
+        "droppedVideoFrames": 0
+      }
+    },
+    {
+      "label": "ending",
+      "start": 460,
+      "playedSeconds": 7.011373999999989,
+      "time": 467.011374,
+      "duration": 469.166667,
+      "width": 1280,
+      "height": 720,
+      "error": null,
+      "quality": {
+        "totalVideoFrames": 665,
+        "droppedVideoFrames": 0
+      }
+    }
+  ],
+  "errors": [],
+  "scope": "Actual encoded MP4 playback and seeking in Chromium; muted technical check, not human listening or full-film real-time review."
+}

@@ -1,0 +1,54 @@
+{
+  "files": [
+    {
+      "name": "Sao_Chep_Ky_Nang_24h_Cinematic_2_5D_720p.mp4",
+      "bytes": 88023564
+    },
+    {
+      "name": "Sao_Chep_Ky_Nang_24h.vi.srt",
+      "bytes": 18184
+    },
+    {
+      "name": "FULL_FILM_REPORT.md",
+      "bytes": 5068
+    },
+    {
+      "name": "full-film-contact-sheet.jpg",
+      "bytes": 420958
+    },
+    {
+      "name": "full-film-verification.json",
+      "bytes": 618
+    },
+    {
+      "name": "full-film-audio-QC.json",
+      "bytes": 1146
+    },
+    {
+      "name": "full-film-browser-playback.json",
+      "bytes": 1119
+    },
+    {
+      "name": "full-film-sfx-sources.json",
+      "bytes": 46549
+    },
+    {
+      "name": "full-film-mix-manifest.json",
+      "bytes": 6650
+    },
+    {
+      "name": "full-film-poses.json",
+      "bytes": 224
+    },
+    {
+      "name": "full-film-probe.json",
+      "bytes": 3952
+    },
+    {
+      "name": "full-film-narration-provenance.json",
+      "bytes": 109680
+    }
+  ],
+  "github_limit_check": "all files below 100 MiB; no files omitted",
+  "weights_in_git": false
+}

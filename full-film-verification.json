@@ -1,0 +1,16 @@
+{
+  "file": "/workspace/outputs/skill-copy-24h-20261126/revision-v2/final/Sao_Chep_Ky_Nang_24h_Cinematic_2_5D_720p.mp4",
+  "bytes": 88023564,
+  "sha256": "1a88e598f1376fb923326424b3e56f640936b57edc095b542f7a5b7655adaa1e",
+  "width": 1280,
+  "height": 720,
+  "fps": 24,
+  "frames": 11260,
+  "duration": 469.166667,
+  "full_decode_passed": true,
+  "audio_qc_passed": true,
+  "narration_unchanged": true,
+  "narration_sha256": "353fb665d5f809907e612538e99bac75e3e650f4608edd2f8c89902edd2b5172",
+  "paid_apis": false,
+  "contact_sheet": "/workspace/outputs/skill-copy-24h-20261126/revision-v2/qa/final-contact-sheet.jpg"
+}
