@@ -20,7 +20,7 @@
       "width": 1280,
       "height": 720,
       "fps": "24/1",
-      "duration": 26.791667
+      "duration": 26.791602
     }
   },
   "events": 2,
@@ -31,5 +31,5 @@
   "paid_apis": false,
   "library_license": "CC0-1.0",
   "master_sha256": "d03760f4ae70194caa13a3fb190341996681ee8ac8a6852b1c9c6170e46cef81",
-  "video_sha256": "182482f6f8b12c4c6b9a58156a8a9da6794f9297c5287cc45128adcd1d464210"
+  "video_sha256": "f2b4635149bab7f46cdab4650e3dabe0be18becf16aa2accf042717a10eff093"
 }
