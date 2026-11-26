@@ -1,0 +1,79 @@
+{
+  "files": [
+    {
+      "name": "Sao_Chep_Ky_Nang_24h_Cinematic_V2_1080p30_Download.mp4",
+      "bytes": 92239247
+    },
+    {
+      "name": "Sao_Chep_Ky_Nang_24h_V2.vi.srt",
+      "bytes": 17568
+    },
+    {
+      "name": "V2_PRODUCTION_REPORT.md",
+      "bytes": 9798
+    },
+    {
+      "name": "V2-final-contact-sheet.jpg",
+      "bytes": 557668
+    },
+    {
+      "name": "V2-master-verification.json",
+      "bytes": 425
+    },
+    {
+      "name": "V2-final-mux-binding.json",
+      "bytes": 745
+    },
+    {
+      "name": "V2-download-verification.json",
+      "bytes": 1520
+    },
+    {
+      "name": "V2-audio-QC.json",
+      "bytes": 1130
+    },
+    {
+      "name": "V2-actor-role-repair.json",
+      "bytes": 3259
+    },
+    {
+      "name": "V2-shot-manifest.json",
+      "bytes": 100846
+    },
+    {
+      "name": "V2-sfx-timeline.json",
+      "bytes": 120065
+    },
+    {
+      "name": "V2-mix-manifest.json",
+      "bytes": 17165
+    },
+    {
+      "name": "V2-editorial-changes.json",
+      "bytes": 420
+    },
+    {
+      "name": "V2-preservation.json",
+      "bytes": 173
+    },
+    {
+      "name": "V2-pose-regressions.json",
+      "bytes": 251
+    },
+    {
+      "name": "V2-browser-playback.json",
+      "bytes": 620
+    },
+    {
+      "name": "V2-network-note.json",
+      "bytes": 593
+    }
+  ],
+  "allCommittedFilesUnder100MiB": true,
+  "masterNotCommitted": {
+    "file": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/final/Sao_Chep_Ky_Nang_24h_Cinematic_V2_1080p30.mp4",
+    "bytes": 117294815,
+    "reason": "GitHub100MiB limit; original master retained in Codex workspace; API Releases host denied by current network policy"
+  },
+  "weightsInGit": false
+}

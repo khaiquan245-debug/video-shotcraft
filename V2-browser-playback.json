@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "samples": [
+    {
+      "label": "opening",
+      "start": 0,
+      "time": 8.010951,
+      "error": null,
+      "frames": 245,
+      "dropped": 0
+    },
+    {
+      "label": "rescue",
+      "start": 358,
+      "time": 367.016526,
+      "error": null,
+      "frames": 524,
+      "dropped": 0
+    },
+    {
+      "label": "ending",
+      "start": 409.1,
+      "time": 416.115365,
+      "error": null,
+      "frames": 815,
+      "dropped": 0
+    }
+  ],
+  "errors": [],
+  "scope": "Actual encoded MP4 playback/seek; muted technical test, not human listening or real-time review of the complete film"
+}

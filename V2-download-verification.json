@@ -1,0 +1,54 @@
+{
+  "file": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/final/Sao_Chep_Ky_Nang_24h_Cinematic_V2_1080p30_Download.mp4",
+  "bytes": 92239247,
+  "sha256": "446847bc78f3fae55b820adc38b13f42a17347d26affb1f6c0f33884e0c2f873",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 12543,
+  "duration": 418.1,
+  "compressedForGitHub": true,
+  "masterPreserved": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/final/Sao_Chep_Ky_Nang_24h_Cinematic_V2_1080p30.mp4",
+  "decoded_frames": 12543,
+  "audio_packets_identical_to_checked_master": true,
+  "audio_packet_hash": "SHA256=066325360fd041b06eba5ba49202de6dd972bab4a9e6b808766f002c0e4a6e92",
+  "sampled_luma_ssim": [
+    {
+      "frame": 22,
+      "sourceId": 13,
+      "luma_ssim": 0.9970567226409912
+    },
+    {
+      "frame": 143,
+      "sourceId": 14,
+      "luma_ssim": 0.9976069927215576
+    },
+    {
+      "frame": 1751,
+      "sourceId": 29,
+      "luma_ssim": 0.9982007741928101
+    },
+    {
+      "frame": 3997,
+      "sourceId": 53,
+      "luma_ssim": 0.9980435371398926
+    },
+    {
+      "frame": 6093,
+      "sourceId": 73,
+      "luma_ssim": 0.9987829923629761
+    },
+    {
+      "frame": 10906,
+      "sourceId": 121,
+      "luma_ssim": 0.9946110844612122
+    },
+    {
+      "frame": 12458,
+      "sourceId": 135,
+      "luma_ssim": 0.9980545043945312
+    }
+  ],
+  "network_limitation": "api.github.com is absent from the enforced allowlist; gh api returned Forbidden. Normal Git push and raw downloads work.",
+  "paid_apis": false
+}

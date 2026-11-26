@@ -1,0 +1,10 @@
+{
+  "reviewed_picture": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/final/picture-final.mp4",
+  "video_packet_hash_picture": "SHA256=8c61dba0731dc3c0ec379f7a5e940f42b527379655357a1bb16949c90c2c2f25",
+  "video_packet_hash_final_mp4": "SHA256=8c61dba0731dc3c0ec379f7a5e940f42b527379655357a1bb16949c90c2c2f25",
+  "exact_reviewed_video_packets_preserved": true,
+  "final_audio_input": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/mix-context-v4/audio-master.wav",
+  "final_audio_input_sha256": "7f963ea97f30f3e8ed8f785857893007b9eed0687b3b6145cc9d448ca82e2869",
+  "audio_events": 44,
+  "note": "Fresh mux after archiving an earlier intermediate output; final video packet hash matches the reviewed11-scene repair picture."
+}

@@ -1,0 +1,566 @@
+{
+  "master": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/mix-context-v4/audio-master.wav",
+  "duration": 418.1,
+  "inputs": {
+    "voiceover": {
+      "path": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/audio/film-narration-paced.wav",
+      "sha256": "5af442b3c7153a1ece91c747aca3a86cb18154390069dcabce3d9f6f575cbcf3",
+      "source_frames": 20068800,
+      "copied_frames": 20068800,
+      "rights": {
+        "source": "Existing local VieNeu-TTS v3 Turbo Minh Quân alias Hải Đăng narration; edited into a new working WAV at1.06x",
+        "license": "OWN",
+        "sha256": "5af442b3c7153a1ece91c747aca3a86cb18154390069dcabce3d9f6f575cbcf3"
+      }
+    },
+    "music": {
+      "path": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/audio/film-music.wav",
+      "sha256": "c634bfaa3e838c0d64cd11a238cc4c610fb1a8a8b0d43ced622c510a21ad6743",
+      "source_frames": 20068800,
+      "copied_frames": 20068800,
+      "rights": {
+        "source": "Original offline procedural composition/foley in integrations/skill-copy-24h/cinematic-v2/sound.py; seed2452",
+        "license": "OWN",
+        "sha256": "c634bfaa3e838c0d64cd11a238cc4c610fb1a8a8b0d43ced622c510a21ad6743"
+      }
+    },
+    "ambience": {
+      "path": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/audio/film-foley-context.wav",
+      "sha256": "afb2413e9033243ecb93f32bd3b864b11b7664e6632edaf3f2dc2da52b41d8df",
+      "source_frames": 20068800,
+      "copied_frames": 20068800,
+      "rights": {
+        "source": "Original offline foley plus native applause contacts at0.196+n*pi/4 and second witness offset0.2, seed2453",
+        "license": "OWN",
+        "sha256": "afb2413e9033243ecb93f32bd3b864b11b7664e6632edaf3f2dc2da52b41d8df"
+      }
+    }
+  },
+  "pre_master_gain": 1.0,
+  "loudnorm": {
+    "input_i": "-20.56",
+    "input_tp": "-8.72",
+    "input_lra": "2.30",
+    "input_thresh": "-31.02",
+    "output_i": "-13.97",
+    "output_tp": "-2.00",
+    "output_lra": "2.20",
+    "output_thresh": "-24.43",
+    "normalization_type": "dynamic",
+    "target_offset": "-0.03"
+  },
+  "initial_loudnorm": {
+    "input_i": "-19.91",
+    "input_tp": "-3.60",
+    "input_lra": "2.60",
+    "input_thresh": "-30.39",
+    "output_i": "-14.47",
+    "output_tp": "-2.00",
+    "output_lra": "2.20",
+    "output_thresh": "-24.93",
+    "normalization_type": "dynamic",
+    "target_offset": "0.47"
+  },
+  "peak_limiter": {
+    "ceiling_linear": 0.35850894827655494,
+    "attack_ms": 3,
+    "release_ms": 70,
+    "latency_compensated": true
+  },
+  "additional_voice_duck_db": -4,
+  "event_metrics": [
+    {
+      "event_id": "0-energy-contact",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.020105089992284775,
+      "start": 0.7213333333333334,
+      "end": 1.1993333333333334,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "9-energy-contact",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.020105088129639626,
+      "start": 27.454666666666668,
+      "end": 27.932666666666666,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "13-single-skill-replacement",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -6,
+      "metadata_reference_db": -2,
+      "speech_overlap": true,
+      "rendered_peak": 0.00715236458927393,
+      "start": 38.873666666666665,
+      "end": 39.992666666666665,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "14-skill-expired",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -8,
+      "metadata_reference_db": -4,
+      "speech_overlap": true,
+      "rendered_peak": 0.017495479434728622,
+      "start": 42.733333333333334,
+      "end": 43.61533333333333,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "15-single-skill-replacement",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.01071921456605196,
+      "start": 45.698,
+      "end": 46.5005,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "18-energy-contact",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.027484117075800896,
+      "start": 55.42333333333333,
+      "end": 57.346333333333334,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "20-payment",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -6,
+      "metadata_reference_db": -2,
+      "speech_overlap": true,
+      "rendered_peak": 0.03695303201675415,
+      "start": 64.978,
+      "end": 65.2875,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "21-energy-contact",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.0260134506970644,
+      "start": 66.05566666666667,
+      "end": 67.18516666666666,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "22-keyboard-action",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -5,
+      "metadata_reference_db": -1,
+      "speech_overlap": true,
+      "rendered_peak": 0.015213129110634327,
+      "start": 68.35766666666666,
+      "end": 68.44666666666667,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "24-energy-contact",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.03442194685339928,
+      "start": 75.988,
+      "end": 76.466,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "25-payment",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.015984639525413513,
+      "start": 80.55666666666667,
+      "end": 81.23766666666667,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "27-incoming-message",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.008369782008230686,
+      "start": 87.154,
+      "end": 87.577,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "28-keyboard-action",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -5,
+      "metadata_reference_db": -1,
+      "speech_overlap": true,
+      "rendered_peak": 0.015213129110634327,
+      "start": 89.32433333333333,
+      "end": 89.41333333333333,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "29-keyboard-action",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -5,
+      "metadata_reference_db": -1,
+      "speech_overlap": true,
+      "rendered_peak": 0.013828707858920097,
+      "start": 92.82433333333333,
+      "end": 92.92983333333333,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "30-keyboard-action",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -5,
+      "metadata_reference_db": -1,
+      "speech_overlap": true,
+      "rendered_peak": 0.015373308211565018,
+      "start": 94.191,
+      "end": 94.307,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "31-keyboard-action",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -5,
+      "metadata_reference_db": -1,
+      "speech_overlap": true,
+      "rendered_peak": 0.021633045747876167,
+      "start": 95.76666666666667,
+      "end": 98.84266666666667,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "32-keyboard-action",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -5,
+      "metadata_reference_db": -1,
+      "speech_overlap": true,
+      "rendered_peak": 0.021044643595814705,
+      "start": 97.56666666666666,
+      "end": 99.09866666666667,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "33-keyboard-action",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -5,
+      "metadata_reference_db": -1,
+      "speech_overlap": true,
+      "rendered_peak": 0.013479260727763176,
+      "start": 101.53333333333333,
+      "end": 102.32133333333333,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "34-keyboard-action",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -5,
+      "metadata_reference_db": -1,
+      "speech_overlap": true,
+      "rendered_peak": 0.023700011894106865,
+      "start": 104.42433333333334,
+      "end": 104.50483333333334,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "36-energy-contact",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.02953265979886055,
+      "start": 112.42133333333334,
+      "end": 112.95083333333334,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "42-energy-contact",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.016545642167329788,
+      "start": 129.65666666666667,
+      "end": 131.57966666666667,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "54-keyboard-action",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -5,
+      "metadata_reference_db": -1,
+      "speech_overlap": true,
+      "rendered_peak": 0.015481370501220226,
+      "start": 168.591,
+      "end": 168.674,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "57-energy-contact",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.01837342604994774,
+      "start": 179.589,
+      "end": 180.7185,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "58-paper-touch",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.009527331218123436,
+      "start": 182.96666666666667,
+      "end": 183.50666666666666,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "63-viral-notification",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.006648354232311249,
+      "start": 203.054,
+      "end": 203.477,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "70-incoming-message",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.009256692603230476,
+      "start": 225.70566666666667,
+      "end": 225.98866666666666,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "71-incoming-message",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.008369984105229378,
+      "start": 228.62066666666666,
+      "end": 229.04366666666667,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "72-incoming-message",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.009256692603230476,
+      "start": 230.70566666666667,
+      "end": 230.98866666666666,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "73-incoming-message",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.008369782008230686,
+      "start": 233.454,
+      "end": 233.877,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "75-access-denied",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -8,
+      "metadata_reference_db": -4,
+      "speech_overlap": true,
+      "rendered_peak": 0.007830647751688957,
+      "start": 243.53333333333333,
+      "end": 243.88283333333334,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "76-access-denied",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -8,
+      "metadata_reference_db": -4,
+      "speech_overlap": true,
+      "rendered_peak": 0.0070753819309175014,
+      "start": 247.7,
+      "end": 248.0495,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "78-access-denied",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -8,
+      "metadata_reference_db": -4,
+      "speech_overlap": true,
+      "rendered_peak": 0.01589892990887165,
+      "start": 256.4,
+      "end": 256.7495,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "84-energy-contact",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.021583473309874535,
+      "start": 277.388,
+      "end": 277.866,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "85-energy-contact",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.029532551765441895,
+      "start": 281.02133333333336,
+      "end": 281.55083333333334,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "87-paper-touch",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.009516065008938313,
+      "start": 290.6666666666667,
+      "end": 291.20666666666665,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "92-skill-expired",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -8,
+      "metadata_reference_db": -4,
+      "speech_overlap": true,
+      "rendered_peak": 0.019575754180550575,
+      "start": 301.3666666666667,
+      "end": 302.2486666666667,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "93-skill-expired",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -8,
+      "metadata_reference_db": -4,
+      "speech_overlap": true,
+      "rendered_peak": 0.024135898798704147,
+      "start": 304.3,
+      "end": 305.182,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "94-paper-touch",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.012434671632945538,
+      "start": 307.4,
+      "end": 307.94,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "97-paper-touch",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -6,
+      "metadata_reference_db": -2,
+      "speech_overlap": true,
+      "rendered_peak": 0.014266885817050934,
+      "start": 315.91133333333335,
+      "end": 316.22083333333336,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "99-keyboard-action",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -5,
+      "metadata_reference_db": -1,
+      "speech_overlap": true,
+      "rendered_peak": 0.015259000472724438,
+      "start": 321.991,
+      "end": 322.08,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "99-code-fixed",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.0079411705955863,
+      "start": 323.3,
+      "end": 323.83,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "109-energy-contact",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.01654564030468464,
+      "start": 356.45666666666665,
+      "end": 358.37966666666665,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "111-gate-motor",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -7,
+      "metadata_reference_db": -3,
+      "speech_overlap": true,
+      "rendered_peak": 0.030592432245612144,
+      "start": 361.75533333333334,
+      "end": 361.9458333333333,
+      "source_unchanged": true
+    },
+    {
+      "event_id": "111-safety-gate-open",
+      "sync_error_frames": 0.0,
+      "ducking_applied_db": -6,
+      "metadata_reference_db": -2,
+      "speech_overlap": true,
+      "rendered_peak": 0.03684599697589874,
+      "start": 363.0233333333333,
+      "end": 363.3163333333333,
+      "source_unchanged": true
+    }
+  ],
+  "voiceover_input_unchanged": true,
+  "stems": {
+    "voiceover": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/mix-context-v4/voiceover.wav",
+    "sfx": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/mix-context-v4/sfx.wav",
+    "foley": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/mix-context-v4/foley.wav",
+    "cinematic": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/mix-context-v4/cinematic.wav",
+    "music": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/mix-context-v4/music.wav",
+    "ambience": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/mix-context-v4/ambience.wav"
+  }
+}

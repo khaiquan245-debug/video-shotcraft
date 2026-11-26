@@ -1,0 +1,111 @@
+{
+  "sourceIds": [
+    20,
+    30,
+    35,
+    70,
+    71,
+    72,
+    75,
+    80,
+    81,
+    82,
+    83
+  ],
+  "reason": "Separate pianist from standing camera/customer actions; remove serving spoon; add employee seats/keyboards and face monitors; add miniature typing seat; ground parcels in business and offer scenes",
+  "before": {
+    "main.mjs": "549decbcc8fdb667c2565b65329332dd82bc7c5e7091536dcc09c04102b8b877",
+    "motion.mjs": "0a15de9d8dc548bd30350113b427b7d1727d097533f7407fb81c4e587379b069"
+  },
+  "after": {
+    "main.mjs": "77bee0a64e22bb8be7c3fa3c6f9bb62d2bcf82dff62fc2b1bcf7c3d15cb7c9a7",
+    "motion.mjs": "eb67c77078591939628057cf998598880d097ed5b07d96adebc3f56a52854516"
+  },
+  "patches": [
+    {
+      "sourceId": 20,
+      "first": 638,
+      "end": 699,
+      "frames": 61,
+      "file": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/scenes/role-repairs/source-20.mp4",
+      "reused": true
+    },
+    {
+      "sourceId": 30,
+      "first": 1860,
+      "end": 1960,
+      "frames": 100,
+      "file": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/scenes/role-repairs/source-30.mp4",
+      "reused": true
+    },
+    {
+      "sourceId": 35,
+      "first": 2345,
+      "end": 2462,
+      "frames": 117,
+      "file": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/scenes/role-repairs/source-35.mp4",
+      "reused": true
+    },
+    {
+      "sourceId": 70,
+      "first": 5736,
+      "end": 5805,
+      "frames": 69,
+      "file": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/scenes/role-repairs/source-70.mp4"
+    },
+    {
+      "sourceId": 71,
+      "first": 5805,
+      "end": 5989,
+      "frames": 184,
+      "file": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/scenes/role-repairs/source-71.mp4"
+    },
+    {
+      "sourceId": 72,
+      "first": 5989,
+      "end": 6078,
+      "frames": 89,
+      "file": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/scenes/role-repairs/source-72.mp4"
+    },
+    {
+      "sourceId": 75,
+      "first": 6279,
+      "end": 6367,
+      "frames": 88,
+      "file": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/scenes/role-repairs/source-75.mp4",
+      "reused": true
+    },
+    {
+      "sourceId": 80,
+      "first": 6761,
+      "end": 6848,
+      "frames": 87,
+      "file": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/scenes/role-repairs/source-80.mp4"
+    },
+    {
+      "sourceId": 81,
+      "first": 6848,
+      "end": 6911,
+      "frames": 63,
+      "file": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/scenes/role-repairs/source-81.mp4"
+    },
+    {
+      "sourceId": 82,
+      "first": 6911,
+      "end": 6993,
+      "frames": 82,
+      "file": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/scenes/role-repairs/source-82.mp4"
+    },
+    {
+      "sourceId": 83,
+      "first": 6993,
+      "end": 7130,
+      "frames": 137,
+      "file": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/scenes/role-repairs/source-83.mp4"
+    }
+  ],
+  "errors": [],
+  "requests": [],
+  "workingPicturePreserved": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/final/picture.mp4",
+  "finalPicture": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/final/picture-final.mp4"
+}

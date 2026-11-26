@@ -1,0 +1,23 @@
+{
+  "originalPreserved": true,
+  "removedRepeatedOpening": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    9,
+    10,
+    11,
+    12
+  ],
+  "rulesRelocatedAfterFirstFailure": [
+    6,
+    7,
+    8
+  ],
+  "newNarrationGenerated": false,
+  "originalNarrationSHA256": "353fb665d5f809907e612538e99bac75e3e650f4608edd2f8c89902edd2b5172",
+  "originalScript": "/workspace/outputs/skill-copy-24h-20261126/source/narration.txt"
+}

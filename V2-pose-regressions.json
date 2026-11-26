@@ -1,0 +1,9 @@
+{
+  "samples": 5973,
+  "maxBoneError": 4.973799150320701e-14,
+  "maxTipError": 1.7053025658242404e-13,
+  "maxFootSlip": 1.7053025658242404e-13,
+  "maxReachProjections": 0,
+  "minForwardKnee": 45.45492398433748,
+  "minOutwardElbow": 46.14512691680889
+}

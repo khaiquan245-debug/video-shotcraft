@@ -1,0 +1,10 @@
+{
+  "github_git_push": "verified successful",
+  "raw_github_download": "verified HTTP200 and SHA256 for final demo",
+  "github_release_api_host": "api.github.com",
+  "actual_error": "Get \"https://api.github.com/repos/khaiquan245-debug/video-shotcraft\": Forbidden",
+  "policy_observations_current": true,
+  "policy_state": "enforced",
+  "api_host_missing_from_effective_allowlist": true,
+  "fallback": "Keep native1080p30 master; if larger than100MiB export a separately verified H264 download copy under GitHub normal-file limit, same dimensions/frame rate; no environment change required"
+}

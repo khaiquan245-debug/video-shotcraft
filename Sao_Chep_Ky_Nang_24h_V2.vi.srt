@@ -1,0 +1,827 @@
+1
+00:00:00,000 --> 00:00:02,288
+Trong lúc trò chuyện, bạn vô tình bắt tay với một
+
+2
+00:00:02,288 --> 00:00:03,952
+nghệ sĩ piano đang biểu diễn tại đó.
+
+3
+00:00:04,277 --> 00:00:06,383
+Đột nhiên, bạn cảm thấy có gì đó khác lạ.
+
+4
+00:00:06,698 --> 00:00:08,262
+Bạn nhìn chiếc đàn ở góc phòng.
+
+5
+00:00:08,585 --> 00:00:10,853
+Những nốt nhạc trước đây chẳng có ý nghĩa gì giờ
+
+6
+00:00:10,853 --> 00:00:12,296
+lại trở nên vô cùng dễ hiểu.
+
+7
+00:00:12,610 --> 00:00:15,045
+Bạn ngồi xuống, đặt tay lên phím đàn và bắt đầu
+
+8
+00:00:15,045 --> 00:00:15,267
+chơi.
+
+9
+00:00:15,597 --> 00:00:17,885
+Những ngón tay chuyển động nhanh đến mức chính bạn cũng
+
+10
+00:00:17,885 --> 00:00:18,717
+không thể tin được.
+
+11
+00:00:19,025 --> 00:00:20,933
+Tất cả khách hàng trong quán quay lại nhìn.
+
+12
+00:00:21,258 --> 00:00:22,980
+Có người lấy điện thoại ra quay phim.
+
+13
+00:00:23,302 --> 00:00:25,584
+Bạn lập tức chạy về nhà và thử tìm hiểu khả
+
+14
+00:00:25,584 --> 00:00:26,414
+năng mới của mình.
+
+15
+00:00:26,730 --> 00:00:28,835
+Bạn bắt tay với người hàng xóm biết sửa xe.
+
+16
+00:00:29,151 --> 00:00:31,450
+Chỉ vài giây sau, bạn hiểu rõ từng bộ phận trong
+
+17
+00:00:31,450 --> 00:00:31,868
+động cơ.
+
+18
+00:00:32,170 --> 00:00:34,650
+Nhưng khi quay lại chiếc đàn piano, bạn không còn biết
+
+19
+00:00:34,650 --> 00:00:35,101
+chơi nữa.
+
+20
+00:00:35,409 --> 00:00:37,146
+Nhưng khả năng này có hai giới hạn.
+
+21
+00:00:37,453 --> 00:00:39,778
+Bạn chỉ có thể sao chép kỹ năng của một người
+
+22
+00:00:39,778 --> 00:00:40,623
+tại một thời điểm.
+
+23
+00:00:40,943 --> 00:00:43,434
+Và sau đúng 24 giờ, toàn bộ kỹ năng ấy sẽ
+
+24
+00:00:43,434 --> 00:00:43,886
+biến mất.
+
+25
+00:00:44,214 --> 00:00:46,487
+Bạn nhận ra rằng mỗi lần sao chép kỹ năng mới,
+
+26
+00:00:46,487 --> 00:00:47,934
+kỹ năng cũ sẽ bị thay thế.
+
+27
+00:00:48,239 --> 00:00:50,515
+Giống như một chiếc USB chỉ có đủ bộ nhớ để
+
+28
+00:00:50,515 --> 00:00:51,549
+lưu một bộ kỹ năng.
+
+29
+00:00:51,855 --> 00:00:54,167
+Và ngay lúc này, bạn bắt đầu nghĩ đến chuyện kiếm
+
+30
+00:00:54,167 --> 00:00:54,377
+tiền.
+
+31
+00:00:54,686 --> 00:00:57,030
+Ngày hôm sau, bạn tìm gặp một đầu bếp chuyên nghiệp.
+
+32
+00:00:57,358 --> 00:00:59,528
+Sau một cái bắt tay, bạn có thể chế biến những
+
+33
+00:00:59,528 --> 00:01:01,697
+món ăn mà trước đây chỉ nhìn thấy trong nhà hàng.
+
+34
+00:01:02,013 --> 00:01:04,222
+Bạn nhận nấu ăn cho một buổi tiệc và kiếm được
+
+35
+00:01:04,222 --> 00:01:05,025
+khoản tiền đầu tiên.
+
+36
+00:01:05,346 --> 00:01:07,722
+Ngày tiếp theo, bạn tìm đến một lập trình viên giỏi.
+
+37
+00:01:08,050 --> 00:01:10,079
+Bạn dành cả ngày để xây dựng một ứng dụng.
+
+38
+00:01:10,409 --> 00:01:12,575
+Sang ngày thứ ba, bạn sao chép kỹ năng của một
+
+39
+00:01:12,575 --> 00:01:14,741
+nhà thiết kế và tạo ra hàng loạt sản phẩm đẹp
+
+40
+00:01:14,741 --> 00:01:14,938
+mắt.
+
+41
+00:01:15,252 --> 00:01:17,457
+Ngày thứ tư, bạn bắt tay với một người bán hàng
+
+42
+00:01:17,457 --> 00:01:17,858
+xuất sắc.
+
+43
+00:01:18,176 --> 00:01:20,356
+Bạn bắt đầu hiểu tâm lý khách hàng, cách trình bày
+
+44
+00:01:20,356 --> 00:01:21,743
+sản phẩm và thuyết phục người mua.
+
+45
+00:01:22,075 --> 00:01:24,273
+Chỉ trong một tuần, bạn đã trải nghiệm những nghề nghiệp
+
+46
+00:01:24,273 --> 00:01:26,470
+mà người bình thường phải dành nhiều năm để thành thạo.
+
+47
+00:01:26,792 --> 00:01:28,626
+Nhưng rồi bạn nhận được một cuộc gọi.
+
+48
+00:01:29,025 --> 00:01:31,489
+Khách hàng muốn bạn sửa lỗi trong ứng dụng đã viết
+
+49
+00:01:31,489 --> 00:01:32,161
+ba ngày trước.
+
+50
+00:01:32,547 --> 00:01:33,511
+Bạn mở máy tính.
+
+51
+00:01:33,899 --> 00:01:35,086
+Nhìn hàng nghìn dòng code.
+
+52
+00:01:35,472 --> 00:01:36,876
+Và chẳng hiểu một dòng nào.
+
+53
+00:01:37,264 --> 00:01:39,719
+Lúc này, bạn phát hiện điểm yếu đầu tiên của khả
+
+54
+00:01:39,719 --> 00:01:40,835
+năng tưởng chừng hoàn hảo.
+
+55
+00:01:41,226 --> 00:01:43,719
+Bạn có thể hoàn thành công việc của một chuyên gia.
+
+56
+00:01:44,119 --> 00:01:46,384
+Nhưng không thể duy trì chuyên môn đó mãi mãi.
+
+57
+00:01:46,792 --> 00:01:49,051
+Bạn quyết định tìm hiểu xem khả năng này có thể
+
+58
+00:01:49,051 --> 00:01:51,310
+biến mình thành một vận động viên hàng đầu hay không.
+
+59
+00:01:51,698 --> 00:01:53,989
+Bạn đến phòng tập và bắt tay với một võ sĩ
+
+60
+00:01:53,989 --> 00:01:54,405
+chuyên nghiệp.
+
+61
+00:01:54,811 --> 00:01:57,080
+Ngay lập tức, bạn hiểu cách di chuyển, né đòn và
+
+62
+00:01:57,080 --> 00:01:58,524
+thực hiện các kỹ thuật phức tạp.
+
+63
+00:01:58,931 --> 00:02:00,844
+Bạn tự tin bước lên võ đài tập luyện.
+
+64
+00:02:01,226 --> 00:02:03,538
+Nhưng chỉ sau vài phút, bạn đã thở không ra hơi.
+
+65
+00:02:03,931 --> 00:02:05,639
+Bạn biết chính xác mình phải làm gì.
+
+66
+00:02:06,038 --> 00:02:08,338
+Chỉ có điều cơ thể bạn không đủ sức để thực
+
+67
+00:02:08,338 --> 00:02:08,547
+hiện.
+
+68
+00:02:08,931 --> 00:02:11,219
+Bạn tiếp tục sao chép kỹ năng của một vận động
+
+69
+00:02:11,219 --> 00:02:11,843
+viên cử tạ.
+
+70
+00:02:12,233 --> 00:02:14,525
+Bạn hiểu tư thế nâng tạ, cách giữ thăng bằng và
+
+71
+00:02:14,525 --> 00:02:15,359
+kiểm soát chuyển động.
+
+72
+00:02:15,755 --> 00:02:18,042
+Nhưng cơ bắp của bạn vẫn là cơ bắp của một
+
+73
+00:02:18,042 --> 00:02:18,666
+người bình thường.
+
+74
+00:02:19,057 --> 00:02:21,402
+Bạn không thể đột nhiên nâng được hàng trăm kilôgam.
+
+75
+00:02:21,792 --> 00:02:23,918
+Cuối cùng, bạn hiểu ra một quy luật quan trọng.
+
+76
+00:02:24,308 --> 00:02:26,562
+Khả năng này sao chép kỹ năng, chứ không sao chép
+
+77
+00:02:26,562 --> 00:02:28,816
+thể chất, tài sản hay những năm tháng rèn luyện cơ
+
+78
+00:02:28,816 --> 00:02:29,636
+thể của người khác.
+
+79
+00:02:30,031 --> 00:02:32,329
+Bạn có thể biết cách chạy như một vận động viên
+
+80
+00:02:32,329 --> 00:02:32,538
+Olympic.
+
+81
+00:02:32,925 --> 00:02:35,028
+Nhưng không có nghĩa bạn sẽ chạy nhanh như họ.
+
+82
+00:02:35,409 --> 00:02:37,322
+Vậy nếu không thể trở thành người mạnh nhất...
+
+83
+00:02:37,704 --> 00:02:40,002
+Tại sao không trở thành người thông minh và đa tài
+
+84
+00:02:40,002 --> 00:02:40,211
+nhất?
+
+85
+00:02:40,597 --> 00:02:42,897
+Bạn bắt đầu sử dụng khả năng một cách có kế
+
+86
+00:02:42,897 --> 00:02:43,106
+hoạch.
+
+87
+00:02:43,491 --> 00:02:45,925
+Thứ Hai, bạn sao chép kỹ năng của một kiến trúc
+
+88
+00:02:45,925 --> 00:02:47,918
+sư để lên ý tưởng thiết kế văn phòng.
+
+89
+00:02:48,302 --> 00:02:50,568
+Thứ Ba, bạn sao chép kỹ năng của một kỹ sư
+
+90
+00:02:50,568 --> 00:02:52,422
+phần mềm để xây dựng hệ thống quản lý.
+
+91
+00:02:52,830 --> 00:02:54,972
+Thứ Tư, bạn trở thành một chuyên gia marketing.
+
+92
+00:02:55,377 --> 00:02:57,658
+Thứ Năm, bạn học cách quản lý tài chính từ một
+
+93
+00:02:57,658 --> 00:02:58,487
+người có kinh nghiệm.
+
+94
+00:02:58,868 --> 00:03:01,157
+Thứ Sáu, bạn tìm đến một chuyên gia đàm phán để
+
+95
+00:03:01,157 --> 00:03:01,989
+gặp gỡ đối tác.
+
+96
+00:03:02,390 --> 00:03:04,658
+Bạn ghi lại những gì mình thực hiện trong từng ngày
+
+97
+00:03:04,658 --> 00:03:06,307
+bằng tài liệu, video và bản hướng dẫn.
+
+98
+00:03:06,698 --> 00:03:08,964
+Bởi vì mặc dù kỹ năng sẽ biến mất, những sản
+
+99
+00:03:08,964 --> 00:03:10,818
+phẩm do bạn tạo ra vẫn còn tồn tại.
+
+100
+00:03:11,195 --> 00:03:13,109
+Dần dần, bạn xây dựng được một doanh nghiệp.
+
+101
+00:03:13,491 --> 00:03:15,740
+Thay vì phải tự làm mọi thứ, bạn bắt đầu thuê
+
+102
+00:03:15,740 --> 00:03:17,989
+những người có chuyên môn để tiếp tục công việc khi
+
+103
+00:03:17,989 --> 00:03:19,216
+khả năng của mình hết hạn.
+
+104
+00:03:19,623 --> 00:03:21,990
+Nhưng thành công càng lớn, bạn càng khó che giấu bí
+
+105
+00:03:21,990 --> 00:03:22,206
+mật.
+
+106
+00:03:22,610 --> 00:03:24,899
+Một đoạn video ghi lại cảnh bạn chơi piano như một
+
+107
+00:03:24,899 --> 00:03:26,564
+nghệ sĩ chuyên nghiệp xuất hiện trên mạng.
+
+108
+00:03:26,950 --> 00:03:28,924
+Sau đó là video bạn nói nhiều thứ tiếng.
+
+109
+00:03:29,308 --> 00:03:31,829
+Rồi video bạn lập trình, nấu ăn và chơi thể thao.
+
+110
+00:03:32,233 --> 00:03:34,561
+Mọi người bắt đầu gọi bạn là thiên tài hiếm có.
+
+111
+00:03:34,969 --> 00:03:37,298
+Nhưng một nhà nghiên cứu phát hiện ra điều bất thường.
+
+112
+00:03:37,704 --> 00:03:39,993
+Bạn luôn thể hiện một kỹ năng mới ngay sau khi
+
+113
+00:03:39,993 --> 00:03:41,657
+gặp một chuyên gia trong lĩnh vực đó.
+
+114
+00:03:42,044 --> 00:03:44,356
+Và chưa bao giờ thể hiện hai kỹ năng đặc biệt
+
+115
+00:03:44,356 --> 00:03:44,987
+cùng một lúc.
+
+116
+00:03:45,377 --> 00:03:47,891
+Chẳng bao lâu, điện thoại của bạn liên tục đổ chuông.
+
+117
+00:03:48,270 --> 00:03:49,999
+Các công ty công nghệ muốn hợp tác.
+
+118
+00:03:50,377 --> 00:03:52,705
+Những viện nghiên cứu muốn kiểm tra khả năng của bạn.
+
+119
+00:03:53,113 --> 00:03:55,402
+Các tập đoàn đề nghị trả hàng triệu đô la để
+
+120
+00:03:55,402 --> 00:03:57,275
+bạn làm việc trong những dự án đặc biệt.
+
+121
+00:03:57,673 --> 00:03:59,955
+Nhưng chính những người sở hữu kỹ năng mà bạn muốn
+
+122
+00:03:59,955 --> 00:04:02,238
+sao chép cũng bắt đầu nhận ra giá trị của họ.
+
+123
+00:04:02,642 --> 00:04:04,937
+Một chuyên gia hàng đầu từ chối bắt tay với bạn
+
+124
+00:04:04,937 --> 00:04:06,398
+nếu không có thỏa thuận rõ ràng.
+
+125
+00:04:06,792 --> 00:04:09,080
+Một người khác lo ngại rằng bạn sẽ sử dụng kỹ
+
+126
+00:04:09,080 --> 00:04:10,951
+năng của họ để cạnh tranh với chính họ.
+
+127
+00:04:11,352 --> 00:04:13,644
+Bạn từng nghĩ rằng mình có thể trở thành bất kỳ
+
+128
+00:04:13,644 --> 00:04:15,103
+ai chỉ bằng một cái bắt tay.
+
+129
+00:04:15,503 --> 00:04:17,794
+Nhưng giờ đây, việc tiếp cận những người giỏi nhất thế
+
+130
+00:04:17,794 --> 00:04:19,460
+giới lại trở thành trở ngại lớn nhất.
+
+131
+00:04:19,843 --> 00:04:20,622
+Bạn có tiền.
+
+132
+00:04:21,006 --> 00:04:21,989
+Bạn có danh tiếng.
+
+133
+00:04:22,390 --> 00:04:24,719
+Nhưng khả năng của bạn vẫn phụ thuộc vào người khác.
+
+134
+00:04:25,126 --> 00:04:27,614
+Và rồi, trong lúc đang tìm cách vượt qua giới hạn
+
+135
+00:04:27,614 --> 00:04:30,103
+đó, bạn nghĩ ra một ý tưởng mà trước đây chưa
+
+136
+00:04:30,103 --> 00:04:30,556
+từng thử.
+
+137
+00:04:31,006 --> 00:04:33,495
+Điều gì sẽ xảy ra nếu bạn sao chép kỹ năng
+
+138
+00:04:33,495 --> 00:04:35,983
+của một người có khả năng học tập cực kỳ xuất
+
+139
+00:04:35,983 --> 00:04:36,209
+sắc?
+
+140
+00:04:36,667 --> 00:04:39,188
+Bạn tìm gặp một chuyên gia về phương pháp học tập
+
+141
+00:04:39,188 --> 00:04:39,876
+và ghi nhớ.
+
+142
+00:04:40,314 --> 00:04:42,802
+Sau khi bắt tay với ông, bạn lập tức biết cách
+
+143
+00:04:42,802 --> 00:04:45,290
+tổ chức kiến thức, ghi nhớ thông tin và luyện tập
+
+144
+00:04:45,290 --> 00:04:45,968
+hiệu quả hơn.
+
+145
+00:04:46,415 --> 00:04:48,946
+Nhưng lần này, bạn không dùng 24 giờ để biểu diễn
+
+146
+00:04:48,946 --> 00:04:49,636
+trước mọi người.
+
+147
+00:04:50,094 --> 00:04:51,755
+Bạn dành thời gian thực sự học.
+
+148
+00:04:52,201 --> 00:04:53,190
+Bạn học ngoại ngữ.
+
+149
+00:04:53,648 --> 00:04:54,637
+Bạn luyện lập trình.
+
+150
+00:04:55,094 --> 00:04:56,319
+Bạn nghiên cứu kinh doanh.
+
+151
+00:04:56,761 --> 00:04:59,228
+Bạn thực hành những kỹ năng mà mình từng vay mượn.
+
+152
+00:04:59,686 --> 00:05:02,055
+Đúng 24 giờ sau, khả năng đặc biệt biến mất.
+
+153
+00:05:02,516 --> 00:05:05,022
+Bạn không còn sử dụng phương pháp học tập ở trình
+
+154
+00:05:05,022 --> 00:05:06,389
+độ của vị chuyên gia nữa.
+
+155
+00:05:06,824 --> 00:05:09,327
+Nhưng một phần kiến thức mà bạn chủ động học và
+
+156
+00:05:09,327 --> 00:05:11,147
+luyện tập trong ngày hôm qua vẫn còn.
+
+157
+00:05:11,604 --> 00:05:13,250
+Bạn thử lại vào ngày tiếp theo.
+
+158
+00:05:13,711 --> 00:05:14,925
+Rồi ngày tiếp theo nữa.
+
+159
+00:05:15,377 --> 00:05:17,890
+Sau nhiều tháng, bạn bắt đầu sở hữu những kỹ năng
+
+160
+00:05:17,890 --> 00:05:19,032
+thực sự thuộc về mình.
+
+161
+00:05:19,497 --> 00:05:21,258
+Chúng không biến mất sau 24 giờ.
+
+162
+00:05:21,698 --> 00:05:24,211
+Bạn không còn cần bắt tay với một lập trình viên
+
+163
+00:05:24,211 --> 00:05:25,353
+chỉ để sửa ứng dụng.
+
+164
+00:05:25,818 --> 00:05:28,058
+Không cần gặp một đầu bếp chỉ để nấu ăn.
+
+165
+00:05:28,522 --> 00:05:31,033
+Bạn đã tìm ra cách biến một năng lực tạm thời
+
+166
+00:05:31,033 --> 00:05:32,175
+thành lợi ích lâu dài.
+
+167
+00:05:32,610 --> 00:05:34,760
+Nhưng đúng lúc đó, cuộc đời lại đặt bạn trước một
+
+168
+00:05:34,760 --> 00:05:35,737
+thử thách hoàn toàn khác.
+
+169
+00:05:36,195 --> 00:05:38,523
+Một ngày nọ, khi đang tham quan một trung tâm nghiên
+
+170
+00:05:38,523 --> 00:05:40,004
+cứu, bạn nghe thấy chuông báo động.
+
+171
+00:05:40,440 --> 00:05:42,603
+Một robot cứu hộ đang hoạt động thử nghiệm thì gặp
+
+172
+00:05:42,603 --> 00:05:42,997
+sự cố.
+
+173
+00:05:43,459 --> 00:05:45,448
+Bên trong khu vực thử nghiệm có người mắc kẹt.
+
+174
+00:05:45,912 --> 00:05:48,071
+Đội cứu hộ đang trên đường đến, nhưng tình huống ngày
+
+175
+00:05:48,071 --> 00:05:49,052
+càng trở nên nguy hiểm.
+
+176
+00:05:49,497 --> 00:05:51,659
+Bạn nhìn thấy một kỹ sư có kinh nghiệm điều khiển
+
+177
+00:05:51,659 --> 00:05:52,249
+robot cứu hộ.
+
+178
+00:05:52,704 --> 00:05:54,866
+Ông đang bị thương ở tay và không thể vận hành
+
+179
+00:05:54,866 --> 00:05:55,258
+thiết bị.
+
+180
+00:05:55,723 --> 00:05:57,531
+Bạn lập tức xin phép bắt tay với ông.
+
+181
+00:05:57,987 --> 00:06:00,368
+Trong vài giây, bạn hiểu cách sử dụng hệ thống điều
+
+182
+00:06:00,368 --> 00:06:00,585
+khiển.
+
+183
+00:06:01,038 --> 00:06:03,221
+Dưới sự hướng dẫn của kỹ sư và đội ngũ tại
+
+184
+00:06:03,221 --> 00:06:05,404
+chỗ, bạn đưa robot tiếp cận khu vực nguy hiểm, hỗ
+
+185
+00:06:05,404 --> 00:06:06,595
+trợ giải cứu người mắc kẹt.
+
+186
+00:06:07,044 --> 00:06:09,187
+Sau khi mọi chuyện kết thúc, mọi người vỗ tay.
+
+187
+00:06:09,623 --> 00:06:12,209
+Nhưng lần này, bạn không quan tâm đến danh tiếng hay
+
+188
+00:06:12,209 --> 00:06:12,679
+tiền bạc.
+
+189
+00:06:13,113 --> 00:06:15,662
+Bởi vì trong suốt hành trình của mình, đây là lần
+
+190
+00:06:15,662 --> 00:06:18,211
+đầu tiên bạn cảm thấy 24 giờ ấy thực sự có
+
+191
+00:06:18,211 --> 00:06:18,674
+ý nghĩa.
+
+192
+00:06:19,119 --> 00:06:21,669
+Một năm trước, bạn nghĩ rằng khả năng tuyệt vời nhất
+
+193
+00:06:21,669 --> 00:06:24,219
+trên thế giới là có thể trở thành bất kỳ ai.
+
+194
+00:06:24,654 --> 00:06:26,341
+Bạn muốn trở thành người giàu nhất.
+
+195
+00:06:26,792 --> 00:06:27,799
+Người thông minh nhất.
+
+196
+00:06:28,239 --> 00:06:29,249
+Người tài năng nhất.
+
+197
+00:06:29,686 --> 00:06:32,224
+Nhưng sau hàng trăm lần sao chép kỹ năng, bạn phát
+
+198
+00:06:32,224 --> 00:06:34,763
+hiện ra rằng mỗi người giỏi đều có một thứ mà
+
+199
+00:06:34,763 --> 00:06:36,610
+năng lực của bạn không thể lấy đi.
+
+200
+00:06:37,044 --> 00:06:39,623
+Đó là những năm tháng họ đã bỏ ra để trở
+
+201
+00:06:39,623 --> 00:06:40,326
+thành chính mình.
+
+202
+00:06:40,786 --> 00:06:43,404
+Bạn có thể mượn kỹ năng của họ trong 24 giờ.
+
+203
+00:06:43,868 --> 00:06:46,241
+Nhưng bạn không thể mượn cả cuộc đời của họ.
+
+204
+00:06:46,698 --> 00:06:49,297
+Và nếu ngày mai khả năng này đột nhiên biến mất...
+
+205
+00:06:49,748 --> 00:06:52,315
+Bạn vẫn còn những gì mình đã thực sự học được.
+
+206
+00:06:52,767 --> 00:06:55,321
+Vậy nếu được sao chép kỹ năng của một người bất
+
+207
+00:06:55,321 --> 00:06:57,642
+kỳ trong 24 giờ, bạn sẽ chọn ai đầu tiên?

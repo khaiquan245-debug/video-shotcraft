@@ -1,0 +1,3523 @@
+{
+  "version": "V2",
+  "title": "Nếu bạn có thể sao chép kỹ năng trong 24 giờ?",
+  "channel": "Thích Học Hỏi",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 12543,
+  "duration": 418.1,
+  "shots": [
+    {
+      "id": 0,
+      "sourceId": 13,
+      "start": 0.0,
+      "end": 4.266666666666667,
+      "narrationEnd": 3.95190644654088,
+      "environment": "cafe",
+      "action": "handshake",
+      "cameras": [
+        "contact-ecu",
+        "reaction-cu",
+        "two-shot"
+      ],
+      "text": "Trong lúc trò chuyện, bạn vô tình bắt tay với một nghệ sĩ piano đang biểu diễn tại đó.",
+      "sourceSha256": "20e78e8e54be4d6bde339ea613406ccc18d48fabaac44147bda2876fc5255da3",
+      "purpose": "handshake"
+    },
+    {
+      "id": 1,
+      "sourceId": 14,
+      "start": 4.266666666666667,
+      "end": 6.7,
+      "narrationEnd": 6.382763364779874,
+      "environment": "cafe",
+      "action": "surprised",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Đột nhiên, bạn cảm thấy có gì đó khác lạ.",
+      "sourceSha256": "a2359d22c0a4ff59445700cae71936e099c8ff2f4f42f03525500dfe11af93c5",
+      "purpose": "surprised"
+    },
+    {
+      "id": 2,
+      "sourceId": 15,
+      "start": 6.7,
+      "end": 8.6,
+      "narrationEnd": 8.262283805031446,
+      "environment": "cafe",
+      "action": "look",
+      "cameras": [
+        "pov-music",
+        "face-cu"
+      ],
+      "text": "Bạn nhìn chiếc đàn ở góc phòng.",
+      "sourceSha256": "ad849fbe05a3ef6d06ff681580cc41e3ccd4d3263ae41907c064137d7520bdce",
+      "purpose": "look"
+    },
+    {
+      "id": 3,
+      "sourceId": 16,
+      "start": 8.6,
+      "end": 12.6,
+      "narrationEnd": 12.29640330188679,
+      "environment": "cafe",
+      "action": "readmusic",
+      "cameras": [
+        "pov-music",
+        "face-cu"
+      ],
+      "text": "Những nốt nhạc trước đây chẳng có ý nghĩa gì giờ lại trở nên vô cùng dễ hiểu.",
+      "sourceSha256": "d6c3ba43515d4fd53f6589adf7a419b633856af38dc2b1fa951630a2d1a3c3d8",
+      "purpose": "readmusic"
+    },
+    {
+      "id": 4,
+      "sourceId": 17,
+      "start": 12.6,
+      "end": 15.6,
+      "narrationEnd": 15.266647012578614,
+      "environment": "cafe",
+      "action": "sitplay",
+      "cameras": [
+        "tracking",
+        "piano-ots"
+      ],
+      "text": "Bạn ngồi xuống, đặt tay lên phím đàn và bắt đầu chơi.",
+      "sourceSha256": "1e5459b9ebd9cdd787a7e323e65216c9fb81890b5f478bc94911cf416c335387",
+      "purpose": "sitplay"
+    },
+    {
+      "id": 5,
+      "sourceId": 18,
+      "start": 15.6,
+      "end": 19.033333333333335,
+      "narrationEnd": 18.717020440251574,
+      "environment": "cafe",
+      "action": "play",
+      "cameras": [
+        "hands-ecu",
+        "face-cu",
+        "piano-ots"
+      ],
+      "text": "Những ngón tay chuyển động nhanh đến mức chính bạn cũng không thể tin được.",
+      "sourceSha256": "7b06d1544f091dc4db1a01276548b668e6efe31549bd348b03584e3fec900aff",
+      "purpose": "play"
+    },
+    {
+      "id": 6,
+      "sourceId": 19,
+      "start": 19.033333333333335,
+      "end": 21.266666666666666,
+      "narrationEnd": 20.932940251572326,
+      "environment": "cafe",
+      "action": "audience",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Tất cả khách hàng trong quán quay lại nhìn.",
+      "sourceSha256": "909e24e3356484f2a6fbfd7ccd22637d4e06301e784dfbf19f2ef75688191030",
+      "purpose": "audience"
+    },
+    {
+      "id": 7,
+      "sourceId": 20,
+      "start": 21.266666666666666,
+      "end": 23.3,
+      "narrationEnd": 22.979775943396227,
+      "environment": "cafe",
+      "action": "film",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Có người lấy điện thoại ra quay phim.",
+      "sourceSha256": "b0fa5babe8341f37ec9a739ea1a1fd36b4437474fc471609573e7c357863ab3f",
+      "purpose": "film"
+    },
+    {
+      "id": 8,
+      "sourceId": 21,
+      "start": 23.3,
+      "end": 26.733333333333334,
+      "narrationEnd": 26.41440644654088,
+      "environment": "street",
+      "action": "travel",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Bạn lập tức chạy về nhà và thử tìm hiểu khả năng mới của mình.",
+      "sourceSha256": "d7384e58bf74a863405649a461de2406ff635aa478a3606975bede5c4a242063",
+      "purpose": "travel"
+    },
+    {
+      "id": 9,
+      "sourceId": 22,
+      "start": 26.733333333333334,
+      "end": 29.166666666666668,
+      "narrationEnd": 28.835357704402515,
+      "environment": "garage",
+      "action": "handshake",
+      "cameras": [
+        "contact-ecu",
+        "reaction-cu",
+        "two-shot"
+      ],
+      "text": "Bạn bắt tay với người hàng xóm biết sửa xe.",
+      "sourceSha256": "7598bfa4b953c8f02f3b79979a75a27441970e039f4df0a1b536741b8684617d",
+      "purpose": "handshake"
+    },
+    {
+      "id": 10,
+      "sourceId": 23,
+      "start": 29.166666666666668,
+      "end": 32.166666666666664,
+      "narrationEnd": 31.86790487421383,
+      "environment": "garage",
+      "action": "repair",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Chỉ vài giây sau, bạn hiểu rõ từng bộ phận trong động cơ.",
+      "sourceSha256": "63c7449f10ec128e19440024fce89a7c49a7ef557bff894baddaae62a3b7984a",
+      "purpose": "repair"
+    },
+    {
+      "id": 11,
+      "sourceId": 24,
+      "start": 32.166666666666664,
+      "end": 35.4,
+      "narrationEnd": 35.101257861635226,
+      "environment": "cafe",
+      "action": "lostpiano",
+      "cameras": [
+        "hands-ecu",
+        "face-cu",
+        "piano-ots"
+      ],
+      "text": "Nhưng khi quay lại chiếc đàn piano, bạn không còn biết chơi nữa.",
+      "sourceSha256": "6bb8967ca57028b220a7aabfcc076888b6b42dec134f102418d354f71d6ae074",
+      "purpose": "lostpiano"
+    },
+    {
+      "id": 12,
+      "sourceId": 6,
+      "start": 35.4,
+      "end": 37.46666666666667,
+      "narrationEnd": 37.145892295597484,
+      "environment": "memory",
+      "action": "two-rules",
+      "cameras": [
+        "skill-insert",
+        "reaction-cu"
+      ],
+      "text": "Nhưng khả năng này có hai giới hạn.",
+      "sourceSha256": "7b2d8cdd84b015158a07c7cc213596438a2f1ffb5e248cd2ffe79de4a12cd376",
+      "purpose": "two-rules"
+    },
+    {
+      "id": 13,
+      "sourceId": 7,
+      "start": 37.46666666666667,
+      "end": 40.93333333333333,
+      "narrationEnd": 40.62313286163522,
+      "environment": "memory",
+      "action": "single-slot",
+      "cameras": [
+        "skill-insert",
+        "reaction-cu"
+      ],
+      "text": "Bạn chỉ có thể sao chép kỹ năng của một người tại một thời điểm.",
+      "sourceSha256": "856d049238347e05945c7cb9ed1ff7a223c75d50c77030d8bbd9a7d313314ce0",
+      "purpose": "single-slot"
+    },
+    {
+      "id": 14,
+      "sourceId": 8,
+      "start": 40.93333333333333,
+      "end": 44.2,
+      "narrationEnd": 43.88632075471698,
+      "environment": "memory",
+      "action": "expiry",
+      "cameras": [
+        "skill-insert",
+        "reaction-cu"
+      ],
+      "text": "Và sau đúng 24 giờ, toàn bộ kỹ năng ấy sẽ biến mất.",
+      "sourceSha256": "c2175b0dac351b6310e1612a5ea2e665082fc5d6b9d050ca9d65bcaf1ec2e004",
+      "purpose": "expiry"
+    },
+    {
+      "id": 15,
+      "sourceId": 25,
+      "start": 44.2,
+      "end": 48.233333333333334,
+      "narrationEnd": 47.933667452830186,
+      "environment": "memory",
+      "action": "replacement",
+      "cameras": [
+        "skill-insert",
+        "reaction-cu"
+      ],
+      "text": "Bạn nhận ra rằng mỗi lần sao chép kỹ năng mới, kỹ năng cũ sẽ bị thay thế.",
+      "sourceSha256": "0f427c0bdee0e0fc30a106d11e3f0a21717c38e8cd451f6644438c6305e877e9",
+      "purpose": "replacement"
+    },
+    {
+      "id": 16,
+      "sourceId": 26,
+      "start": 48.233333333333334,
+      "end": 51.86666666666667,
+      "narrationEnd": 51.549115566037734,
+      "environment": "memory",
+      "action": "usb",
+      "cameras": [
+        "skill-insert",
+        "reaction-cu"
+      ],
+      "text": "Giống như một chiếc USB chỉ có đủ bộ nhớ để lưu một bộ kỹ năng.",
+      "sourceSha256": "e73ae70ee285a5f4f5c7cef1c89a53b378a669d8eb7690924626c010179a6b3c",
+      "purpose": "usb"
+    },
+    {
+      "id": 17,
+      "sourceId": 27,
+      "start": 51.86666666666667,
+      "end": 54.7,
+      "narrationEnd": 54.37665094339623,
+      "environment": "home",
+      "action": "opportunity",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Và ngay lúc này, bạn bắt đầu nghĩ đến chuyện kiếm tiền.",
+      "sourceSha256": "86a20b95e527b92c0289090cb311a1f13ad25c524acced60dd2c6c041978f373",
+      "purpose": "opportunity"
+    },
+    {
+      "id": 18,
+      "sourceId": 28,
+      "start": 54.7,
+      "end": 57.36666666666667,
+      "narrationEnd": 57.03048349056604,
+      "environment": "kitchen",
+      "action": "handshake",
+      "cameras": [
+        "contact-ecu",
+        "reaction-cu",
+        "two-shot"
+      ],
+      "text": "Ngày hôm sau, bạn tìm gặp một đầu bếp chuyên nghiệp.",
+      "sourceSha256": "4a91e29c4a7e6bf125d02607339df5b6cbc23dd3b4486a3670d16ab419285fb5",
+      "purpose": "handshake"
+    },
+    {
+      "id": 19,
+      "sourceId": 29,
+      "start": 57.36666666666667,
+      "end": 62.0,
+      "narrationEnd": 61.69681603773584,
+      "environment": "kitchen",
+      "action": "cook",
+      "cameras": [
+        "prop-insert",
+        "medium",
+        "face-cu"
+      ],
+      "text": "Sau một cái bắt tay, bạn có thể chế biến những món ăn mà trước đây chỉ nhìn thấy trong nhà hàng.",
+      "sourceSha256": "1b59e27ccf8976cee732e6e1c377565104c085aab91f3a0564d38444a3f73b8a",
+      "purpose": "cook"
+    },
+    {
+      "id": 20,
+      "sourceId": 30,
+      "start": 62.0,
+      "end": 65.33333333333333,
+      "narrationEnd": 65.02533411949686,
+      "environment": "kitchen",
+      "action": "servepay",
+      "cameras": [
+        "prop-insert",
+        "medium",
+        "face-cu"
+      ],
+      "text": "Bạn nhận nấu ăn cho một buổi tiệc và kiếm được khoản tiền đầu tiên.",
+      "sourceSha256": "dd0e94a46f402a8fc5d8fac55321660c4476686b3546f7c600ea01ac3d3eb176",
+      "purpose": "servepay"
+    },
+    {
+      "id": 21,
+      "sourceId": 31,
+      "start": 65.33333333333333,
+      "end": 68.06666666666666,
+      "narrationEnd": 67.72224842767295,
+      "environment": "coder",
+      "action": "handshake",
+      "cameras": [
+        "contact-ecu",
+        "reaction-cu",
+        "two-shot"
+      ],
+      "text": "Ngày tiếp theo, bạn tìm đến một lập trình viên giỏi.",
+      "sourceSha256": "92261eb3e4c6d857eb52560dba03238858d44b53dc6b68e171d265393c9db239",
+      "purpose": "handshake"
+    },
+    {
+      "id": 22,
+      "sourceId": 32,
+      "start": 68.06666666666666,
+      "end": 70.4,
+      "narrationEnd": 70.07895047169812,
+      "environment": "coder",
+      "action": "type",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Bạn dành cả ngày để xây dựng một ứng dụng.",
+      "sourceSha256": "3c0abc4ef10e5a83ca87c49e3e81854407d7978532c28090a08146237af156fd",
+      "purpose": "type"
+    },
+    {
+      "id": 23,
+      "sourceId": 33,
+      "start": 70.4,
+      "end": 75.26666666666667,
+      "narrationEnd": 74.93803066037736,
+      "environment": "design",
+      "action": "design",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Sang ngày thứ ba, bạn sao chép kỹ năng của một nhà thiết kế và tạo ra hàng loạt sản phẩm đẹp mắt.",
+      "sourceSha256": "72de5c4af41bec68da46143fd3a7525ecbd1ad7bca407782be44711a1dc3af1b",
+      "purpose": "design"
+    },
+    {
+      "id": 24,
+      "sourceId": 34,
+      "start": 75.26666666666667,
+      "end": 78.16666666666667,
+      "narrationEnd": 77.85845125786163,
+      "environment": "market",
+      "action": "handshake",
+      "cameras": [
+        "contact-ecu",
+        "reaction-cu",
+        "two-shot"
+      ],
+      "text": "Ngày thứ tư, bạn bắt tay với một người bán hàng xuất sắc.",
+      "sourceSha256": "e143781c46692f4ab481f6f31ef848c4dfedffde78252eb5c534c699dfadd1d1",
+      "purpose": "handshake"
+    },
+    {
+      "id": 25,
+      "sourceId": 35,
+      "start": 78.16666666666667,
+      "end": 82.06666666666666,
+      "narrationEnd": 81.74286556603772,
+      "environment": "market",
+      "action": "sell",
+      "cameras": [
+        "prop-insert",
+        "medium",
+        "face-cu"
+      ],
+      "text": "Bạn bắt đầu hiểu tâm lý khách hàng, cách trình bày sản phẩm và thuyết phục người mua.",
+      "sourceSha256": "9ff6969ddfe3f5db075d7a314c2b35d83afec5e46a08331ddf745631cc54d326",
+      "purpose": "sell"
+    },
+    {
+      "id": 26,
+      "sourceId": 36,
+      "start": 82.06666666666666,
+      "end": 86.8,
+      "narrationEnd": 86.47000786163521,
+      "environment": "street",
+      "action": "week",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Chỉ trong một tuần, bạn đã trải nghiệm những nghề nghiệp mà người bình thường phải dành nhiều năm để thành thạo.",
+      "sourceSha256": "60e2f38526cd901121442027ae679c9d0cfb83bb350aa3c75d7e18b5b623fe44",
+      "purpose": "week"
+    },
+    {
+      "id": 27,
+      "sourceId": 37,
+      "start": 86.8,
+      "end": 89.03333333333333,
+      "narrationEnd": 88.62606132075472,
+      "environment": "coder",
+      "action": "phone",
+      "cameras": [
+        "phone-pov",
+        "reaction-cu",
+        "tracking"
+      ],
+      "text": "Nhưng rồi bạn nhận được một cuộc gọi.",
+      "sourceSha256": "00181e3f83b6964c91dc087d8be87689a9ad4b25a998517cf8217f2afc4e63a7",
+      "purpose": "phone"
+    },
+    {
+      "id": 28,
+      "sourceId": 38,
+      "start": 89.03333333333333,
+      "end": 92.53333333333333,
+      "narrationEnd": 92.16112421383646,
+      "environment": "coder",
+      "action": "codefail",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Khách hàng muốn bạn sửa lỗi trong ứng dụng đã viết ba ngày trước.",
+      "sourceSha256": "c735fda3f6c2072ac3a75839f5b9bdd2912283c36757cec932cc795371db30fa",
+      "purpose": "codefail"
+    },
+    {
+      "id": 29,
+      "sourceId": 39,
+      "start": 92.53333333333333,
+      "end": 93.9,
+      "narrationEnd": 93.51136006289308,
+      "environment": "coder",
+      "action": "codefail",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Bạn mở máy tính.",
+      "sourceSha256": "a70534bf925b665d5c63d340594bfff184f6c44e43631206b5c6e475dbad2c32",
+      "purpose": "codefail"
+    },
+    {
+      "id": 30,
+      "sourceId": 40,
+      "start": 93.9,
+      "end": 95.46666666666667,
+      "narrationEnd": 95.08561320754717,
+      "environment": "coder",
+      "action": "codefail",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Nhìn hàng nghìn dòng code.",
+      "sourceSha256": "a364fd0bde7b53ba15d5392e06c60f1d11266424ac594f8d19d508cfc7124e69",
+      "purpose": "codefail"
+    },
+    {
+      "id": 31,
+      "sourceId": 41,
+      "start": 95.46666666666667,
+      "end": 97.26666666666667,
+      "narrationEnd": 96.87613993710691,
+      "environment": "coder",
+      "action": "codefail",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Và chẳng hiểu một dòng nào.",
+      "sourceSha256": "28e3e971c500444f9fb8effa8640173415312eb00eb342e34fc17270bebe55d5",
+      "purpose": "codefail"
+    },
+    {
+      "id": 32,
+      "sourceId": 42,
+      "start": 97.26666666666667,
+      "end": 101.23333333333333,
+      "narrationEnd": 100.8348073899371,
+      "environment": "coder",
+      "action": "codefail",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Lúc này, bạn phát hiện điểm yếu đầu tiên của khả năng tưởng chừng hoàn hảo.",
+      "sourceSha256": "bf95e61f3487f7f51a79810d9d7b779303f9b18ce6e7ad78ea6d818bf20ab674",
+      "purpose": "codefail"
+    },
+    {
+      "id": 33,
+      "sourceId": 43,
+      "start": 101.23333333333333,
+      "end": 104.13333333333334,
+      "narrationEnd": 103.7189072327044,
+      "environment": "coder",
+      "action": "codefail",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Bạn có thể hoàn thành công việc của một chuyên gia.",
+      "sourceSha256": "7116d2fd43ed7028892a85d8b99f260683f6836d9ffb2ff179604d389c5e0023",
+      "purpose": "codefail"
+    },
+    {
+      "id": 34,
+      "sourceId": 44,
+      "start": 104.13333333333334,
+      "end": 106.8,
+      "narrationEnd": 106.38449292452829,
+      "environment": "coder",
+      "action": "codefail",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Nhưng không thể duy trì chuyên môn đó mãi mãi.",
+      "sourceSha256": "e88f4f8af76a6256918c63f611e432f0bd700f65f6d5ae9a3dc81fda7d5c433d",
+      "purpose": "codefail"
+    },
+    {
+      "id": 35,
+      "sourceId": 45,
+      "start": 106.8,
+      "end": 111.7,
+      "narrationEnd": 111.30955188679245,
+      "environment": "boxing",
+      "action": "warmup",
+      "cameras": [
+        "tracking",
+        "face-cu",
+        "prop-insert"
+      ],
+      "text": "Bạn quyết định tìm hiểu xem khả năng này có thể biến mình thành một vận động viên hàng đầu hay không.",
+      "sourceSha256": "c6d02ce090716b3f72365da5b7d707ef4c2ffc69b1f1262661b4b30dda78d732",
+      "purpose": "warmup"
+    },
+    {
+      "id": 36,
+      "sourceId": 46,
+      "start": 111.7,
+      "end": 114.8,
+      "narrationEnd": 114.40528694968553,
+      "environment": "boxing",
+      "action": "handshake",
+      "cameras": [
+        "contact-ecu",
+        "reaction-cu",
+        "two-shot"
+      ],
+      "text": "Bạn đến phòng tập và bắt tay với một võ sĩ chuyên nghiệp.",
+      "sourceSha256": "d29a552aee0bae34d63c463fdca0d02de45a1673365022184f767d43b1ab4e9d",
+      "purpose": "handshake"
+    },
+    {
+      "id": 37,
+      "sourceId": 47,
+      "start": 114.8,
+      "end": 118.93333333333334,
+      "narrationEnd": 118.5243317610063,
+      "environment": "boxing",
+      "action": "box",
+      "cameras": [
+        "tracking",
+        "face-cu",
+        "prop-insert"
+      ],
+      "text": "Ngay lập tức, bạn hiểu cách di chuyển, né đòn và thực hiện các kỹ thuật phức tạp.",
+      "sourceSha256": "05d4510eee107f4bcd54c197fd3e498efe5e4075159d7c1d6e406ae2cc30999e",
+      "purpose": "box"
+    },
+    {
+      "id": 38,
+      "sourceId": 48,
+      "start": 118.93333333333334,
+      "end": 121.23333333333333,
+      "narrationEnd": 120.84384827044025,
+      "environment": "boxing",
+      "action": "box",
+      "cameras": [
+        "tracking",
+        "face-cu",
+        "prop-insert"
+      ],
+      "text": "Bạn tự tin bước lên võ đài tập luyện.",
+      "sourceSha256": "c5f1b3e235e85e44eacdd00a31b0ba0dc89faa18eee5b9891ed4eaf6b1a37589",
+      "purpose": "box"
+    },
+    {
+      "id": 39,
+      "sourceId": 49,
+      "start": 121.23333333333333,
+      "end": 123.93333333333334,
+      "narrationEnd": 123.53805031446541,
+      "environment": "boxing",
+      "action": "tired",
+      "cameras": [
+        "tracking",
+        "face-cu",
+        "prop-insert"
+      ],
+      "text": "Nhưng chỉ sau vài phút, bạn đã thở không ra hơi.",
+      "sourceSha256": "542f048fa6dfaa161e3bfc2f45b13cf5ad1f329bbd4f0e89636ad923cdbb0af9",
+      "purpose": "tired"
+    },
+    {
+      "id": 40,
+      "sourceId": 50,
+      "start": 123.93333333333334,
+      "end": 126.03333333333333,
+      "narrationEnd": 125.63858097484277,
+      "environment": "boxing",
+      "action": "tired",
+      "cameras": [
+        "tracking",
+        "face-cu",
+        "prop-insert"
+      ],
+      "text": "Bạn biết chính xác mình phải làm gì.",
+      "sourceSha256": "89b3ddcca2af94b7d9316738fc182a3f3f0840f263a2280a71b6d0bfaa4106aa",
+      "purpose": "tired"
+    },
+    {
+      "id": 41,
+      "sourceId": 51,
+      "start": 126.03333333333333,
+      "end": 128.93333333333334,
+      "narrationEnd": 128.5474646226415,
+      "environment": "boxing",
+      "action": "tired",
+      "cameras": [
+        "tracking",
+        "face-cu",
+        "prop-insert"
+      ],
+      "text": "Chỉ có điều cơ thể bạn không đủ sức để thực hiện.",
+      "sourceSha256": "9e76df1770907f5e5652d694a65de09488032e05b42f9d6d7ad92c9af9c3c950",
+      "purpose": "tired"
+    },
+    {
+      "id": 42,
+      "sourceId": 52,
+      "start": 128.93333333333334,
+      "end": 132.23333333333332,
+      "narrationEnd": 131.84335691823898,
+      "environment": "weights",
+      "action": "handshake",
+      "cameras": [
+        "contact-ecu",
+        "reaction-cu",
+        "two-shot"
+      ],
+      "text": "Bạn tiếp tục sao chép kỹ năng của một vận động viên cử tạ.",
+      "sourceSha256": "431f60ed4aa179fcba73c5a4d6838f8be537184fd8044c1e8cbdaf560665ef9a",
+      "purpose": "handshake"
+    },
+    {
+      "id": 43,
+      "sourceId": 53,
+      "start": 132.23333333333332,
+      "end": 135.76666666666668,
+      "narrationEnd": 135.35913915094338,
+      "environment": "weights",
+      "action": "lift",
+      "cameras": [
+        "tracking",
+        "face-cu",
+        "prop-insert"
+      ],
+      "text": "Bạn hiểu tư thế nâng tạ, cách giữ thăng bằng và kiểm soát chuyển động.",
+      "sourceSha256": "feb77912a5405aa55da6fb042a206f0e1c437d59dd880ebb6a078ccf227b9d7f",
+      "purpose": "lift"
+    },
+    {
+      "id": 44,
+      "sourceId": 54,
+      "start": 135.76666666666668,
+      "end": 139.06666666666666,
+      "narrationEnd": 138.6660966981132,
+      "environment": "weights",
+      "action": "lift",
+      "cameras": [
+        "tracking",
+        "face-cu",
+        "prop-insert"
+      ],
+      "text": "Nhưng cơ bắp của bạn vẫn là cơ bắp của một người bình thường.",
+      "sourceSha256": "4dcf8e103c8c25d405d38e32ef161f746c66c478431435431fd9a3dc7e843c65",
+      "purpose": "lift"
+    },
+    {
+      "id": 45,
+      "sourceId": 55,
+      "start": 139.06666666666666,
+      "end": 141.8,
+      "narrationEnd": 141.4020047169811,
+      "environment": "weights",
+      "action": "lift",
+      "cameras": [
+        "tracking",
+        "face-cu",
+        "prop-insert"
+      ],
+      "text": "Bạn không thể đột nhiên nâng được hàng trăm kilôgam.",
+      "sourceSha256": "a0914791b8a1e594329b7458829af4bcb953f0a7de25834f84d8db872231a3a1",
+      "purpose": "lift"
+    },
+    {
+      "id": 46,
+      "sourceId": 56,
+      "start": 141.8,
+      "end": 144.3,
+      "narrationEnd": 143.9182389937107,
+      "environment": "weights",
+      "action": "physical-rule",
+      "cameras": [
+        "tracking",
+        "face-cu",
+        "prop-insert"
+      ],
+      "text": "Cuối cùng, bạn hiểu ra một quy luật quan trọng.",
+      "sourceSha256": "04bba771580cfbbd9816f0ea3a4d34ec2bc570470e25259b0c3ffaf580813f9f",
+      "purpose": "physical-rule"
+    },
+    {
+      "id": 47,
+      "sourceId": 57,
+      "start": 144.3,
+      "end": 150.03333333333333,
+      "narrationEnd": 149.63608490566037,
+      "environment": "weights",
+      "action": "physical-rule",
+      "cameras": [
+        "tracking",
+        "face-cu",
+        "prop-insert"
+      ],
+      "text": "Khả năng này sao chép kỹ năng, chứ không sao chép thể chất, tài sản hay những năm tháng rèn luyện cơ thể của người khác.",
+      "sourceSha256": "f29792204fbc9b388ee7263a79c0c1f607c057a252f65175655bb74a75f46810",
+      "purpose": "physical-rule"
+    },
+    {
+      "id": 48,
+      "sourceId": 58,
+      "start": 150.03333333333333,
+      "end": 152.93333333333334,
+      "narrationEnd": 152.53755896226414,
+      "environment": "track",
+      "action": "run",
+      "cameras": [
+        "tracking",
+        "face-cu",
+        "prop-insert"
+      ],
+      "text": "Bạn có thể biết cách chạy như một vận động viên Olympic.",
+      "sourceSha256": "a6674f3ff54163fefcc3b7ae592ec03b49c6b5cb219ef185f6404f0770f0a2f6",
+      "purpose": "run"
+    },
+    {
+      "id": 49,
+      "sourceId": 59,
+      "start": 152.93333333333334,
+      "end": 155.4,
+      "narrationEnd": 155.02792845911947,
+      "environment": "track",
+      "action": "tired",
+      "cameras": [
+        "tracking",
+        "face-cu",
+        "prop-insert"
+      ],
+      "text": "Nhưng không có nghĩa bạn sẽ chạy nhanh như họ.",
+      "sourceSha256": "0e79ca091092062219fa8427945d577354e11c880fa206746a00566d01241382",
+      "purpose": "tired"
+    },
+    {
+      "id": 50,
+      "sourceId": 60,
+      "start": 155.4,
+      "end": 157.7,
+      "narrationEnd": 157.32195361635218,
+      "environment": "home",
+      "action": "organize",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Vậy nếu không thể trở thành người mạnh nhất...",
+      "sourceSha256": "5b1554dc3b028cc9327e16f3dc0bd826e519b8792ecb136041bee899b0750cd7",
+      "purpose": "organize"
+    },
+    {
+      "id": 51,
+      "sourceId": 61,
+      "start": 157.7,
+      "end": 160.6,
+      "narrationEnd": 160.2108687106918,
+      "environment": "home",
+      "action": "organize",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Tại sao không trở thành người thông minh và đa tài nhất?",
+      "sourceSha256": "c5bc49047c234e90b68d6f00f5f8d3715889b9ec303ad1fec661239083405a31",
+      "purpose": "organize"
+    },
+    {
+      "id": 52,
+      "sourceId": 62,
+      "start": 160.6,
+      "end": 163.5,
+      "narrationEnd": 163.10560141509433,
+      "environment": "home",
+      "action": "organize",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Bạn bắt đầu sử dụng khả năng một cách có kế hoạch.",
+      "sourceSha256": "97b04ae9a0fb347be651704c43811440748afee22f46820590eaf211eb415e1f",
+      "purpose": "organize"
+    },
+    {
+      "id": 53,
+      "sourceId": 63,
+      "start": 163.5,
+      "end": 168.3,
+      "narrationEnd": 167.91766902515724,
+      "environment": "architecture",
+      "action": "draft",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Thứ Hai, bạn sao chép kỹ năng của một kiến trúc sư để lên ý tưởng thiết kế văn phòng.",
+      "sourceSha256": "67595da2710bb9ff7da26405dceebbdc8cf75cb0a337e18bc5147f672d88ae6d",
+      "purpose": "draft"
+    },
+    {
+      "id": 54,
+      "sourceId": 64,
+      "start": 168.3,
+      "end": 172.83333333333334,
+      "narrationEnd": 172.42216981132077,
+      "environment": "coder",
+      "action": "type",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Thứ Ba, bạn sao chép kỹ năng của một kỹ sư phần mềm để xây dựng hệ thống quản lý.",
+      "sourceSha256": "e6e7de720b6dc74d6d69c568d3fa4c17f2e9659fdf5664b718e5ccd080502485",
+      "purpose": "type"
+    },
+    {
+      "id": 55,
+      "sourceId": 65,
+      "start": 172.83333333333334,
+      "end": 175.36666666666667,
+      "narrationEnd": 174.97240566037732,
+      "environment": "market",
+      "action": "campaign",
+      "cameras": [
+        "phone-pov",
+        "reaction-cu",
+        "tracking"
+      ],
+      "text": "Thứ Tư, bạn trở thành một chuyên gia marketing.",
+      "sourceSha256": "a69c7ffc73af278ff1a9210d4de594d36f67dbe5a343d52c5b317ec01e8b9a2e",
+      "purpose": "campaign"
+    },
+    {
+      "id": 56,
+      "sourceId": 66,
+      "start": 175.36666666666667,
+      "end": 178.86666666666667,
+      "narrationEnd": 178.4873820754717,
+      "environment": "finance",
+      "action": "study",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Thứ Năm, bạn học cách quản lý tài chính từ một người có kinh nghiệm.",
+      "sourceSha256": "2e6784f25d3c7b218fb00551442e283e441eea044df1fdad078cc0f7d23f482d",
+      "purpose": "study"
+    },
+    {
+      "id": 57,
+      "sourceId": 67,
+      "start": 178.86666666666667,
+      "end": 182.4,
+      "narrationEnd": 181.98928852201257,
+      "environment": "meeting",
+      "action": "handshake",
+      "cameras": [
+        "contact-ecu",
+        "reaction-cu",
+        "two-shot"
+      ],
+      "text": "Thứ Sáu, bạn tìm đến một chuyên gia đàm phán để gặp gỡ đối tác.",
+      "sourceSha256": "8ccc78aaa31f8673b05daacacc6263c86a35a3bf385639a5eb1d758f3a273607",
+      "purpose": "handshake"
+    },
+    {
+      "id": 58,
+      "sourceId": 68,
+      "start": 182.4,
+      "end": 186.7,
+      "narrationEnd": 186.30709512578616,
+      "environment": "study",
+      "action": "record",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Bạn ghi lại những gì mình thực hiện trong từng ngày bằng tài liệu, video và bản hướng dẫn.",
+      "sourceSha256": "14e22248b8ec1f93b295fd5e8485af0ee150557f721d0efdc4c09be3f9213226",
+      "purpose": "record"
+    },
+    {
+      "id": 59,
+      "sourceId": 69,
+      "start": 186.7,
+      "end": 191.2,
+      "narrationEnd": 190.81757075471697,
+      "environment": "study",
+      "action": "record",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Bởi vì mặc dù kỹ năng sẽ biến mất, những sản phẩm do bạn tạo ra vẫn còn tồn tại.",
+      "sourceSha256": "a2b48536289e539c626a08d72da36fc5d7ae4e62c91b2569d1c312dcdde5e731",
+      "purpose": "record"
+    },
+    {
+      "id": 60,
+      "sourceId": 70,
+      "start": 191.2,
+      "end": 193.5,
+      "narrationEnd": 193.10876572327044,
+      "environment": "business",
+      "action": "team",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Dần dần, bạn xây dựng được một doanh nghiệp.",
+      "sourceSha256": "fb0685d4670041eb6836e79f25525439ca48f4168eb1df8c9a13cbd11f14a5d4",
+      "purpose": "team"
+    },
+    {
+      "id": 61,
+      "sourceId": 71,
+      "start": 193.5,
+      "end": 199.63333333333333,
+      "narrationEnd": 199.21564465408804,
+      "environment": "business",
+      "action": "team",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Thay vì phải tự làm mọi thứ, bạn bắt đầu thuê những người có chuyên môn để tiếp tục công việc khi khả năng của mình hết hạn.",
+      "sourceSha256": "3fc7fed652ce71e45c3f5f182e68d1c7584a803aa4f317da531a76a3ba3471cd",
+      "purpose": "team"
+    },
+    {
+      "id": 62,
+      "sourceId": 72,
+      "start": 199.63333333333333,
+      "end": 202.6,
+      "narrationEnd": 202.20558176100627,
+      "environment": "business",
+      "action": "team",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Nhưng thành công càng lớn, bạn càng khó che giấu bí mật.",
+      "sourceSha256": "07951dae25ef447bde5bbb060db80200c2fef3b2c659aa2f4462252d6da9303f",
+      "purpose": "team"
+    },
+    {
+      "id": 63,
+      "sourceId": 73,
+      "start": 202.6,
+      "end": 206.93333333333334,
+      "narrationEnd": 206.56393474842767,
+      "environment": "press",
+      "action": "viral",
+      "cameras": [
+        "phone-pov",
+        "reaction-cu",
+        "tracking"
+      ],
+      "text": "Một đoạn video ghi lại cảnh bạn chơi piano như một nghệ sĩ chuyên nghiệp xuất hiện trên mạng.",
+      "sourceSha256": "67486707f8b2a9fc653903b0ff3ea58092ae0ebba5b4640bf06d28a49cd1e9aa",
+      "purpose": "viral"
+    },
+    {
+      "id": 64,
+      "sourceId": 74,
+      "start": 206.93333333333334,
+      "end": 209.3,
+      "narrationEnd": 208.92376179245284,
+      "environment": "press",
+      "action": "viral",
+      "cameras": [
+        "phone-pov",
+        "reaction-cu",
+        "tracking"
+      ],
+      "text": "Sau đó là video bạn nói nhiều thứ tiếng.",
+      "sourceSha256": "fbd89969ad92c739e4607a819a09088154137d835790f3b754d036ee5e8d3928",
+      "purpose": "viral"
+    },
+    {
+      "id": 65,
+      "sourceId": 75,
+      "start": 209.3,
+      "end": 212.23333333333332,
+      "narrationEnd": 211.828911163522,
+      "environment": "press",
+      "action": "viral",
+      "cameras": [
+        "phone-pov",
+        "reaction-cu",
+        "tracking"
+      ],
+      "text": "Rồi video bạn lập trình, nấu ăn và chơi thể thao.",
+      "sourceSha256": "35e821dbbcc55033292115188a1d2678768e6f75e632d1c982f60df07fccaa52",
+      "purpose": "viral"
+    },
+    {
+      "id": 66,
+      "sourceId": 76,
+      "start": 212.23333333333332,
+      "end": 214.96666666666667,
+      "narrationEnd": 214.56132075471697,
+      "environment": "press",
+      "action": "viral",
+      "cameras": [
+        "phone-pov",
+        "reaction-cu",
+        "tracking"
+      ],
+      "text": "Mọi người bắt đầu gọi bạn là thiên tài hiếm có.",
+      "sourceSha256": "6e9792126ac5cd069c02689ad79f717a917832038a6b23504779be72f58bb762",
+      "purpose": "viral"
+    },
+    {
+      "id": 67,
+      "sourceId": 77,
+      "start": 214.96666666666667,
+      "end": 217.7,
+      "narrationEnd": 217.29830974842767,
+      "environment": "research",
+      "action": "investigate",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Nhưng một nhà nghiên cứu phát hiện ra điều bất thường.",
+      "sourceSha256": "40ccb41537312b0b5961867fd57889c22c1082ad88ab3e9865b40b2d55b8a889",
+      "purpose": "investigate"
+    },
+    {
+      "id": 68,
+      "sourceId": 78,
+      "start": 217.7,
+      "end": 222.03333333333333,
+      "narrationEnd": 221.65685927672956,
+      "environment": "research",
+      "action": "investigate",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Bạn luôn thể hiện một kỹ năng mới ngay sau khi gặp một chuyên gia trong lĩnh vực đó.",
+      "sourceSha256": "127abedb3a954d824fc36a468b6703bb0b7341979094abe4815198c3b37b73d4",
+      "purpose": "investigate"
+    },
+    {
+      "id": 69,
+      "sourceId": 79,
+      "start": 222.03333333333333,
+      "end": 225.36666666666667,
+      "narrationEnd": 224.98657625786163,
+      "environment": "research",
+      "action": "investigate",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Và chưa bao giờ thể hiện hai kỹ năng đặc biệt cùng một lúc.",
+      "sourceSha256": "6190628b64e3c7959c6265c4c38006f25bd80693dcab7f1409897ffe16fa4124",
+      "purpose": "investigate"
+    },
+    {
+      "id": 70,
+      "sourceId": 80,
+      "start": 225.36666666666667,
+      "end": 228.26666666666668,
+      "narrationEnd": 227.89072327044025,
+      "environment": "business",
+      "action": "offers",
+      "cameras": [
+        "phone-pov",
+        "reaction-cu",
+        "tracking"
+      ],
+      "text": "Chẳng bao lâu, điện thoại của bạn liên tục đổ chuông.",
+      "sourceSha256": "5bda94844576588113fdd74e40be611adde8534091bae11fc4c5979779cb7250",
+      "purpose": "offers"
+    },
+    {
+      "id": 71,
+      "sourceId": 81,
+      "start": 228.26666666666668,
+      "end": 230.36666666666667,
+      "narrationEnd": 229.99907625786165,
+      "environment": "business",
+      "action": "offers",
+      "cameras": [
+        "phone-pov",
+        "reaction-cu",
+        "tracking"
+      ],
+      "text": "Các công ty công nghệ muốn hợp tác.",
+      "sourceSha256": "44daeda7e6d6ecd577acfae7d75d13029ac98aa018fc33b9cccc54229ccf8f08",
+      "purpose": "offers"
+    },
+    {
+      "id": 72,
+      "sourceId": 82,
+      "start": 230.36666666666667,
+      "end": 233.1,
+      "narrationEnd": 232.7047759433962,
+      "environment": "business",
+      "action": "offers",
+      "cameras": [
+        "phone-pov",
+        "reaction-cu",
+        "tracking"
+      ],
+      "text": "Những viện nghiên cứu muốn kiểm tra khả năng của bạn.",
+      "sourceSha256": "4ea14a862646c25e1f5f89f48549cd1beef8a9bea72793be25e4109b9083552d",
+      "purpose": "offers"
+    },
+    {
+      "id": 73,
+      "sourceId": 83,
+      "start": 233.1,
+      "end": 237.66666666666666,
+      "narrationEnd": 237.2750786163522,
+      "environment": "business",
+      "action": "offers",
+      "cameras": [
+        "phone-pov",
+        "reaction-cu",
+        "tracking"
+      ],
+      "text": "Các tập đoàn đề nghị trả hàng triệu đô la để bạn làm việc trong những dự án đặc biệt.",
+      "sourceSha256": "ff801c3a82cb968ac1ead1bbed10eafbd01c13b6ff54e76dbfc4f90cfb6946fd",
+      "purpose": "offers"
+    },
+    {
+      "id": 74,
+      "sourceId": 84,
+      "start": 237.66666666666666,
+      "end": 242.63333333333333,
+      "narrationEnd": 242.23759827044026,
+      "environment": "meeting",
+      "action": "contract",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Nhưng chính những người sở hữu kỹ năng mà bạn muốn sao chép cũng bắt đầu nhận ra giá trị của họ.",
+      "sourceSha256": "5446b28f89da43bd7115f73892d3256f1d0cf54cc2aa66a7f28c4570ceae9c4d",
+      "purpose": "contract"
+    },
+    {
+      "id": 75,
+      "sourceId": 85,
+      "start": 242.63333333333333,
+      "end": 246.8,
+      "narrationEnd": 246.39775943396225,
+      "environment": "meeting",
+      "action": "refuse",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Một chuyên gia hàng đầu từ chối bắt tay với bạn nếu không có thỏa thuận rõ ràng.",
+      "sourceSha256": "183258065523a5f5cbbd13b59c2cdfdc507d1c78efda359b0b21b589454bb506",
+      "purpose": "refuse"
+    },
+    {
+      "id": 76,
+      "sourceId": 86,
+      "start": 246.8,
+      "end": 251.36666666666667,
+      "narrationEnd": 250.95125786163524,
+      "environment": "meeting",
+      "action": "refuse",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Một người khác lo ngại rằng bạn sẽ sử dụng kỹ năng của họ để cạnh tranh với chính họ.",
+      "sourceSha256": "95bb892ff71d8565687bc5f6b0a3be028e1da0cd806cc5595bafd7563eeecbb0",
+      "purpose": "refuse"
+    },
+    {
+      "id": 77,
+      "sourceId": 87,
+      "start": 251.36666666666667,
+      "end": 255.5,
+      "narrationEnd": 255.1031643081761,
+      "environment": "meeting",
+      "action": "contract",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Bạn từng nghĩ rằng mình có thể trở thành bất kỳ ai chỉ bằng một cái bắt tay.",
+      "sourceSha256": "a51559fb420258d133326c873f496bfc3579f4f07b722db1f59410e9b7b5de72",
+      "purpose": "contract"
+    },
+    {
+      "id": 78,
+      "sourceId": 88,
+      "start": 255.5,
+      "end": 259.8333333333333,
+      "narrationEnd": 259.45980738993705,
+      "environment": "meeting",
+      "action": "refuse",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Nhưng giờ đây, việc tiếp cận những người giỏi nhất thế giới lại trở thành trở ngại lớn nhất.",
+      "sourceSha256": "94cede89a2c439f2edd0d579fa0eb45db4827afedac0c48860198fa445a28e25",
+      "purpose": "refuse"
+    },
+    {
+      "id": 79,
+      "sourceId": 89,
+      "start": 259.8333333333333,
+      "end": 261.0,
+      "narrationEnd": 260.6215801886792,
+      "environment": "home",
+      "action": "dependence",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Bạn có tiền.",
+      "sourceSha256": "7c553865386794cf1c19450fa7b9e566e88f15e5c8f7f903ec0a1fa47646e3e2",
+      "purpose": "dependence"
+    },
+    {
+      "id": 80,
+      "sourceId": 90,
+      "start": 261.0,
+      "end": 262.4,
+      "narrationEnd": 261.98885613207545,
+      "environment": "press",
+      "action": "viral",
+      "cameras": [
+        "phone-pov",
+        "reaction-cu"
+      ],
+      "text": "Bạn có danh tiếng.",
+      "sourceSha256": "28845f9254b244d2f36b371178cff50309a826f275e71f09b909f64c156dc203",
+      "purpose": "dependence"
+    },
+    {
+      "id": 81,
+      "sourceId": 91,
+      "start": 262.4,
+      "end": 265.1333333333333,
+      "narrationEnd": 264.7193789308176,
+      "environment": "home",
+      "action": "dependence",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Nhưng khả năng của bạn vẫn phụ thuộc vào người khác.",
+      "sourceSha256": "7192e51469844930245acc1052496460a67e545733ade2c4192f298cc390b684",
+      "purpose": "dependence"
+    },
+    {
+      "id": 82,
+      "sourceId": 92,
+      "start": 265.1333333333333,
+      "end": 271.0,
+      "narrationEnd": 270.5555817610063,
+      "environment": "study",
+      "action": "discover",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Và rồi, trong lúc đang tìm cách vượt qua giới hạn đó, bạn nghĩ ra một ý tưởng mà trước đây chưa từng thử.",
+      "sourceSha256": "e6e91d483913fb3a7d8fbf4c27a2f4b45915cfb0e4cee83ad4567e96d8e7e86d",
+      "purpose": "discover"
+    },
+    {
+      "id": 83,
+      "sourceId": 93,
+      "start": 271.0,
+      "end": 276.6666666666667,
+      "narrationEnd": 276.2091391509434,
+      "environment": "study",
+      "action": "discover",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Điều gì sẽ xảy ra nếu bạn sao chép kỹ năng của một người có khả năng học tập cực kỳ xuất sắc?",
+      "sourceSha256": "6bd71b336c3298711dad3c943c9e8323e6a8b5c7a538970d6b150a624b5ea932",
+      "purpose": "discover"
+    },
+    {
+      "id": 84,
+      "sourceId": 94,
+      "start": 276.6666666666667,
+      "end": 280.3,
+      "narrationEnd": 279.8757665094339,
+      "environment": "mentor",
+      "action": "handshake",
+      "cameras": [
+        "contact-ecu",
+        "reaction-cu",
+        "two-shot"
+      ],
+      "text": "Bạn tìm gặp một chuyên gia về phương pháp học tập và ghi nhớ.",
+      "sourceSha256": "d5600e8b41911f07be29f7c70e6d730034bb606e2d5cced858482004c06c9e0b",
+      "purpose": "handshake"
+    },
+    {
+      "id": 85,
+      "sourceId": 95,
+      "start": 280.3,
+      "end": 286.4,
+      "narrationEnd": 285.96796383647796,
+      "environment": "mentor",
+      "action": "handshake",
+      "cameras": [
+        "contact-ecu",
+        "reaction-cu",
+        "two-shot"
+      ],
+      "text": "Sau khi bắt tay với ông, bạn lập tức biết cách tổ chức kiến thức, ghi nhớ thông tin và luyện tập hiệu quả hơn.",
+      "sourceSha256": "b376cea7d2d3074513c6936c6582e98bac6c557ce6c1048ef2e587e64433bf7a",
+      "purpose": "handshake"
+    },
+    {
+      "id": 86,
+      "sourceId": 96,
+      "start": 286.4,
+      "end": 290.1,
+      "narrationEnd": 289.63622248427674,
+      "environment": "study",
+      "action": "study",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Nhưng lần này, bạn không dùng 24 giờ để biểu diễn trước mọi người.",
+      "sourceSha256": "9bdf9505aa7ce3ba96485eb3e4b966154200ca6bd0c8b44029be8d056b5705f0",
+      "purpose": "study"
+    },
+    {
+      "id": 87,
+      "sourceId": 97,
+      "start": 290.1,
+      "end": 292.2,
+      "narrationEnd": 291.75503144654084,
+      "environment": "study",
+      "action": "study",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Bạn dành thời gian thực sự học.",
+      "sourceSha256": "e09b8aebc8560518fb70de6276953b87bd61cc34b22fa76bf7a2965d963009dd",
+      "purpose": "study"
+    },
+    {
+      "id": 88,
+      "sourceId": 98,
+      "start": 292.2,
+      "end": 293.6333333333333,
+      "narrationEnd": 293.1896816037736,
+      "environment": "study",
+      "action": "study",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Bạn học ngoại ngữ.",
+      "sourceSha256": "60ec4773257a06f8e12be39db4904305329edfa20a55d1e435b9860e6ebd7834",
+      "purpose": "study"
+    },
+    {
+      "id": 89,
+      "sourceId": 99,
+      "start": 293.6333333333333,
+      "end": 295.1,
+      "narrationEnd": 294.6373034591195,
+      "environment": "study",
+      "action": "study",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Bạn luyện lập trình.",
+      "sourceSha256": "1bb5d707c71f9945985e42258877764c58ac20c52a01fd6ce2335aaaf776ffae",
+      "purpose": "study"
+    },
+    {
+      "id": 90,
+      "sourceId": 100,
+      "start": 295.1,
+      "end": 296.76666666666665,
+      "narrationEnd": 296.3194575471698,
+      "environment": "study",
+      "action": "study",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Bạn nghiên cứu kinh doanh.",
+      "sourceSha256": "f24f4f3d50010154c0f5c0840798adcd2761c90e3aea0c92938045b303c22c01",
+      "purpose": "study"
+    },
+    {
+      "id": 91,
+      "sourceId": 101,
+      "start": 296.76666666666665,
+      "end": 299.7,
+      "narrationEnd": 299.2275353773585,
+      "environment": "study",
+      "action": "study",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Bạn thực hành những kỹ năng mà mình từng vay mượn.",
+      "sourceSha256": "a31d9198f6a95b401c911efd0d235de590a663988446465c322c6d080ff95a4c",
+      "purpose": "study"
+    },
+    {
+      "id": 92,
+      "sourceId": 102,
+      "start": 299.7,
+      "end": 302.5,
+      "narrationEnd": 302.0552869496855,
+      "environment": "study",
+      "action": "expiry",
+      "cameras": [
+        "skill-insert",
+        "reaction-cu"
+      ],
+      "text": "Đúng 24 giờ sau, khả năng đặc biệt biến mất.",
+      "sourceSha256": "907d93103bd4d2d506c30b1f38d9df5bd1dd42bc4c8d1cccbbf410f360248dc3",
+      "purpose": "expiry"
+    },
+    {
+      "id": 93,
+      "sourceId": 103,
+      "start": 302.5,
+      "end": 306.8333333333333,
+      "narrationEnd": 306.3888168238994,
+      "environment": "study",
+      "action": "expiry",
+      "cameras": [
+        "skill-insert",
+        "reaction-cu"
+      ],
+      "text": "Bạn không còn sử dụng phương pháp học tập ở trình độ của vị chuyên gia nữa.",
+      "sourceSha256": "86e27a6d20f207c8cbbfcdb711f57bb144a4806d31e7722c325fd20776427cba",
+      "purpose": "expiry"
+    },
+    {
+      "id": 94,
+      "sourceId": 104,
+      "start": 306.8333333333333,
+      "end": 311.6,
+      "narrationEnd": 311.1473860062893,
+      "environment": "study",
+      "action": "study",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Nhưng một phần kiến thức mà bạn chủ động học và luyện tập trong ngày hôm qua vẫn còn.",
+      "sourceSha256": "625a5ab3f33ff8da703cded2176951a4b136ecc5149cc10988b43c1e592435c2",
+      "purpose": "study"
+    },
+    {
+      "id": 95,
+      "sourceId": 105,
+      "start": 311.6,
+      "end": 313.7,
+      "narrationEnd": 313.2499213836478,
+      "environment": "study",
+      "action": "study",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Bạn thử lại vào ngày tiếp theo.",
+      "sourceSha256": "f7f4ea2bc8f8e132dd81aa26b3819d676168b428a862657e4857c3ef83f783e1",
+      "purpose": "study"
+    },
+    {
+      "id": 96,
+      "sourceId": 106,
+      "start": 313.7,
+      "end": 315.3666666666667,
+      "narrationEnd": 314.92456761006287,
+      "environment": "study",
+      "action": "study",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Rồi ngày tiếp theo nữa.",
+      "sourceSha256": "b4f90fc9b65ce04d4cdeb73b8a9ae0552402e4f7e9119cfad0378cb0ad7d1092",
+      "purpose": "study"
+    },
+    {
+      "id": 97,
+      "sourceId": 107,
+      "start": 315.3666666666667,
+      "end": 319.5,
+      "narrationEnd": 319.0319575471698,
+      "environment": "study",
+      "action": "study",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Sau nhiều tháng, bạn bắt đầu sở hữu những kỹ năng thực sự thuộc về mình.",
+      "sourceSha256": "a2c5434ec4323334f08623f3f8a2e8494b2e5c50d9e4fb0d256e605ebf1057d1",
+      "purpose": "study"
+    },
+    {
+      "id": 98,
+      "sourceId": 108,
+      "start": 319.5,
+      "end": 321.7,
+      "narrationEnd": 321.2577437106918,
+      "environment": "study",
+      "action": "study",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Chúng không biến mất sau 24 giờ.",
+      "sourceSha256": "5a0b5ac57f63b92c778f30e23d7f8c886f02a56c63d754834bba86a1027cadd0",
+      "purpose": "study"
+    },
+    {
+      "id": 99,
+      "sourceId": 109,
+      "start": 321.7,
+      "end": 325.8333333333333,
+      "narrationEnd": 325.3531839622641,
+      "environment": "coder",
+      "action": "fixedcode",
+      "cameras": [
+        "desk-ots",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Bạn không còn cần bắt tay với một lập trình viên chỉ để sửa ứng dụng.",
+      "sourceSha256": "d0c2decea2bd06062815f122792d79254b76c542c64b5e8253bb2121772b2556",
+      "purpose": "fixedcode"
+    },
+    {
+      "id": 100,
+      "sourceId": 110,
+      "start": 325.8333333333333,
+      "end": 328.53333333333336,
+      "narrationEnd": 328.057822327044,
+      "environment": "kitchen",
+      "action": "cook",
+      "cameras": [
+        "prop-insert",
+        "medium",
+        "face-cu"
+      ],
+      "text": "Không cần gặp một đầu bếp chỉ để nấu ăn.",
+      "sourceSha256": "091d66a76bdb1a40bbbe24bc4c030680b6f541b08426917e51aee01024cca6ba",
+      "purpose": "cook"
+    },
+    {
+      "id": 101,
+      "sourceId": 111,
+      "start": 328.53333333333336,
+      "end": 332.6,
+      "narrationEnd": 332.17478380503144,
+      "environment": "study",
+      "action": "retain",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Bạn đã tìm ra cách biến một năng lực tạm thời thành lợi ích lâu dài.",
+      "sourceSha256": "2f871d07133669a597310225f4825f99ca6b44ec41d0fbe1115edc51fc2dc36c",
+      "purpose": "retain"
+    },
+    {
+      "id": 102,
+      "sourceId": 112,
+      "start": 332.6,
+      "end": 336.2,
+      "narrationEnd": 335.73722484276726,
+      "environment": "lab",
+      "action": "tour",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Nhưng đúng lúc đó, cuộc đời lại đặt bạn trước một thử thách hoàn toàn khác.",
+      "sourceSha256": "87601b49c328cf750c17f24f93f5aa51cfc28490f1757f4a4189befc0810e270",
+      "purpose": "tour"
+    },
+    {
+      "id": 103,
+      "sourceId": 113,
+      "start": 336.2,
+      "end": 340.43333333333334,
+      "narrationEnd": 340.00436320754716,
+      "environment": "lab",
+      "action": "alarm",
+      "cameras": [
+        "robot-cu",
+        "victim-pov",
+        "tracking",
+        "reaction-cu"
+      ],
+      "text": "Một ngày nọ, khi đang tham quan một trung tâm nghiên cứu, bạn nghe thấy chuông báo động.",
+      "sourceSha256": "f19a0e477a0e0296f25296c00385b9278a5c3c58ee5340a993ce746a62653465",
+      "purpose": "alarm"
+    },
+    {
+      "id": 104,
+      "sourceId": 114,
+      "start": 340.43333333333334,
+      "end": 343.46666666666664,
+      "narrationEnd": 342.99677672955977,
+      "environment": "lab",
+      "action": "robotfail",
+      "cameras": [
+        "robot-cu",
+        "victim-pov",
+        "tracking",
+        "reaction-cu"
+      ],
+      "text": "Một robot cứu hộ đang hoạt động thử nghiệm thì gặp sự cố.",
+      "sourceSha256": "fde745be245ed4ae943505e404310f2e0f7ee74c5e135edad7ef927a02afaed1",
+      "purpose": "robotfail"
+    },
+    {
+      "id": 105,
+      "sourceId": 115,
+      "start": 343.46666666666664,
+      "end": 345.9,
+      "narrationEnd": 345.4476218553459,
+      "environment": "lab",
+      "action": "trapped",
+      "cameras": [
+        "robot-cu",
+        "victim-pov",
+        "tracking",
+        "reaction-cu"
+      ],
+      "text": "Bên trong khu vực thử nghiệm có người mắc kẹt.",
+      "sourceSha256": "f49d8042babe5e791f21e3130f48e292ac947fcf0d30b2db6f1871a2543274b9",
+      "purpose": "trapped"
+    },
+    {
+      "id": 106,
+      "sourceId": 116,
+      "start": 345.9,
+      "end": 349.5,
+      "narrationEnd": 349.05208333333337,
+      "environment": "lab",
+      "action": "danger",
+      "cameras": [
+        "robot-cu",
+        "victim-pov",
+        "tracking",
+        "reaction-cu"
+      ],
+      "text": "Đội cứu hộ đang trên đường đến, nhưng tình huống ngày càng trở nên nguy hiểm.",
+      "sourceSha256": "950a3c5716d9b55c688a0f384adf75321fe115ebbab5df5bd2cecbb429c316dd",
+      "purpose": "danger"
+    },
+    {
+      "id": 107,
+      "sourceId": 117,
+      "start": 349.5,
+      "end": 352.7,
+      "narrationEnd": 352.2490762578616,
+      "environment": "lab",
+      "action": "engineer",
+      "cameras": [
+        "prop-insert",
+        "desk-ots",
+        "reaction-cu"
+      ],
+      "text": "Bạn nhìn thấy một kỹ sư có kinh nghiệm điều khiển robot cứu hộ.",
+      "sourceSha256": "04a58a825c1b511c9fac2bfc6c23d81f3efd6888af8d8b9ab35f25f0215a6d45",
+      "purpose": "engineer"
+    },
+    {
+      "id": 108,
+      "sourceId": 118,
+      "start": 352.7,
+      "end": 355.73333333333335,
+      "narrationEnd": 355.2584905660377,
+      "environment": "lab",
+      "action": "injury",
+      "cameras": [
+        "prop-insert",
+        "desk-ots",
+        "reaction-cu"
+      ],
+      "text": "Ông đang bị thương ở tay và không thể vận hành thiết bị.",
+      "sourceSha256": "06ae0082e6cbc5f7eafc5eb86b51880010bcd80597b59868e56f86469d4acca0",
+      "purpose": "injury"
+    },
+    {
+      "id": 109,
+      "sourceId": 119,
+      "start": 355.73333333333335,
+      "end": 358.0,
+      "narrationEnd": 357.53054245283016,
+      "environment": "lab",
+      "action": "handshake",
+      "cameras": [
+        "contact-ecu",
+        "reaction-cu",
+        "two-shot"
+      ],
+      "text": "Bạn lập tức xin phép bắt tay với ông.",
+      "sourceSha256": "4ba0bcd387c25811befe6eaa86ee58c11be1e9994d0feca0d5a593b8f9dd3c8a",
+      "purpose": "handshake"
+    },
+    {
+      "id": 110,
+      "sourceId": 120,
+      "start": 358.0,
+      "end": 361.03333333333336,
+      "narrationEnd": 360.5846305031446,
+      "environment": "lab",
+      "action": "control",
+      "cameras": [
+        "prop-insert",
+        "desk-ots",
+        "reaction-cu"
+      ],
+      "text": "Trong vài giây, bạn hiểu cách sử dụng hệ thống điều khiển.",
+      "sourceSha256": "0223310ae782b30d1f53663c1df43d6133730eda84646fb7909f068ba55475df",
+      "purpose": "control"
+    },
+    {
+      "id": 111,
+      "sourceId": 121,
+      "start": 361.03333333333336,
+      "end": 367.03333333333336,
+      "narrationEnd": 366.59536163522006,
+      "environment": "lab",
+      "action": "rescue",
+      "cameras": [
+        "robot-cu",
+        "victim-pov",
+        "tracking",
+        "reaction-cu"
+      ],
+      "text": "Dưới sự hướng dẫn của kỹ sư và đội ngũ tại chỗ, bạn đưa robot tiếp cận khu vực nguy hiểm, hỗ trợ giải cứu người mắc kẹt.",
+      "sourceSha256": "ccdb6a7521979004d423dbb143841ef210642f82757284e5b3f8c427ceae5b68",
+      "purpose": "rescue"
+    },
+    {
+      "id": 112,
+      "sourceId": 122,
+      "start": 367.03333333333336,
+      "end": 369.6333333333333,
+      "narrationEnd": 369.18704795597483,
+      "environment": "lab",
+      "action": "relief",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Sau khi mọi chuyện kết thúc, mọi người vỗ tay.",
+      "sourceSha256": "d326984969eaed855eac33a65aac8be54ec1b386cf94b421d0119a2f31785b77",
+      "purpose": "relief"
+    },
+    {
+      "id": 113,
+      "sourceId": 123,
+      "start": 369.6333333333333,
+      "end": 373.1,
+      "narrationEnd": 372.6789504716981,
+      "environment": "lab",
+      "action": "thanks",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Nhưng lần này, bạn không quan tâm đến danh tiếng hay tiền bạc.",
+      "sourceSha256": "032507017b008fcd23ec4db23589964e1bba4d97ede4aa4097644c1c4ee299e8",
+      "purpose": "thanks"
+    },
+    {
+      "id": 114,
+      "sourceId": 124,
+      "start": 373.1,
+      "end": 379.1333333333333,
+      "narrationEnd": 378.674233490566,
+      "environment": "lab",
+      "action": "thanks",
+      "cameras": [
+        "medium",
+        "reaction-cu",
+        "reveal"
+      ],
+      "text": "Bởi vì trong suốt hành trình của mình, đây là lần đầu tiên bạn cảm thấy 24 giờ ấy thực sự có ý nghĩa.",
+      "sourceSha256": "05dd1ccd26081d53cd956b797641cf186957129abef08cab55cf77d8eb08e289",
+      "purpose": "thanks"
+    },
+    {
+      "id": 115,
+      "sourceId": 125,
+      "start": 379.1333333333333,
+      "end": 384.6666666666667,
+      "narrationEnd": 384.2190644654088,
+      "environment": "cafe",
+      "action": "montage",
+      "cameras": [
+        "medium",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Một năm trước, bạn nghĩ rằng khả năng tuyệt vời nhất trên thế giới là có thể trở thành bất kỳ ai.",
+      "sourceSha256": "cbf2d042c24789220039d92e0fe578c6a9098ea3789a79676de625eccb97f827",
+      "purpose": "montage"
+    },
+    {
+      "id": 116,
+      "sourceId": 126,
+      "start": 384.6666666666667,
+      "end": 386.8,
+      "narrationEnd": 386.34056603773587,
+      "environment": "kitchen",
+      "action": "montage",
+      "cameras": [
+        "medium",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Bạn muốn trở thành người giàu nhất.",
+      "sourceSha256": "7401e9c418544a5d3fe2c031390ba633e0d7c31a258dba0f8f71da0f50ce67ef",
+      "purpose": "montage"
+    },
+    {
+      "id": 117,
+      "sourceId": 127,
+      "start": 386.8,
+      "end": 388.23333333333335,
+      "narrationEnd": 387.7985849056604,
+      "environment": "coder",
+      "action": "montage",
+      "cameras": [
+        "medium",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Người thông minh nhất.",
+      "sourceSha256": "b96bddc8c3b62b4d4486d7b4be217021fa1a221272ca8d0b38073bf3932877bc",
+      "purpose": "montage"
+    },
+    {
+      "id": 118,
+      "sourceId": 128,
+      "start": 388.23333333333335,
+      "end": 389.7,
+      "narrationEnd": 389.24858490566044,
+      "environment": "boxing",
+      "action": "montage",
+      "cameras": [
+        "medium",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Người tài năng nhất.",
+      "sourceSha256": "544da34a90ced758bf2bc09617aef63cc9f52a136b79e4819b1265c3913281f2",
+      "purpose": "montage"
+    },
+    {
+      "id": 119,
+      "sourceId": 129,
+      "start": 389.7,
+      "end": 397.03333333333336,
+      "narrationEnd": 396.6098466981132,
+      "environment": "mentor",
+      "action": "montage",
+      "cameras": [
+        "medium",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Nhưng sau hàng trăm lần sao chép kỹ năng, bạn phát hiện ra rằng mỗi người giỏi đều có một thứ mà năng lực của bạn không thể lấy đi.",
+      "sourceSha256": "229d7a595305109f720dc2c8b15ea877118f92b3f02d71622c63d3c0da997038",
+      "purpose": "montage"
+    },
+    {
+      "id": 120,
+      "sourceId": 130,
+      "start": 397.03333333333336,
+      "end": 400.8,
+      "narrationEnd": 400.3259827044025,
+      "environment": "study",
+      "action": "montage",
+      "cameras": [
+        "medium",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Đó là những năm tháng họ đã bỏ ra để trở thành chính mình.",
+      "sourceSha256": "38fac824b081d8fee3e188e522b7d30f40b97dc68f968da80f62c183b939551f",
+      "purpose": "montage"
+    },
+    {
+      "id": 121,
+      "sourceId": 131,
+      "start": 400.8,
+      "end": 403.8666666666667,
+      "narrationEnd": 403.40397012578615,
+      "environment": "cafe",
+      "action": "montage",
+      "cameras": [
+        "medium",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Bạn có thể mượn kỹ năng của họ trong 24 giờ.",
+      "sourceSha256": "f74dc07428330400955be9dbdc8af76305ba0a0ce32e9505aad6e5626637e61b",
+      "purpose": "montage"
+    },
+    {
+      "id": 122,
+      "sourceId": 132,
+      "start": 403.8666666666667,
+      "end": 406.7,
+      "narrationEnd": 406.24056603773585,
+      "environment": "mentor",
+      "action": "montage",
+      "cameras": [
+        "medium",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Nhưng bạn không thể mượn cả cuộc đời của họ.",
+      "sourceSha256": "ac96a8ad86d55d43688e394e970ab67f47750a700aa92510976c45ee1e373458",
+      "purpose": "montage"
+    },
+    {
+      "id": 123,
+      "sourceId": 133,
+      "start": 406.7,
+      "end": 409.73333333333335,
+      "narrationEnd": 409.29740566037736,
+      "environment": "study",
+      "action": "expiry",
+      "cameras": [
+        "skill-insert",
+        "desk-ots"
+      ],
+      "text": "Và nếu ngày mai khả năng này đột nhiên biến mất...",
+      "sourceSha256": "ac4041dea617eefd3de93ed8877b8276c139686af0dc21b9df97b6e50eabd16e",
+      "purpose": "montage"
+    },
+    {
+      "id": 124,
+      "sourceId": 134,
+      "start": 409.73333333333335,
+      "end": 412.76666666666665,
+      "narrationEnd": 412.3148977987421,
+      "environment": "coder",
+      "action": "fixedcode",
+      "cameras": [
+        "medium",
+        "prop-insert",
+        "face-cu"
+      ],
+      "text": "Bạn vẫn còn những gì mình đã thực sự học được.",
+      "sourceSha256": "be9c018422f6133c6df322ad71633cc157af66a92439367d64ab1b69cbe274c9",
+      "purpose": "montage"
+    },
+    {
+      "id": 125,
+      "sourceId": 135,
+      "start": 412.76666666666665,
+      "end": 418.1,
+      "narrationEnd": 417.6419614779874,
+      "environment": "street",
+      "action": "montage",
+      "cameras": [
+        "medium",
+        "face-cu"
+      ],
+      "text": "Vậy nếu được sao chép kỹ năng của một người bất kỳ trong 24 giờ, bạn sẽ chọn ai đầu tiên?",
+      "sourceSha256": "7e83cccdcd286e09997be72084fd10bb1ae46197c63548e3dc5483af9aed57aa",
+      "purpose": "montage"
+    }
+  ],
+  "captionCues": [
+    {
+      "start": 0.0,
+      "end": 2.287945837471036,
+      "text": "Trong lúc trò chuyện, bạn vô tình bắt tay với một",
+      "sourceId": 13
+    },
+    {
+      "start": 2.287945837471036,
+      "end": 3.95190644654088,
+      "text": "nghệ sĩ piano đang biểu diễn tại đó.",
+      "sourceId": 13
+    },
+    {
+      "start": 4.276729559748428,
+      "end": 6.382763364779874,
+      "text": "Đột nhiên, bạn cảm thấy có gì đó khác lạ.",
+      "sourceId": 14
+    },
+    {
+      "start": 6.698113207547169,
+      "end": 8.262283805031446,
+      "text": "Bạn nhìn chiếc đàn ở góc phòng.",
+      "sourceId": 15
+    },
+    {
+      "start": 8.584905660377357,
+      "end": 10.853043107966455,
+      "text": "Những nốt nhạc trước đây chẳng có ý nghĩa gì giờ",
+      "sourceId": 16
+    },
+    {
+      "start": 10.853043107966455,
+      "end": 12.29640330188679,
+      "text": "lại trở nên vô cùng dễ hiểu.",
+      "sourceId": 16
+    },
+    {
+      "start": 12.61006289308176,
+      "end": 15.045265002620546,
+      "text": "Bạn ngồi xuống, đặt tay lên phím đàn và bắt đầu",
+      "sourceId": 17
+    },
+    {
+      "start": 15.045265002620546,
+      "end": 15.266647012578614,
+      "text": "chơi.",
+      "sourceId": 17
+    },
+    {
+      "start": 15.59748427672956,
+      "end": 17.885144129979036,
+      "text": "Những ngón tay chuyển động nhanh đến mức chính bạn cũng",
+      "sourceId": 18
+    },
+    {
+      "start": 17.885144129979036,
+      "end": 18.717020440251574,
+      "text": "không thể tin được.",
+      "sourceId": 18
+    },
+    {
+      "start": 19.0251572327044,
+      "end": 20.932940251572326,
+      "text": "Tất cả khách hàng trong quán quay lại nhìn.",
+      "sourceId": 19
+    },
+    {
+      "start": 21.257861635220127,
+      "end": 22.979775943396227,
+      "text": "Có người lấy điện thoại ra quay phim.",
+      "sourceId": 20
+    },
+    {
+      "start": 23.30188679245283,
+      "end": 25.58440120545073,
+      "text": "Bạn lập tức chạy về nhà và thử tìm hiểu khả",
+      "sourceId": 21
+    },
+    {
+      "start": 25.58440120545073,
+      "end": 26.41440644654088,
+      "text": "năng mới của mình.",
+      "sourceId": 21
+    },
+    {
+      "start": 26.729559748427672,
+      "end": 28.835357704402515,
+      "text": "Bạn bắt tay với người hàng xóm biết sửa xe.",
+      "sourceId": 22
+    },
+    {
+      "start": 29.150943396226413,
+      "end": 31.44991080067731,
+      "text": "Chỉ vài giây sau, bạn hiểu rõ từng bộ phận trong",
+      "sourceId": 23
+    },
+    {
+      "start": 31.44991080067731,
+      "end": 31.86790487421383,
+      "text": "động cơ.",
+      "sourceId": 23
+    },
+    {
+      "start": 32.16981132075472,
+      "end": 34.650266086115145,
+      "text": "Nhưng khi quay lại chiếc đàn piano, bạn không còn biết",
+      "sourceId": 24
+    },
+    {
+      "start": 34.650266086115145,
+      "end": 35.101257861635226,
+      "text": "chơi nữa.",
+      "sourceId": 24
+    },
+    {
+      "start": 35.40880503144654,
+      "end": 37.145892295597484,
+      "text": "Nhưng khả năng này có hai giới hạn.",
+      "sourceId": 6
+    },
+    {
+      "start": 37.45283018867924,
+      "end": 39.77771881551363,
+      "text": "Bạn chỉ có thể sao chép kỹ năng của một người",
+      "sourceId": 7
+    },
+    {
+      "start": 39.77771881551363,
+      "end": 40.62313286163522,
+      "text": "tại một thời điểm.",
+      "sourceId": 7
+    },
+    {
+      "start": 40.94339622641509,
+      "end": 43.43356313497823,
+      "text": "Và sau đúng 24 giờ, toàn bộ kỹ năng ấy sẽ",
+      "sourceId": 8
+    },
+    {
+      "start": 43.43356313497823,
+      "end": 43.88632075471698,
+      "text": "biến mất.",
+      "sourceId": 8
+    },
+    {
+      "start": 44.21383647798742,
+      "end": 46.487066518169115,
+      "text": "Bạn nhận ra rằng mỗi lần sao chép kỹ năng mới,",
+      "sourceId": 25
+    },
+    {
+      "start": 46.487066518169115,
+      "end": 47.933667452830186,
+      "text": "kỹ năng cũ sẽ bị thay thế.",
+      "sourceId": 25
+    },
+    {
+      "start": 48.23899371069182,
+      "end": 50.514702486242136,
+      "text": "Giống như một chiếc USB chỉ có đủ bộ nhớ để",
+      "sourceId": 26
+    },
+    {
+      "start": 50.514702486242136,
+      "end": 51.549115566037734,
+      "text": "lưu một bộ kỹ năng.",
+      "sourceId": 26
+    },
+    {
+      "start": 51.855345911949684,
+      "end": 54.16654219077568,
+      "text": "Và ngay lúc này, bạn bắt đầu nghĩ đến chuyện kiếm",
+      "sourceId": 27
+    },
+    {
+      "start": 54.16654219077568,
+      "end": 54.37665094339623,
+      "text": "tiền.",
+      "sourceId": 27
+    },
+    {
+      "start": 54.685534591194966,
+      "end": 57.03048349056604,
+      "text": "Ngày hôm sau, bạn tìm gặp một đầu bếp chuyên nghiệp.",
+      "sourceId": 28
+    },
+    {
+      "start": 57.35849056603773,
+      "end": 59.52765330188679,
+      "text": "Sau một cái bắt tay, bạn có thể chế biến những",
+      "sourceId": 29
+    },
+    {
+      "start": 59.52765330188679,
+      "end": 61.69681603773584,
+      "text": "món ăn mà trước đây chỉ nhìn thấy trong nhà hàng.",
+      "sourceId": 29
+    },
+    {
+      "start": 62.0125786163522,
+      "end": 64.22193265199161,
+      "text": "Bạn nhận nấu ăn cho một buổi tiệc và kiếm được",
+      "sourceId": 30
+    },
+    {
+      "start": 64.22193265199161,
+      "end": 65.02533411949686,
+      "text": "khoản tiền đầu tiên.",
+      "sourceId": 30
+    },
+    {
+      "start": 65.34591194968553,
+      "end": 67.72224842767295,
+      "text": "Ngày tiếp theo, bạn tìm đến một lập trình viên giỏi.",
+      "sourceId": 31
+    },
+    {
+      "start": 68.0503144654088,
+      "end": 70.07895047169812,
+      "text": "Bạn dành cả ngày để xây dựng một ứng dụng.",
+      "sourceId": 32
+    },
+    {
+      "start": 70.40880503144655,
+      "end": 72.57495641919606,
+      "text": "Sang ngày thứ ba, bạn sao chép kỹ năng của một",
+      "sourceId": 33
+    },
+    {
+      "start": 72.57495641919606,
+      "end": 74.74110780694558,
+      "text": "nhà thiết kế và tạo ra hàng loạt sản phẩm đẹp",
+      "sourceId": 33
+    },
+    {
+      "start": 74.74110780694558,
+      "end": 74.93803066037736,
+      "text": "mắt.",
+      "sourceId": 33
+    },
+    {
+      "start": 75.25157232704402,
+      "end": 77.45739296081277,
+      "text": "Ngày thứ tư, bạn bắt tay với một người bán hàng",
+      "sourceId": 34
+    },
+    {
+      "start": 77.45739296081277,
+      "end": 77.85845125786163,
+      "text": "xuất sắc.",
+      "sourceId": 34
+    },
+    {
+      "start": 78.17610062893081,
+      "end": 80.35579031271837,
+      "text": "Bạn bắt đầu hiểu tâm lý khách hàng, cách trình bày",
+      "sourceId": 35
+    },
+    {
+      "start": 80.35579031271837,
+      "end": 81.74286556603772,
+      "text": "sản phẩm và thuyết phục người mua.",
+      "sourceId": 35
+    },
+    {
+      "start": 82.0754716981132,
+      "end": 84.27273977987421,
+      "text": "Chỉ trong một tuần, bạn đã trải nghiệm những nghề nghiệp",
+      "sourceId": 36
+    },
+    {
+      "start": 84.27273977987421,
+      "end": 86.47000786163521,
+      "text": "mà người bình thường phải dành nhiều năm để thành thạo.",
+      "sourceId": 36
+    },
+    {
+      "start": 86.79245283018868,
+      "end": 88.62606132075472,
+      "text": "Nhưng rồi bạn nhận được một cuộc gọi.",
+      "sourceId": 37
+    },
+    {
+      "start": 89.02515723270439,
+      "end": 91.48913128930816,
+      "text": "Khách hàng muốn bạn sửa lỗi trong ứng dụng đã viết",
+      "sourceId": 38
+    },
+    {
+      "start": 91.48913128930816,
+      "end": 92.16112421383646,
+      "text": "ba ngày trước.",
+      "sourceId": 38
+    },
+    {
+      "start": 92.54716981132074,
+      "end": 93.51136006289308,
+      "text": "Bạn mở máy tính.",
+      "sourceId": 39
+    },
+    {
+      "start": 93.89937106918238,
+      "end": 95.08561320754717,
+      "text": "Nhìn hàng nghìn dòng code.",
+      "sourceId": 40
+    },
+    {
+      "start": 95.47169811320755,
+      "end": 96.87613993710691,
+      "text": "Và chẳng hiểu một dòng nào.",
+      "sourceId": 41
+    },
+    {
+      "start": 97.26415094339622,
+      "end": 99.71897725039307,
+      "text": "Lúc này, bạn phát hiện điểm yếu đầu tiên của khả",
+      "sourceId": 42
+    },
+    {
+      "start": 99.71897725039307,
+      "end": 100.8348073899371,
+      "text": "năng tưởng chừng hoàn hảo.",
+      "sourceId": 42
+    },
+    {
+      "start": 101.22641509433961,
+      "end": 103.7189072327044,
+      "text": "Bạn có thể hoàn thành công việc của một chuyên gia.",
+      "sourceId": 43
+    },
+    {
+      "start": 104.1194968553459,
+      "end": 106.38449292452829,
+      "text": "Nhưng không thể duy trì chuyên môn đó mãi mãi.",
+      "sourceId": 44
+    },
+    {
+      "start": 106.79245283018868,
+      "end": 109.05100235849056,
+      "text": "Bạn quyết định tìm hiểu xem khả năng này có thể",
+      "sourceId": 45
+    },
+    {
+      "start": 109.05100235849056,
+      "end": 111.30955188679245,
+      "text": "biến mình thành một vận động viên hàng đầu hay không.",
+      "sourceId": 45
+    },
+    {
+      "start": 111.69811320754717,
+      "end": 113.98879868166425,
+      "text": "Bạn đến phòng tập và bắt tay với một võ sĩ",
+      "sourceId": 46
+    },
+    {
+      "start": 113.98879868166425,
+      "end": 114.40528694968553,
+      "text": "chuyên nghiệp.",
+      "sourceId": 46
+    },
+    {
+      "start": 114.81132075471697,
+      "end": 117.08038303633822,
+      "text": "Ngay lập tức, bạn hiểu cách di chuyển, né đòn và",
+      "sourceId": 47
+    },
+    {
+      "start": 117.08038303633822,
+      "end": 118.5243317610063,
+      "text": "thực hiện các kỹ thuật phức tạp.",
+      "sourceId": 47
+    },
+    {
+      "start": 118.93081761006289,
+      "end": 120.84384827044025,
+      "text": "Bạn tự tin bước lên võ đài tập luyện.",
+      "sourceId": 48
+    },
+    {
+      "start": 121.22641509433961,
+      "end": 123.53805031446541,
+      "text": "Nhưng chỉ sau vài phút, bạn đã thở không ra hơi.",
+      "sourceId": 49
+    },
+    {
+      "start": 123.93081761006289,
+      "end": 125.63858097484277,
+      "text": "Bạn biết chính xác mình phải làm gì.",
+      "sourceId": 50
+    },
+    {
+      "start": 126.03773584905659,
+      "end": 128.3383205581761,
+      "text": "Chỉ có điều cơ thể bạn không đủ sức để thực",
+      "sourceId": 51
+    },
+    {
+      "start": 128.3383205581761,
+      "end": 128.5474646226415,
+      "text": "hiện.",
+      "sourceId": 51
+    },
+    {
+      "start": 128.9308176100629,
+      "end": 131.21924135220124,
+      "text": "Bạn tiếp tục sao chép kỹ năng của một vận động",
+      "sourceId": 52
+    },
+    {
+      "start": 131.21924135220124,
+      "end": 131.84335691823898,
+      "text": "viên cử tạ.",
+      "sourceId": 52
+    },
+    {
+      "start": 132.2327044025157,
+      "end": 134.52542321802932,
+      "text": "Bạn hiểu tư thế nâng tạ, cách giữ thăng bằng và",
+      "sourceId": 53
+    },
+    {
+      "start": 134.52542321802932,
+      "end": 135.35913915094338,
+      "text": "kiểm soát chuyển động.",
+      "sourceId": 53
+    },
+    {
+      "start": 135.75471698113208,
+      "end": 138.04222961590295,
+      "text": "Nhưng cơ bắp của bạn vẫn là cơ bắp của một",
+      "sourceId": 54
+    },
+    {
+      "start": 138.04222961590295,
+      "end": 138.6660966981132,
+      "text": "người bình thường.",
+      "sourceId": 54
+    },
+    {
+      "start": 139.0566037735849,
+      "end": 141.4020047169811,
+      "text": "Bạn không thể đột nhiên nâng được hàng trăm kilôgam.",
+      "sourceId": 55
+    },
+    {
+      "start": 141.7924528301887,
+      "end": 143.9182389937107,
+      "text": "Cuối cùng, bạn hiểu ra một quy luật quan trọng.",
+      "sourceId": 56
+    },
+    {
+      "start": 144.3081761006289,
+      "end": 146.5622913642961,
+      "text": "Khả năng này sao chép kỹ năng, chứ không sao chép",
+      "sourceId": 57
+    },
+    {
+      "start": 146.5622913642961,
+      "end": 148.81640662796323,
+      "text": "thể chất, tài sản hay những năm tháng rèn luyện cơ",
+      "sourceId": 57
+    },
+    {
+      "start": 148.81640662796323,
+      "end": 149.63608490566037,
+      "text": "thể của người khác.",
+      "sourceId": 57
+    },
+    {
+      "start": 150.0314465408805,
+      "end": 152.3287162604822,
+      "text": "Bạn có thể biết cách chạy như một vận động viên",
+      "sourceId": 58
+    },
+    {
+      "start": 152.3287162604822,
+      "end": 152.53755896226414,
+      "text": "Olympic.",
+      "sourceId": 58
+    },
+    {
+      "start": 152.92452830188677,
+      "end": 155.02792845911947,
+      "text": "Nhưng không có nghĩa bạn sẽ chạy nhanh như họ.",
+      "sourceId": 59
+    },
+    {
+      "start": 155.40880503144652,
+      "end": 157.32195361635218,
+      "text": "Vậy nếu không thể trở thành người mạnh nhất...",
+      "sourceId": 60
+    },
+    {
+      "start": 157.70440251572325,
+      "end": 160.00199652777775,
+      "text": "Tại sao không trở thành người thông minh và đa tài",
+      "sourceId": 61
+    },
+    {
+      "start": 160.00199652777775,
+      "end": 160.2108687106918,
+      "text": "nhất?",
+      "sourceId": 61
+    },
+    {
+      "start": 160.59748427672955,
+      "end": 162.89659165356395,
+      "text": "Bạn bắt đầu sử dụng khả năng một cách có kế",
+      "sourceId": 62
+    },
+    {
+      "start": 162.89659165356395,
+      "end": 163.10560141509433,
+      "text": "hoạch.",
+      "sourceId": 62
+    },
+    {
+      "start": 163.49056603773585,
+      "end": 165.92547268081762,
+      "text": "Thứ Hai, bạn sao chép kỹ năng của một kiến trúc",
+      "sourceId": 63
+    },
+    {
+      "start": 165.92547268081762,
+      "end": 167.91766902515724,
+      "text": "sư để lên ý tưởng thiết kế văn phòng.",
+      "sourceId": 63
+    },
+    {
+      "start": 168.30188679245282,
+      "end": 170.56804245283018,
+      "text": "Thứ Ba, bạn sao chép kỹ năng của một kỹ sư",
+      "sourceId": 64
+    },
+    {
+      "start": 170.56804245283018,
+      "end": 172.42216981132077,
+      "text": "phần mềm để xây dựng hệ thống quản lý.",
+      "sourceId": 64
+    },
+    {
+      "start": 172.83018867924525,
+      "end": 174.97240566037732,
+      "text": "Thứ Tư, bạn trở thành một chuyên gia marketing.",
+      "sourceId": 65
+    },
+    {
+      "start": 175.37735849056602,
+      "end": 177.6580424528302,
+      "text": "Thứ Năm, bạn học cách quản lý tài chính từ một",
+      "sourceId": 66
+    },
+    {
+      "start": 177.6580424528302,
+      "end": 178.4873820754717,
+      "text": "người có kinh nghiệm.",
+      "sourceId": 66
+    },
+    {
+      "start": 178.86792452830187,
+      "end": 181.15692479035638,
+      "text": "Thứ Sáu, bạn tìm đến một chuyên gia đàm phán để",
+      "sourceId": 67
+    },
+    {
+      "start": 181.15692479035638,
+      "end": 181.98928852201257,
+      "text": "gặp gỡ đối tác.",
+      "sourceId": 67
+    },
+    {
+      "start": 182.38993710691824,
+      "end": 184.65776543363125,
+      "text": "Bạn ghi lại những gì mình thực hiện trong từng ngày",
+      "sourceId": 68
+    },
+    {
+      "start": 184.65776543363125,
+      "end": 186.30709512578616,
+      "text": "bằng tài liệu, video và bản hướng dẫn.",
+      "sourceId": 68
+    },
+    {
+      "start": 186.69811320754715,
+      "end": 188.96381485849057,
+      "text": "Bởi vì mặc dù kỹ năng sẽ biến mất, những sản",
+      "sourceId": 69
+    },
+    {
+      "start": 188.96381485849057,
+      "end": 190.81757075471697,
+      "text": "phẩm do bạn tạo ra vẫn còn tồn tại.",
+      "sourceId": 69
+    },
+    {
+      "start": 191.1949685534591,
+      "end": 193.10876572327044,
+      "text": "Dần dần, bạn xây dựng được một doanh nghiệp.",
+      "sourceId": 70
+    },
+    {
+      "start": 193.49056603773585,
+      "end": 195.73970406558848,
+      "text": "Thay vì phải tự làm mọi thứ, bạn bắt đầu thuê",
+      "sourceId": 71
+    },
+    {
+      "start": 195.73970406558848,
+      "end": 197.98884209344112,
+      "text": "những người có chuyên môn để tiếp tục công việc khi",
+      "sourceId": 71
+    },
+    {
+      "start": 197.98884209344112,
+      "end": 199.21564465408804,
+      "text": "khả năng của mình hết hạn.",
+      "sourceId": 71
+    },
+    {
+      "start": 199.62264150943395,
+      "end": 201.9903367400419,
+      "text": "Nhưng thành công càng lớn, bạn càng khó che giấu bí",
+      "sourceId": 72
+    },
+    {
+      "start": 201.9903367400419,
+      "end": 202.20558176100627,
+      "text": "mật.",
+      "sourceId": 72
+    },
+    {
+      "start": 202.61006289308176,
+      "end": 204.89914659880833,
+      "text": "Một đoạn video ghi lại cảnh bạn chơi piano như một",
+      "sourceId": 73
+    },
+    {
+      "start": 204.89914659880833,
+      "end": 206.56393474842767,
+      "text": "nghệ sĩ chuyên nghiệp xuất hiện trên mạng.",
+      "sourceId": 73
+    },
+    {
+      "start": 206.9496855345912,
+      "end": 208.92376179245284,
+      "text": "Sau đó là video bạn nói nhiều thứ tiếng.",
+      "sourceId": 74
+    },
+    {
+      "start": 209.30817610062894,
+      "end": 211.828911163522,
+      "text": "Rồi video bạn lập trình, nấu ăn và chơi thể thao.",
+      "sourceId": 75
+    },
+    {
+      "start": 212.2327044025157,
+      "end": 214.56132075471697,
+      "text": "Mọi người bắt đầu gọi bạn là thiên tài hiếm có.",
+      "sourceId": 76
+    },
+    {
+      "start": 214.9685534591195,
+      "end": 217.29830974842767,
+      "text": "Nhưng một nhà nghiên cứu phát hiện ra điều bất thường.",
+      "sourceId": 77
+    },
+    {
+      "start": 217.70440251572327,
+      "end": 219.99266695630587,
+      "text": "Bạn luôn thể hiện một kỹ năng mới ngay sau khi",
+      "sourceId": 78
+    },
+    {
+      "start": 219.99266695630587,
+      "end": 221.65685927672956,
+      "text": "gặp một chuyên gia trong lĩnh vực đó.",
+      "sourceId": 78
+    },
+    {
+      "start": 222.0440251572327,
+      "end": 224.35602959344115,
+      "text": "Và chưa bao giờ thể hiện hai kỹ năng đặc biệt",
+      "sourceId": 79
+    },
+    {
+      "start": 224.35602959344115,
+      "end": 224.98657625786163,
+      "text": "cùng một lúc.",
+      "sourceId": 79
+    },
+    {
+      "start": 225.37735849056602,
+      "end": 227.89072327044025,
+      "text": "Chẳng bao lâu, điện thoại của bạn liên tục đổ chuông.",
+      "sourceId": 80
+    },
+    {
+      "start": 228.27044025157232,
+      "end": 229.99907625786165,
+      "text": "Các công ty công nghệ muốn hợp tác.",
+      "sourceId": 81
+    },
+    {
+      "start": 230.37735849056602,
+      "end": 232.7047759433962,
+      "text": "Những viện nghiên cứu muốn kiểm tra khả năng của bạn.",
+      "sourceId": 82
+    },
+    {
+      "start": 233.1132075471698,
+      "end": 235.4022366352201,
+      "text": "Các tập đoàn đề nghị trả hàng triệu đô la để",
+      "sourceId": 83
+    },
+    {
+      "start": 235.4022366352201,
+      "end": 237.2750786163522,
+      "text": "bạn làm việc trong những dự án đặc biệt.",
+      "sourceId": 83
+    },
+    {
+      "start": 237.67295597484275,
+      "end": 239.95527712264152,
+      "text": "Nhưng chính những người sở hữu kỹ năng mà bạn muốn",
+      "sourceId": 84
+    },
+    {
+      "start": 239.95527712264152,
+      "end": 242.23759827044026,
+      "text": "sao chép cũng bắt đầu nhận ra giá trị của họ.",
+      "sourceId": 84
+    },
+    {
+      "start": 242.64150943396223,
+      "end": 244.93699554507336,
+      "text": "Một chuyên gia hàng đầu từ chối bắt tay với bạn",
+      "sourceId": 85
+    },
+    {
+      "start": 244.93699554507336,
+      "end": 246.39775943396225,
+      "text": "nếu không có thỏa thuận rõ ràng.",
+      "sourceId": 85
+    },
+    {
+      "start": 246.7924528301887,
+      "end": 249.07979559748426,
+      "text": "Một người khác lo ngại rằng bạn sẽ sử dụng kỹ",
+      "sourceId": 86
+    },
+    {
+      "start": 249.07979559748426,
+      "end": 250.95125786163524,
+      "text": "năng của họ để cạnh tranh với chính họ.",
+      "sourceId": 86
+    },
+    {
+      "start": 251.35220125786162,
+      "end": 253.644456455276,
+      "text": "Bạn từng nghĩ rằng mình có thể trở thành bất kỳ",
+      "sourceId": 87
+    },
+    {
+      "start": 253.644456455276,
+      "end": 255.1031643081761,
+      "text": "ai chỉ bằng một cái bắt tay.",
+      "sourceId": 87
+    },
+    {
+      "start": 255.50314465408803,
+      "end": 257.7938441327375,
+      "text": "Nhưng giờ đây, việc tiếp cận những người giỏi nhất thế",
+      "sourceId": 88
+    },
+    {
+      "start": 257.7938441327375,
+      "end": 259.45980738993705,
+      "text": "giới lại trở thành trở ngại lớn nhất.",
+      "sourceId": 88
+    },
+    {
+      "start": 259.84276729559747,
+      "end": 260.6215801886792,
+      "text": "Bạn có tiền.",
+      "sourceId": 89
+    },
+    {
+      "start": 261.0062893081761,
+      "end": 261.98885613207545,
+      "text": "Bạn có danh tiếng.",
+      "sourceId": 90
+    },
+    {
+      "start": 262.38993710691824,
+      "end": 264.7193789308176,
+      "text": "Nhưng khả năng của bạn vẫn phụ thuộc vào người khác.",
+      "sourceId": 91
+    },
+    {
+      "start": 265.12578616352204,
+      "end": 267.61444247903563,
+      "text": "Và rồi, trong lúc đang tìm cách vượt qua giới hạn",
+      "sourceId": 92
+    },
+    {
+      "start": 267.61444247903563,
+      "end": 270.1030987945493,
+      "text": "đó, bạn nghĩ ra một ý tưởng mà trước đây chưa",
+      "sourceId": 92
+    },
+    {
+      "start": 270.1030987945493,
+      "end": 270.5555817610063,
+      "text": "từng thử.",
+      "sourceId": 92
+    },
+    {
+      "start": 271.00628930817606,
+      "end": 273.4946087981952,
+      "text": "Điều gì sẽ xảy ra nếu bạn sao chép kỹ năng",
+      "sourceId": 93
+    },
+    {
+      "start": 273.4946087981952,
+      "end": 275.9829282882144,
+      "text": "của một người có khả năng học tập cực kỳ xuất",
+      "sourceId": 93
+    },
+    {
+      "start": 275.9829282882144,
+      "end": 276.2091391509434,
+      "text": "sắc?",
+      "sourceId": 93
+    },
+    {
+      "start": 276.66666666666663,
+      "end": 279.18810225741237,
+      "text": "Bạn tìm gặp một chuyên gia về phương pháp học tập",
+      "sourceId": 94
+    },
+    {
+      "start": 279.18810225741237,
+      "end": 279.8757665094339,
+      "text": "và ghi nhớ.",
+      "sourceId": 94
+    },
+    {
+      "start": 280.314465408805,
+      "end": 282.8020047169811,
+      "text": "Sau khi bắt tay với ông, bạn lập tức biết cách",
+      "sourceId": 95
+    },
+    {
+      "start": 282.8020047169811,
+      "end": 285.28954402515717,
+      "text": "tổ chức kiến thức, ghi nhớ thông tin và luyện tập",
+      "sourceId": 95
+    },
+    {
+      "start": 285.28954402515717,
+      "end": 285.96796383647796,
+      "text": "hiệu quả hơn.",
+      "sourceId": 95
+    },
+    {
+      "start": 286.41509433962267,
+      "end": 288.94598073899374,
+      "text": "Nhưng lần này, bạn không dùng 24 giờ để biểu diễn",
+      "sourceId": 96
+    },
+    {
+      "start": 288.94598073899374,
+      "end": 289.63622248427674,
+      "text": "trước mọi người.",
+      "sourceId": 96
+    },
+    {
+      "start": 290.0943396226415,
+      "end": 291.75503144654084,
+      "text": "Bạn dành thời gian thực sự học.",
+      "sourceId": 97
+    },
+    {
+      "start": 292.2012578616352,
+      "end": 293.1896816037736,
+      "text": "Bạn học ngoại ngữ.",
+      "sourceId": 98
+    },
+    {
+      "start": 293.6477987421383,
+      "end": 294.6373034591195,
+      "text": "Bạn luyện lập trình.",
+      "sourceId": 99
+    },
+    {
+      "start": 295.0943396226415,
+      "end": 296.3194575471698,
+      "text": "Bạn nghiên cứu kinh doanh.",
+      "sourceId": 100
+    },
+    {
+      "start": 296.76100628930817,
+      "end": 299.2275353773585,
+      "text": "Bạn thực hành những kỹ năng mà mình từng vay mượn.",
+      "sourceId": 101
+    },
+    {
+      "start": 299.685534591195,
+      "end": 302.0552869496855,
+      "text": "Đúng 24 giờ sau, khả năng đặc biệt biến mất.",
+      "sourceId": 102
+    },
+    {
+      "start": 302.5157232704403,
+      "end": 305.0218426285608,
+      "text": "Bạn không còn sử dụng phương pháp học tập ở trình",
+      "sourceId": 103
+    },
+    {
+      "start": 305.0218426285608,
+      "end": 306.3888168238994,
+      "text": "độ của vị chuyên gia nữa.",
+      "sourceId": 103
+    },
+    {
+      "start": 306.82389937106916,
+      "end": 309.32697058093345,
+      "text": "Nhưng một phần kiến thức mà bạn chủ động học và",
+      "sourceId": 104
+    },
+    {
+      "start": 309.32697058093345,
+      "end": 311.1473860062893,
+      "text": "luyện tập trong ngày hôm qua vẫn còn.",
+      "sourceId": 104
+    },
+    {
+      "start": 311.60377358490564,
+      "end": 313.2499213836478,
+      "text": "Bạn thử lại vào ngày tiếp theo.",
+      "sourceId": 105
+    },
+    {
+      "start": 313.71069182389937,
+      "end": 314.92456761006287,
+      "text": "Rồi ngày tiếp theo nữa.",
+      "sourceId": 106
+    },
+    {
+      "start": 315.37735849056605,
+      "end": 317.8898953419811,
+      "text": "Sau nhiều tháng, bạn bắt đầu sở hữu những kỹ năng",
+      "sourceId": 107
+    },
+    {
+      "start": 317.8898953419811,
+      "end": 319.0319575471698,
+      "text": "thực sự thuộc về mình.",
+      "sourceId": 107
+    },
+    {
+      "start": 319.49685534591197,
+      "end": 321.2577437106918,
+      "text": "Chúng không biến mất sau 24 giờ.",
+      "sourceId": 108
+    },
+    {
+      "start": 321.6981132075472,
+      "end": 324.2109743514151,
+      "text": "Bạn không còn cần bắt tay với một lập trình viên",
+      "sourceId": 109
+    },
+    {
+      "start": 324.2109743514151,
+      "end": 325.3531839622641,
+      "text": "chỉ để sửa ứng dụng.",
+      "sourceId": 109
+    },
+    {
+      "start": 325.8176100628931,
+      "end": 328.057822327044,
+      "text": "Không cần gặp một đầu bếp chỉ để nấu ăn.",
+      "sourceId": 110
+    },
+    {
+      "start": 328.52201257861634,
+      "end": 331.0332927967767,
+      "text": "Bạn đã tìm ra cách biến một năng lực tạm thời",
+      "sourceId": 111
+    },
+    {
+      "start": 331.0332927967767,
+      "end": 332.17478380503144,
+      "text": "thành lợi ích lâu dài.",
+      "sourceId": 111
+    },
+    {
+      "start": 332.61006289308176,
+      "end": 334.75998673349056,
+      "text": "Nhưng đúng lúc đó, cuộc đời lại đặt bạn trước một",
+      "sourceId": 112
+    },
+    {
+      "start": 334.75998673349056,
+      "end": 335.73722484276726,
+      "text": "thử thách hoàn toàn khác.",
+      "sourceId": 112
+    },
+    {
+      "start": 336.1949685534591,
+      "end": 338.5229319531796,
+      "text": "Một ngày nọ, khi đang tham quan một trung tâm nghiên",
+      "sourceId": 113
+    },
+    {
+      "start": 338.5229319531796,
+      "end": 340.00436320754716,
+      "text": "cứu, bạn nghe thấy chuông báo động.",
+      "sourceId": 113
+    },
+    {
+      "start": 340.44025157232704,
+      "end": 342.60346516690856,
+      "text": "Một robot cứu hộ đang hoạt động thử nghiệm thì gặp",
+      "sourceId": 114
+    },
+    {
+      "start": 342.60346516690856,
+      "end": 342.99677672955977,
+      "text": "sự cố.",
+      "sourceId": 114
+    },
+    {
+      "start": 343.45911949685535,
+      "end": 345.4476218553459,
+      "text": "Bên trong khu vực thử nghiệm có người mắc kẹt.",
+      "sourceId": 115
+    },
+    {
+      "start": 345.9119496855346,
+      "end": 348.0707915683962,
+      "text": "Đội cứu hộ đang trên đường đến, nhưng tình huống ngày",
+      "sourceId": 116
+    },
+    {
+      "start": 348.0707915683962,
+      "end": 349.05208333333337,
+      "text": "càng trở nên nguy hiểm.",
+      "sourceId": 116
+    },
+    {
+      "start": 349.4968553459119,
+      "end": 351.6593146338723,
+      "text": "Bạn nhìn thấy một kỹ sư có kinh nghiệm điều khiển",
+      "sourceId": 117
+    },
+    {
+      "start": 351.6593146338723,
+      "end": 352.2490762578616,
+      "text": "robot cứu hộ.",
+      "sourceId": 117
+    },
+    {
+      "start": 352.70440251572325,
+      "end": 354.8655539429124,
+      "text": "Ông đang bị thương ở tay và không thể vận hành",
+      "sourceId": 118
+    },
+    {
+      "start": 354.8655539429124,
+      "end": 355.2584905660377,
+      "text": "thiết bị.",
+      "sourceId": 118
+    },
+    {
+      "start": 355.72327044025155,
+      "end": 357.53054245283016,
+      "text": "Bạn lập tức xin phép bắt tay với ông.",
+      "sourceId": 119
+    },
+    {
+      "start": 357.98742138364776,
+      "end": 360.3681964098532,
+      "text": "Trong vài giây, bạn hiểu cách sử dụng hệ thống điều",
+      "sourceId": 120
+    },
+    {
+      "start": 360.3681964098532,
+      "end": 360.5846305031446,
+      "text": "khiển.",
+      "sourceId": 120
+    },
+    {
+      "start": 361.03773584905656,
+      "end": 363.2210888364779,
+      "text": "Dưới sự hướng dẫn của kỹ sư và đội ngũ tại",
+      "sourceId": 121
+    },
+    {
+      "start": 363.2210888364779,
+      "end": 365.40444182389933,
+      "text": "chỗ, bạn đưa robot tiếp cận khu vực nguy hiểm, hỗ",
+      "sourceId": 121
+    },
+    {
+      "start": 365.40444182389933,
+      "end": 366.59536163522006,
+      "text": "trợ giải cứu người mắc kẹt.",
+      "sourceId": 121
+    },
+    {
+      "start": 367.0440251572327,
+      "end": 369.18704795597483,
+      "text": "Sau khi mọi chuyện kết thúc, mọi người vỗ tay.",
+      "sourceId": 122
+    },
+    {
+      "start": 369.62264150943395,
+      "end": 372.20874909288824,
+      "text": "Nhưng lần này, bạn không quan tâm đến danh tiếng hay",
+      "sourceId": 123
+    },
+    {
+      "start": 372.20874909288824,
+      "end": 372.6789504716981,
+      "text": "tiền bạc.",
+      "sourceId": 123
+    },
+    {
+      "start": 373.1132075471698,
+      "end": 375.6620111045597,
+      "text": "Bởi vì trong suốt hành trình của mình, đây là lần",
+      "sourceId": 124
+    },
+    {
+      "start": 375.6620111045597,
+      "end": 378.21081466194966,
+      "text": "đầu tiên bạn cảm thấy 24 giờ ấy thực sự có",
+      "sourceId": 124
+    },
+    {
+      "start": 378.21081466194966,
+      "end": 378.674233490566,
+      "text": "ý nghĩa.",
+      "sourceId": 124
+    },
+    {
+      "start": 379.1194968553459,
+      "end": 381.66928066037735,
+      "text": "Một năm trước, bạn nghĩ rằng khả năng tuyệt vời nhất",
+      "sourceId": 125
+    },
+    {
+      "start": 381.66928066037735,
+      "end": 384.2190644654088,
+      "text": "trên thế giới là có thể trở thành bất kỳ ai.",
+      "sourceId": 125
+    },
+    {
+      "start": 384.65408805031444,
+      "end": 386.34056603773587,
+      "text": "Bạn muốn trở thành người giàu nhất.",
+      "sourceId": 126
+    },
+    {
+      "start": 386.79245283018867,
+      "end": 387.7985849056604,
+      "text": "Người thông minh nhất.",
+      "sourceId": 127
+    },
+    {
+      "start": 388.23899371069183,
+      "end": 389.24858490566044,
+      "text": "Người tài năng nhất.",
+      "sourceId": 128
+    },
+    {
+      "start": 389.68553459119494,
+      "end": 392.2244490303983,
+      "text": "Nhưng sau hàng trăm lần sao chép kỹ năng, bạn phát",
+      "sourceId": 129
+    },
+    {
+      "start": 392.2244490303983,
+      "end": 394.76336346960164,
+      "text": "hiện ra rằng mỗi người giỏi đều có một thứ mà",
+      "sourceId": 129
+    },
+    {
+      "start": 394.76336346960164,
+      "end": 396.6098466981132,
+      "text": "năng lực của bạn không thể lấy đi.",
+      "sourceId": 129
+    },
+    {
+      "start": 397.0440251572327,
+      "end": 399.62270608715187,
+      "text": "Đó là những năm tháng họ đã bỏ ra để trở",
+      "sourceId": 130
+    },
+    {
+      "start": 399.62270608715187,
+      "end": 400.3259827044025,
+      "text": "thành chính mình.",
+      "sourceId": 130
+    },
+    {
+      "start": 400.78616352201254,
+      "end": 403.40397012578615,
+      "text": "Bạn có thể mượn kỹ năng của họ trong 24 giờ.",
+      "sourceId": 131
+    },
+    {
+      "start": 403.8679245283019,
+      "end": 406.24056603773585,
+      "text": "Nhưng bạn không thể mượn cả cuộc đời của họ.",
+      "sourceId": 132
+    },
+    {
+      "start": 406.6981132075472,
+      "end": 409.29740566037736,
+      "text": "Và nếu ngày mai khả năng này đột nhiên biến mất...",
+      "sourceId": 133
+    },
+    {
+      "start": 409.7484276729559,
+      "end": 412.3148977987421,
+      "text": "Bạn vẫn còn những gì mình đã thực sự học được.",
+      "sourceId": 134
+    },
+    {
+      "start": 412.7672955974843,
+      "end": 415.3206920110811,
+      "text": "Vậy nếu được sao chép kỹ năng của một người bất",
+      "sourceId": 135
+    },
+    {
+      "start": 415.3206920110811,
+      "end": 417.6419614779874,
+      "text": "kỳ trong 24 giờ, bạn sẽ chọn ai đầu tiên?",
+      "sourceId": 135
+    }
+  ],
+  "narration": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/audio/film-narration-paced.wav",
+  "narrationSHA256": "5af442b3c7153a1ece91c747aca3a86cb18154390069dcabce3d9f6f575cbcf3",
+  "sourceIds": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    6,
+    7,
+    8,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135
+  ],
+  "alignment": "Measured narration paragraphs, proportional caption groups; not word-level forced alignment",
+  "paceMultiplier": 1.06,
+  "paceMethod": "FFmpeg atempo, pitch-preserving on a new working WAV; original unchanged"
+}
