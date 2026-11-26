@@ -1,0 +1,14 @@
+{
+  "file": "/workspace/outputs/skill-copy-24h-cinematic-V2-20261126/demo-final/Sao_Chep_Ky_Nang_24h_V2_Demo_1080p30.mp4",
+  "bytes": 8031675,
+  "sha256": "c88776b40a3cabc02db2cb9c0ac7123595e0bfba26e2fb11b5437549ac58c903",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 697,
+  "duration": 23.233333,
+  "audio_qc_passed": true,
+  "decode_passed": true,
+  "narration_speed": 1.06,
+  "original_V1_preserved": true
+}
