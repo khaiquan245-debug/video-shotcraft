@@ -1,0 +1,118 @@
+{
+  "size": [
+    1080,
+    1920
+  ],
+  "errors": [],
+  "text": [
+    {
+      "text": "TÌNH HUỐNG GIẢ ĐỊNH",
+      "bounds": {
+        "minX": 370.81373596191406,
+        "minY": 84.5,
+        "maxX": 709.1862640380859,
+        "maxY": 121.5,
+        "matrix": {
+          "array": null,
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "tx": 540,
+          "ty": 1875
+        }
+      }
+    },
+    {
+      "text": "VIỆT NAM",
+      "bounds": {
+        "minX": 226.00823974609375,
+        "minY": 169,
+        "maxX": 853.9917602539062,
+        "maxY": 329,
+        "matrix": {
+          "array": null,
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "tx": 540,
+          "ty": 1875
+        }
+      }
+    },
+    {
+      "text": "MẤT ĐIỆN",
+      "bounds": {
+        "minX": 203.62823486328125,
+        "minY": 316,
+        "maxX": 876.3717651367188,
+        "maxY": 488,
+        "matrix": {
+          "array": null,
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "tx": 540,
+          "ty": 1875
+        }
+      }
+    },
+    {
+      "text": "7 NGÀY?!",
+      "bounds": {
+        "minX": 194.3997802734375,
+        "minY": 463.5,
+        "maxX": 885.6002197265625,
+        "maxY": 658.5,
+        "matrix": {
+          "array": null,
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "tx": 540,
+          "ty": 1875
+        }
+      }
+    },
+    {
+      "text": "0% PIN",
+      "bounds": {
+        "minX": 135.0698471069336,
+        "minY": 1299,
+        "maxX": 260.9301528930664,
+        "maxY": 1343,
+        "matrix": {
+          "array": null,
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "tx": 540,
+          "ty": 1875
+        }
+      }
+    },
+    {
+      "text": "THÍCH HỌC HỎI",
+      "bounds": {
+        "minX": 420.39013671875,
+        "minY": 1856.5,
+        "maxX": 659.60986328125,
+        "maxY": 1893.5,
+        "matrix": {
+          "array": null,
+          "a": 1,
+          "b": 0,
+          "c": 0,
+          "d": 1,
+          "tx": 540,
+          "ty": 1875
+        }
+      }
+    }
+  ],
+  "method": "Code-authored PixiJS layout; same native Rigby character and original city geometry as video; no image API."
+}
