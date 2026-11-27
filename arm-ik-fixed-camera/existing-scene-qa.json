@@ -1,0 +1,6 @@
+{
+  "frames": 300,
+  "passed": true,
+  "max_cup_contact_error_px": 0,
+  "scope": "Existing scene pose and prop evaluation using reduced raster camera for this geometry pass"
+}

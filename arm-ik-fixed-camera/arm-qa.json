@@ -1,0 +1,7166 @@
+{
+  "passed": true,
+  "frames": 795,
+  "camera": "fixed",
+  "max_wrist_angle_step_deg": 13.117802500325638,
+  "max_wrist_motion_px": 10.55307599590336,
+  "max_elbow_motion_px": 8.805004143282536,
+  "checks": [
+    {
+      "frame": 0,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0,
+      "elbow_motion_px": 0,
+      "wrist_angle_step_deg": 0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 1,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 2,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 3,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 4,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 5,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 6,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 7,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 8,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 9,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 10,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 11,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 12,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 13,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 14,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 15,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 16,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 17,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 18,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 19,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 20,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 21,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 22,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 23,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 24,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 25,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 26,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 27,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 28,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 29,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 30,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 31,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 32,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 33,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 34,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 35,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 36,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 37,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 38,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 39,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 40,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 41,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 42,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 43,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 44,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 45,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 46,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 47,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 48,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 49,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 50,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 51,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 52,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 53,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 54,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 55,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 56,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 57,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 58,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 59,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 60,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 61,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 62,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 63,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 64,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 65,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 66,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 67,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 68,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 69,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 70,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 71,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 72,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 73,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 74,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 75,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 76,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 77,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 78,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 79,
+      "action": "Thả lỏng",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 80,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.04728273800002291,
+      "elbow_motion_px": 0.046267202694576647,
+      "wrist_angle_step_deg": 0.01959220771118453,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 81,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.40828380648868134,
+      "elbow_motion_px": 0.41189242022417616,
+      "wrist_angle_step_deg": 0.0961630390245034,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 82,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.8985184977742936,
+      "elbow_motion_px": 0.8837916982429622,
+      "wrist_angle_step_deg": 0.5169722982803364,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 83,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.3830580301262447,
+      "elbow_motion_px": 1.3141581660426835,
+      "wrist_angle_step_deg": 1.0642715012830308,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 84,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.7103941761507309,
+      "elbow_motion_px": 1.5924523515468527,
+      "wrist_angle_step_deg": 1.484570054745035,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 85,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.75714823478284,
+      "elbow_motion_px": 1.646461903591849,
+      "wrist_angle_step_deg": 1.5448350061372764,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 86,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.4895256489811415,
+      "elbow_motion_px": 1.4625345134765908,
+      "wrist_angle_step_deg": 1.1008309418441797,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 87,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.0519154380377904,
+      "elbow_motion_px": 1.0697697624591176,
+      "wrist_angle_step_deg": 0.4235067609249654,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 88,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.3407003880301538,
+      "elbow_motion_px": 0.9554876898232251,
+      "wrist_angle_step_deg": 1.2867378349023966,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 89,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.0770983973713895,
+      "elbow_motion_px": 1.3695237168696002,
+      "wrist_angle_step_deg": 2.4949268357594008,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 90,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.554530366331359,
+      "elbow_motion_px": 1.5561329537502524,
+      "wrist_angle_step_deg": 3.5445235547239804,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 91,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.5796671884423565,
+      "elbow_motion_px": 1.5262078518184556,
+      "wrist_angle_step_deg": 3.92808687715322,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 92,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.3209711831868227,
+      "elbow_motion_px": 1.6998095082202622,
+      "wrist_angle_step_deg": 3.6451166004202378,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 93,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.956308810248752,
+      "elbow_motion_px": 1.5319602346341072,
+      "wrist_angle_step_deg": 3.044172163513906,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 94,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.4246539513029726,
+      "elbow_motion_px": 1.1693724347485437,
+      "wrist_angle_step_deg": 2.193961561011065,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 95,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.7713891993881361,
+      "elbow_motion_px": 0.6510845387436639,
+      "wrist_angle_step_deg": 1.1780419111398999,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 96,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.052277890216840144,
+      "elbow_motion_px": 0.044565682458397225,
+      "wrist_angle_step_deg": 0.07955944230621981,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 97,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.6712959121992866,
+      "elbow_motion_px": 0.5680182763067245,
+      "wrist_angle_step_deg": 1.0243137444537922,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 98,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.3375672209407299,
+      "elbow_motion_px": 1.1035372829749335,
+      "wrist_angle_step_deg": 2.056975298744163,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 99,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.889662447533414,
+      "elbow_motion_px": 1.491558793734875,
+      "wrist_angle_step_deg": 2.936109822080766,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 100,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.2804541886151046,
+      "elbow_motion_px": 1.6882283782303638,
+      "wrist_angle_step_deg": 3.5773753550660103,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 101,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.476584068446363,
+      "elbow_motion_px": 1.68681111472969,
+      "wrist_angle_step_deg": 3.9100848789782106,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 102,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.461310243386899,
+      "elbow_motion_px": 1.5182610183985459,
+      "wrist_angle_step_deg": 3.8955963749432954,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 103,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.2359365024929883,
+      "elbow_motion_px": 1.3854562165213524,
+      "wrist_angle_step_deg": 3.536188179734836,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 104,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.81970097477352,
+      "elbow_motion_px": 1.1816286001087355,
+      "wrist_angle_step_deg": 2.8707641180749874,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 105,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.2481339431645677,
+      "elbow_motion_px": 0.8370782709904057,
+      "wrist_angle_step_deg": 1.963789411459345,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 106,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.5700249438725473,
+      "elbow_motion_px": 0.3892235807184381,
+      "wrist_angle_step_deg": 0.8952372816606555,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 107,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.1567419574669482,
+      "elbow_motion_px": 0.10745167274634249,
+      "wrist_angle_step_deg": 0.2460607179676515,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 108,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.8701292078014523,
+      "elbow_motion_px": 0.5906053810606622,
+      "wrist_angle_step_deg": 1.3674174745206074,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 109,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.5092413545339753,
+      "elbow_motion_px": 1.0000569457025286,
+      "wrist_angle_step_deg": 2.3772041750640938,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 110,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.019523142552699,
+      "elbow_motion_px": 1.2876033249101138,
+      "wrist_angle_step_deg": 3.1897322132996067,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 111,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.3574164056319162,
+      "elbow_motion_px": 1.425434752859505,
+      "wrist_angle_step_deg": 3.730677953598189,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 112,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.4940782352740714,
+      "elbow_motion_px": 1.6077154110230445,
+      "wrist_angle_step_deg": 3.945114640069903,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 113,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.41784304036456,
+      "elbow_motion_px": 1.7104625260614845,
+      "wrist_angle_step_deg": 3.808662014340001,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 114,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.1352183337523485,
+      "elbow_motion_px": 1.628724511559252,
+      "wrist_angle_step_deg": 3.336758318275031,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 115,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.6703292444135887,
+      "elbow_motion_px": 1.3469020013541764,
+      "wrist_angle_step_deg": 2.5836407570155018,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 116,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.0628591721978617,
+      "elbow_motion_px": 0.8884399332578401,
+      "wrist_angle_step_deg": 1.6282525878900174,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 117,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.3646623729380507,
+      "elbow_motion_px": 0.31020758273485866,
+      "wrist_angle_step_deg": 0.5553901788540827,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 118,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.36466237293804404,
+      "elbow_motion_px": 0.31020758273485866,
+      "wrist_angle_step_deg": 0.5553901788540827,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 119,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.0628591721978733,
+      "elbow_motion_px": 0.8884399332578401,
+      "wrist_angle_step_deg": 1.6282525878900174,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 120,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.6703292444135522,
+      "elbow_motion_px": 1.3469020013541622,
+      "wrist_angle_step_deg": 2.5836407570154734,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 121,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.135218333752355,
+      "elbow_motion_px": 1.6287245115592661,
+      "wrist_angle_step_deg": 3.336758318275031,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 122,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.417843040364565,
+      "elbow_motion_px": 1.7104625260614845,
+      "wrist_angle_step_deg": 3.808662014340001,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 123,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.4940782352740665,
+      "elbow_motion_px": 1.6077154110230436,
+      "wrist_angle_step_deg": 3.945114640069903,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 124,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.357416405631961,
+      "elbow_motion_px": 1.4254347528595341,
+      "wrist_angle_step_deg": 3.730677953598274,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 125,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.019523142552704,
+      "elbow_motion_px": 1.2876033249101486,
+      "wrist_angle_step_deg": 3.1897322132995782,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 126,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.5092413545339505,
+      "elbow_motion_px": 1.0000569457024968,
+      "wrist_angle_step_deg": 2.3772041750640938,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 127,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.8701292078014523,
+      "elbow_motion_px": 0.5906053810606622,
+      "wrist_angle_step_deg": 1.3674174745206074,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 128,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.1567419574669482,
+      "elbow_motion_px": 0.10745167274634249,
+      "wrist_angle_step_deg": 0.2460607179676515,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 129,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.5700249438725473,
+      "elbow_motion_px": 0.3892235807184381,
+      "wrist_angle_step_deg": 0.8952372816606555,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 130,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.2481339431645562,
+      "elbow_motion_px": 0.8370782709903772,
+      "wrist_angle_step_deg": 1.963789411459345,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 131,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.8197009747734934,
+      "elbow_motion_px": 1.1816286001087577,
+      "wrist_angle_step_deg": 2.870764118074959,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 132,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.2359365024930513,
+      "elbow_motion_px": 1.38545621652139,
+      "wrist_angle_step_deg": 3.5361881797349213,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 133,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.461310243386886,
+      "elbow_motion_px": 1.5182610183985163,
+      "wrist_angle_step_deg": 3.895596374943267,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 134,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.4765840684463396,
+      "elbow_motion_px": 1.6868111147296627,
+      "wrist_angle_step_deg": 3.910084878978239,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 135,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.2804541886151033,
+      "elbow_motion_px": 1.6882283782303922,
+      "wrist_angle_step_deg": 3.5773753550660103,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 136,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.8896624475334207,
+      "elbow_motion_px": 1.491558793734875,
+      "wrist_angle_step_deg": 2.936109822080766,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 137,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.3375672209407232,
+      "elbow_motion_px": 1.1035372829749204,
+      "wrist_angle_step_deg": 2.0569752987441063,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 138,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.6712959121993,
+      "elbow_motion_px": 0.5680182763067373,
+      "wrist_angle_step_deg": 1.024313744453849,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 139,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.052277890216840144,
+      "elbow_motion_px": 0.044565682458397225,
+      "wrist_angle_step_deg": 0.07955944230621981,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 140,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.7713891993881428,
+      "elbow_motion_px": 0.6510845387436639,
+      "wrist_angle_step_deg": 1.1780419111398999,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 141,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.4246539513029843,
+      "elbow_motion_px": 1.169372434748558,
+      "wrist_angle_step_deg": 2.193961561011065,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 142,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.9563088102487471,
+      "elbow_motion_px": 1.531960234634093,
+      "wrist_angle_step_deg": 3.044172163513906,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 143,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.3209711831868027,
+      "elbow_motion_px": 1.6998095082202622,
+      "wrist_angle_step_deg": 3.6451166004202094,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 144,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.487513123500841,
+      "elbow_motion_px": 1.6718426879400066,
+      "wrist_angle_step_deg": 3.9296683951184264,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 145,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.4614391973194567,
+      "elbow_motion_px": 1.4551829782659038,
+      "wrist_angle_step_deg": 3.8328306038606,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 146,
+      "action": "Đi bộ",
+      "wrist_motion_px": 2.1908941209209627,
+      "elbow_motion_px": 1.3951517835007377,
+      "wrist_angle_step_deg": 3.159957124730113,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 147,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.611820865213887,
+      "elbow_motion_px": 1.0944528038979857,
+      "wrist_angle_step_deg": 2.018157970982088,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 148,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.8752402132517513,
+      "elbow_motion_px": 0.6412674022827992,
+      "wrist_angle_step_deg": 0.8136862008358321,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 149,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.8791745966009145,
+      "elbow_motion_px": 0.8890571148191018,
+      "wrist_angle_step_deg": 0.5549347624554457,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 150,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.425969184427055,
+      "elbow_motion_px": 1.2835437757659414,
+      "wrist_angle_step_deg": 1.4918246359318346,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 151,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.781995053255142,
+      "elbow_motion_px": 1.5409622480723697,
+      "wrist_angle_step_deg": 1.9861010261078889,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 152,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.8574682733855716,
+      "elbow_motion_px": 1.6252096172710175,
+      "wrist_angle_step_deg": 2.011135701847138,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 153,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.6750864308783942,
+      "elbow_motion_px": 1.5231710683154962,
+      "wrist_angle_step_deg": 1.648654871193628,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 154,
+      "action": "Đi bộ",
+      "wrist_motion_px": 1.320838500792307,
+      "elbow_motion_px": 1.2659273089743093,
+      "wrist_angle_step_deg": 1.0580626623257103,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 155,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.9173890117269081,
+      "elbow_motion_px": 0.9239233919781465,
+      "wrist_angle_step_deg": 0.4271688148781436,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 156,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.5894117440581771,
+      "elbow_motion_px": 0.5799962336103612,
+      "wrist_angle_step_deg": 0.2376574095094952,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 157,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.4092602196222145,
+      "elbow_motion_px": 0.29855852729673815,
+      "wrist_angle_step_deg": 0.37142649089855695,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 158,
+      "action": "Đi bộ",
+      "wrist_motion_px": 0.28662699815746084,
+      "elbow_motion_px": 0.20183584649312117,
+      "wrist_angle_step_deg": 0.27477953650586073,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 159,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 0.030996187697303782,
+      "elbow_motion_px": 0.021607410479482614,
+      "wrist_angle_step_deg": 0.031457530238640175,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 160,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 0.2922391015004719,
+      "elbow_motion_px": 0.29461672221258445,
+      "wrist_angle_step_deg": 0.060777604449356204,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 161,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 1.162128380352756,
+      "elbow_motion_px": 1.166909810080924,
+      "wrist_angle_step_deg": 0.46684691113460985,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 162,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 1.856373976074267,
+      "elbow_motion_px": 1.8645796439041051,
+      "wrist_angle_step_deg": 0.9100228532147412,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 163,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 1.6276658451420687,
+      "elbow_motion_px": 1.6613039305472201,
+      "wrist_angle_step_deg": 0.6069905221951899,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 164,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 1.394213431906568,
+      "elbow_motion_px": 1.2100941990127592,
+      "wrist_angle_step_deg": 0.8834333829409502,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 165,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 3.534449049781779,
+      "elbow_motion_px": 3.2000915422236127,
+      "wrist_angle_step_deg": 2.9744294165197402,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 166,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 5.085162639728737,
+      "elbow_motion_px": 4.530566236105286,
+      "wrist_angle_step_deg": 4.237207408473836,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 167,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 4.952578946219403,
+      "elbow_motion_px": 4.263452797264563,
+      "wrist_angle_step_deg": 3.7504865709927913,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 168,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 2.733299875824918,
+      "elbow_motion_px": 2.235153462439448,
+      "wrist_angle_step_deg": 2.3816653789574502,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 169,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 1.8203395305644074,
+      "elbow_motion_px": 1.8714887538389615,
+      "wrist_angle_step_deg": 0.6149719239441538,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 170,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 5.080466798638251,
+      "elbow_motion_px": 5.1824600460474946,
+      "wrist_angle_step_deg": 3.890814731587284,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 171,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 6.692989945055837,
+      "elbow_motion_px": 6.696240113055591,
+      "wrist_angle_step_deg": 6.983902584856736,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 172,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 6.243991489894969,
+      "elbow_motion_px": 5.972508182655579,
+      "wrist_angle_step_deg": 7.836173838717002,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 173,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 4.057908683294517,
+      "elbow_motion_px": 3.95249489192954,
+      "wrist_angle_step_deg": 5.612111896927274,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 174,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 0.741633601016704,
+      "elbow_motion_px": 0.7387224037226108,
+      "wrist_angle_step_deg": 1.0602044757838485,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 175,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 2.781198265227825,
+      "elbow_motion_px": 2.742774717293776,
+      "wrist_angle_step_deg": 3.9237711876630215,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 176,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 5.529422065640784,
+      "elbow_motion_px": 5.269041010448163,
+      "wrist_angle_step_deg": 7.291286322876317,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 177,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 6.737613648652371,
+      "elbow_motion_px": 6.6426594381941575,
+      "wrist_angle_step_deg": 7.68036609185657,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 178,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 6.069272392579805,
+      "elbow_motion_px": 6.127599714765542,
+      "wrist_angle_step_deg": 5.537893907156331,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 179,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 3.7105419946042404,
+      "elbow_motion_px": 3.753145975299208,
+      "wrist_angle_step_deg": 2.961271095148959,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 180,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 0.3183664828580355,
+      "elbow_motion_px": 0.3214707125501504,
+      "wrist_angle_step_deg": 0.2722061646672671,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 181,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 3.1624791710335445,
+      "elbow_motion_px": 3.197530620087054,
+      "wrist_angle_step_deg": 2.5775978605926753,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 182,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 5.762523946924397,
+      "elbow_motion_px": 5.825424166637722,
+      "wrist_angle_step_deg": 5.034393783940715,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 183,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 6.7576139144353995,
+      "elbow_motion_px": 6.706886662556359,
+      "wrist_angle_step_deg": 7.44129819473892,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 184,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 5.87060064991811,
+      "elbow_motion_px": 5.555103672190872,
+      "wrist_angle_step_deg": 7.592051142822697,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 185,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 3.348531491846648,
+      "elbow_motion_px": 3.2861615521367096,
+      "wrist_angle_step_deg": 4.689637261284673,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 186,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 0.10615708236065735,
+      "elbow_motion_px": 0.10581909771231009,
+      "wrist_angle_step_deg": 0.15189333521135495,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 187,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 3.531279216350512,
+      "elbow_motion_px": 3.4593331358284365,
+      "wrist_angle_step_deg": 4.931581780459737,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 188,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 5.972883778836254,
+      "elbow_motion_px": 5.649922431385068,
+      "wrist_angle_step_deg": 7.669991010305068,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 189,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 6.750944965358458,
+      "elbow_motion_px": 6.713435581466485,
+      "wrist_angle_step_deg": 7.344757421275148,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 190,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 5.648760328513199,
+      "elbow_motion_px": 5.712132033731334,
+      "wrist_angle_step_deg": 4.863982578784203,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 191,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 2.973305865089349,
+      "elbow_motion_px": 3.0058510289926534,
+      "wrist_angle_step_deg": 2.438316557531124,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 192,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 0.5302616940737931,
+      "elbow_motion_px": 0.5354461783743818,
+      "wrist_angle_step_deg": 0.45302076976628314,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 193,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 3.886142915888581,
+      "elbow_motion_px": 3.9312292175470036,
+      "wrist_angle_step_deg": 3.0769160459988996,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 194,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 6.159671367224035,
+      "elbow_motion_px": 6.215277262528636,
+      "wrist_angle_step_deg": 5.701894017464696,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 195,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 6.717633120716643,
+      "elbow_motion_px": 6.606574786414407,
+      "wrist_angle_step_deg": 7.7420052393325705,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 196,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 5.404626930764895,
+      "elbow_motion_px": 5.162034095114445,
+      "wrist_angle_step_deg": 7.16906687410534,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 197,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 2.5863459584566932,
+      "elbow_motion_px": 2.5543437039949666,
+      "wrist_angle_step_deg": 3.656448619454409,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 198,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 0.952273605133911,
+      "elbow_motion_px": 0.948067978485866,
+      "wrist_angle_step_deg": 1.360508316294613,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 199,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 4.225669784747483,
+      "elbow_motion_px": 4.10757112576136,
+      "wrist_angle_step_deg": 5.822666535535575,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 200,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 6.322149546811631,
+      "elbow_motion_px": 6.068671496296853,
+      "wrist_angle_step_deg": 7.869051850810479,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 201,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 6.657809847141988,
+      "elbow_motion_px": 6.66476060337837,
+      "wrist_angle_step_deg": 6.884923882603061,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 202,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 5.139163939659991,
+      "elbow_motion_px": 5.200318174762988,
+      "wrist_angle_step_deg": 4.178446923455425,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 203,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 2.189178925915117,
+      "elbow_motion_px": 2.2119944927547657,
+      "wrist_angle_step_deg": 1.8319710101559679,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 204,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 1.370527327327062,
+      "elbow_motion_px": 1.3842482991356997,
+      "wrist_angle_step_deg": 1.1625740009271794,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 205,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 4.548519865490693,
+      "elbow_motion_px": 4.602841952991811,
+      "wrist_angle_step_deg": 3.499987442984775,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 206,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 6.459677090453265,
+      "elbow_motion_px": 6.497344055424942,
+      "wrist_angle_step_deg": 6.327863166727752,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 207,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 6.571711239764848,
+      "elbow_motion_px": 6.3912416416572695,
+      "wrist_angle_step_deg": 7.890012395587519,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 208,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 4.853419016345993,
+      "elbow_motion_px": 4.677659269927561,
+      "wrist_angle_step_deg": 6.574709948252888,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 209,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 1.783372204293594,
+      "elbow_motion_px": 1.7699182213222069,
+      "wrist_angle_step_deg": 2.537844018645444,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 210,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 1.7833722042936495,
+      "elbow_motion_px": 1.769918221322258,
+      "wrist_angle_step_deg": 2.5378440186455578,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 211,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 4.853419016346033,
+      "elbow_motion_px": 4.6776592699276245,
+      "wrist_angle_step_deg": 6.5747099482529165,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 212,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 6.571711239764586,
+      "elbow_motion_px": 6.391241641657042,
+      "wrist_angle_step_deg": 7.8900123955872346,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 213,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 6.459677090453301,
+      "elbow_motion_px": 6.497344055424984,
+      "wrist_angle_step_deg": 6.327863166727809,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 214,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 4.548519865490828,
+      "elbow_motion_px": 4.602841952991938,
+      "wrist_angle_step_deg": 3.4999874429848887,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 215,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 1.3705273273270575,
+      "elbow_motion_px": 1.3842482991357015,
+      "wrist_angle_step_deg": 1.1625740009271794,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 216,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 2.189178925915117,
+      "elbow_motion_px": 2.2119944927547657,
+      "wrist_angle_step_deg": 1.8319710101559679,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 217,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 5.139163939660051,
+      "elbow_motion_px": 5.200318174763045,
+      "wrist_angle_step_deg": 4.178446923455482,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 218,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 6.657809847141948,
+      "elbow_motion_px": 6.664760603378341,
+      "wrist_angle_step_deg": 6.884923882603061,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 219,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 6.322149546811627,
+      "elbow_motion_px": 6.0686714962968535,
+      "wrist_angle_step_deg": 7.869051850810479,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 220,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 4.225669784747407,
+      "elbow_motion_px": 4.107571125761297,
+      "wrist_angle_step_deg": 5.822666535535461,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 221,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 0.9522736051339865,
+      "elbow_motion_px": 0.9480679784859327,
+      "wrist_angle_step_deg": 1.3605083162947267,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 222,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 2.58634595845676,
+      "elbow_motion_px": 2.5543437039950265,
+      "wrist_angle_step_deg": 3.6564486194545225,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 223,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 5.404626930764899,
+      "elbow_motion_px": 5.162034095114467,
+      "wrist_angle_step_deg": 7.1690668741053685,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 224,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 6.7197977000071285,
+      "elbow_motion_px": 6.609948818059218,
+      "wrist_angle_step_deg": 7.739845636209708,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 225,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 6.106513921326658,
+      "elbow_motion_px": 6.18854839730685,
+      "wrist_angle_step_deg": 5.496556476615126,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 226,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 3.527231359368189,
+      "elbow_motion_px": 3.6065167252284023,
+      "wrist_angle_step_deg": 2.2240963578531137,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 227,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 0.7028548499227415,
+      "elbow_motion_px": 0.514069413616896,
+      "wrist_angle_step_deg": 0.7341802503622716,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 228,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 3.825718529475452,
+      "elbow_motion_px": 3.222008808804607,
+      "wrist_angle_step_deg": 3.0729450809630237,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 229,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 5.336605960188124,
+      "elbow_motion_px": 4.681895627019099,
+      "wrist_angle_step_deg": 4.347359813028561,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 230,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 4.951382801573221,
+      "elbow_motion_px": 4.47957689712809,
+      "wrist_angle_step_deg": 4.469342930156387,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 231,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 3.1815528013531043,
+      "elbow_motion_px": 2.9183514688623022,
+      "wrist_angle_step_deg": 2.8537751861690026,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 232,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 1.0127422405968327,
+      "elbow_motion_px": 0.8692729866108625,
+      "wrist_angle_step_deg": 0.5549149532033653,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 233,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 1.8618658002168262,
+      "elbow_motion_px": 1.8946971023000545,
+      "wrist_angle_step_deg": 1.1076712435182117,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 234,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 2.3306625135563843,
+      "elbow_motion_px": 2.3270396664932105,
+      "wrist_angle_step_deg": 1.494487653709541,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 235,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 1.8387922606719165,
+      "elbow_motion_px": 1.8391177666557064,
+      "wrist_angle_step_deg": 0.9786817739433218,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 236,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 0.929688481185939,
+      "elbow_motion_px": 0.9396813025421191,
+      "wrist_angle_step_deg": 0.25306335825197834,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 237,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 0.2854904554658032,
+      "elbow_motion_px": 0.23332869069155246,
+      "wrist_angle_step_deg": 0.2057747232092879,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 238,
+      "action": "Chạy bộ",
+      "wrist_motion_px": 0.17483730741623726,
+      "elbow_motion_px": 0.15601824298951456,
+      "wrist_angle_step_deg": 0.125445542693285,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 239,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.0007184118030991726,
+      "elbow_motion_px": 0.00018873200456647117,
+      "wrist_angle_step_deg": 0.0011113210854887257,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 240,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.05463645339883527,
+      "elbow_motion_px": 0.014312619426717228,
+      "wrist_angle_step_deg": 0.08451394761033271,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 241,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.3421525407459072,
+      "elbow_motion_px": 0.08780099864203211,
+      "wrist_angle_step_deg": 0.5290821217554367,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 242,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.9905931024963195,
+      "elbow_motion_px": 0.23643132298070643,
+      "wrist_angle_step_deg": 1.5302023848439603,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 243,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.9740410228375467,
+      "elbow_motion_px": 0.39262423800504237,
+      "wrist_angle_step_deg": 3.0436486776173695,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 244,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 3.1119142893921037,
+      "elbow_motion_px": 0.40733520660481637,
+      "wrist_angle_step_deg": 4.791136175741144,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 245,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 4.116888558103895,
+      "elbow_motion_px": 0.14005295549541963,
+      "wrist_angle_step_deg": 6.35938981438693,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 246,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 4.732428848466308,
+      "elbow_motion_px": 0.32044338499865604,
+      "wrist_angle_step_deg": 7.226325702800466,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 247,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 5.95985271595206,
+      "elbow_motion_px": 2.9215912814351586,
+      "wrist_angle_step_deg": 6.947970608449111,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 248,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 7.692646998312468,
+      "elbow_motion_px": 5.465635277316472,
+      "wrist_angle_step_deg": 6.400127491004866,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 249,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 9.1561244008801,
+      "elbow_motion_px": 7.446777201235666,
+      "wrist_angle_step_deg": 6.126714934458789,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 250,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 10.127282319630712,
+      "elbow_motion_px": 8.805004143282536,
+      "wrist_angle_step_deg": 6.311940237204169,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 251,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 10.35104555396363,
+      "elbow_motion_px": 8.578225294248401,
+      "wrist_angle_step_deg": 8.651408968096831,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 252,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 9.659746146406736,
+      "elbow_motion_px": 6.940693532545605,
+      "wrist_angle_step_deg": 10.49502174005795,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 253,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 8.314099021504312,
+      "elbow_motion_px": 4.753349240457497,
+      "wrist_angle_step_deg": 10.394049818754183,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 254,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 6.593871242189616,
+      "elbow_motion_px": 2.7060663141886083,
+      "wrist_angle_step_deg": 8.919485112944983,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 255,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 4.7917525593839745,
+      "elbow_motion_px": 1.186161498736239,
+      "wrist_angle_step_deg": 6.862064504806398,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 256,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 3.180106808059569,
+      "elbow_motion_px": 0.2167310464829803,
+      "wrist_angle_step_deg": 4.825843023401603,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 257,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.9860600571795572,
+      "elbow_motion_px": 0.35453625628568886,
+      "wrist_angle_step_deg": 3.21608319284573,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 258,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.349685293052733,
+      "elbow_motion_px": 0.6930980341284064,
+      "wrist_angle_step_deg": 2.263193316435462,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 259,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.1934915344647208,
+      "elbow_motion_px": 0.9086357047745665,
+      "wrist_angle_step_deg": 1.9770636341262957,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 260,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.230595866352468,
+      "elbow_motion_px": 1.0521699629214545,
+      "wrist_angle_step_deg": 2.089910090069395,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 261,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.2221969106625885,
+      "elbow_motion_px": 1.1245081544583944,
+      "wrist_angle_step_deg": 2.1793558444286134,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 262,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.1102845296024992,
+      "elbow_motion_px": 1.1033396968154763,
+      "wrist_angle_step_deg": 2.0915945517550654,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 263,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.9035971453308519,
+      "elbow_motion_px": 0.9675557690177718,
+      "wrist_angle_step_deg": 1.7999598301143465,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 264,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.6197778006764826,
+      "elbow_motion_px": 0.706813186948433,
+      "wrist_angle_step_deg": 1.2963611058222568,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 265,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.2830536001194814,
+      "elbow_motion_px": 0.3361942082283841,
+      "wrist_angle_step_deg": 0.611437121523636,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 266,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.07783234019443608,
+      "elbow_motion_px": 0.09333938465815776,
+      "wrist_angle_step_deg": 0.1694310174356417,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 267,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.4320744337328383,
+      "elbow_motion_px": 0.5060456365328256,
+      "wrist_angle_step_deg": 0.9229698729636198,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 268,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.7494342194007259,
+      "elbow_motion_px": 0.8336623619742494,
+      "wrist_angle_step_deg": 1.5373494757279786,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 269,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.002821546967224,
+      "elbow_motion_px": 1.0408489193363746,
+      "wrist_angle_step_deg": 1.951042820340291,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 270,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.170607019513296,
+      "elbow_motion_px": 1.125329207247346,
+      "wrist_angle_step_deg": 2.152910290128375,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 271,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.2384683004886683,
+      "elbow_motion_px": 1.103599320418932,
+      "wrist_angle_step_deg": 2.160501240690536,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 272,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.2006126827531958,
+      "elbow_motion_px": 0.9981272717313491,
+      "wrist_angle_step_deg": 2.001314265845764,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 273,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.0602715598790944,
+      "elbow_motion_px": 0.830746599353087,
+      "wrist_angle_step_deg": 1.704246440549639,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 274,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.8294245911488456,
+      "elbow_motion_px": 0.6203073779168982,
+      "wrist_angle_step_deg": 1.2979114787736137,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 275,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.5277771057996009,
+      "elbow_motion_px": 0.38225229468601496,
+      "wrist_angle_step_deg": 0.8115568447221904,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 276,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.1810780363171395,
+      "elbow_motion_px": 0.12902093055449068,
+      "wrist_angle_step_deg": 0.27605633356398585,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 277,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.1810780363171395,
+      "elbow_motion_px": 0.12902093055449068,
+      "wrist_angle_step_deg": 0.27605633356398585,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 278,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.5277771057996411,
+      "elbow_motion_px": 0.38225229468605226,
+      "wrist_angle_step_deg": 0.8115568447222756,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 279,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.8294245911488456,
+      "elbow_motion_px": 0.6203073779168982,
+      "wrist_angle_step_deg": 1.2979114787736137,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 280,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.0602715598791246,
+      "elbow_motion_px": 0.8307465993531128,
+      "wrist_angle_step_deg": 1.7042464405496673,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 281,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.2006126827531656,
+      "elbow_motion_px": 0.9981272717312794,
+      "wrist_angle_step_deg": 2.0013142658456218,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 282,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.2384683004887085,
+      "elbow_motion_px": 1.1035993204190222,
+      "wrist_angle_step_deg": 2.1605012406907065,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 283,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.1706070195132559,
+      "elbow_motion_px": 1.1253292072472996,
+      "wrist_angle_step_deg": 2.152910290128233,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 284,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.002821546967224,
+      "elbow_motion_px": 1.0408489193363892,
+      "wrist_angle_step_deg": 1.9510428203403478,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 285,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.7494342194007058,
+      "elbow_motion_px": 0.833662361974222,
+      "wrist_angle_step_deg": 1.5373494757278934,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 286,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.4320744337328383,
+      "elbow_motion_px": 0.5060456365328019,
+      "wrist_angle_step_deg": 0.9229698729636482,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 287,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.07783234019441598,
+      "elbow_motion_px": 0.09333938465815776,
+      "wrist_angle_step_deg": 0.16943101743561328,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 288,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.28305360011949143,
+      "elbow_motion_px": 0.3361942082284117,
+      "wrist_angle_step_deg": 0.6114371215236645,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 289,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.6197778006764926,
+      "elbow_motion_px": 0.7068131869484509,
+      "wrist_angle_step_deg": 1.2963611058222568,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 290,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.9035971453308117,
+      "elbow_motion_px": 0.9675557690177267,
+      "wrist_angle_step_deg": 1.7999598301142612,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 291,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.1102845296025192,
+      "elbow_motion_px": 1.1033396968154763,
+      "wrist_angle_step_deg": 2.091594551755122,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 292,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.2221969106625885,
+      "elbow_motion_px": 1.1245081544583944,
+      "wrist_angle_step_deg": 2.1793558444286134,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 293,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.2297813351990565,
+      "elbow_motion_px": 1.0521277723404532,
+      "wrist_angle_step_deg": 2.0880971046996137,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 294,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.1323903891114766,
+      "elbow_motion_px": 0.9087741372325208,
+      "wrist_angle_step_deg": 1.8466092425670126,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 295,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.9383374614296343,
+      "elbow_motion_px": 0.7147015365601517,
+      "wrist_angle_step_deg": 1.4835883531695515,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 296,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.6642056455461663,
+      "elbow_motion_px": 0.48679823734266453,
+      "wrist_angle_step_deg": 1.0278956925187686,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 297,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.35633582711546474,
+      "elbow_motion_px": 0.23693385268199052,
+      "wrist_angle_step_deg": 0.5573513201743481,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 298,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.2787860646353369,
+      "elbow_motion_px": 0.036255264971912705,
+      "wrist_angle_step_deg": 0.40971203678199686,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 299,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.7888020691683761,
+      "elbow_motion_px": 0.33986491795463775,
+      "wrist_angle_step_deg": 0.9434483246876084,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 300,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.824793105327666,
+      "elbow_motion_px": 0.7032507945858731,
+      "wrist_angle_step_deg": 2.2887722801322354,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 301,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 3.3540367150247423,
+      "elbow_motion_px": 1.2346144376201298,
+      "wrist_angle_step_deg": 4.3213148911961525,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 302,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 5.230387068767113,
+      "elbow_motion_px": 2.1286897364621384,
+      "wrist_angle_step_deg": 6.6805024824786585,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 303,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 7.203242383023223,
+      "elbow_motion_px": 3.552612106333957,
+      "wrist_angle_step_deg": 8.824109627106452,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 304,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 8.958376859185513,
+      "elbow_motion_px": 5.437845991942929,
+      "wrist_angle_step_deg": 10.068691449848984,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 305,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 10.169136738595775,
+      "elbow_motion_px": 7.335193269459135,
+      "wrist_angle_step_deg": 9.721357456525027,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 306,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 10.55307599590336,
+      "elbow_motion_px": 8.563678897434583,
+      "wrist_angle_step_deg": 7.623045352575872,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 307,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 10.021002563507297,
+      "elbow_motion_px": 7.922682958131057,
+      "wrist_angle_step_deg": 6.94772496043683,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 308,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 8.991921657358914,
+      "elbow_motion_px": 6.336396403087189,
+      "wrist_angle_step_deg": 7.34921955966945,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 309,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 7.493929937145878,
+      "elbow_motion_px": 4.292171637176798,
+      "wrist_angle_step_deg": 7.689506040497918,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 310,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 5.8160170073468045,
+      "elbow_motion_px": 1.869037268485003,
+      "wrist_angle_step_deg": 7.8317929001048014,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 311,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 4.741476415357512,
+      "elbow_motion_px": 0.014063401874401745,
+      "wrist_angle_step_deg": 7.350556718119634,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 312,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 3.816834350074231,
+      "elbow_motion_px": 0.2699251786778198,
+      "wrist_angle_step_deg": 5.883406210688179,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 313,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 2.669144474762348,
+      "elbow_motion_px": 0.42021539869250013,
+      "wrist_angle_step_deg": 4.110480820296459,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 314,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 1.578223647934422,
+      "elbow_motion_px": 0.3381843799646876,
+      "wrist_angle_step_deg": 2.4349405428415025,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 315,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.7409976973979653,
+      "elbow_motion_px": 0.18186845338675076,
+      "wrist_angle_step_deg": 1.145076269600338,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 316,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.23756082079815144,
+      "elbow_motion_px": 0.061436553361836156,
+      "wrist_angle_step_deg": 0.36739310904076206,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 317,
+      "action": "Vẫy tay",
+      "wrist_motion_px": 0.0331835862645633,
+      "elbow_motion_px": 0.008702834879954617,
+      "wrist_angle_step_deg": 0.051330723060459604,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 318,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.00023488674392524445,
+      "elbow_motion_px": 6.17079868614914e-05,
+      "wrist_angle_step_deg": 0.00036334967830953246,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 319,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 1.5021694947951676,
+      "elbow_motion_px": 1.4520221740352697,
+      "wrist_angle_step_deg": 0.9805656257361193,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 320,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 4.133298672014011,
+      "elbow_motion_px": 3.970596181242116,
+      "wrist_angle_step_deg": 3.1163102804262053,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 321,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 6.204613130675674,
+      "elbow_motion_px": 5.840731040068123,
+      "wrist_angle_step_deg": 5.772122348945118,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 322,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 7.716112870780123,
+      "elbow_motion_px": 6.869681753599378,
+      "wrist_angle_step_deg": 8.776537488203132,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 323,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 8.667797892327858,
+      "elbow_motion_px": 6.7975573374642835,
+      "wrist_angle_step_deg": 11.420532938125632,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 324,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 9.05966819531744,
+      "elbow_motion_px": 5.588048050218609,
+      "wrist_angle_step_deg": 12.939625532575604,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 325,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 8.891723779750254,
+      "elbow_motion_px": 3.6534930540407426,
+      "wrist_angle_step_deg": 13.117802500325638,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 326,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 8.1639646456259,
+      "elbow_motion_px": 1.625053600754276,
+      "wrist_angle_step_deg": 12.260526570631157,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 327,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 6.876390792944299,
+      "elbow_motion_px": 0.0002679305627381256,
+      "wrist_angle_step_deg": 10.663812414125601,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 328,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 5.029002221705504,
+      "elbow_motion_px": 0.9041036911006421,
+      "wrist_angle_step_deg": 8.255501023411625,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 329,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 2.62179893190953,
+      "elbow_motion_px": 0.8423414074003817,
+      "wrist_angle_step_deg": 4.589314906324205,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 330,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.24930415466413017,
+      "elbow_motion_px": 0.09584601727324107,
+      "wrist_angle_step_deg": 0.4510017063991256,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 331,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 332,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 333,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 334,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 335,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 336,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 337,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 338,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 339,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 340,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 341,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 342,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 343,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 344,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 345,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 346,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 347,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 348,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 349,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 350,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 351,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 352,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 353,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 354,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 355,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 356,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 357,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 358,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 359,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 360,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 361,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 362,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 363,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 364,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 365,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 366,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 367,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 368,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 369,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 370,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 371,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 372,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 373,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 374,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 375,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 376,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 377,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 378,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 379,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 380,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 381,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 382,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 383,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.04132323347161162,
+      "elbow_motion_px": 0.016091758026769463,
+      "wrist_angle_step_deg": 0.07495762532099093,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 384,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 1.3753042738936887,
+      "elbow_motion_px": 0.49070884242275653,
+      "wrist_angle_step_deg": 2.451566521210765,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 385,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 3.106146153193294,
+      "elbow_motion_px": 0.8231599999651191,
+      "wrist_angle_step_deg": 5.289326025362982,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 386,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 4.541117625775032,
+      "elbow_motion_px": 0.6065494270178191,
+      "wrist_angle_step_deg": 7.32217945418293,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 387,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 5.680218691638878,
+      "elbow_motion_px": 0.09091172458937657,
+      "wrist_angle_step_deg": 8.772352617703802,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 388,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 6.52344935078483,
+      "elbow_motion_px": 1.1573781646089936,
+      "wrist_angle_step_deg": 9.816714124405308,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 389,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 7.070809603212946,
+      "elbow_motion_px": 2.4613538928531553,
+      "wrist_angle_step_deg": 10.4863424419801,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 390,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 7.322299448923115,
+      "elbow_motion_px": 3.8098974830929633,
+      "wrist_angle_step_deg": 10.671448785714063,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 391,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 7.277918887915447,
+      "elbow_motion_px": 4.936472665152228,
+      "wrist_angle_step_deg": 10.200881989791156,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 392,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 6.937667920189858,
+      "elbow_motion_px": 5.576717498321461,
+      "wrist_angle_step_deg": 9.002236227683511,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 393,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 6.301546545746409,
+      "elbow_motion_px": 5.5925042027791,
+      "wrist_angle_step_deg": 7.23811544151215,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 394,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 5.369554764585096,
+      "elbow_motion_px": 5.013678475560067,
+      "wrist_angle_step_deg": 5.25858576886219,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 395,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 4.141692576705874,
+      "elbow_motion_px": 3.9564876432558274,
+      "wrist_angle_step_deg": 3.4027877502609556,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 396,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 2.6179599821087645,
+      "elbow_motion_px": 2.5240464345461042,
+      "wrist_angle_step_deg": 1.8383902437212214,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 397,
+      "action": "Chỉ về phía trước",
+      "wrist_motion_px": 0.8088357243650501,
+      "elbow_motion_px": 0.7822938868807077,
+      "wrist_angle_step_deg": 0.5177683175170387,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 398,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.26330638847042565,
+      "elbow_motion_px": 0.2563954511655378,
+      "wrist_angle_step_deg": 0.054324307926663096,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 399,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 1.9636946320865718,
+      "elbow_motion_px": 1.9193004600588395,
+      "wrist_angle_step_deg": 0.3216609674188362,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 400,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 3.562567159665875,
+      "elbow_motion_px": 3.5305575926921438,
+      "wrist_angle_step_deg": 0.19681488098183308,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 401,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 4.780755752107254,
+      "elbow_motion_px": 4.892619145904021,
+      "wrist_angle_step_deg": 0.5759763904284796,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 402,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 5.618260409410709,
+      "elbow_motion_px": 6.081101140722608,
+      "wrist_angle_step_deg": 2.0634310277802115,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 403,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 6.0750811315762405,
+      "elbow_motion_px": 7.10477226428606,
+      "wrist_angle_step_deg": 4.192982558002029,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 404,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 6.151217918603805,
+      "elbow_motion_px": 7.821448361768335,
+      "wrist_angle_step_deg": 6.622187114313419,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 405,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 5.846670770493461,
+      "elbow_motion_px": 7.918147137981333,
+      "wrist_angle_step_deg": 8.612788749824858,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 406,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 5.161439687245178,
+      "elbow_motion_px": 7.11093954099222,
+      "wrist_angle_step_deg": 9.265357332551645,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 407,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 4.095524668858985,
+      "elbow_motion_px": 5.462457341831778,
+      "wrist_angle_step_deg": 8.140062078022993,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 408,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 2.648925715334798,
+      "elbow_motion_px": 3.338205119419331,
+      "wrist_angle_step_deg": 5.475074942787899,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 409,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.8325557661466974,
+      "elbow_motion_px": 1.006978857898627,
+      "wrist_angle_step_deg": 1.7375733758030947,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 410,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 411,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 412,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 413,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 414,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 415,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 416,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 417,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 418,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 419,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 420,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 421,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 422,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 423,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 424,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 425,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 426,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 427,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 428,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 429,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 430,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 431,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 432,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 433,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 434,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 435,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 436,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 437,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 438,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 439,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 440,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 441,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 442,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 443,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 444,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 445,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 446,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 447,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 448,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 449,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 450,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 451,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 452,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 453,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 454,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 455,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 456,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 457,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 458,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 459,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 460,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 461,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 462,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 463,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 0.33601596163842373,
+      "elbow_motion_px": 0.4037484385794974,
+      "wrist_angle_step_deg": 0.7018436843332552,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 464,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 1.5488825176466605,
+      "elbow_motion_px": 1.9064139425221716,
+      "wrist_angle_step_deg": 3.2229750840351983,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 465,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 2.6252871250607654,
+      "elbow_motion_px": 3.3791530874926834,
+      "wrist_angle_step_deg": 5.378818022316182,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 466,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 3.50049460959373,
+      "elbow_motion_px": 4.712930595026427,
+      "wrist_angle_step_deg": 6.876771132230232,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 467,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 4.174504971245554,
+      "elbow_motion_px": 5.75789094652296,
+      "wrist_angle_step_deg": 7.512086855731241,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 468,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 4.647318210016252,
+      "elbow_motion_px": 6.350280574933292,
+      "wrist_angle_step_deg": 7.189561166055341,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 469,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 4.918934325905781,
+      "elbow_motion_px": 6.442478825545533,
+      "wrist_angle_step_deg": 6.070543709220715,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 470,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 4.989353318914183,
+      "elbow_motion_px": 6.132472490245443,
+      "wrist_angle_step_deg": 4.528669678054314,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 471,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 4.85857518904146,
+      "elbow_motion_px": 5.574654322570541,
+      "wrist_angle_step_deg": 2.95278584123497,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 472,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 4.5265999362875675,
+      "elbow_motion_px": 4.885431253949886,
+      "wrist_angle_step_deg": 1.6039441556713143,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 473,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 3.993427560652762,
+      "elbow_motion_px": 4.113746646870359,
+      "wrist_angle_step_deg": 0.6038110068004983,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 474,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 3.259058062136347,
+      "elbow_motion_px": 3.256353819543871,
+      "wrist_angle_step_deg": 0.01563071907980884,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 475,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 2.3234914407390335,
+      "elbow_motion_px": 2.2829795042554886,
+      "wrist_angle_step_deg": 0.2712808470172945,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 476,
+      "action": "Điện thoại một tay",
+      "wrist_motion_px": 1.1867276964605793,
+      "elbow_motion_px": 1.1576326125307732,
+      "wrist_angle_step_deg": 0.21897596434661182,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 477,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.11132907466090103,
+      "elbow_motion_px": 0.1083841242442663,
+      "wrist_angle_step_deg": 0.02328939205224856,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 478,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.6269068003107707,
+      "elbow_motion_px": 0.41430802549255524,
+      "wrist_angle_step_deg": 0.9142982886390882,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 479,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 1.724967158618929,
+      "elbow_motion_px": 1.1195189493114317,
+      "wrist_angle_step_deg": 2.5007085831694553,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 480,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 2.5893976534572887,
+      "elbow_motion_px": 1.6292152355960212,
+      "wrist_angle_step_deg": 3.727744527835881,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 481,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 3.220198284825991,
+      "elbow_motion_px": 1.9507951717494618,
+      "wrist_angle_step_deg": 4.626411641279134,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 482,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 3.6173690527243116,
+      "elbow_motion_px": 2.1054371745019664,
+      "wrist_angle_step_deg": 5.234083966261039,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 483,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 3.7809099571535865,
+      "elbow_motion_px": 2.1159977393860188,
+      "wrist_angle_step_deg": 5.568692171617698,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 484,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 3.7108209981122067,
+      "elbow_motion_px": 2.0012341614549833,
+      "wrist_angle_step_deg": 5.615769544400081,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 485,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 3.407102175601805,
+      "elbow_motion_px": 1.7749915962069878,
+      "wrist_angle_step_deg": 5.3285337593048325,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 486,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 2.869753489620867,
+      "elbow_motion_px": 1.4479754043055015,
+      "wrist_angle_step_deg": 4.641044755937003,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 487,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 2.098774940170683,
+      "elbow_motion_px": 1.029550603063621,
+      "wrist_angle_step_deg": 3.4927166493451125,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 488,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 1.0941665272502539,
+      "elbow_motion_px": 0.5258469361206274,
+      "wrist_angle_step_deg": 1.855750318331502,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 489,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.10404316586522099,
+      "elbow_motion_px": 0.050449935732665374,
+      "wrist_angle_step_deg": 0.17773277243773578,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 490,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 491,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 492,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 493,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 494,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 495,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 496,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 497,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 498,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 499,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 500,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 501,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 502,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 503,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 504,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 505,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 506,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 507,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 508,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 509,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 510,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 511,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 512,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 513,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 514,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 515,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 516,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 517,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 518,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 519,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 520,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 521,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 522,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 523,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 524,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 525,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 526,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 527,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 528,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 529,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 530,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 531,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 532,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 533,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 534,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 535,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 536,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 537,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 538,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 539,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 540,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 541,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 542,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.017245601221394815,
+      "elbow_motion_px": 0.00838845148219394,
+      "wrist_angle_step_deg": 0.02947532709816869,
+      "corrected_targets": 0,
+      "prop": "phone"
+    },
+    {
+      "frame": 543,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.5739615967357672,
+      "elbow_motion_px": 0.2745205456789693,
+      "wrist_angle_step_deg": 0.9775134375983896,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 544,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 1.2963012182997806,
+      "elbow_motion_px": 0.6279144818072102,
+      "wrist_angle_step_deg": 2.1831746180341156,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 545,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 1.8951639814770236,
+      "elbow_motion_px": 0.9362551664601975,
+      "wrist_angle_step_deg": 3.13214431280619,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 546,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 2.3705498862668457,
+      "elbow_motion_px": 1.1991703803517368,
+      "wrist_angle_step_deg": 3.823422953521799,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 547,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 2.722458932670137,
+      "elbow_motion_px": 1.4133993099670479,
+      "wrist_angle_step_deg": 4.272830900485189,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 548,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 2.950891120685827,
+      "elbow_motion_px": 1.5749064833622022,
+      "wrist_angle_step_deg": 4.506940805433516,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 549,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 3.05584645031512,
+      "elbow_motion_px": 1.6793115016351807,
+      "wrist_angle_step_deg": 4.555090513758444,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 550,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 3.0373249215567366,
+      "elbow_motion_px": 1.7213933926547642,
+      "wrist_angle_step_deg": 4.44186979791516,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 551,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 2.8953265344119528,
+      "elbow_motion_px": 1.6944314605991815,
+      "wrist_angle_step_deg": 4.18199567630478,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 552,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 2.629851288879559,
+      "elbow_motion_px": 1.5898817212793024,
+      "wrist_angle_step_deg": 3.7782024266037695,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 553,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 2.2408991849606976,
+      "elbow_motion_px": 1.397803130519857,
+      "wrist_angle_step_deg": 3.2220438887570424,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 554,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 1.7284702226543054,
+      "elbow_motion_px": 1.1084897473360351,
+      "wrist_angle_step_deg": 2.49762368273133,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 555,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 1.0925644019612568,
+      "elbow_motion_px": 0.7156400971277664,
+      "wrist_angle_step_deg": 1.5884383430110915,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 556,
+      "action": "Điện thoại hai tay",
+      "wrist_motion_px": 0.33755486161550996,
+      "elbow_motion_px": 0.22359485638101734,
+      "wrist_angle_step_deg": 0.492720294499577,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 557,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.02507949691109047,
+      "elbow_motion_px": 0.018894832912542764,
+      "wrist_angle_step_deg": 0.022066901074225598,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 558,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.1887401526641282,
+      "elbow_motion_px": 0.1426275976712646,
+      "wrist_angle_step_deg": 0.1645456349879737,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 559,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.3507968116637719,
+      "elbow_motion_px": 0.26723478913208765,
+      "wrist_angle_step_deg": 0.2984276565124162,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 560,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.48994745279620183,
+      "elbow_motion_px": 0.3781151752070871,
+      "wrist_angle_step_deg": 0.4001718500115601,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 561,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.6085013133450382,
+      "elbow_motion_px": 0.4777211220389519,
+      "wrist_angle_step_deg": 0.4693391972991776,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 562,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.705875571792389,
+      "elbow_motion_px": 0.5655986138695442,
+      "wrist_angle_step_deg": 0.5052305400288333,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 563,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.7786291487033337,
+      "elbow_motion_px": 0.6384127624822106,
+      "wrist_angle_step_deg": 0.5071958453767138,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 564,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.8205083830769974,
+      "elbow_motion_px": 0.6899196713480326,
+      "wrist_angle_step_deg": 0.47515049085467354,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 565,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.8225618192691256,
+      "elbow_motion_px": 0.7108986105300572,
+      "wrist_angle_step_deg": 0.4807156834957027,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 566,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.7733760252134215,
+      "elbow_motion_px": 0.6891051704162628,
+      "wrist_angle_step_deg": 0.46990495353105644,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 567,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.6595376201006343,
+      "elbow_motion_px": 0.6093794778662489,
+      "wrist_angle_step_deg": 0.4174953805608652,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 568,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.46842371054532705,
+      "elbow_motion_px": 0.4554431399081139,
+      "wrist_angle_step_deg": 0.31341834481833075,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 569,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.38202160947511743,
+      "elbow_motion_px": 0.3838832141879946,
+      "wrist_angle_step_deg": 0.2616820967544413,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 570,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.4001013672487801,
+      "elbow_motion_px": 0.4035288595981465,
+      "wrist_angle_step_deg": 0.26864410582012965,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 571,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.41498334304017703,
+      "elbow_motion_px": 0.42019568148567343,
+      "wrist_angle_step_deg": 0.2728328416780528,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 572,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.426394155190323,
+      "elbow_motion_px": 0.43357368390997714,
+      "wrist_angle_step_deg": 0.2742363934571017,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 573,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.43407353698029283,
+      "elbow_motion_px": 0.4433517973958547,
+      "wrist_angle_step_deg": 0.2728804685856119,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 574,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.437783774049592,
+      "elbow_motion_px": 0.4492272975967526,
+      "wrist_angle_step_deg": 0.2688298151530262,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 575,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.4373191534643439,
+      "elbow_motion_px": 0.4509162222924343,
+      "wrist_angle_step_deg": 0.2621880034544688,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 576,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.4325151218556158,
+      "elbow_motion_px": 0.4481646291748097,
+      "wrist_angle_step_deg": 0.2530954374229566,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 577,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.4232568412821536,
+      "elbow_motion_px": 0.44076044738578557,
+      "wrist_angle_step_deg": 0.24172557078020418,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 578,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.4094868329936361,
+      "elbow_motion_px": 0.4285455705930399,
+      "wrist_angle_step_deg": 0.22827942401710288,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 579,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.3912114124472197,
+      "elbow_motion_px": 0.4114277276847401,
+      "wrist_angle_step_deg": 0.21297863208357626,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 580,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.36850564446910994,
+      "elbow_motion_px": 0.3893915621057741,
+      "wrist_angle_step_deg": 0.19605739044391157,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 581,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.3415165854216582,
+      "elbow_motion_px": 0.3625082687099906,
+      "wrist_angle_step_deg": 0.17775379648054468,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 582,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.31046462891690396,
+      "elbow_motion_px": 0.3309430949079077,
+      "wrist_angle_step_deg": 0.15830118826315243,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 583,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.27564283160535297,
+      "elbow_motion_px": 0.2949600262005962,
+      "wrist_angle_step_deg": 0.13792014595736646,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 584,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.2374141637274647,
+      "elbow_motion_px": 0.25492305529610676,
+      "wrist_angle_step_deg": 0.11681182615157581,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 585,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.19620670275169516,
+      "elbow_motion_px": 0.211293581760237,
+      "wrist_angle_step_deg": 0.09515323415658372,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 586,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.15250686435106786,
+      "elbow_motion_px": 0.16462369926018416,
+      "wrist_angle_step_deg": 0.07309489983080653,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 587,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.10685083974401266,
+      "elbow_motion_px": 0.11554538449668425,
+      "wrist_angle_step_deg": 0.050761215338610555,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 588,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.05981447848310495,
+      "elbow_motion_px": 0.06475588294270995,
+      "wrist_angle_step_deg": 0.028253436785803387,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 589,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.012001917694220765,
+      "elbow_motion_px": 0.01299986407267144,
+      "wrist_angle_step_deg": 0.0056550746687946685,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 590,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.0359666905602154,
+      "elbow_motion_px": 0.038950835465149394,
+      "wrist_angle_step_deg": 0.016960864027453226,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 591,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.08346796528144296,
+      "elbow_motion_px": 0.09031887382509092,
+      "wrist_angle_step_deg": 0.03952352996651598,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 592,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.12988818627695764,
+      "elbow_motion_px": 0.14034335270100784,
+      "wrist_angle_step_deg": 0.06195565815318105,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 593,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.17463587374813017,
+      "elbow_motion_px": 0.18830091154292855,
+      "wrist_angle_step_deg": 0.08416567021538413,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 594,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.21715365660085695,
+      "elbow_motion_px": 0.23352489404972432,
+      "wrist_angle_step_deg": 0.1060412762059002,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 595,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.2569290575204093,
+      "elbow_motion_px": 0.2754216656975475,
+      "wrist_angle_step_deg": 0.12744522700779726,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 596,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.29350386689192476,
+      "elbow_motion_px": 0.3134833810604391,
+      "wrist_angle_step_deg": 0.14821362765422919,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 597,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.326481834299571,
+      "elbow_motion_px": 0.3472967647939327,
+      "wrist_angle_step_deg": 0.168156947671406,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 598,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.3555344727435994,
+      "elbow_motion_px": 0.3765477530236762,
+      "wrist_angle_step_deg": 0.1870635936914482,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 599,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.3804048435666516,
+      "elbow_motion_px": 0.4010221141392289,
+      "wrist_angle_step_deg": 0.20470567477173063,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 600,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.4009092658796618,
+      "elbow_motion_px": 0.4206024040220404,
+      "wrist_angle_step_deg": 0.22084641597604104,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 601,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.4169369694733689,
+      "elbow_motion_px": 0.43526179104162893,
+      "wrist_angle_step_deg": 0.23524857329357474,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 602,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.42844778147569684,
+      "elbow_motion_px": 0.4450553997840486,
+      "wrist_angle_step_deg": 0.2476831739438694,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 603,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.4354680013883865,
+      "elbow_motion_px": 0.4501098678006177,
+      "wrist_angle_step_deg": 0.2579379421060537,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 604,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.4380846741954372,
+      "elbow_motion_px": 0.45061179359608233,
+      "wrist_angle_step_deg": 0.2658248564567032,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 605,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.4364385151952064,
+      "elbow_motion_px": 0.4467956898523071,
+      "wrist_angle_step_deg": 0.27118640521362636,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 606,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.4307157719974555,
+      "elbow_motion_px": 0.4389319601295961,
+      "wrist_angle_step_deg": 0.27390023973126176,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 607,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.42113932844068813,
+      "elbow_motion_px": 0.42731530703408854,
+      "wrist_angle_step_deg": 0.27388206477928634,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 608,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.4079593623957578,
+      "elbow_motion_px": 0.4122538699826168,
+      "wrist_angle_step_deg": 0.27108673196516975,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 609,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.3914438656043302,
+      "elbow_motion_px": 0.39405929250245264,
+      "wrist_angle_step_deg": 0.26550761584542215,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 610,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.3718693204386483,
+      "elbow_motion_px": 0.37303783939970525,
+      "wrist_angle_step_deg": 0.2571744470252497,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 611,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.3495118078342756,
+      "elbow_motion_px": 0.34948262604027175,
+      "wrist_angle_step_deg": 0.24614985246120114,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 612,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.32463879496134496,
+      "elbow_motion_px": 0.32366698502232444,
+      "wrist_angle_step_deg": 0.232524911164262,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 613,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.2975018229849127,
+      "elbow_motion_px": 0.29583897713579915,
+      "wrist_angle_step_deg": 0.21641407511089028,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 614,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.26833028701233275,
+      "elbow_motion_px": 0.26621705001128965,
+      "wrist_angle_step_deg": 0.19794983182728743,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 615,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.23732647443353017,
+      "elbow_motion_px": 0.23498685538836603,
+      "wrist_angle_step_deg": 0.17727749785530023,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 616,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.2046620064337219,
+      "elbow_motion_px": 0.20229925102915772,
+      "wrist_angle_step_deg": 0.15455053157867837,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 617,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.17047581225401132,
+      "elbow_motion_px": 0.16826953336417608,
+      "wrist_angle_step_deg": 0.1299267396752839,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 618,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.13487375802610302,
+      "elbow_motion_px": 0.1329779702875229,
+      "wrist_angle_step_deg": 0.10356572336289105,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 619,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.09793005236222996,
+      "elbow_motion_px": 0.09647172931528639,
+      "wrist_angle_step_deg": 0.07562786802071741,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 620,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.05969055925041289,
+      "elbow_motion_px": 0.05876832443262674,
+      "wrist_angle_step_deg": 0.04627512189472327,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 621,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.020178164241954732,
+      "elbow_motion_px": 0.019860735647369232,
+      "wrist_angle_step_deg": 0.015673735459643012,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 622,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.03197253326588723,
+      "elbow_motion_px": 0.02334473412059108,
+      "wrist_angle_step_deg": 0.025346946668378223,
+      "corrected_targets": 0,
+      "prop": "box"
+    },
+    {
+      "frame": 623,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.1473790041965467,
+      "elbow_motion_px": 0.10765510537424773,
+      "wrist_angle_step_deg": 0.11708780444149625,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 624,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.24980087115281824,
+      "elbow_motion_px": 0.18264988561135653,
+      "wrist_angle_step_deg": 0.19939799152069781,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 625,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.3330784639116052,
+      "elbow_motion_px": 0.2439090556527219,
+      "wrist_angle_step_deg": 0.2677170880998574,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 626,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.39721178247303474,
+      "elbow_motion_px": 0.2914579878623794,
+      "wrist_angle_step_deg": 0.32203564869749357,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 627,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.4422008268369479,
+      "elbow_motion_px": 0.32527156994865586,
+      "wrist_angle_step_deg": 0.362079463765383,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 628,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.4680455970035354,
+      "elbow_motion_px": 0.34527317706317323,
+      "wrist_angle_step_deg": 0.3873732090446822,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 629,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.47474609297257475,
+      "elbow_motion_px": 0.35133590708498263,
+      "wrist_angle_step_deg": 0.3973030301995948,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 630,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.46230231474430433,
+      "elbow_motion_px": 0.34328945218489393,
+      "wrist_angle_step_deg": 0.3911799815816721,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 631,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.4307142623185493,
+      "elbow_motion_px": 0.3209348172574975,
+      "wrist_angle_step_deg": 0.3683066990137718,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 632,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.37998193569530975,
+      "elbow_motion_px": 0.2840679090438816,
+      "wrist_angle_step_deg": 0.328049590060175,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 633,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.3101053348747286,
+      "elbow_motion_px": 0.2325116575251086,
+      "wrist_angle_step_deg": 0.2699179395857527,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 634,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.221084459856647,
+      "elbow_motion_px": 0.166154655705109,
+      "wrist_angle_step_deg": 0.1936495677503558,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 635,
+      "action": "Nâng hộp",
+      "wrist_motion_px": 0.11291931064117615,
+      "elbow_motion_px": 0.08499227174480717,
+      "wrist_angle_step_deg": 0.09930016811202336,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 636,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.010593165055914028,
+      "elbow_motion_px": 0.00797779950464277,
+      "wrist_angle_step_deg": 0.009329224364250877,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 637,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.7495697407757069,
+      "elbow_motion_px": 0.7561282575575998,
+      "wrist_angle_step_deg": 0.19679237343990508,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 638,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 2.0640092075981618,
+      "elbow_motion_px": 2.0904266404507412,
+      "wrist_angle_step_deg": 0.668159632859755,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 639,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 3.1030268499408056,
+      "elbow_motion_px": 3.169022348124459,
+      "wrist_angle_step_deg": 1.3592928233622956,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 640,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 3.8679835971817673,
+      "elbow_motion_px": 3.9963085566990597,
+      "wrist_angle_step_deg": 2.3044171263197484,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 641,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 4.359304743786611,
+      "elbow_motion_px": 4.55194394507247,
+      "wrist_angle_step_deg": 3.4204201433563526,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 642,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 4.576536992438884,
+      "elbow_motion_px": 4.78727456086839,
+      "wrist_angle_step_deg": 4.517334328683859,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 643,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 4.518384940627771,
+      "elbow_motion_px": 4.648171367257494,
+      "wrist_angle_step_deg": 5.3337314798646105,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 644,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 4.18276953241043,
+      "elbow_motion_px": 4.121138645790187,
+      "wrist_angle_step_deg": 5.618731734028643,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 645,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 3.5670316461760327,
+      "elbow_motion_px": 3.265953638745911,
+      "wrist_angle_step_deg": 5.2251365171072734,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 646,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 2.668850200395826,
+      "elbow_motion_px": 2.1943625355515533,
+      "wrist_angle_step_deg": 4.140290524173082,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 647,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 1.492865464570509,
+      "elbow_motion_px": 1.0034959834352875,
+      "wrist_angle_step_deg": 2.4372740606568186,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 648,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.4474414893860845,
+      "elbow_motion_px": 0.042416399723459,
+      "wrist_angle_step_deg": 0.6650122677166337,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 649,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.40919777199071916,
+      "elbow_motion_px": 0.15821754725529996,
+      "wrist_angle_step_deg": 0.5002946647663293,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 650,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.42948857060187606,
+      "elbow_motion_px": 0.16904283178748705,
+      "wrist_angle_step_deg": 0.5244274965816658,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 651,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.44793475115737635,
+      "elbow_motion_px": 0.17952877788613164,
+      "wrist_angle_step_deg": 0.5463382055519332,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 652,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.4645363136574332,
+      "elbow_motion_px": 0.18963614325218917,
+      "wrist_angle_step_deg": 0.5660632972081885,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 653,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.4792932581018192,
+      "elbow_motion_px": 0.19932208799959023,
+      "wrist_angle_step_deg": 0.5836375237327616,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 654,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.4922055844907618,
+      "elbow_motion_px": 0.20854082302952756,
+      "wrist_angle_step_deg": 0.5990928532625617,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 655,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.5032732928240478,
+      "elbow_motion_px": 0.2172441611914764,
+      "wrist_angle_step_deg": 0.6124575539413399,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 656,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.5124963831018761,
+      "elbow_motion_px": 0.2253819756819156,
+      "wrist_angle_step_deg": 0.623755396512081,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 657,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.5198748553240478,
+      "elbow_motion_px": 0.23290257313176344,
+      "wrist_angle_step_deg": 0.6330049761462533,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 658,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.525408709490776,
+      "elbow_motion_px": 0.2397529912485112,
+      "wrist_angle_step_deg": 0.6402191522407747,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 659,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.5290979456018192,
+      "elbow_motion_px": 0.24587923277977022,
+      "wrist_angle_step_deg": 0.645404603948748,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 660,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.5309425636574332,
+      "elbow_motion_px": 0.251226449047156,
+      "wrist_angle_step_deg": 0.648561499161417,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 661,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.5309425636574332,
+      "elbow_motion_px": 0.2557390874407255,
+      "wrist_angle_step_deg": 0.6496832753482806,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 662,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.5290979456018192,
+      "elbow_motion_px": 0.2593610181568512,
+      "wrist_angle_step_deg": 0.6487565319887949,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 663,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.5254087094907618,
+      "elbow_motion_px": 0.26203565616129143,
+      "wrist_angle_step_deg": 0.645761036109576,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 664,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.5198748553240478,
+      "elbow_motion_px": 0.26370609490798397,
+      "wrist_angle_step_deg": 0.6406698445358643,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 665,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.5124963831018761,
+      "elbow_motion_px": 0.26431526876226663,
+      "wrist_angle_step_deg": 0.6334495487081142,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 666,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.5032732928240478,
+      "elbow_motion_px": 0.26380616133222284,
+      "wrist_angle_step_deg": 0.624060650097988,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 667,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.4922055844907618,
+      "elbow_motion_px": 0.26212207696578865,
+      "wrist_angle_step_deg": 0.6124580762019036,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 668,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.47929325810183343,
+      "elbow_motion_px": 0.2592069924136432,
+      "wrist_angle_step_deg": 0.5985918485187085,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 669,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.464536313657419,
+      "elbow_motion_px": 0.2550060049691432,
+      "wrist_angle_step_deg": 0.5824079145818359,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 670,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.44793475115739056,
+      "elbow_motion_px": 0.24946589209555864,
+      "wrist_angle_step_deg": 0.5638491556719032,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 671,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.42948857060187606,
+      "elbow_motion_px": 0.24253579544690132,
+      "wrist_angle_step_deg": 0.5428565799637397,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 672,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.40919777199070495,
+      "elbow_motion_px": 0.23416803905182496,
+      "wrist_angle_step_deg": 0.5193707071656206,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 673,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.3870623553241046,
+      "elbow_motion_px": 0.22431908705750908,
+      "wrist_angle_step_deg": 0.4933331448763738,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 674,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.3630823206018192,
+      "elbow_motion_px": 0.21295064062599975,
+      "wrist_angle_step_deg": 0.46468834858328023,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 675,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.3372576678240904,
+      "elbow_motion_px": 0.20003086624544078,
+      "wrist_angle_step_deg": 0.4333855463109444,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 676,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.3095883969907618,
+      "elbow_motion_px": 0.1855357388647407,
+      "wrist_angle_step_deg": 0.3993807953870885,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 677,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.28007450810183343,
+      "elbow_motion_px": 0.16945047309093478,
+      "wrist_angle_step_deg": 0.3626391229295791,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 678,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.248716001157419,
+      "elbow_motion_px": 0.15177100462486803,
+      "wrist_angle_step_deg": 0.32313668410213836,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 679,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.21551287615739056,
+      "elbow_motion_px": 0.1325054728657703,
+      "wrist_angle_step_deg": 0.28086285400391375,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 680,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.18046513310186185,
+      "elbow_motion_px": 0.11167564518451589,
+      "wrist_angle_step_deg": 0.23582215174772614,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 681,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.14357277199073337,
+      "elbow_motion_px": 0.08931821501173427,
+      "wrist_angle_step_deg": 0.18803588072174193,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 682,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.10483579282407618,
+      "elbow_motion_px": 0.06548590105770381,
+      "wrist_angle_step_deg": 0.13754335938213558,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 683,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.06425419560184764,
+      "elbow_motion_px": 0.04024827514455107,
+      "wrist_angle_step_deg": 0.08440261433889873,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 684,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.02182798032407618,
+      "elbow_motion_px": 0.013692252593139909,
+      "wrist_angle_step_deg": 0.028690413844543627,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 685,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 686,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 687,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 688,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 689,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 690,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 691,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 692,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 693,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 694,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 695,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 696,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 697,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 698,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 699,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 700,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 701,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.02549256972215208,
+      "elbow_motion_px": 0.005387695052138014,
+      "wrist_angle_step_deg": 0.0377007760057495,
+      "corrected_targets": 0,
+      "prop": "crate"
+    },
+    {
+      "frame": 702,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.8484340925421845,
+      "elbow_motion_px": 0.1885228052856337,
+      "wrist_angle_step_deg": 1.2525973250865547,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 703,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 1.9162016310232792,
+      "elbow_motion_px": 0.4910249621639099,
+      "wrist_angle_step_deg": 2.814475673334556,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 704,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 2.8014448039516444,
+      "elbow_motion_px": 0.8779725160956829,
+      "wrist_angle_step_deg": 4.080962311507307,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 705,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 3.5041636113282877,
+      "elbow_motion_px": 1.3594366824473363,
+      "wrist_angle_step_deg": 5.049070656515056,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 706,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 4.024358053152395,
+      "elbow_motion_px": 1.9070246919159515,
+      "wrist_angle_step_deg": 5.712259729406867,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 707,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 4.362028129423668,
+      "elbow_motion_px": 2.4624794901468614,
+      "wrist_angle_step_deg": 6.05547515988809,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 708,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 4.517173840143607,
+      "elbow_motion_px": 2.9485394778310425,
+      "wrist_angle_step_deg": 6.063212050694403,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 709,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 4.489795185310266,
+      "elbow_motion_px": 3.2852118271235238,
+      "wrist_angle_step_deg": 5.73841307208744,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 710,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 4.279892164925572,
+      "elbow_motion_px": 3.408927227159357,
+      "wrist_angle_step_deg": 5.12056297060559,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 711,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 3.8874647789877175,
+      "elbow_motion_px": 3.2857674901163416,
+      "wrist_angle_step_deg": 4.287932305484389,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 712,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 3.31251302749839,
+      "elbow_motion_px": 2.9115462394805474,
+      "wrist_angle_step_deg": 3.338154452523611,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 713,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 2.5550369104560327,
+      "elbow_motion_px": 2.3008915605520075,
+      "wrist_angle_step_deg": 2.3563339453657477,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 714,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 1.6150364278619518,
+      "elbow_motion_px": 1.4745289460832771,
+      "wrist_angle_step_deg": 1.3853395985377688,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 715,
+      "action": "Đẩy vật thể",
+      "wrist_motion_px": 0.49897598432854035,
+      "elbow_motion_px": 0.4583178548764654,
+      "wrist_angle_step_deg": 0.4111962927004811,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 716,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.30858252373895073,
+      "elbow_motion_px": 0.0658937696169911,
+      "wrist_angle_step_deg": 0.4803711963103865,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 717,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 2.3013564119801098,
+      "elbow_motion_px": 0.5740664326837182,
+      "wrist_angle_step_deg": 3.594887373935194,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 718,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 4.175158724804299,
+      "elbow_motion_px": 1.4182008202279277,
+      "wrist_angle_step_deg": 6.587047858554428,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 719,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 5.602817629812439,
+      "elbow_motion_px": 2.678952714353188,
+      "wrist_angle_step_deg": 8.976947578095178,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 720,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 6.584333127006513,
+      "elbow_motion_px": 4.275019594447775,
+      "wrist_angle_step_deg": 10.664116004791623,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 721,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 7.1197052163848005,
+      "elbow_motion_px": 5.870330232935816,
+      "wrist_angle_step_deg": 11.349901387257944,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 722,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 7.2089338979470385,
+      "elbow_motion_px": 6.955946859204112,
+      "wrist_angle_step_deg": 11.473398838138479,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 723,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 6.85201917169559,
+      "elbow_motion_px": 7.151707914018152,
+      "wrist_angle_step_deg": 10.640534718624707,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 724,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 6.048961037627477,
+      "elbow_motion_px": 6.450326407722317,
+      "wrist_angle_step_deg": 8.748609429482201,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 725,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 4.799759495745451,
+      "elbow_motion_px": 5.083025812279447,
+      "wrist_angle_step_deg": 6.239077676756665,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 726,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 3.1044145460472037,
+      "elbow_motion_px": 3.245407719371581,
+      "wrist_angle_step_deg": 3.6174844882945933,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 727,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.9757156328917739,
+      "elbow_motion_px": 1.0246619716849077,
+      "wrist_angle_step_deg": 1.0622975577426814,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 728,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 729,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 730,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 731,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 732,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 733,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 734,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 735,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 736,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 737,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 738,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 739,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 740,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 741,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 742,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 743,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 744,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 745,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 746,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 747,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 748,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 749,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 750,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 751,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 752,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 753,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 754,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 755,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 756,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 757,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 758,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 759,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 760,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 761,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 762,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 763,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 764,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 765,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 766,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 767,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 768,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 769,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 770,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 771,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 772,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 773,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 774,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 775,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 776,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 777,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 778,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 779,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 780,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.0,
+      "elbow_motion_px": 0.0,
+      "wrist_angle_step_deg": 0.0,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 781,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 0.39379467418659336,
+      "elbow_motion_px": 0.4136812656322079,
+      "wrist_angle_step_deg": 0.424309103316034,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 782,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 1.8152164064341327,
+      "elbow_motion_px": 1.9038348792037887,
+      "wrist_angle_step_deg": 2.0326616226690817,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 783,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 3.0767112461515183,
+      "elbow_motion_px": 3.23107922112643,
+      "wrist_angle_step_deg": 3.7202179160824755,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 784,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 4.102412657883755,
+      "elbow_motion_px": 4.3556692187718875,
+      "wrist_angle_step_deg": 5.4429335104172765,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 785,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 4.892320641632327,
+      "elbow_motion_px": 5.221166209405832,
+      "wrist_angle_step_deg": 7.072694116950402,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 786,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 5.446435197395378,
+      "elbow_motion_px": 5.736631308602559,
+      "wrist_angle_step_deg": 8.375821032455406,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 787,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 5.764756325175049,
+      "elbow_motion_px": 5.792187008537795,
+      "wrist_angle_step_deg": 9.140720945941666,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 788,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 5.847284024968995,
+      "elbow_motion_px": 5.341680845273272,
+      "wrist_angle_step_deg": 9.297597766896246,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 789,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 5.694018296779659,
+      "elbow_motion_px": 4.476708870011086,
+      "wrist_angle_step_deg": 9.152036437880781,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 790,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 5.304959140604614,
+      "elbow_motion_px": 3.4047018229781245,
+      "wrist_angle_step_deg": 8.594168877396214,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 791,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 4.680106556446184,
+      "elbow_motion_px": 2.346742182492365,
+      "wrist_angle_step_deg": 7.5163055375130625,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 792,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 3.8194605443022334,
+      "elbow_motion_px": 1.45406823987479,
+      "wrist_angle_step_deg": 6.054609733974075,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 793,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 2.7230211041745895,
+      "elbow_motion_px": 0.7866774040881162,
+      "wrist_angle_step_deg": 4.271293913055729,
+      "corrected_targets": 0,
+      "prop": null
+    },
+    {
+      "frame": 794,
+      "action": "Khoanh tay",
+      "wrist_motion_px": 1.3907882360618609,
+      "elbow_motion_px": 0.32263453863642616,
+      "wrist_angle_step_deg": 2.1687448368750495,
+      "corrected_targets": 0,
+      "prop": null
+    }
+  ],
+  "scope": "2D segment samples, joint limits and fixed lengths, projected layer policy, prop interiors and animation continuity"
+}
