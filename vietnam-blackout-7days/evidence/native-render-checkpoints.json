@@ -1,0 +1,74 @@
+{
+  "signature": "8f2efbe519018edfed947679b2b071b099aa3e99048721296ba710f7a346a4d5",
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 1264,
+  "elapsed": 158.885,
+  "parts": [
+    {
+      "first": 0,
+      "last": 70,
+      "frames": 70,
+      "signature": "8f2efbe519018edfed947679b2b071b099aa3e99048721296ba710f7a346a4d5",
+      "sha256": "a28e5717ce60041f6cee3c3aca1744d7a3954fcb1dd3fd21359632f8e4325f49",
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/scenes/native-v2/part-0.mp4",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "errors": []
+    },
+    {
+      "first": 70,
+      "last": 235,
+      "frames": 165,
+      "signature": "8f2efbe519018edfed947679b2b071b099aa3e99048721296ba710f7a346a4d5",
+      "sha256": "46936b85ba3c5d178dccb50fdbb71715724af64201e411d5994bf1129e6c3e0d",
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/preview/proof-02/part-70.mp4",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "errors": [],
+      "reusedTechnicalProof": true
+    },
+    {
+      "first": 235,
+      "last": 685,
+      "frames": 450,
+      "signature": "8f2efbe519018edfed947679b2b071b099aa3e99048721296ba710f7a346a4d5",
+      "sha256": "d78cc5e39a3e1b8e7d3e8b465bcd0b2845bd81f285abb31967d092d7aa22b37e",
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/scenes/native-v2/part-235.mp4",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "errors": []
+    },
+    {
+      "first": 685,
+      "last": 1135,
+      "frames": 450,
+      "signature": "8f2efbe519018edfed947679b2b071b099aa3e99048721296ba710f7a346a4d5",
+      "sha256": "a61675914480e3f5708b74eae939822c592d76017df99546fd6dcfe33e0d29b3",
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/scenes/native-v2/part-685.mp4",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "errors": []
+    },
+    {
+      "first": 1135,
+      "last": 1264,
+      "frames": 129,
+      "signature": "8f2efbe519018edfed947679b2b071b099aa3e99048721296ba710f7a346a4d5",
+      "sha256": "040755858981eba199d1497e4334668a372c3389f8fd59d0783a25e4a8a9cd21",
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/scenes/native-v2/part-1135.mp4",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "errors": []
+    }
+  ],
+  "errors": []
+}

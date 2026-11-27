@@ -1,0 +1,8 @@
+{
+  "samples": 819,
+  "maxBoneError": 2.842170943040401e-14,
+  "maxTipError": 1.1099032343376302e-13,
+  "projections": 0,
+  "footDrift": 0,
+  "outwardElbowFailures": 0
+}

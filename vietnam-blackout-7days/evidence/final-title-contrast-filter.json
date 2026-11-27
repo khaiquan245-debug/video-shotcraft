@@ -1,0 +1,5 @@
+{
+  "source": "delivery/picture-v2.mp4",
+  "filter": "drawbox=x=430:y=118:w=220:h=48:color=0xe6e5d4:t=fill:enable='gte(t,30.1)*lt(t,31.966666666666665)',drawtext=fontfile=/workspace/video-shotcraft/integrations/pixijs-environment/public/Nunito.ttf:text='NGÀY 6':fontsize=38:fontcolor=0x335e74:borderw=0.6:bordercolor=0x335e74:x=(w-tw)/2:y=142-th/2:enable='gte(t,30.1)*lt(t,31.966666666666665)',drawbox=x=430:y=118:w=220:h=48:color=0xe6e5d4:t=fill:enable='gte(t,31.966666666666665)*lt(t,33.766666666666666)',drawtext=fontfile=/workspace/video-shotcraft/integrations/pixijs-environment/public/Nunito.ttf:text='NGÀY 7':fontsize=38:fontcolor=0x335e74:borderw=0.6:bordercolor=0x335e74:x=(w-tw)/2:y=142-th/2:enable='gte(t,31.966666666666665)*lt(t,33.766666666666666)'",
+  "scope": "Only two day labels on night shots; original first mux retained. Caption, scene and audio times unchanged."
+}

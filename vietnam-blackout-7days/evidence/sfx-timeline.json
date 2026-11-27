@@ -1,0 +1,749 @@
+{
+  "schema_version": 1,
+  "enabled": true,
+  "duration": 42.13333333333333,
+  "fps": 30.0,
+  "sample_rate": 48000,
+  "language": "vi-VN",
+  "source": {
+    "repository": "https://github.com/wyzowl/sfx-kit",
+    "commit": "92780e7ab0cdfb557497a988089c47f46e8c7412",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "license_file": "assets/sfx-kit/LICENSE",
+    "catalogue_sha256": "67f4debfc7077d15391a896bac71a5d12c5c596dc194564e6054a844a98c9726"
+  },
+  "animation_sha256": "edff9f5491510986ca85eca99493726decf8980908fff5ec4ca8fc1b751c8a04",
+  "voiceover": "/workspace/outputs/vietnam-blackout-7days-20261127/audio/narration.wav",
+  "voiceover_sha256": "88dc14e17f2f51194149ac64b079f9ff118e00f1db347b67fd5c8d1d5c611429",
+  "voiceover_spans": [
+    [
+      0,
+      2.31
+    ],
+    [
+      2.305,
+      2.77
+    ],
+    [
+      2.845,
+      3.55
+    ],
+    [
+      3.615,
+      4.28
+    ],
+    [
+      4.444999999999999,
+      6.08
+    ],
+    [
+      6.125,
+      6.69
+    ],
+    [
+      6.7749999999999995,
+      7.73
+    ],
+    [
+      7.8149999999999995,
+      8.33
+    ],
+    [
+      8.395,
+      9.55
+    ],
+    [
+      9.584999999999999,
+      10.81
+    ],
+    [
+      10.895,
+      12.32
+    ],
+    [
+      12.365,
+      12.88
+    ],
+    [
+      13.035,
+      14.53
+    ],
+    [
+      14.505,
+      14.72
+    ],
+    [
+      14.855,
+      15.8
+    ],
+    [
+      15.855,
+      17.16
+    ],
+    [
+      17.135,
+      17.73
+    ],
+    [
+      17.785,
+      18.3
+    ],
+    [
+      18.395000000000003,
+      19.48
+    ],
+    [
+      19.545,
+      19.94
+    ],
+    [
+      19.915000000000003,
+      20.740000000000002
+    ],
+    [
+      20.765,
+      22.31
+    ],
+    [
+      22.355,
+      22.9
+    ],
+    [
+      22.965000000000003,
+      24.39
+    ],
+    [
+      24.395000000000003,
+      25.46
+    ],
+    [
+      25.465000000000003,
+      26.34
+    ],
+    [
+      26.475,
+      27.650000000000002
+    ],
+    [
+      27.705000000000002,
+      28.22
+    ],
+    [
+      28.285000000000004,
+      29.23
+    ],
+    [
+      29.265,
+      30.04
+    ],
+    [
+      30.105,
+      30.87
+    ],
+    [
+      30.835,
+      31.93
+    ],
+    [
+      31.945000000000004,
+      32.53
+    ],
+    [
+      32.645,
+      33.720000000000006
+    ],
+    [
+      33.755,
+      34.38
+    ],
+    [
+      34.485,
+      36.230000000000004
+    ],
+    [
+      36.265,
+      37.260000000000005
+    ],
+    [
+      37.265,
+      38.730000000000004
+    ],
+    [
+      38.705000000000005,
+      39.42
+    ],
+    [
+      39.475,
+      40.040000000000006
+    ],
+    [
+      40.005,
+      40.24
+    ],
+    [
+      40.265,
+      42.040000000000006
+    ]
+  ],
+  "input_rights": {
+    "music": {
+      "source": "Original local oscillator/noise composition in integrations/vietnam-blackout-7days/sound.py; no third-party music recordings",
+      "license": "OWN",
+      "sha256": "87a858285b6e3f9b0a0dc52ec04c7c1e8f00f4f64750d7d2abfc21e996d75c59"
+    },
+    "ambience": {
+      "source": "Original local oscillator/noise composition in integrations/vietnam-blackout-7days/sound.py; no third-party music recordings",
+      "license": "OWN",
+      "sha256": "2eda6bb3818c33553faa3fac5b86055cafea6aa3c286db4b0a9d188735565184"
+    },
+    "voiceover": {
+      "source": "Local Apache2.0 VieNeu-TTSv3Turbo CPU; requestedMinhQuân alias actualHảiĐăng; newuserVietnamese narration at requested6.6cadence; original native WAV retained",
+      "license": "OWN",
+      "sha256": "88dc14e17f2f51194149ac64b079f9ff118e00f1db347b67fd5c8d1d5c611429"
+    }
+  },
+  "events": [
+    {
+      "scene_id": "1",
+      "event_id": "outage",
+      "frame": 27,
+      "action": "Electric distribution/window state finishes switching off",
+      "query": "mechanical switch light",
+      "categories": [
+        "mechanical"
+      ],
+      "required_tags": "switch",
+      "exclude": "heavy",
+      "gain_db": -6.0,
+      "context": "Authored visible state/stop/contact frame from current main.mjs; no automatic imagecontact recognition",
+      "sound_id": "mechanical-switch-light",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/mechanical/mechanical-switch-light.wav",
+      "asset_relative": "sounds/mechanical/mechanical-switch-light.wav",
+      "sha256": "84efeec4a0cf157aa78169a55fc272b9a1d473932358c0db68d676ac03f6b5f9",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/mechanical/mechanical-switch-light.wav",
+      "license": "CC0-1.0",
+      "event_time": 0.9,
+      "sync_frame": 27,
+      "start": 0.89,
+      "start_sample": 42720,
+      "untrimmed_start": 0.89,
+      "trim_start_seconds": 0.0,
+      "end": 0.922,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_meets": "instant",
+      "sync_how": "Sync point on the frame it switches.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 11,
+      "selection_evidence": {
+        "use_for": [
+          "A setting switched on",
+          "Lights or power coming on",
+          "A physical-feeling toggle"
+        ],
+        "avoid_for": [
+          "Big, heavy objects (use heavy)"
+        ],
+        "tags": [
+          "mechanical",
+          "switch",
+          "light",
+          "physical",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Faster sounds smaller and lighter, slower bigger: keep changes small."
+        }
+      },
+      "reason": "Electric distribution/window state finishes switching off; metadata matches: A setting switched on, Lights or power coming on. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "2",
+      "event_id": "charge",
+      "frame": 107,
+      "action": "Phone batterybar crosses low threshold; connected cable does not charge it",
+      "query": "soft error notification",
+      "categories": [
+        "notifications"
+      ],
+      "required_tags": "error",
+      "exclude": "clear",
+      "gain_db": -9.0,
+      "context": "Authored visible state/stop/contact frame from current main.mjs; no automatic imagecontact recognition",
+      "sound_id": "notification-error-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/notifications/notification-error-soft.wav",
+      "asset_relative": "sounds/notifications/notification-error-soft.wav",
+      "sha256": "a4fbba71503798c6c3f375b41e69d2f4dcf43866a1a29273eaa54a0280c8f339",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/notifications/notification-error-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 3.566666666666667,
+      "sync_frame": 107,
+      "start": 3.566666666666667,
+      "start_sample": 171200,
+      "untrimmed_start": 3.566666666666667,
+      "trim_start_seconds": 0.0,
+      "end": 4.133666666666667,
+      "rate": 1.0,
+      "sync_at": 0,
+      "effective_sync_at": 0.0,
+      "sync_meets": "instant",
+      "sync_how": "Sync point on the frame the notification, tick or message appears.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 13,
+      "selection_evidence": {
+        "use_for": [
+          "A failed action or a wrong input",
+          "A cross or warning icon",
+          "Something that needs fixing"
+        ],
+        "avoid_for": [
+          "Positive moments",
+          "Moments that must cut through loud music (use clear)"
+        ],
+        "tags": [
+          "notification",
+          "error",
+          "soft",
+          "ui",
+          "tone",
+          "marimba",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the notes."
+        }
+      },
+      "reason": "Phone batterybar crosses low threshold; connected cable does not charge it; metadata matches: A failed action or a wrong input, A cross or warning icon. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "6",
+      "event_id": "checkout",
+      "frame": 311,
+      "action": "Phone edge reaches POS and failed action cross appears",
+      "query": "error notification",
+      "categories": [
+        "notifications"
+      ],
+      "required_tags": "error",
+      "exclude": "message",
+      "gain_db": -7.0,
+      "context": "Authored visible state/stop/contact frame from current main.mjs; no automatic imagecontact recognition",
+      "sound_id": "notification-error-clear",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/notifications/notification-error-clear.wav",
+      "asset_relative": "sounds/notifications/notification-error-clear.wav",
+      "sha256": "ac35c3c31a1346d51699d02a43f3da19dff7f0177f3c335087700f66ec2d32de",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/notifications/notification-error-clear.wav",
+      "license": "CC0-1.0",
+      "event_time": 10.366666666666667,
+      "sync_frame": 311,
+      "start": 10.366666666666667,
+      "start_sample": 497600,
+      "untrimmed_start": 10.366666666666667,
+      "trim_start_seconds": 0.0,
+      "end": 11.271666666666667,
+      "rate": 1.0,
+      "sync_at": 0,
+      "effective_sync_at": 0.0,
+      "sync_meets": "instant",
+      "sync_how": "Sync point on the frame the notification, tick or message appears.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 19,
+      "selection_evidence": {
+        "use_for": [
+          "A failed action or a wrong input",
+          "A cross or warning icon",
+          "Something that needs fixing"
+        ],
+        "avoid_for": [
+          "Positive moments",
+          "Quiet, delicate scenes (use soft)"
+        ],
+        "tags": [
+          "notification",
+          "error",
+          "clear",
+          "ui",
+          "tone",
+          "chime",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the notes."
+        }
+      },
+      "reason": "Phone edge reaches POS and failed action cross appears; metadata matches: A failed action or a wrong input, A cross or warning icon. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "7",
+      "event_id": "atm",
+      "frame": 336,
+      "action": "ATM failed-operation screen revealed",
+      "query": "soft error notification",
+      "categories": [
+        "notifications"
+      ],
+      "required_tags": "error",
+      "exclude": "clear",
+      "gain_db": -8.0,
+      "context": "Authored visible state/stop/contact frame from current main.mjs; no automatic imagecontact recognition",
+      "sound_id": "notification-error-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/notifications/notification-error-soft.wav",
+      "asset_relative": "sounds/notifications/notification-error-soft.wav",
+      "sha256": "a4fbba71503798c6c3f375b41e69d2f4dcf43866a1a29273eaa54a0280c8f339",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/notifications/notification-error-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 11.2,
+      "sync_frame": 336,
+      "start": 11.2,
+      "start_sample": 537600,
+      "untrimmed_start": 11.2,
+      "trim_start_seconds": 0.0,
+      "end": 11.767,
+      "rate": 1.0,
+      "sync_at": 0,
+      "effective_sync_at": 0.0,
+      "sync_meets": "instant",
+      "sync_how": "Sync point on the frame the notification, tick or message appears.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 13,
+      "selection_evidence": {
+        "use_for": [
+          "A failed action or a wrong input",
+          "A cross or warning icon",
+          "Something that needs fixing"
+        ],
+        "avoid_for": [
+          "Positive moments",
+          "Moments that must cut through loud music (use clear)"
+        ],
+        "tags": [
+          "notification",
+          "error",
+          "soft",
+          "ui",
+          "tone",
+          "marimba",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the notes."
+        }
+      },
+      "reason": "ATM failed-operation screen revealed; metadata matches: A failed action or a wrong input, A cross or warning icon. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "8",
+      "event_id": "tower",
+      "frame": 420,
+      "action": "Cellsitebackup battery depletes and radio waves disappear",
+      "query": "soft error notification",
+      "categories": [
+        "notifications"
+      ],
+      "required_tags": "error",
+      "exclude": "clear",
+      "gain_db": -9.0,
+      "context": "Authored visible state/stop/contact frame from current main.mjs; no automatic imagecontact recognition",
+      "sound_id": "notification-error-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/notifications/notification-error-soft.wav",
+      "asset_relative": "sounds/notifications/notification-error-soft.wav",
+      "sha256": "a4fbba71503798c6c3f375b41e69d2f4dcf43866a1a29273eaa54a0280c8f339",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/notifications/notification-error-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 14.0,
+      "sync_frame": 420,
+      "start": 14.0,
+      "start_sample": 672000,
+      "untrimmed_start": 14.0,
+      "trim_start_seconds": 0.0,
+      "end": 14.567,
+      "rate": 1.0,
+      "sync_at": 0,
+      "effective_sync_at": 0.0,
+      "sync_meets": "instant",
+      "sync_how": "Sync point on the frame the notification, tick or message appears.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 6,
+      "selection_evidence": {
+        "use_for": [
+          "A failed action or a wrong input",
+          "A cross or warning icon",
+          "Something that needs fixing"
+        ],
+        "avoid_for": [
+          "Positive moments",
+          "Moments that must cut through loud music (use clear)"
+        ],
+        "tags": [
+          "notification",
+          "error",
+          "soft",
+          "ui",
+          "tone",
+          "marimba",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the notes."
+        }
+      },
+      "reason": "Cellsitebackup battery depletes and radio waves disappear; metadata matches: A failed action or a wrong input, A cross or warning icon. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "15",
+      "event_id": "factory",
+      "frame": 781,
+      "action": "Factoryshaft/conveyor finish stopping",
+      "query": "mechanical switch light",
+      "categories": [
+        "mechanical"
+      ],
+      "required_tags": "switch",
+      "exclude": "heavy",
+      "gain_db": -7.0,
+      "context": "Authored visible state/stop/contact frame from current main.mjs; no automatic imagecontact recognition",
+      "sound_id": "mechanical-switch-light",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/mechanical/mechanical-switch-light.wav",
+      "asset_relative": "sounds/mechanical/mechanical-switch-light.wav",
+      "sha256": "84efeec4a0cf157aa78169a55fc272b9a1d473932358c0db68d676ac03f6b5f9",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/mechanical/mechanical-switch-light.wav",
+      "license": "CC0-1.0",
+      "event_time": 26.033333333333335,
+      "sync_frame": 781,
+      "start": 26.023333333333333,
+      "start_sample": 1249120,
+      "untrimmed_start": 26.023333333333333,
+      "trim_start_seconds": 0.0,
+      "end": 26.055333333333333,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_meets": "instant",
+      "sync_how": "Sync point on the frame it switches.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 8,
+      "selection_evidence": {
+        "use_for": [
+          "A setting switched on",
+          "Lights or power coming on",
+          "A physical-feeling toggle"
+        ],
+        "avoid_for": [
+          "Big, heavy objects (use heavy)"
+        ],
+        "tags": [
+          "mechanical",
+          "switch",
+          "light",
+          "physical",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Faster sounds smaller and lighter, slower bigger: keep changes small."
+        }
+      },
+      "reason": "Factoryshaft/conveyor finish stopping; metadata matches: A setting switched on, Lights or power coming on. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "20",
+      "event_id": "lights-return",
+      "frame": 1026,
+      "action": "Home bulb and fan turn on in restoration shot",
+      "query": "mechanical switch light",
+      "categories": [
+        "mechanical"
+      ],
+      "required_tags": "switch",
+      "exclude": "heavy",
+      "gain_db": -5.0,
+      "context": "Authored visible state/stop/contact frame from current main.mjs; no automatic imagecontact recognition",
+      "sound_id": "mechanical-switch-light",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/mechanical/mechanical-switch-light.wav",
+      "asset_relative": "sounds/mechanical/mechanical-switch-light.wav",
+      "sha256": "84efeec4a0cf157aa78169a55fc272b9a1d473932358c0db68d676ac03f6b5f9",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/mechanical/mechanical-switch-light.wav",
+      "license": "CC0-1.0",
+      "event_time": 34.2,
+      "sync_frame": 1026,
+      "start": 34.19,
+      "start_sample": 1641120,
+      "untrimmed_start": 34.19,
+      "trim_start_seconds": 0.0,
+      "end": 34.221999999999994,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_meets": "instant",
+      "sync_how": "Sync point on the frame it switches.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 5,
+      "selection_evidence": {
+        "use_for": [
+          "A setting switched on",
+          "Lights or power coming on",
+          "A physical-feeling toggle"
+        ],
+        "avoid_for": [
+          "Big, heavy objects (use heavy)"
+        ],
+        "tags": [
+          "mechanical",
+          "switch",
+          "light",
+          "physical",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Faster sounds smaller and lighter, slower bigger: keep changes small."
+        }
+      },
+      "reason": "Home bulb and fan turn on in restoration shot; metadata matches: A setting switched on, Lights or power coming on. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "21",
+      "event_id": "recovery",
+      "frame": 1100,
+      "action": "Factory gradually resumes; activeLED state returns",
+      "query": "soft success notification",
+      "categories": [
+        "notifications"
+      ],
+      "required_tags": "success",
+      "exclude": "error",
+      "gain_db": -9.0,
+      "context": "Authored visible state/stop/contact frame from current main.mjs; no automatic imagecontact recognition",
+      "sound_id": "notification-success-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/notifications/notification-success-soft.wav",
+      "asset_relative": "sounds/notifications/notification-success-soft.wav",
+      "sha256": "49fa865e894e26a59dea81144844270d532fa899d7eb94f2ac0687af4a66ebc1",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/notifications/notification-success-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 36.666666666666664,
+      "sync_frame": 1100,
+      "start": 36.666666666666664,
+      "start_sample": 1760000,
+      "untrimmed_start": 36.666666666666664,
+      "trim_start_seconds": 0.0,
+      "end": 37.196666666666665,
+      "rate": 1.0,
+      "sync_at": 0,
+      "effective_sync_at": 0.0,
+      "sync_meets": "instant",
+      "sync_how": "Sync point on the frame the notification, tick or message appears.",
+      "under_voiceover_db": -3,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 11,
+      "selection_evidence": {
+        "use_for": [
+          "A task completed or a form submitted",
+          "A tick or checkmark appearing",
+          "Goals reached, positive results"
+        ],
+        "avoid_for": [
+          "Errors or warnings",
+          "Moments that must cut through loud music (use clear)"
+        ],
+        "tags": [
+          "notification",
+          "success",
+          "soft",
+          "ui",
+          "tone",
+          "marimba",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            1,
+            1
+          ],
+          "notes": "Don't change the rate: it detunes the notes."
+        }
+      },
+      "reason": "Factory gradually resumes; activeLED state returns; metadata matches: A task completed or a form submitted, A tick or checkmark appearing. ",
+      "layer": "sfx"
+    }
+  ],
+  "missing_assets": [],
+  "skipped": [],
+  "notes": [
+    "Context is supplied by authored animation/shot markers, not inferred by audio transcription or image recognition.",
+    "Frame checks certify authored markers and arithmetic; compare visible contact frames during picture review."
+  ]
+}

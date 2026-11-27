@@ -1,0 +1,401 @@
+{
+  "video": "/workspace/outputs/vietnam-blackout-7days-20261127/delivery/Viet_Nam_Mat_Dien_7_Ngay_1080x1920.mp4",
+  "sha256": "8871cc7fb8d745c66762255c5491bac29ca10f2f7f5c2443fbbe15a4b91ddaac",
+  "bytes": 9074581,
+  "native_render": [
+    1080,
+    1920,
+    30
+  ],
+  "frames": 1264,
+  "duration": 42.133333,
+  "decode_errors": [],
+  "black_intervals": [],
+  "extracted_samples": [
+    {
+      "frame": 26,
+      "time": 0.8666666666666667,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0026.png"
+    },
+    {
+      "frame": 27,
+      "time": 0.9,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0027.png"
+    },
+    {
+      "frame": 28,
+      "time": 0.9333333333333333,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0028.png"
+    },
+    {
+      "frame": 35,
+      "time": 1.1666666666666667,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0035.png"
+    },
+    {
+      "frame": 69,
+      "time": 2.3,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0069.png"
+    },
+    {
+      "frame": 70,
+      "time": 2.3333333333333335,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0070.png"
+    },
+    {
+      "frame": 71,
+      "time": 2.3666666666666667,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0071.png"
+    },
+    {
+      "frame": 95,
+      "time": 3.1666666666666665,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0095.png"
+    },
+    {
+      "frame": 106,
+      "time": 3.533333333333333,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0106.png"
+    },
+    {
+      "frame": 107,
+      "time": 3.566666666666667,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0107.png"
+    },
+    {
+      "frame": 108,
+      "time": 3.6,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0108.png"
+    },
+    {
+      "frame": 152,
+      "time": 5.066666666666666,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0152.png"
+    },
+    {
+      "frame": 210,
+      "time": 7.0,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0210.png"
+    },
+    {
+      "frame": 234,
+      "time": 7.8,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0234.png"
+    },
+    {
+      "frame": 235,
+      "time": 7.833333333333333,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0235.png"
+    },
+    {
+      "frame": 236,
+      "time": 7.866666666666666,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0236.png"
+    },
+    {
+      "frame": 262,
+      "time": 8.733333333333333,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0262.png"
+    },
+    {
+      "frame": 310,
+      "time": 10.333333333333334,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0310.png"
+    },
+    {
+      "frame": 311,
+      "time": 10.366666666666667,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0311.png"
+    },
+    {
+      "frame": 312,
+      "time": 10.4,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0312.png"
+    },
+    {
+      "frame": 335,
+      "time": 11.166666666666666,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0335.png"
+    },
+    {
+      "frame": 336,
+      "time": 11.2,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0336.png"
+    },
+    {
+      "frame": 337,
+      "time": 11.233333333333333,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0337.png"
+    },
+    {
+      "frame": 354,
+      "time": 11.8,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0354.png"
+    },
+    {
+      "frame": 405,
+      "time": 13.5,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0405.png"
+    },
+    {
+      "frame": 419,
+      "time": 13.966666666666667,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0419.png"
+    },
+    {
+      "frame": 420,
+      "time": 14.0,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0420.png"
+    },
+    {
+      "frame": 421,
+      "time": 14.033333333333333,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0421.png"
+    },
+    {
+      "frame": 457,
+      "time": 15.233333333333333,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0457.png"
+    },
+    {
+      "frame": 490,
+      "time": 16.333333333333332,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0490.png"
+    },
+    {
+      "frame": 519,
+      "time": 17.3,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0519.png"
+    },
+    {
+      "frame": 578,
+      "time": 19.266666666666666,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0578.png"
+    },
+    {
+      "frame": 647,
+      "time": 21.566666666666666,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0647.png"
+    },
+    {
+      "frame": 684,
+      "time": 22.8,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0684.png"
+    },
+    {
+      "frame": 685,
+      "time": 22.833333333333332,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0685.png"
+    },
+    {
+      "frame": 686,
+      "time": 22.866666666666667,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0686.png"
+    },
+    {
+      "frame": 717,
+      "time": 23.9,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0717.png"
+    },
+    {
+      "frame": 780,
+      "time": 26.0,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0780.png"
+    },
+    {
+      "frame": 781,
+      "time": 26.033333333333335,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0781.png"
+    },
+    {
+      "frame": 782,
+      "time": 26.066666666666666,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0782.png"
+    },
+    {
+      "frame": 816,
+      "time": 27.2,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0816.png"
+    },
+    {
+      "frame": 868,
+      "time": 28.933333333333334,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0868.png"
+    },
+    {
+      "frame": 931,
+      "time": 31.033333333333335,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0931.png"
+    },
+    {
+      "frame": 986,
+      "time": 32.86666666666667,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n0986.png"
+    },
+    {
+      "frame": 1025,
+      "time": 34.166666666666664,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n1025.png"
+    },
+    {
+      "frame": 1026,
+      "time": 34.2,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n1026.png"
+    },
+    {
+      "frame": 1027,
+      "time": 34.233333333333334,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n1027.png"
+    },
+    {
+      "frame": 1037,
+      "time": 34.56666666666667,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n1037.png"
+    },
+    {
+      "frame": 1090,
+      "time": 36.333333333333336,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n1090.png"
+    },
+    {
+      "frame": 1099,
+      "time": 36.63333333333333,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n1099.png"
+    },
+    {
+      "frame": 1100,
+      "time": 36.666666666666664,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n1100.png"
+    },
+    {
+      "frame": 1101,
+      "time": 36.7,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n1101.png"
+    },
+    {
+      "frame": 1134,
+      "time": 37.8,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n1134.png"
+    },
+    {
+      "frame": 1135,
+      "time": 37.833333333333336,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n1135.png"
+    },
+    {
+      "frame": 1136,
+      "time": 37.86666666666667,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n1136.png"
+    },
+    {
+      "frame": 1164,
+      "time": 38.8,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n1164.png"
+    },
+    {
+      "frame": 1236,
+      "time": 41.2,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n1236.png"
+    },
+    {
+      "frame": 1263,
+      "time": 42.1,
+      "path": "/workspace/outputs/vietnam-blackout-7days-20261127/qa/encoded-final-title/n1263.png"
+    }
+  ],
+  "midshots": [
+    {
+      "frame": 35,
+      "label": "outage"
+    },
+    {
+      "frame": 95,
+      "label": "charge"
+    },
+    {
+      "frame": 152,
+      "label": "heat"
+    },
+    {
+      "frame": 210,
+      "label": "traffic"
+    },
+    {
+      "frame": 262,
+      "label": "fridge"
+    },
+    {
+      "frame": 312,
+      "label": "checkout"
+    },
+    {
+      "frame": 354,
+      "label": "atm"
+    },
+    {
+      "frame": 405,
+      "label": "tower"
+    },
+    {
+      "frame": 457,
+      "label": "signal"
+    },
+    {
+      "frame": 490,
+      "label": "pump"
+    },
+    {
+      "frame": 519,
+      "label": "tap"
+    },
+    {
+      "frame": 578,
+      "label": "shopping"
+    },
+    {
+      "frame": 647,
+      "label": "petrol"
+    },
+    {
+      "frame": 717,
+      "label": "hospital"
+    },
+    {
+      "frame": 782,
+      "label": "factory"
+    },
+    {
+      "frame": 816,
+      "label": "logistics"
+    },
+    {
+      "frame": 868,
+      "label": "phone-dead"
+    },
+    {
+      "frame": 931,
+      "label": "night"
+    },
+    {
+      "frame": 986,
+      "label": "restore"
+    },
+    {
+      "frame": 1037,
+      "label": "lights-return"
+    },
+    {
+      "frame": 1090,
+      "label": "recovery"
+    },
+    {
+      "frame": 1164,
+      "label": "essentials"
+    },
+    {
+      "frame": 1236,
+      "label": "wire"
+    }
+  ],
+  "scope": "Technical checks and exported frames; visual review is separate; no claim of human listening or exact reference duplication."
+}

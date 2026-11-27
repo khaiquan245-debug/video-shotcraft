@@ -1,0 +1,603 @@
+{
+  "duration": 42.13333333333333,
+  "frames": 1264,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "shots": [
+    {
+      "id": 1,
+      "action": "outage",
+      "env": "city",
+      "day": 0,
+      "start": 0.0,
+      "end": 2.3333333333333335,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 2,
+      "action": "charge",
+      "env": "home",
+      "day": 1,
+      "start": 2.3333333333333335,
+      "end": 3.966666666666667,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 3,
+      "action": "heat",
+      "env": "home",
+      "day": 1,
+      "start": 3.966666666666667,
+      "end": 6.133333333333334,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 4,
+      "action": "traffic",
+      "env": "traffic",
+      "day": 1,
+      "start": 6.133333333333334,
+      "end": 7.833333333333333,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 5,
+      "action": "fridge",
+      "env": "kitchen",
+      "day": 2,
+      "start": 7.833333333333333,
+      "end": 9.6,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 6,
+      "action": "checkout",
+      "env": "shop",
+      "day": 2,
+      "start": 9.6,
+      "end": 11.166666666666666,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 7,
+      "action": "atm",
+      "env": "atm",
+      "day": 2,
+      "start": 11.166666666666666,
+      "end": 12.4,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 8,
+      "action": "tower",
+      "env": "tower",
+      "day": 3,
+      "start": 12.4,
+      "end": 14.6,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 9,
+      "action": "signal",
+      "env": "home",
+      "day": 3,
+      "start": 14.6,
+      "end": 15.866666666666667,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 10,
+      "action": "pump",
+      "env": "apartment",
+      "day": 3,
+      "start": 15.866666666666667,
+      "end": 16.8,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 11,
+      "action": "tap",
+      "env": "kitchen",
+      "day": 3,
+      "start": 16.8,
+      "end": 17.8,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 12,
+      "action": "shopping",
+      "env": "shop",
+      "day": 4,
+      "start": 17.8,
+      "end": 20.766666666666666,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 13,
+      "action": "petrol",
+      "env": "petrol",
+      "day": 4,
+      "start": 20.766666666666666,
+      "end": 22.366666666666667,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 14,
+      "action": "hospital",
+      "env": "hospital",
+      "day": 5,
+      "start": 22.366666666666667,
+      "end": 25.466666666666665,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 15,
+      "action": "factory",
+      "env": "factory",
+      "day": 5,
+      "start": 25.466666666666665,
+      "end": 26.7,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 16,
+      "action": "logistics",
+      "env": "depot",
+      "day": 5,
+      "start": 26.7,
+      "end": 27.733333333333334,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 17,
+      "action": "phone-dead",
+      "env": "home",
+      "day": 6,
+      "start": 27.733333333333334,
+      "end": 30.1,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 18,
+      "action": "night",
+      "env": "night",
+      "day": 6,
+      "start": 30.1,
+      "end": 31.966666666666665,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 19,
+      "action": "restore",
+      "env": "night",
+      "day": 7,
+      "start": 31.966666666666665,
+      "end": 33.766666666666666,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 20,
+      "action": "lights-return",
+      "env": "home",
+      "day": 7,
+      "start": 33.766666666666666,
+      "end": 35.36666666666667,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 21,
+      "action": "recovery",
+      "env": "factory",
+      "day": 7,
+      "start": 35.36666666666667,
+      "end": 37.3,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 22,
+      "action": "essentials",
+      "env": "network",
+      "day": 7,
+      "start": 37.3,
+      "end": 40.266666666666666,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    },
+    {
+      "id": 23,
+      "action": "wire",
+      "env": "wire",
+      "day": 7,
+      "start": 40.266666666666666,
+      "end": 42.13333333333333,
+      "camera": "Eye-height context, contact insert or layeredcutaway; nooverheadshot",
+      "purpose": "Illustrate current narration with actual device/character/environment state"
+    }
+  ],
+  "captionCues": [
+    {
+      "start": 0.0,
+      "end": 0.6695194141955926,
+      "text": "Điều gì sẽ xảy ra"
+    },
+    {
+      "start": 0.6695194141955926,
+      "end": 1.3390388283911852,
+      "text": "nếu toàn bộ Việt Nam"
+    },
+    {
+      "start": 1.3390388283911852,
+      "end": 1.874654359747659,
+      "text": "đột nhiên mất điện"
+    },
+    {
+      "start": 1.874654359747659,
+      "end": 2.276366008265015,
+      "text": "trong bảy ngày?"
+    },
+    {
+      "start": 2.3240326528354407,
+      "end": 2.776681351736798,
+      "text": "Ngày đầu tiên."
+    },
+    {
+      "start": 2.858395599571813,
+      "end": 3.5953811210317195,
+      "text": "Điện thoại không thể sạc,"
+    },
+    {
+      "start": 3.5953811210317195,
+      "end": 4.332366642491626,
+      "text": "điều hòa ngừng hoạt động,"
+    },
+    {
+      "start": 4.332366642491626,
+      "end": 4.77455795536757,
+      "text": "hàng triệu người"
+    },
+    {
+      "start": 4.77455795536757,
+      "end": 5.511543476827476,
+      "text": "phải chịu đựng cái nóng"
+    },
+    {
+      "start": 5.511543476827476,
+      "end": 6.101131893995401,
+      "text": "mà không có quạt."
+    },
+    {
+      "start": 6.148798538565826,
+      "end": 6.746225642576258,
+      "text": "Đèn giao thông tắt,"
+    },
+    {
+      "start": 6.746225642576258,
+      "end": 7.194295970584082,
+      "text": "nhiều tuyến đường"
+    },
+    {
+      "start": 7.194295970584082,
+      "end": 7.791723074594514,
+      "text": "bắt đầu ùn tắc."
+    },
+    {
+      "start": 7.839389719164938,
+      "end": 8.339974606162565,
+      "text": "Ngày thứ hai."
+    },
+    {
+      "start": 8.421688853997582,
+      "end": 9.047904668207757,
+      "text": "Thực phẩm trong tủ lạnh"
+    },
+    {
+      "start": 9.047904668207757,
+      "end": 9.548877319575897,
+      "text": "bắt đầu hư hỏng."
+    },
+    {
+      "start": 9.596543964146322,
+      "end": 10.053675597477518,
+      "text": "Nhiều cửa hàng"
+    },
+    {
+      "start": 10.053675597477518,
+      "end": 10.663184441919112,
+      "text": "không thể thanh toán"
+    },
+    {
+      "start": 10.663184441919112,
+      "end": 10.967938864139908,
+      "text": "điện tử,"
+    },
+    {
+      "start": 10.967938864139908,
+      "end": 11.882202130802298,
+      "text": "trong khi một số cây ATM"
+    },
+    {
+      "start": 11.882202130802298,
+      "end": 12.339333764133494,
+      "text": "ngừng hoạt động."
+    },
+    {
+      "start": 12.38700040870392,
+      "end": 12.938089240544022,
+      "text": "Ngày thứ ba."
+    },
+    {
+      "start": 13.019803488379038,
+      "end": 13.798386267893074,
+      "text": "Khi nguồn điện dự phòng"
+    },
+    {
+      "start": 13.798386267893074,
+      "end": 14.576969047407111,
+      "text": "tại nhiều trạm phát sóng"
+    },
+    {
+      "start": 14.576969047407111,
+      "end": 14.888402159212724,
+      "text": "cạn kiệt,"
+    },
+    {
+      "start": 14.888402159212724,
+      "end": 15.822701494629568,
+      "text": "điện thoại dần mất tín hiệu."
+    },
+    {
+      "start": 15.870368139199993,
+      "end": 16.411165677624762,
+      "text": "Những khu chung cư"
+    },
+    {
+      "start": 16.411165677624762,
+      "end": 17.22236198526192,
+      "text": "phụ thuộc vào máy bơm điện"
+    },
+    {
+      "start": 17.22236198526192,
+      "end": 17.76315952368669,
+      "text": "bắt đầu thiếu nước."
+    },
+    {
+      "start": 17.810826168257112,
+      "end": 18.33446411996514,
+      "text": "Ngày thứ tư."
+    },
+    {
+      "start": 18.416178367800153,
+      "end": 19.033752711148427,
+      "text": "Người dân đổ xô"
+    },
+    {
+      "start": 19.033752711148427,
+      "end": 19.651327054496697,
+      "text": "đi mua nước uống,"
+    },
+    {
+      "start": 19.651327054496697,
+      "end": 20.1145078120079,
+      "text": "thực phẩm khô"
+    },
+    {
+      "start": 20.1145078120079,
+      "end": 20.732082155356174,
+      "text": "và pin dự phòng."
+    },
+    {
+      "start": 20.7797487999266,
+      "end": 21.16613235097425,
+      "text": "Nhiều cây xăng"
+    },
+    {
+      "start": 21.16613235097425,
+      "end": 21.681310419037782,
+      "text": "không thể hoạt động"
+    },
+    {
+      "start": 21.681310419037782,
+      "end": 22.3252830041172,
+      "text": "nếu thiếu máy phát điện."
+    },
+    {
+      "start": 22.372949648687626,
+      "end": 22.893197026570554,
+      "text": "Ngày thứ năm."
+    },
+    {
+      "start": 22.974911274405567,
+      "end": 23.794895781861552,
+      "text": "Các bệnh viện phải ưu tiên"
+    },
+    {
+      "start": 23.794895781861552,
+      "end": 24.341552120165545,
+      "text": "nguồn điện dự phòng"
+    },
+    {
+      "start": 24.341552120165545,
+      "end": 24.888208458469535,
+      "text": "cho những thiết bị"
+    },
+    {
+      "start": 24.888208458469535,
+      "end": 25.434864796773525,
+      "text": "cứu sống bệnh nhân."
+    },
+    {
+      "start": 25.482531441343948,
+      "end": 25.953099718106348,
+      "text": "Nhiều nhà máy"
+    },
+    {
+      "start": 25.953099718106348,
+      "end": 26.423667994868744,
+      "text": "ngừng sản xuất,"
+    },
+    {
+      "start": 26.423667994868744,
+      "end": 27.20794845613941,
+      "text": "chuỗi cung ứng hàng hóa"
+    },
+    {
+      "start": 27.20794845613941,
+      "end": 27.67851673290181,
+      "text": "bị gián đoạn."
+    },
+    {
+      "start": 27.726183377472235,
+      "end": 28.21967501378974,
+      "text": "Ngày thứ sáu."
+    },
+    {
+      "start": 28.301389261624756,
+      "end": 28.939756029196975,
+      "text": "Những chiếc điện thoại"
+    },
+    {
+      "start": 28.939756029196975,
+      "end": 29.737714488662245,
+      "text": "giờ đây chẳng khác gì"
+    },
+    {
+      "start": 29.737714488662245,
+      "end": 30.056897872448353,
+      "text": "cục gạch."
+    },
+    {
+      "start": 30.10456451701878,
+      "end": 30.863028079117612,
+      "text": "Khi màn đêm buông xuống,"
+    },
+    {
+      "start": 30.863028079117612,
+      "end": 31.31810621637691,
+      "text": "nhiều thành phố"
+    },
+    {
+      "start": 31.31810621637691,
+      "end": 31.924877066055977,
+      "text": "chìm trong bóng tối."
+    },
+    {
+      "start": 31.9725437106264,
+      "end": 32.580307615400685,
+      "text": "Ngày thứ bảy."
+    },
+    {
+      "start": 32.6620218632357,
+      "end": 33.11745719633282,
+      "text": "Điện cuối cùng"
+    },
+    {
+      "start": 33.11745719633282,
+      "end": 33.72470430712898,
+      "text": "cũng được khôi phục."
+    },
+    {
+      "start": 33.77237095169941,
+      "end": 34.34975682822762,
+      "text": "Đèn sáng trở lại,"
+    },
+    {
+      "start": 34.34975682822762,
+      "end": 34.92714270475583,
+      "text": "nhưng nhiều thiết bị,"
+    },
+    {
+      "start": 34.92714270475583,
+      "end": 35.64887505041609,
+      "text": "nhà máy và hệ thống"
+    },
+    {
+      "start": 35.64887505041609,
+      "end": 36.2262609269443,
+      "text": "cung cấp dịch vụ"
+    },
+    {
+      "start": 36.2262609269443,
+      "end": 36.80364680347251,
+      "text": "vẫn cần thời gian"
+    },
+    {
+      "start": 36.80364680347251,
+      "end": 37.23668621086867,
+      "text": "để phục hồi."
+    },
+    {
+      "start": 37.284352855439096,
+      "end": 37.95489718746023,
+      "text": "Hóa ra, thứ duy trì"
+    },
+    {
+      "start": 37.95489718746023,
+      "end": 38.22311492026869,
+      "text": "hoạt động"
+    },
+    {
+      "start": 38.22311492026869,
+      "end": 38.89365925228983,
+      "text": "của cả một đất nước"
+    },
+    {
+      "start": 38.89365925228983,
+      "end": 39.56420358431097,
+      "text": "không chỉ là tiền bạc,"
+    },
+    {
+      "start": 39.56420358431097,
+      "end": 40.234747916332104,
+      "text": "nhiên liệu hay thực phẩm..."
+    },
+    {
+      "start": 40.28241456090253,
+      "end": 41.22853634454269,
+      "text": "Mà còn là dòng điện vô hình"
+    },
+    {
+      "start": 41.22853634454269,
+      "end": 41.634017108959895,
+      "text": "chạy bên trong"
+    },
+    {
+      "start": 41.634017108959895,
+      "end": 42.03949787337711,
+      "text": "những sợi dây."
+    }
+  ],
+  "narration": "Điều gì sẽ xảy ra nếu toàn bộ Việt Nam đột nhiên mất điện trong bảy ngày? Ngày đầu tiên. Điện thoại không thể sạc, điều hòa ngừng hoạt động, hàng triệu người phải chịu đựng cái nóng mà không có quạt. Đèn giao thông tắt, nhiều tuyến đường bắt đầu ùn tắc. Ngày thứ hai. Thực phẩm trong tủ lạnh bắt đầu hư hỏng. Nhiều cửa hàng không thể thanh toán điện tử, trong khi một số cây ATM ngừng hoạt động. Ngày thứ ba. Khi nguồn điện dự phòng tại nhiều trạm phát sóng cạn kiệt, điện thoại dần mất tín hiệu. Những khu chung cư phụ thuộc vào máy bơm điện bắt đầu thiếu nước. Ngày thứ tư. Người dân đổ xô đi mua nước uống, thực phẩm khô và pin dự phòng. Nhiều cây xăng không thể hoạt động nếu thiếu máy phát điện. Ngày thứ năm. Các bệnh viện phải ưu tiên nguồn điện dự phòng cho những thiết bị cứu sống bệnh nhân. Nhiều nhà máy ngừng sản xuất, chuỗi cung ứng hàng hóa bị gián đoạn. Ngày thứ sáu. Những chiếc điện thoại giờ đây chẳng khác gì cục gạch. Khi màn đêm buông xuống, nhiều thành phố chìm trong bóng tối. Ngày thứ bảy. Điện cuối cùng cũng được khôi phục. Đèn sáng trở lại, nhưng nhiều thiết bị, nhà máy và hệ thống cung cấp dịch vụ vẫn cần thời gian để phục hồi. Hóa ra, thứ duy trì hoạt động của cả một đất nước không chỉ là tiền bạc, nhiên liệu hay thực phẩm... Mà còn là dòng điện vô hình chạy bên trong những sợi dây.",
+  "narration_sha256": "88dc14e17f2f51194149ac64b079f9ff118e00f1db347b67fd5c8d1d5c611429",
+  "target_syllables_per_second": 6.6,
+  "overall_syllables_per_second": 6.598101265822785,
+  "language": "vi-VN",
+  "requested_voice": "Minh Quân",
+  "canonical_voice": "Hải Đăng",
+  "engine": "VieNeu-TTS v3 Turbo",
+  "style": "Bright illustrated2.5Dcutaway/cause-and-effect, original local code art and nativeRigby limb animation; suppliedreference only for comparison",
+  "camera_rules": "No overhead; eye-level, sidecutaway, prop/face insert, tracking and motivated pullback; real independentprop/characterparts",
+  "caption_alignment": "Measured sentence spans mapped through uniform pitch-preserving tempo, proportional semantic phrase cues; not forced word alignment",
+  "scenario": "Hypothetical scenario from user script; effects vary with actual backup capacity; no claim of a real ongoing national blackout"
+}

@@ -1,0 +1,262 @@
+{
+  "duration": 42.13333333333333,
+  "frames": 1264,
+  "language": "vi-VN",
+  "voice_requested": "Minh Quân",
+  "canonical_voice": "Hải Đăng",
+  "engine": "VieNeu-TTS v3 Turbo",
+  "model_source": "https://huggingface.co/pnnbao-ump/VieNeu-TTS-v3-Turbo",
+  "native_sha256": "fb2447bb151a4365183f29e06c1ee5fb795595d1591e86ed55aabf180f12196d",
+  "audio_sha256": "88dc14e17f2f51194149ac64b079f9ff118e00f1db347b67fd5c8d1d5c611429",
+  "syllabic_units": 278,
+  "actual_units_per_second": 6.598101265822785,
+  "target_units_per_second": 6.6,
+  "count_method": "Whitespace-separated Vietnamese orthographic syllabic units; multi-syllable foreign names remain token approximations",
+  "post_synthesis_tempo_change": true,
+  "pitch_preserving_tempo_factor": 1.4685321492805754,
+  "user_authorization": "User explicitly requested Vietnamese narration at6.6 tiếng/giây",
+  "segments": [
+    {
+      "id": 0,
+      "text": "Điều gì sẽ xảy ra nếu toàn bộ Việt Nam đột nhiên mất điện trong bảy ngày?",
+      "native_start": 0.0,
+      "native_speech_end": 3.3429166666666665,
+      "native_end": 3.412916666666667,
+      "start": 0.0,
+      "speech_end": 2.276366008265015,
+      "end": 2.3240326528354407
+    },
+    {
+      "id": 1,
+      "text": "Ngày đầu tiên.",
+      "native_start": 3.412916666666667,
+      "native_speech_end": 4.077645833333333,
+      "native_end": 4.1976458333333335,
+      "start": 2.3240326528354407,
+      "speech_end": 2.776681351736798,
+      "end": 2.858395599571813
+    },
+    {
+      "id": 2,
+      "text": "Điện thoại không thể sạc, điều hòa ngừng hoạt động, hàng triệu người phải chịu đựng cái nóng mà không có quạt.",
+      "native_start": 4.1976458333333335,
+      "native_speech_end": 8.959708333333333,
+      "native_end": 9.029708333333334,
+      "start": 2.858395599571813,
+      "speech_end": 6.101131893995401,
+      "end": 6.148798538565826
+    },
+    {
+      "id": 3,
+      "text": "Đèn giao thông tắt, nhiều tuyến đường bắt đầu ùn tắc.",
+      "native_start": 9.029708333333334,
+      "native_speech_end": 11.442395833333334,
+      "native_end": 11.512395833333333,
+      "start": 6.148798538565826,
+      "speech_end": 7.791723074594514,
+      "end": 7.839389719164938
+    },
+    {
+      "id": 4,
+      "text": "Ngày thứ hai.",
+      "native_start": 11.512395833333333,
+      "native_speech_end": 12.247520833333333,
+      "native_end": 12.367520833333334,
+      "start": 7.839389719164938,
+      "speech_end": 8.339974606162565,
+      "end": 8.421688853997582
+    },
+    {
+      "id": 5,
+      "text": "Thực phẩm trong tủ lạnh bắt đầu hư hỏng.",
+      "native_start": 12.367520833333334,
+      "native_speech_end": 14.022833333333333,
+      "native_end": 14.092833333333333,
+      "start": 8.421688853997582,
+      "speech_end": 9.548877319575897,
+      "end": 9.596543964146322
+    },
+    {
+      "id": 6,
+      "text": "Nhiều cửa hàng không thể thanh toán điện tử, trong khi một số cây ATM ngừng hoạt động.",
+      "native_start": 14.092833333333333,
+      "native_speech_end": 18.120708333333333,
+      "native_end": 18.190708333333333,
+      "start": 9.596543964146322,
+      "speech_end": 12.339333764133494,
+      "end": 12.38700040870392
+    },
+    {
+      "id": 7,
+      "text": "Ngày thứ ba.",
+      "native_start": 18.190708333333333,
+      "native_speech_end": 19.0,
+      "native_end": 19.12,
+      "start": 12.38700040870392,
+      "speech_end": 12.938089240544022,
+      "end": 13.019803488379038
+    },
+    {
+      "id": 8,
+      "text": "Khi nguồn điện dự phòng tại nhiều trạm phát sóng cạn kiệt, điện thoại dần mất tín hiệu.",
+      "native_start": 19.12,
+      "native_speech_end": 23.23614583333333,
+      "native_end": 23.306145833333332,
+      "start": 13.019803488379038,
+      "speech_end": 15.822701494629568,
+      "end": 15.870368139199993
+    },
+    {
+      "id": 9,
+      "text": "Những khu chung cư phụ thuộc vào máy bơm điện bắt đầu thiếu nước.",
+      "native_start": 23.306145833333332,
+      "native_speech_end": 26.085770833333335,
+      "native_end": 26.15577083333333,
+      "start": 15.870368139199993,
+      "speech_end": 17.76315952368669,
+      "end": 17.810826168257112
+    },
+    {
+      "id": 10,
+      "text": "Ngày thứ tư.",
+      "native_start": 26.15577083333333,
+      "native_speech_end": 26.92475,
+      "native_end": 27.04475,
+      "start": 17.810826168257112,
+      "speech_end": 18.33446411996514,
+      "end": 18.416178367800153
+    },
+    {
+      "id": 11,
+      "text": "Người dân đổ xô đi mua nước uống, thực phẩm khô và pin dự phòng.",
+      "native_start": 27.04475,
+      "native_speech_end": 30.445729166666666,
+      "native_end": 30.515729166666667,
+      "start": 18.416178367800153,
+      "speech_end": 20.732082155356174,
+      "end": 20.7797487999266
+    },
+    {
+      "id": 12,
+      "text": "Nhiều cây xăng không thể hoạt động nếu thiếu máy phát điện.",
+      "native_start": 30.515729166666667,
+      "native_speech_end": 32.78539583333333,
+      "native_end": 32.85539583333333,
+      "start": 20.7797487999266,
+      "speech_end": 22.3252830041172,
+      "end": 22.372949648687626
+    },
+    {
+      "id": 13,
+      "text": "Ngày thứ năm.",
+      "native_start": 32.85539583333333,
+      "native_speech_end": 33.619395833333336,
+      "native_end": 33.73939583333333,
+      "start": 22.372949648687626,
+      "speech_end": 22.893197026570554,
+      "end": 22.974911274405567
+    },
+    {
+      "id": 14,
+      "text": "Các bệnh viện phải ưu tiên nguồn điện dự phòng cho những thiết bị cứu sống bệnh nhân.",
+      "native_start": 33.73939583333333,
+      "native_speech_end": 37.35191666666667,
+      "native_end": 37.42191666666667,
+      "start": 22.974911274405567,
+      "speech_end": 25.434864796773525,
+      "end": 25.482531441343948
+    },
+    {
+      "id": 15,
+      "text": "Nhiều nhà máy ngừng sản xuất, chuỗi cung ứng hàng hóa bị gián đoạn.",
+      "native_start": 37.42191666666667,
+      "native_speech_end": 40.646791666666665,
+      "native_end": 40.716791666666666,
+      "start": 25.482531441343948,
+      "speech_end": 27.67851673290181,
+      "end": 27.726183377472235
+    },
+    {
+      "id": 16,
+      "text": "Ngày thứ sáu.",
+      "native_start": 40.716791666666666,
+      "native_speech_end": 41.4415,
+      "native_end": 41.5615,
+      "start": 27.726183377472235,
+      "speech_end": 28.21967501378974,
+      "end": 28.301389261624756
+    },
+    {
+      "id": 17,
+      "text": "Những chiếc điện thoại giờ đây chẳng khác gì cục gạch.",
+      "native_start": 41.5615,
+      "native_speech_end": 44.139520833333336,
+      "native_end": 44.209520833333336,
+      "start": 28.301389261624756,
+      "speech_end": 30.056897872448353,
+      "end": 30.10456451701878
+    },
+    {
+      "id": 18,
+      "text": "Khi màn đêm buông xuống, nhiều thành phố chìm trong bóng tối.",
+      "native_start": 44.209520833333336,
+      "native_speech_end": 46.88270833333333,
+      "native_end": 46.952708333333334,
+      "start": 30.10456451701878,
+      "speech_end": 31.924877066055977,
+      "end": 31.9725437106264
+    },
+    {
+      "id": 19,
+      "text": "Ngày thứ bảy.",
+      "native_start": 46.952708333333334,
+      "native_speech_end": 47.84522916666667,
+      "native_end": 47.96522916666667,
+      "start": 31.9725437106264,
+      "speech_end": 32.580307615400685,
+      "end": 32.6620218632357
+    },
+    {
+      "id": 20,
+      "text": "Điện cuối cùng cũng được khôi phục.",
+      "native_start": 47.96522916666667,
+      "native_speech_end": 49.5258125,
+      "native_end": 49.5958125,
+      "start": 32.6620218632357,
+      "speech_end": 33.72470430712898,
+      "end": 33.77237095169941
+    },
+    {
+      "id": 21,
+      "text": "Đèn sáng trở lại, nhưng nhiều thiết bị, nhà máy và hệ thống cung cấp dịch vụ vẫn cần thời gian để phục hồi.",
+      "native_start": 49.5958125,
+      "native_speech_end": 54.68327083333333,
+      "native_end": 54.75327083333333,
+      "start": 33.77237095169941,
+      "speech_end": 37.23668621086867,
+      "end": 37.284352855439096
+    },
+    {
+      "id": 22,
+      "text": "Hóa ra, thứ duy trì hoạt động của cả một đất nước không chỉ là tiền bạc, nhiên liệu hay thực phẩm...",
+      "native_start": 54.75327083333333,
+      "native_speech_end": 59.086020833333336,
+      "native_end": 59.156020833333336,
+      "start": 37.284352855439096,
+      "speech_end": 40.234747916332104,
+      "end": 40.28241456090253
+    },
+    {
+      "id": 23,
+      "text": "Mà còn là dòng điện vô hình chạy bên trong những sợi dây.",
+      "native_start": 59.156020833333336,
+      "native_speech_end": 61.736354166666665,
+      "native_end": 61.85635416666667,
+      "start": 40.28241456090253,
+      "speech_end": 42.03949787337711,
+      "end": 42.13333333333333
+    }
+  ],
+  "narration": "Điều gì sẽ xảy ra nếu toàn bộ Việt Nam đột nhiên mất điện trong bảy ngày? Ngày đầu tiên. Điện thoại không thể sạc, điều hòa ngừng hoạt động, hàng triệu người phải chịu đựng cái nóng mà không có quạt. Đèn giao thông tắt, nhiều tuyến đường bắt đầu ùn tắc. Ngày thứ hai. Thực phẩm trong tủ lạnh bắt đầu hư hỏng. Nhiều cửa hàng không thể thanh toán điện tử, trong khi một số cây ATM ngừng hoạt động. Ngày thứ ba. Khi nguồn điện dự phòng tại nhiều trạm phát sóng cạn kiệt, điện thoại dần mất tín hiệu. Những khu chung cư phụ thuộc vào máy bơm điện bắt đầu thiếu nước. Ngày thứ tư. Người dân đổ xô đi mua nước uống, thực phẩm khô và pin dự phòng. Nhiều cây xăng không thể hoạt động nếu thiếu máy phát điện. Ngày thứ năm. Các bệnh viện phải ưu tiên nguồn điện dự phòng cho những thiết bị cứu sống bệnh nhân. Nhiều nhà máy ngừng sản xuất, chuỗi cung ứng hàng hóa bị gián đoạn. Ngày thứ sáu. Những chiếc điện thoại giờ đây chẳng khác gì cục gạch. Khi màn đêm buông xuống, nhiều thành phố chìm trong bóng tối. Ngày thứ bảy. Điện cuối cùng cũng được khôi phục. Đèn sáng trở lại, nhưng nhiều thiết bị, nhà máy và hệ thống cung cấp dịch vụ vẫn cần thời gian để phục hồi. Hóa ra, thứ duy trì hoạt động của cả một đất nước không chỉ là tiền bạc, nhiên liệu hay thực phẩm... Mà còn là dòng điện vô hình chạy bên trong những sợi dây.",
+  "caption_alignment": "Measured sentence spans mapped through uniform pitch-preserving tempo, proportional semantic phrase cues; not forced word alignment"
+}

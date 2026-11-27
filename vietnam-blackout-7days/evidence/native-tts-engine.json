@@ -1,0 +1,198 @@
+{
+  "engine": "VieNeu-TTS v3 Turbo",
+  "package_version": "3.8.4",
+  "actual_backend": "onnx",
+  "engine_class": "OnnxV3LiteEngine",
+  "model_directory": "/workspace/tts-runtime/models/vieneu-v3-turbo",
+  "session_providers": {
+    "sess_pre": [
+      "CPUExecutionProvider"
+    ],
+    "sess_dec": [
+      "CPUExecutionProvider"
+    ],
+    "sess_ac": [
+      "CPUExecutionProvider"
+    ],
+    "sess_codec_dec": [
+      "CPUExecutionProvider"
+    ]
+  },
+  "inference_offline": true,
+  "model_source": "https://huggingface.co/pnnbao-ump/VieNeu-TTS-v3-Turbo",
+  "canonical_voice": "Hải Đăng",
+  "voice_metadata": {
+    "gender": "male",
+    "description": "Nam · Bắc · Phong cách tự nhiên",
+    "aliases": [
+      "Minh Quân Pro",
+      "Minh Quân"
+    ]
+  },
+  "preset_sha256": "e1f13cd2c2e0d29fdab5e15bfd7a30f3d7b768e6132bb43dd2b853f8efefdce9",
+  "speed_method": "native at 1.0; pitch-preserving FFmpeg atempo otherwise",
+  "model_inventory": {
+    "repo": "pnnbao-ump/VieNeu-TTS-v3-Turbo",
+    "revision": "61b85e3d937fbbacb387714180e8182823512523",
+    "license": "apache-2.0",
+    "codec_repo": "OpenMOSS-Team/MOSS-Audio-Tokenizer-Nano-ONNX",
+    "codec_revision": "ceff0d0749bfb3fa2d61149794ec6feef0d1e1ae",
+    "files": {
+      "tokenizer.json": "7ed8df3a1fa39a3a35a1ab4b72f9faa35980bea0b930ba4aa82f847d21c583af",
+      "README.md": "5d5bb2de661fabc0e073b3b844dc131696fac3dddd5ea882d10fd9a849108eb7",
+      "config.json": "eee8e032cb936a60312f594a8156c086173a9c0255a545bd11a448f22a7c77ae",
+      "onnx_update/vieneu_backbone_shared.data": "c7c072193db33d0542457e2612c7272c44c4279d1cafaf0aa4c379964911db2f",
+      "onnx_update/vieneu_decode_step.onnx": "bedc379cea61ea5d616312750d95ad3924e055856662d19187a889a5edc24ceb",
+      "onnx_update/vieneu_v3_heads.npz": "fb22484baa424bbb775133a6e5f0d00d6299b2b256fbe3312a864b85b9aed01e",
+      "onnx_update/vieneu_acoustic_cached.onnx": "f631e3387c788c3d8b9a5ac5df94952af5bc4c4d1049ff8a751e76a246fff2d4",
+      "onnx_update/vieneu_prefill.onnx": "27f8b064f6b57b5448e95d095f1959588c005d614678045c2b97ecccf3b7a0f7",
+      "onnx_update/tokenizer.json": "6cc6bcbe380b8c37bd9f2514e37c5dfa3e00e122c6e3125dae5c4afe48e39158",
+      "onnx_update/config.json": "17d89d414ee302a82db7b330bf57b4cdf8541569392119c81f552178cafcb79b"
+    },
+    "codec_files": {
+      "moss_audio_tokenizer_encode.onnx": "eadea4a645abdcf98714c7aead122ee2ce7da6e080f9f80b977cd1ca8e19473a",
+      "moss_audio_tokenizer_decode_full.onnx": "0fbbafe3fd4afa2a019af5c5ced204af6e2d1db044fa40f021525d2aee95b4ac",
+      "codec_browser_onnx_meta.json": "3e291c883bb7d11ff2fe8e964e3e495519760358859f35c951254c7741592731",
+      "moss_audio_tokenizer_decode_shared.data": "e69d52e0f4e84ca27850557ee54face46632d3a5a16c89bd246c7c408466dcad",
+      "moss_audio_tokenizer_decode_step.onnx": "9527c86a29e1837edec1f74db57d5eeaadb3a715af3382703566460afed25855",
+      "moss_audio_tokenizer_encode.data": "aa751265b2bab2887eac224484546b194875aa7494b607115439b3dc6b228a2c",
+      "README.md": "3c7b9e9ef1c8c5e5c829a077a1d32c1f7aea1668f2bf17ead318ff04bf1e6fe4"
+    }
+  },
+  "language": "vi-VN",
+  "requested_voice": "Minh Quân",
+  "speed": 1.0,
+  "text": "Điều gì sẽ xảy ra nếu toàn bộ Việt Nam đột nhiên mất điện trong bảy ngày?\nNgày đầu tiên.\nĐiện thoại không thể sạc, điều hòa ngừng hoạt động, hàng triệu người phải chịu đựng cái nóng mà không có quạt.\nĐèn giao thông tắt, nhiều tuyến đường bắt đầu ùn tắc.\nNgày thứ hai.\nThực phẩm trong tủ lạnh bắt đầu hư hỏng. Nhiều cửa hàng không thể thanh toán điện tử, trong khi một số cây ATM ngừng hoạt động.\nNgày thứ ba.\nKhi nguồn điện dự phòng tại nhiều trạm phát sóng cạn kiệt, điện thoại dần mất tín hiệu.\nNhững khu chung cư phụ thuộc vào máy bơm điện bắt đầu thiếu nước.\nNgày thứ tư.\nNgười dân đổ xô đi mua nước uống, thực phẩm khô và pin dự phòng.\nNhiều cây xăng không thể hoạt động nếu thiếu máy phát điện.\nNgày thứ năm.\nCác bệnh viện phải ưu tiên nguồn điện dự phòng cho những thiết bị cứu sống bệnh nhân.\nNhiều nhà máy ngừng sản xuất, chuỗi cung ứng hàng hóa bị gián đoạn.\nNgày thứ sáu.\nNhững chiếc điện thoại giờ đây chẳng khác gì cục gạch. Khi màn đêm buông xuống, nhiều thành phố chìm trong bóng tối.\nNgày thứ bảy.\nĐiện cuối cùng cũng được khôi phục. Đèn sáng trở lại, nhưng nhiều thiết bị, nhà máy và hệ thống cung cấp dịch vụ vẫn cần thời gian để phục hồi.\nHóa ra, thứ duy trì hoạt động của cả một đất nước không chỉ là tiền bạc, nhiên liệu hay thực phẩm...\nMà còn là dòng điện vô hình chạy bên trong những sợi dây.\n",
+  "duration": 66.22,
+  "sample_rate": 48000,
+  "channels": 1,
+  "pcm_bits": 16,
+  "execution_provider": "CPUExecutionProvider",
+  "start_offset": 0,
+  "captions": [
+    {
+      "text": "Điều gì sẽ xảy ra nếu toàn bộ Việt Nam đột nhiên mất điện trong bảy ngày?",
+      "start": 0.0,
+      "end": 3.52
+    },
+    {
+      "text": "Ngày đầu tiên.",
+      "start": 3.7,
+      "end": 4.42
+    },
+    {
+      "text": "Điện thoại không thể sạc, điều hòa ngừng hoạt động, hàng triệu người phải chịu đựng cái nóng mà không có quạt.",
+      "start": 4.6,
+      "end": 9.48
+    },
+    {
+      "text": "Đèn giao thông tắt, nhiều tuyến đường bắt đầu ùn tắc.",
+      "start": 9.66,
+      "end": 12.14
+    },
+    {
+      "text": "Ngày thứ hai.",
+      "start": 12.32,
+      "end": 13.12
+    },
+    {
+      "text": "Thực phẩm trong tủ lạnh bắt đầu hư hỏng.",
+      "start": 13.3,
+      "end": 15.06
+    },
+    {
+      "text": "Nhiều cửa hàng không thể thanh toán điện tử, trong khi một số cây ATM ngừng hoạt động.",
+      "start": 15.24,
+      "end": 19.4
+    },
+    {
+      "text": "Ngày thứ ba.",
+      "start": 19.58,
+      "end": 20.46
+    },
+    {
+      "text": "Khi nguồn điện dự phòng tại nhiều trạm phát sóng cạn kiệt, điện thoại dần mất tín hiệu.",
+      "start": 20.64,
+      "end": 24.8
+    },
+    {
+      "text": "Những khu chung cư phụ thuộc vào máy bơm điện bắt đầu thiếu nước.",
+      "start": 24.98,
+      "end": 27.86
+    },
+    {
+      "text": "Ngày thứ tư.",
+      "start": 28.04,
+      "end": 28.92
+    },
+    {
+      "text": "Người dân đổ xô đi mua nước uống, thực phẩm khô và pin dự phòng.",
+      "start": 29.1,
+      "end": 32.62
+    },
+    {
+      "text": "Nhiều cây xăng không thể hoạt động nếu thiếu máy phát điện.",
+      "start": 32.8,
+      "end": 35.2
+    },
+    {
+      "text": "Ngày thứ năm.",
+      "start": 35.38,
+      "end": 36.26
+    },
+    {
+      "text": "Các bệnh viện phải ưu tiên nguồn điện dự phòng cho những thiết bị cứu sống bệnh nhân.",
+      "start": 36.44,
+      "end": 40.2
+    },
+    {
+      "text": "Nhiều nhà máy ngừng sản xuất, chuỗi cung ứng hàng hóa bị gián đoạn.",
+      "start": 40.38,
+      "end": 43.74
+    },
+    {
+      "text": "Ngày thứ sáu.",
+      "start": 43.92,
+      "end": 44.72
+    },
+    {
+      "text": "Những chiếc điện thoại giờ đây chẳng khác gì cục gạch.",
+      "start": 44.9,
+      "end": 47.54
+    },
+    {
+      "text": "Khi màn đêm buông xuống, nhiều thành phố chìm trong bóng tối.",
+      "start": 47.72,
+      "end": 50.44
+    },
+    {
+      "text": "Ngày thứ bảy.",
+      "start": 50.62,
+      "end": 51.58
+    },
+    {
+      "text": "Điện cuối cùng cũng được khôi phục.",
+      "start": 51.76,
+      "end": 53.36
+    },
+    {
+      "text": "Đèn sáng trở lại, nhưng nhiều thiết bị, nhà máy và hệ thống cung cấp dịch vụ vẫn cần thời gian để phục hồi.",
+      "start": 53.54,
+      "end": 58.74
+    },
+    {
+      "text": "Hóa ra, thứ duy trì hoạt động của cả một đất nước không chỉ là tiền bạc, nhiên liệu hay thực phẩm...",
+      "start": 58.92,
+      "end": 63.4
+    },
+    {
+      "text": "Mà còn là dòng điện vô hình chạy bên trong những sợi dây.",
+      "start": 63.58,
+      "end": 66.22
+    }
+  ],
+  "alignment": "measured sentence audio spans; no word-level alignment",
+  "peak_before_gain": 1.0825974941253662,
+  "gain": 0.877519119668301,
+  "wav_sha256": "fb2447bb151a4365183f29e06c1ee5fb795595d1591e86ed55aabf180f12196d"
+}
