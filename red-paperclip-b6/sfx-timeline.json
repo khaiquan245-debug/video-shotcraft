@@ -1,0 +1,701 @@
+{
+  "schema_version": 1,
+  "enabled": true,
+  "duration": 53.8,
+  "fps": 30.0,
+  "sample_rate": 48000,
+  "language": "en-US",
+  "source": {
+    "repository": "https://github.com/wyzowl/sfx-kit",
+    "commit": "92780e7ab0cdfb557497a988089c47f46e8c7412",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "license_file": "assets/sfx-kit/LICENSE",
+    "catalogue_sha256": "67f4debfc7077d15391a896bac71a5d12c5c596dc194564e6054a844a98c9726"
+  },
+  "animation_sha256": "a8780189893f94a9e6a718bad680a2487945ebc63aef310827fc446ae7db2c7f",
+  "voiceover": "/workspace/outputs/red-paperclip-b6-20261127/project/audio/narration.wav",
+  "voiceover_sha256": "6cfb0f0719e7f29e4e37544160c2b03f23f5c4a541bb62b9cf1a09a53e0f923f",
+  "voiceover_spans": [
+    [
+      0.015,
+      1.3
+    ],
+    [
+      1.3250000000000002,
+      2.19
+    ],
+    [
+      2.1550000000000002,
+      2.73
+    ],
+    [
+      2.7550000000000003,
+      2.98
+    ],
+    [
+      3.035,
+      3.88
+    ],
+    [
+      3.855,
+      4.46
+    ],
+    [
+      4.435,
+      4.77
+    ],
+    [
+      4.765,
+      4.99
+    ],
+    [
+      5.075,
+      6.13
+    ],
+    [
+      6.595,
+      7.9
+    ],
+    [
+      7.895,
+      8.43
+    ],
+    [
+      8.424999999999999,
+      9.34
+    ],
+    [
+      9.305,
+      10.42
+    ],
+    [
+      10.635,
+      11.44
+    ],
+    [
+      11.785,
+      12.7
+    ],
+    [
+      12.905,
+      14.23
+    ],
+    [
+      14.205,
+      14.69
+    ],
+    [
+      14.735,
+      15.08
+    ],
+    [
+      15.235,
+      17.25
+    ],
+    [
+      17.455000000000002,
+      19.38
+    ],
+    [
+      19.665000000000003,
+      21.04
+    ],
+    [
+      21.175,
+      23.16
+    ],
+    [
+      23.495,
+      24.68
+    ],
+    [
+      25.015,
+      26.25
+    ],
+    [
+      26.475,
+      28.57
+    ],
+    [
+      28.825000000000003,
+      30.5
+    ],
+    [
+      30.615000000000002,
+      31.240000000000002
+    ],
+    [
+      31.245,
+      32.46
+    ],
+    [
+      32.755,
+      34.480000000000004
+    ],
+    [
+      34.775000000000006,
+      35.14000000000001
+    ],
+    [
+      35.105000000000004,
+      36.00000000000001
+    ],
+    [
+      35.985,
+      36.260000000000005
+    ],
+    [
+      36.295,
+      36.760000000000005
+    ],
+    [
+      36.735,
+      37.790000000000006
+    ],
+    [
+      38.065000000000005,
+      38.410000000000004
+    ],
+    [
+      38.385000000000005,
+      39.300000000000004
+    ],
+    [
+      39.375,
+      39.57000000000001
+    ],
+    [
+      39.675000000000004,
+      40.730000000000004
+    ],
+    [
+      40.695,
+      41.96
+    ],
+    [
+      42.115,
+      42.99
+    ],
+    [
+      42.955000000000005,
+      43.2
+    ],
+    [
+      43.605000000000004,
+      45.81
+    ],
+    [
+      45.795,
+      46.580000000000005
+    ],
+    [
+      46.715,
+      47.53
+    ],
+    [
+      47.705000000000005,
+      48.96000000000001
+    ],
+    [
+      49.135000000000005,
+      49.870000000000005
+    ],
+    [
+      50.245000000000005,
+      51.34
+    ],
+    [
+      51.505,
+      52.7
+    ],
+    [
+      52.705000000000005,
+      53.64000000000001
+    ]
+  ],
+  "input_rights": {
+    "music": {
+      "source": "Original local oscillator composition in integrations/red-paperclip-b6/sound.py; no third-party recording",
+      "license": "OWN",
+      "sha256": "7d3c4cab586b1bf9f14919da2387b0b0048a211c824b0bba12ed003aaf0f754f"
+    },
+    "ambience": {
+      "source": "Original local oscillator composition in integrations/red-paperclip-b6/sound.py; no third-party recording",
+      "license": "OWN",
+      "sha256": "3069b4f4e1c4949c6fe65786a78f103649eb3dc5cb4f4c3403b050acd42ea77f"
+    },
+    "voiceover": {
+      "source": "Local Kokoro-82M v1.0 ONNX CPU am_michael, original narration unchanged, no inference service",
+      "license": "OWN",
+      "sha256": "6cfb0f0719e7f29e4e37544160c2b03f23f5c4a541bb62b9cf1a09a53e0f923f"
+    }
+  },
+  "events": [
+    {
+      "scene_id": "online",
+      "event_id": "online-story",
+      "frame": 252,
+      "action": "Illustrative document/keys handling or online posting",
+      "query": "button click medium",
+      "categories": [
+        "interface"
+      ],
+      "required_tags": "button",
+      "gain_db": -10.0,
+      "context": "Intentional story accent during visible document/keys/CRT insert; not an inferred physical impact",
+      "sound_id": "click-latch-medium",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/interface/click-latch-medium.wav",
+      "asset_relative": "sounds/interface/click-latch-medium.wav",
+      "sha256": "3233deb714b5b7e79778745a9069db6d67a3d5c3a6fe2aa79be3974cc313863a",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/interface/click-latch-medium.wav",
+      "license": "CC0-1.0",
+      "event_time": 8.4,
+      "sync_frame": 252,
+      "start": 8.379,
+      "start_sample": 402192,
+      "untrimmed_start": 8.379,
+      "trim_start_seconds": 0.0,
+      "end": 8.417,
+      "rate": 1.0,
+      "sync_at": 0.021,
+      "effective_sync_at": 0.021,
+      "sync_meets": "instant",
+      "sync_how": "Put the sync point on the frame the press lands.",
+      "under_voiceover_db": -1,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 16,
+      "selection_evidence": {
+        "use_for": [
+          "A push button locking in: record, power, select",
+          "A pen click: writing, signing, noting",
+          "Something set and held"
+        ],
+        "avoid_for": [
+          "Very quiet, delicate moments (use soft)"
+        ],
+        "tags": [
+          "click",
+          "latch",
+          "medium",
+          "ui",
+          "interface",
+          "switch",
+          "toggle",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.15
+          ],
+          "notes": "Rate changes shift the pitch a little: faster sounds lighter, slower heavier."
+        }
+      },
+      "reason": "Illustrative document/keys handling or online posting; metadata matches: A push button locking in: record, power, select, A pen click: writing, signing, noting. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "fish-exchange",
+      "event_id": "fish-exchange-contact",
+      "frame": 426,
+      "action": "Visible hand reaches actual exchanged object",
+      "query": "plastic touch material",
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "plastic",
+      "exclude": "slide",
+      "gain_db": -7.0,
+      "context": "Shared ContactTimeline ownership begins at shot local 0.28 duration; original animation marker, not automatic recognition",
+      "sound_id": "foley-plastic-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-plastic-touch.wav",
+      "asset_relative": "sounds/foley/foley-plastic-touch.wav",
+      "sha256": "c61e0be4b1f150b55f4efc7088991b137d73562b0f75302061348291091482f4",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-plastic-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 14.2,
+      "sync_frame": 426,
+      "start": 14.19,
+      "start_sample": 681120,
+      "untrimmed_start": 14.19,
+      "trim_start_seconds": 0.0,
+      "end": 14.269,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_meets": "instant",
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 14,
+      "selection_evidence": {
+        "use_for": [
+          "Plastic products and packaging",
+          "Devices and cases",
+          "Containers opening or being set down",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "plastic",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "Visible hand reaches actual exchanged object; metadata matches: Plastic products and packaging, Devices and cases. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "record",
+      "event_id": "record-story",
+      "frame": 698,
+      "action": "Illustrative document/keys handling or online posting",
+      "query": "paper touch material",
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "paper",
+      "gain_db": -10.0,
+      "context": "Intentional story accent during visible document/keys/CRT insert; not an inferred physical impact",
+      "sound_id": "foley-paper-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-paper-touch.wav",
+      "asset_relative": "sounds/foley/foley-paper-touch.wav",
+      "sha256": "37c6dd31840b0910df0f61b5714a8aba916c704a33eee6293a92603cea9e1360",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-paper-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 23.266666666666666,
+      "sync_frame": 698,
+      "start": 23.244666666666667,
+      "start_sample": 1115744,
+      "untrimmed_start": 23.244666666666667,
+      "trim_start_seconds": 0.0,
+      "end": 23.554666666666666,
+      "rate": 1.0,
+      "sync_at": 0.022,
+      "effective_sync_at": 0.022,
+      "sync_meets": "instant",
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 14,
+      "selection_evidence": {
+        "use_for": [
+          "Documents, letters and invoices appearing",
+          "Pages turning or notes being handled",
+          "Paperwork and forms",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "paper",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "Illustrative document/keys handling or online posting; metadata matches: Documents, letters and invoices appearing, Pages turning or notes being handled. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "rent",
+      "event_id": "rent-story",
+      "frame": 752,
+      "action": "Illustrative document/keys handling or online posting",
+      "query": "paper touch material",
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "paper",
+      "gain_db": -10.0,
+      "context": "Intentional story accent during visible document/keys/CRT insert; not an inferred physical impact",
+      "sound_id": "foley-paper-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-paper-touch.wav",
+      "asset_relative": "sounds/foley/foley-paper-touch.wav",
+      "sha256": "37c6dd31840b0910df0f61b5714a8aba916c704a33eee6293a92603cea9e1360",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-paper-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 25.066666666666666,
+      "sync_frame": 752,
+      "start": 25.044666666666668,
+      "start_sample": 1202144,
+      "untrimmed_start": 25.044666666666668,
+      "trim_start_seconds": 0.0,
+      "end": 25.354666666666667,
+      "rate": 1.0,
+      "sync_at": 0.022,
+      "effective_sync_at": 0.022,
+      "sync_meets": "instant",
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 11,
+      "selection_evidence": {
+        "use_for": [
+          "Documents, letters and invoices appearing",
+          "Pages turning or notes being handled",
+          "Paperwork and forms",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "paper",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "Illustrative document/keys handling or online posting; metadata matches: Documents, letters and invoices appearing, Pages turning or notes being handled. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "corbin",
+      "event_id": "corbin-contact",
+      "frame": 1084,
+      "action": "Visible hand reaches actual exchanged object",
+      "query": "plastic touch material",
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "plastic",
+      "exclude": "slide",
+      "gain_db": -7.0,
+      "context": "Shared ContactTimeline ownership begins at shot local 0.28 duration; original animation marker, not automatic recognition",
+      "sound_id": "foley-plastic-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-plastic-touch.wav",
+      "asset_relative": "sounds/foley/foley-plastic-touch.wav",
+      "sha256": "c61e0be4b1f150b55f4efc7088991b137d73562b0f75302061348291091482f4",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-plastic-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 36.13333333333333,
+      "sync_frame": 1084,
+      "start": 36.123333333333335,
+      "start_sample": 1733920,
+      "untrimmed_start": 36.123333333333335,
+      "trim_start_seconds": 0.0,
+      "end": 36.202333333333335,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_meets": "instant",
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 11,
+      "selection_evidence": {
+        "use_for": [
+          "Plastic products and packaging",
+          "Devices and cases",
+          "Containers opening or being set down",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "plastic",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "Visible hand reaches actual exchanged object; metadata matches: Plastic products and packaging, Devices and cases. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "town-role",
+      "event_id": "town-role-contact",
+      "frame": 1302,
+      "action": "Visible hand reaches actual exchanged object",
+      "query": "paper touch material",
+      "categories": [
+        "foley"
+      ],
+      "required_tags": "paper",
+      "exclude": "slide",
+      "gain_db": -7.0,
+      "context": "Shared ContactTimeline ownership begins at shot local 0.28 duration; original animation marker, not automatic recognition",
+      "sound_id": "foley-paper-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-paper-touch.wav",
+      "asset_relative": "sounds/foley/foley-paper-touch.wav",
+      "sha256": "37c6dd31840b0910df0f61b5714a8aba916c704a33eee6293a92603cea9e1360",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-paper-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 43.4,
+      "sync_frame": 1302,
+      "start": 43.378,
+      "start_sample": 2082144,
+      "untrimmed_start": 43.378,
+      "trim_start_seconds": 0.0,
+      "end": 43.688,
+      "rate": 1.0,
+      "sync_at": 0.022,
+      "effective_sync_at": 0.022,
+      "sync_meets": "instant",
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 4,
+      "selection_evidence": {
+        "use_for": [
+          "Documents, letters and invoices appearing",
+          "Pages turning or notes being handled",
+          "Paperwork and forms",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "paper",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "Visible hand reaches actual exchanged object; metadata matches: Documents, letters and invoices appearing, Pages turning or notes being handled. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "offer",
+      "event_id": "offer-story",
+      "frame": 1420,
+      "action": "Illustrative document/keys handling or online posting",
+      "query": "mechanical latch light",
+      "categories": [
+        "mechanical"
+      ],
+      "required_tags": "latch",
+      "gain_db": -10.0,
+      "context": "Intentional story accent during visible document/keys/CRT insert; not an inferred physical impact",
+      "sound_id": "mechanical-latch-light",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/mechanical/mechanical-latch-light.wav",
+      "asset_relative": "sounds/mechanical/mechanical-latch-light.wav",
+      "sha256": "6e52e1c07a6d175cc6d5beb6e522621f8296af0274db66a48f5c7f2f49f9d3b2",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/mechanical/mechanical-latch-light.wav",
+      "license": "CC0-1.0",
+      "event_time": 47.333333333333336,
+      "sync_frame": 1420,
+      "start": 47.281333333333336,
+      "start_sample": 2269504,
+      "untrimmed_start": 47.281333333333336,
+      "trim_start_seconds": 0.0,
+      "end": 47.39333333333334,
+      "rate": 1.0,
+      "sync_at": 0.052,
+      "effective_sync_at": 0.052,
+      "sync_meets": "instant",
+      "sync_how": "Sync point on the frame it closes.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 13,
+      "selection_evidence": {
+        "use_for": [
+          "A door, lid or panel closing",
+          "Something clicking securely into place",
+          "Locking a card or module in"
+        ],
+        "avoid_for": [
+          "Big, heavy objects (use heavy)"
+        ],
+        "tags": [
+          "mechanical",
+          "latch",
+          "light",
+          "physical",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Faster sounds smaller and lighter, slower bigger: keep changes small."
+        }
+      },
+      "reason": "Illustrative document/keys handling or online posting; metadata matches: A door, lid or panel closing, Something clicking securely into place. ",
+      "layer": "sfx"
+    }
+  ],
+  "missing_assets": [],
+  "skipped": [],
+  "notes": [
+    "Context is supplied by authored animation/shot markers, not inferred by audio transcription or image recognition.",
+    "Frame checks certify authored markers and arithmetic; compare visible contact frames during picture review."
+  ]
+}

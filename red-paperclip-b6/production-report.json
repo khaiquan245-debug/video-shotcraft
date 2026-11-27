@@ -1,0 +1,112 @@
+{
+  "schema": "native-checkpoint-assembly/1",
+  "status": "full_story_native_preview_technical_pass_not_formal_B6_approval",
+  "source_fingerprint": "12562253fd863feaf2376c70cc0a46f52204cd8500346ccb0cede7840af7d3f9",
+  "native_checkpoints": [
+    {
+      "path": "/workspace/outputs/red-paperclip-b6-20261127/project/outputs/native-08-a",
+      "video_sha256": "78ccd9dda92ef6b985678242fb4404cdf326c3b1fc0a83b8f97b3c7825baa8c5",
+      "time_range": {
+        "start": 0.0,
+        "end": 19.633333333333333
+      },
+      "checked_frames": 589
+    },
+    {
+      "path": "/workspace/outputs/red-paperclip-b6-20261127/project/outputs/native-08-b",
+      "video_sha256": "dd2e7757c4d2df017ebfcfc55acbe33305c1d084c7e1b7507f7cbafa47796c6f",
+      "time_range": {
+        "start": 19.633333333333333,
+        "end": 34.766666666666666
+      },
+      "checked_frames": 454
+    },
+    {
+      "path": "/workspace/outputs/red-paperclip-b6-20261127/project/outputs/native-08-c",
+      "video_sha256": "4fc8d0cbabdcce36397e85a0171293d56b8be6b9ab8f9150b63449acf8a0a214",
+      "time_range": {
+        "start": 34.766666666666666,
+        "end": 53.8
+      },
+      "checked_frames": 571
+    }
+  ],
+  "checked_frames": 1614,
+  "arm_poses_checked": 2940,
+  "planted_legs_checked": 2940,
+  "max_contact_error_px": 2.5421149729252077e-13,
+  "duration": 53.8,
+  "dimensions": [
+    720,
+    1280
+  ],
+  "fps": "30/1",
+  "sha256": "a8ac9645bbaa24599a11309effb13186a895cf8b633da0b3037e9eae6c27bdac",
+  "bytes": 17000495,
+  "caption_cues": 51,
+  "decode": "Full encoded video and audio decoded without errors",
+  "narrator": "Local Kokoro-82M v1.0 ONNX CPU am_michael, native synthesis1.05, no post-tempo change",
+  "audio": "Original full master encoded once; no AAC concatenation or duplicated voice",
+  "caption_alignment": "Measured sentence spans, proportional semantic phrase times; not forced word alignment",
+  "formal_B6_acceptance": "Pending full original-speed AV and complete35-subcheck primary-reference review and actual user preview decision; no approval fabricated",
+  "paid_apis_used": false,
+  "weights_in_git": false,
+  "encoded_audio_QC": {
+    "passed": true,
+    "errors": [],
+    "warnings": [],
+    "checks": {
+      "duration_seconds": 53.8,
+      "clipped_samples": 0,
+      "sample_peak": 0.7944501638412476,
+      "channel_rms": [
+        0.14177991449832916,
+        0.14177991449832916
+      ],
+      "channel_difference_db": 0.0,
+      "integrated_lufs": -14.0,
+      "true_peak_dbtp": -1.9,
+      "max_sync_error_frames": 0.0,
+      "max_effect_to_voice_db_in_voiced_100ms": -16.08486557006836,
+      "end_edge_peak": 3.5762786865234375e-07,
+      "video": {
+        "width": 720,
+        "height": 1280,
+        "fps": "30/1",
+        "duration": 53.8
+      }
+    },
+    "events": 7,
+    "unique_assets": 4,
+    "metadata_based_selection": true,
+    "visual_sync_scope": "Against animation markers and sampled actual encoded frames; not automatic image contact detection.",
+    "voice_clarity_scope": "Ducking plus a measured effect/voice proxy; not a human listening guarantee.",
+    "paid_apis": false,
+    "library_license": "CC0-1.0",
+    "master_sha256": "b981a30eafbb2163b8a3247214b5e33e3f21947ce990d575a3c9c0ae6ab2d67d",
+    "video_sha256": "a8ac9645bbaa24599a11309effb13186a895cf8b633da0b3037e9eae6c27bdac"
+  },
+  "sampled_encoded_review": "17 actual native encoded frames, including frames588/589/590 and1042/1043/1044 at checkpoint joins, inspected; no missing visual range",
+  "blackdetect": "No black interval at d0.1/pix_th0.05 in complete encoded picture",
+  "errors_and_resolutions": [
+    "Initial resource-audit failure: importlib attempted reading undeclared project bytecode; generated and fingerprinted current bytecode dependencies before final checkpoints.",
+    "Earlier IK approach began at receive/reach pose rather than matching rest; corrected reach phase and true hand target.",
+    "Earlier releasing forearm intersected prop; explicit actual front forearm depth now renders the withdrawing arm before visibility QA.",
+    "Independent review identified top plate coverage seam, decorative corner loops, floor misregistration and board/prop overlap; original taller set painting and placement/graphic were repaired and rechecked in native08.",
+    "First encoded-audio QC call pointed to copied project master without adjacent mix-manifest.json; rerun against original identical-SHA master in sound/ succeeded."
+  ],
+  "research_network_errors": [
+    {
+      "host": "oneredpaperclip.blogspot.com",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "host": "en.wikipedia.org",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    },
+    {
+      "host": "www.kiplingchamber.com",
+      "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+    }
+  ]
+}
