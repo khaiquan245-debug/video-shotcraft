@@ -1,0 +1,105 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "frames": 1516,
+  "environments": [
+    {
+      "id": "room",
+      "startFrame": 0,
+      "endFrame": 107,
+      "shots": [
+        0
+      ],
+      "renderSource": "native V3",
+      "soundEvents": []
+    },
+    {
+      "id": "cafe",
+      "startFrame": 107,
+      "endFrame": 291,
+      "shots": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "renderSource": "native V3",
+      "soundEvents": [
+        "wallet-open"
+      ]
+    },
+    {
+      "id": "road",
+      "startFrame": 291,
+      "endFrame": 443,
+      "shots": [
+        5,
+        6
+      ],
+      "renderSource": "native V3",
+      "soundEvents": []
+    },
+    {
+      "id": "exterior",
+      "startFrame": 443,
+      "endFrame": 520,
+      "shots": [
+        7
+      ],
+      "renderSource": "native V3",
+      "soundEvents": []
+    },
+    {
+      "id": "villa",
+      "startFrame": 520,
+      "endFrame": 896,
+      "shots": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "renderSource": "native V3",
+      "soundEvents": []
+    },
+    {
+      "id": "village",
+      "startFrame": 896,
+      "endFrame": 972,
+      "shots": [
+        14
+      ],
+      "renderSource": "native V3",
+      "soundEvents": [
+        "phone-off"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "startFrame": 972,
+      "endFrame": 1516,
+      "shots": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "renderSource": "native V4",
+      "soundEvents": [
+        "footfall-near",
+        "footfall-away",
+        "fridge-seal",
+        "seat-settle",
+        "chopsticks-move"
+      ]
+    }
+  ]
+}

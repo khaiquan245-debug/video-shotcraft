@@ -1,0 +1,595 @@
+{
+  "schema_version": 1,
+  "enabled": true,
+  "duration": 50.53333333333333,
+  "fps": 30.0,
+  "sample_rate": 48000,
+  "language": "vi-VN",
+  "source": {
+    "repository": "https://github.com/wyzowl/sfx-kit",
+    "commit": "92780e7ab0cdfb557497a988089c47f46e8c7412",
+    "version": "1.0.0",
+    "license": "CC0-1.0",
+    "license_file": "assets/sfx-kit/LICENSE",
+    "catalogue_sha256": "67f4debfc7077d15391a896bac71a5d12c5c596dc194564e6054a844a98c9726"
+  },
+  "animation_sha256": "4108cf72610bc52dac9b96492b5ae95aac3a9979e2ac495556df3a5665b83216",
+  "voiceover": "/workspace/outputs/loi-noi-doi/sound/audio-master.wav",
+  "voiceover_sha256": "d2a63baa0a4ad16bfc6bf2cbdebf15f67c5a9e06a7065c64b6df59f5f19944ee",
+  "voiceover_spans": [
+    [
+      0,
+      1.4700000000000002
+    ],
+    [
+      1.475,
+      5.76
+    ],
+    [
+      5.725,
+      17.23
+    ],
+    [
+      17.295,
+      21.22
+    ],
+    [
+      21.225,
+      24.25
+    ],
+    [
+      24.325000000000003,
+      25.25
+    ],
+    [
+      25.275000000000002,
+      28.13
+    ],
+    [
+      28.205000000000002,
+      29.650000000000002
+    ],
+    [
+      29.835,
+      31.37
+    ],
+    [
+      31.385,
+      32.290000000000006
+    ],
+    [
+      32.375,
+      34.040000000000006
+    ],
+    [
+      34.015,
+      35.00000000000001
+    ],
+    [
+      35.015,
+      37.88
+    ],
+    [
+      38.035000000000004,
+      40.38
+    ],
+    [
+      40.475,
+      41.080000000000005
+    ],
+    [
+      41.505,
+      42.14000000000001
+    ],
+    [
+      42.185,
+      43.410000000000004
+    ],
+    [
+      43.835,
+      44.71
+    ],
+    [
+      44.765,
+      45.260000000000005
+    ],
+    [
+      45.375,
+      46.690000000000005
+    ],
+    [
+      46.865,
+      47.99
+    ],
+    [
+      48.335,
+      50.45
+    ]
+  ],
+  "input_rights": {
+    "voiceover": {
+      "source": "/workspace/outputs/loi-noi-doi/sound/audio-master.wav",
+      "license": "OWN",
+      "note": "Approved local VieNeu voice, synthesized music and original phone chimes retained in base."
+    }
+  },
+  "events": [
+    {
+      "scene_id": "cafe",
+      "event_id": "wallet-open",
+      "frame": 181,
+      "action": "Wallet held open for the reveal",
+      "query": "wallet leather clasp light touch",
+      "categories": [
+        "foley",
+        "interface"
+      ],
+      "gain_db": -16.0,
+      "visible": true,
+      "sound_id": "click-latch-soft",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/interface/click-latch-soft.wav",
+      "asset_relative": "sounds/interface/click-latch-soft.wav",
+      "sha256": "9be52bdbef1acf987d666b520820c7bb8c339b8e52eb6c00e25a0771db0d0bc3",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/interface/click-latch-soft.wav",
+      "license": "CC0-1.0",
+      "event_time": 6.033333333333333,
+      "sync_frame": 181,
+      "start": 6.022333333333333,
+      "start_sample": 289072,
+      "untrimmed_start": 6.022333333333333,
+      "trim_start_seconds": 0.0,
+      "end": 6.060333333333333,
+      "rate": 1.0,
+      "sync_at": 0.011,
+      "effective_sync_at": 0.011,
+      "sync_meets": "instant",
+      "sync_how": "Put the sync point on the frame the press lands.",
+      "under_voiceover_db": -1,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 6,
+      "selection_evidence": {
+        "use_for": [
+          "A push button locking in: record, power, select",
+          "A pen click: writing, signing, noting",
+          "Something set and held"
+        ],
+        "avoid_for": [
+          "Moments that need to be noticed over music"
+        ],
+        "tags": [
+          "click",
+          "latch",
+          "soft",
+          "ui",
+          "interface",
+          "switch",
+          "toggle",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.15
+          ],
+          "notes": "Rate changes shift the pitch a little: faster sounds lighter, slower heavier."
+        }
+      },
+      "reason": "Wallet held open for the reveal; metadata matches: A push button locking in: record, power, select, A pen click: writing, signing, noting. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "village",
+      "event_id": "phone-off",
+      "frame": 898,
+      "action": "Phone switches off before the walk home",
+      "query": "device shutting down digital-power-down",
+      "categories": [
+        "digital",
+        "interface"
+      ],
+      "gain_db": -23.0,
+      "visible": true,
+      "story_context": "Intentional offscreen phone shutdown",
+      "sound_id": "digital-power-down",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/digital/digital-power-down.wav",
+      "asset_relative": "sounds/digital/digital-power-down.wav",
+      "sha256": "ff3abf0d8018f8aeb8fca6577c37da0a27a961f24857a6f43dd1ed70178a7b07",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/digital/digital-power-down.wav",
+      "license": "CC0-1.0",
+      "event_time": 29.933333333333334,
+      "sync_frame": 898,
+      "start": 29.933333333333334,
+      "start_sample": 1436800,
+      "untrimmed_start": 29.933333333333334,
+      "trim_start_seconds": 0.0,
+      "end": 30.815333333333335,
+      "rate": 1.0,
+      "sync_at": 0,
+      "effective_sync_at": 0.0,
+      "sync_meets": "instant",
+      "sync_how": "Start it with the glitch or the moment it happens; trim or fade to fit.",
+      "under_voiceover_db": -4,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 37,
+      "selection_evidence": {
+        "use_for": [
+          "A device or screen switching off",
+          "Shutting down, ending a session",
+          "Losing power, running out"
+        ],
+        "avoid_for": [
+          "Calm, natural or friendly scenes"
+        ],
+        "tags": [
+          "digital",
+          "power",
+          "device",
+          "power down",
+          "on off",
+          "tech"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.85,
+            1.2
+          ],
+          "notes": "Small rate changes are fine."
+        }
+      },
+      "reason": "Phone switches off before the walk home; metadata matches: A device or screen switching off, Shutting down, ending a session. ",
+      "layer": "sfx"
+    },
+    {
+      "scene_id": "kitchen",
+      "event_id": "footfall-near",
+      "frame": 996,
+      "action": "Sole contacts wooden kitchen floor",
+      "query": "light muted touch wooden surface natural",
+      "categories": [
+        "foley"
+      ],
+      "gain_db": -21.0,
+      "visible": true,
+      "required_tags": "wood touch",
+      "material": "wood",
+      "sound_id": "foley-wood-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-wood-touch.wav",
+      "asset_relative": "sounds/foley/foley-wood-touch.wav",
+      "sha256": "bcd88241dcd12a07ce335806e3d58f6deb85cb6971aa997dfa984edc1bc81db7",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-wood-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 33.2,
+      "sync_frame": 996,
+      "start": 33.188,
+      "start_sample": 1593024,
+      "untrimmed_start": 33.188,
+      "trim_start_seconds": 0.0,
+      "end": 33.316,
+      "rate": 1.0,
+      "sync_at": 0.012,
+      "effective_sync_at": 0.012,
+      "sync_meets": "instant",
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 29,
+      "selection_evidence": {
+        "use_for": [
+          "Wooden objects and furniture",
+          "Knocking on a surface",
+          "Natural, crafted products",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "wood",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "Sole contacts wooden kitchen floor; metadata matches: Wooden objects and furniture, Knocking on a surface. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "kitchen",
+      "event_id": "footfall-away",
+      "frame": 1023,
+      "action": "Second step on wooden kitchen floor",
+      "query": "small soft contact wood impact",
+      "categories": [
+        "foley"
+      ],
+      "gain_db": -23.0,
+      "visible": true,
+      "required_tags": "wood touch",
+      "material": "wood",
+      "sound_id": "foley-wood-slide",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-wood-slide.wav",
+      "asset_relative": "sounds/foley/foley-wood-slide.wav",
+      "sha256": "a2d329063e4c0aae68be9fb1b4a9ee4a24d0ad749ed5d9bc7de6618b0602a047",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-wood-slide.wav",
+      "license": "CC0-1.0",
+      "event_time": 34.1,
+      "sync_frame": 1023,
+      "start": 34.09,
+      "start_sample": 1636320,
+      "untrimmed_start": 34.09,
+      "trim_start_seconds": 0.0,
+      "end": 34.675000000000004,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_meets": "action-start",
+      "sync_how": "Start it with the move; its level follows a natural speed curve (fastest in the middle), so it suits an ease-in-out move of about the same length.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 15,
+      "selection_evidence": {
+        "use_for": [
+          "Wooden objects and furniture",
+          "Knocking on a surface",
+          "Natural, crafted products",
+          "Something sliding into or across the frame"
+        ],
+        "avoid_for": [
+          "Single taps (use touch)"
+        ],
+        "tags": [
+          "foley",
+          "wood",
+          "slide",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": [
+          0.47,
+          0.59
+        ],
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "To fit a longer or shorter move, change the rate a little; beyond that, fade the end."
+        }
+      },
+      "reason": "Second step on wooden kitchen floor; metadata matches: Wooden objects and furniture, Knocking on a surface. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "kitchen",
+      "event_id": "fridge-seal",
+      "frame": 1305,
+      "action": "Hand pulls on the refrigerator handle and seal opens",
+      "query": "plastic appliance handle light positive contact",
+      "categories": [
+        "foley",
+        "mechanical"
+      ],
+      "gain_db": -15.0,
+      "visible": true,
+      "sound_id": "foley-plastic-slide",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-plastic-slide.wav",
+      "asset_relative": "sounds/foley/foley-plastic-slide.wav",
+      "sha256": "e5e4f6991ed4a266ec05f59d99c809e90e8649f6443308fffd788162a79bc686",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-plastic-slide.wav",
+      "license": "CC0-1.0",
+      "event_time": 43.5,
+      "sync_frame": 1305,
+      "start": 43.494,
+      "start_sample": 2087712,
+      "untrimmed_start": 43.494,
+      "trim_start_seconds": 0.0,
+      "end": 43.900999999999996,
+      "rate": 1.0,
+      "sync_at": 0.006,
+      "effective_sync_at": 0.006,
+      "sync_meets": "action-start",
+      "sync_how": "Start it with the move; its level follows a natural speed curve (fastest in the middle), so it suits an ease-in-out move of about the same length.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 9,
+      "selection_evidence": {
+        "use_for": [
+          "Plastic products and packaging",
+          "Devices and cases",
+          "Containers opening or being set down",
+          "Something sliding into or across the frame"
+        ],
+        "avoid_for": [
+          "Single taps (use touch)"
+        ],
+        "tags": [
+          "foley",
+          "plastic",
+          "slide",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": [
+          0.32,
+          0.39
+        ],
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "To fit a longer or shorter move, change the rate a little; beyond that, fade the end."
+        }
+      },
+      "reason": "Hand pulls on the refrigerator handle and seal opens; metadata matches: Plastic products and packaging, Devices and cases. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "kitchen",
+      "event_id": "seat-settle",
+      "frame": 1383,
+      "action": "Chairs settle while the pair sit at the table",
+      "query": "wooden objects furniture sliding wood",
+      "categories": [
+        "foley"
+      ],
+      "gain_db": -22.0,
+      "visible": true,
+      "required_tags": "wood slide",
+      "material": "wood",
+      "sound_id": "foley-wood-slide",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-wood-slide.wav",
+      "asset_relative": "sounds/foley/foley-wood-slide.wav",
+      "sha256": "a2d329063e4c0aae68be9fb1b4a9ee4a24d0ad749ed5d9bc7de6618b0602a047",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-wood-slide.wav",
+      "license": "CC0-1.0",
+      "event_time": 46.1,
+      "sync_frame": 1383,
+      "start": 46.09,
+      "start_sample": 2212320,
+      "untrimmed_start": 46.09,
+      "trim_start_seconds": 0.0,
+      "end": 46.675000000000004,
+      "rate": 1.0,
+      "sync_at": 0.01,
+      "effective_sync_at": 0.01,
+      "sync_meets": "action-start",
+      "sync_how": "Start it with the move; its level follows a natural speed curve (fastest in the middle), so it suits an ease-in-out move of about the same length.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 25,
+      "selection_evidence": {
+        "use_for": [
+          "Wooden objects and furniture",
+          "Knocking on a surface",
+          "Natural, crafted products",
+          "Something sliding into or across the frame"
+        ],
+        "avoid_for": [
+          "Single taps (use touch)"
+        ],
+        "tags": [
+          "foley",
+          "wood",
+          "slide",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": [
+          0.47,
+          0.59
+        ],
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "To fit a longer or shorter move, change the rate a little; beyond that, fade the end."
+        }
+      },
+      "reason": "Chairs settle while the pair sit at the table; metadata matches: Wooden objects and furniture, Knocking on a surface. ",
+      "layer": "foley"
+    },
+    {
+      "scene_id": "kitchen",
+      "event_id": "chopsticks-move",
+      "frame": 1484,
+      "action": "Quiet contact during the final bite",
+      "query": "light dry touch wood utensils tap",
+      "categories": [
+        "foley"
+      ],
+      "gain_db": -21.0,
+      "visible": true,
+      "required_tags": "wood touch",
+      "material": "wood",
+      "sound_id": "foley-wood-touch",
+      "file": "/workspace/video-shotcraft/.agents/skills/wyzowl-sfx-director/assets/sfx-kit/sounds/foley/foley-wood-touch.wav",
+      "asset_relative": "sounds/foley/foley-wood-touch.wav",
+      "sha256": "bcd88241dcd12a07ce335806e3d58f6deb85cb6971aa997dfa984edc1bc81db7",
+      "source_url": "https://github.com/wyzowl/sfx-kit/blob/92780e7ab0cdfb557497a988089c47f46e8c7412/sounds/foley/foley-wood-touch.wav",
+      "license": "CC0-1.0",
+      "event_time": 49.46666666666667,
+      "sync_frame": 1484,
+      "start": 49.45466666666667,
+      "start_sample": 2373824,
+      "untrimmed_start": 49.45466666666667,
+      "trim_start_seconds": 0.0,
+      "end": 49.58266666666667,
+      "rate": 1.0,
+      "sync_at": 0.012,
+      "effective_sync_at": 0.012,
+      "sync_meets": "instant",
+      "sync_how": "Sync point on the frame of contact.",
+      "under_voiceover_db": -2,
+      "pan": 0.0,
+      "fade_in": 0.003,
+      "fade_out": 0.006,
+      "tail_trimmed": false,
+      "selection_score": 11,
+      "selection_evidence": {
+        "use_for": [
+          "Wooden objects and furniture",
+          "Knocking on a surface",
+          "Natural, crafted products",
+          "Something being touched, tapped or set down"
+        ],
+        "avoid_for": [
+          "Long movements (use slide)"
+        ],
+        "tags": [
+          "foley",
+          "wood",
+          "touch",
+          "material",
+          "natural"
+        ],
+        "fits_seconds": null,
+        "adapt": {
+          "rate": [
+            0.9,
+            1.12
+          ],
+          "notes": "Small rate changes only: the material's pitch moves with them."
+        }
+      },
+      "reason": "Quiet contact during the final bite; metadata matches: Wooden objects and furniture, Knocking on a surface. ",
+      "layer": "foley"
+    }
+  ],
+  "missing_assets": [],
+  "skipped": [],
+  "notes": [
+    "Context is supplied by authored animation/shot markers, not inferred by audio transcription or image recognition.",
+    "Frame checks certify authored markers and arithmetic; compare visible contact frames during picture review."
+  ]
+}
