@@ -1,0 +1,21 @@
+{
+  "scope": "Frame continuity, finite camera transforms, lens range and declared cuts",
+  "results": [
+    {
+      "label": "full",
+      "frames": 1516,
+      "shotCount": 24,
+      "cuts": 8,
+      "maxStep": 0.09097783464789831,
+      "maxRotation": 0.005984909717803263
+    },
+    {
+      "label": "demo",
+      "frames": 450,
+      "shotCount": 5,
+      "cuts": 2,
+      "maxStep": 0.04327174246227502,
+      "maxRotation": 0.0036332486638182217
+    }
+  ]
+}
